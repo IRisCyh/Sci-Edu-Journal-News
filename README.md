@@ -2,6 +2,10 @@
 
 Education Journal News is a local reading dashboard for monitoring science education, STEM education, educational technology, and learning sciences journal updates.
 
+Open the live reading page here:
+
+https://iriscyh.github.io/Sci-Edu-Journal-News/
+
 ## Files
 
 - `index.html`: browser-friendly reading window.
