@@ -1,0 +1,347 @@
+# Education Journal News Log
+
+## 2026-05-27 推送
+
+### 推送记录
+
+- 本次推送日期：2026-05-27
+- 检索覆盖时间范围：2026-05-01 至 2026-05-27（首次手动试运行）
+- 数据来源：Crossref REST API 与 DOI 元数据
+- 期刊新增文章数量：
+  - Journal of Science Education and Technology：8，展开 3
+  - Physical Review Physics Education Research：15，展开 3
+  - International Journal of Science Education：3，展开 3
+  - Science Education：5，展开 3
+  - Journal of Research in Science Teaching (JRST)：5 月窗口 0；扩展补查最新可用文章，展开 3
+  - British Journal of Educational Technology (BJET)：6，展开 3
+  - International Journal of STEM Education：6，展开 3
+  - Research in Science Education：13，展开 3
+  - International Journal of Science and Mathematics Education (IJSME)：10，展开 3
+  - Studies in Science Education：5 月窗口 0；官网补查最新可用文章，展开 2
+  - Instructional Science：8，展开 3
+- 本次实际展开文章总数：32
+- 因每刊最多 3 篇而未展开数量：41
+- 重复或 DOI 缺失：未发现重复；本次展开文章均有 DOI。部分文章的 Crossref 元数据未提供 abstract，已标注。
+
+### 1. Journal of Science Education and Technology
+
+#### 1. Science Teachers' Technology Integration through TPACK-P: Proficiency and Component Interactions
+
+- 作者：Murat Berat Ucar, Elvan Sahin
+- 日期：2026-05-23
+- DOI：10.1007/s10956-026-10331-7
+- 链接：https://doi.org/10.1007/s10956-026-10331-7
+- 英文 abstract 要点：研究用 TPACK-Practical 框架考察在职科学教师如何在真实课堂中整合技术，关注 assessment、planning、design、enactment 等维度，并分析 TPACK-P 组成部分之间的关系。案例来自 4 位教授力与能量主题的科学教师，数据包括课堂观察与半结构访谈。
+- 易读中文摘要：这篇文章关心科学教师到底怎样把技术用进课堂，而不是只看他们是否“会用工具”。研究发现，不同教师的技术整合水平差异很大，评价活动在技术使用中扮演核心角色，而 ICT 在科学内容讲解中的使用仍不足。文章提示教师培训不能只教工具操作，更要结合具体科学主题、评价方式和课堂情境来支持教师发展。
+
+#### 2. A Study on Student Perceptions and Engagement With a Virtual Instrumentation Twin in an Undergraduate Analytical Chemistry Laboratory
+
+- 作者：Aoife Morrin, Rachel Kavanagh, Brett Stout, Martin Nolan, Blanaid White, Frances Heaney, et al.
+- 日期：2026-05-22
+- DOI：10.1007/s10956-026-10320-w
+- 链接：https://doi.org/10.1007/s10956-026-10320-w
+- 英文 abstract 要点：研究考察本科分析化学实验中的 VR 数字孪生仪器 Immersive ChemLab。应用围绕原子吸收光谱仪，作为实体实验前的准备活动。研究收集学生问卷与焦点小组数据，重点分析学生的准备感、信心、理论理解和使用体验。
+- 易读中文摘要：文章探讨 VR 数字孪生能不能帮助学生在接触昂贵复杂仪器前做好准备。学生普遍认为 VR 让他们更熟悉仪器操作、提升信心，也更理解 AAS 的理论与流程。不过研究仍是探索性设计，样本较小，没有控制组，也缺少客观成绩指标，因此不能直接证明 VR 一定提升学习效果。对科学实验教学来说，它的价值主要在于为资源有限的实验课提供预演空间。
+
+#### 3. Exploring the Capacity of Large Language Models to Simulate Students' Scientific Thinking: Insights for Responsive Teaching
+
+- 作者：Ha Nguyen, Jie Cao
+- 日期：2026-05-21
+- DOI：10.1007/s10956-026-10333-5
+- 链接：https://doi.org/10.1007/s10956-026-10333-5
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：从题名看，文章关注大语言模型是否能够模拟学生的科学思维，并讨论这对 responsive teaching 的启示。正式使用时需要进一步打开 DOI 页面核验 abstract 后再展开研究问题、方法和发现。
+
+### 2. Physical Review Physics Education Research
+
+#### 1. How and why physics faculty share their identities with students: Four personas
+
+- 作者：Alia Hamdan, Ash Bista, Dina L. Newman, Scott Franklin
+- 日期：2026-05-26
+- DOI：10.1103/tg9n-wphd
+- 链接：https://doi.org/10.1103/tg9n-wphd
+- 英文 abstract 要点：研究通过访谈 19 位物理教师，分析教师在课堂中分享个人身份的方式与原因，并归纳出四种 persona：积极建立信任者、保持界限者、谨慎分享者等。核心问题是教师如何在连接学生与维护职业边界之间做选择。
+- 易读中文摘要：这篇文章把物理教师的“身份分享”当作教学关系的一部分来研究。教师可能通过分享个人经历来建立信任，也可能因为过去经历、制度压力或担心学生反应而选择保留。文章对物理教育中的归属感、公平性和师生关系有启发，尤其适合关注 STEM 教师身份与课堂文化的读者。
+
+#### 2. Supporting sensemaking of physics equations: An intervention study in undergraduate courses
+
+- 作者：Julia Hofmann, Pascal Klein, Andreas Muller, Josefine Neuhaus
+- 日期：2026-05-22
+- DOI：10.1103/mb7q-kf2s
+- 链接：https://doi.org/10.1103/mb7q-kf2s
+- 英文 abstract 要点：文章关注大学物理中学生如何理解方程的物理意义，而不是只把方程当作计算工具。研究设计干预，帮助学生通过量纲、共变关系等策略解释和评价物理方程。
+- 易读中文摘要：这项研究直指物理学习中常见的问题：学生会算，但不一定理解公式意味着什么。作者尝试通过教学干预让学生解释方程、判断其合理性，并把数学表达与物理情境联系起来。它对大学物理教学、建模能力和专家式推理培养都很相关。
+
+#### 3. Beyond named methods: A typology of active learning based on classroom observation networks
+
+- 作者：Meagan Sundstrom, Justin Gambrell, Colin Green, Adrienne L. Traxler, Eric Brewe
+- 日期：2026-05-21
+- DOI：10.1103/ylsr-968q
+- 链接：https://doi.org/10.1103/ylsr-968q
+- 英文 abstract 要点：研究认为“主动学习”不能只按方法名称分类，因为教师会根据本地情境改造方法。文章使用课堂观察网络分析，建立更细致的主动学习类型框架。
+- 易读中文摘要：这篇文章把关注点从“用了哪种主动学习法”转向“课堂上实际发生了什么”。通过观察网络，作者试图描述教师如何组合、调整和实施主动学习。对理解物理课堂改革的真实样态、比较不同课堂实践很有帮助。
+
+### 3. International Journal of Science Education
+
+#### 1. Students' STEM career expectations: effects of science and mathematics abilities and attitudes relative to language abilities and attitudes
+
+- 作者：Chen Yu, Liu Xiufeng
+- 日期：2026-05-12
+- DOI：10.1080/09500693.2026.2655798
+- 链接：https://doi.org/10.1080/09500693.2026.2655798
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：从题名看，文章比较科学、数学和语言能力/态度对学生 STEM 职业期待的影响。它可能有助于理解 STEM 志向并不只来自科学成绩，也可能受到跨学科能力与自我态度影响。需进一步核验 DOI 页面中的 abstract。
+
+#### 2. Scientific literacy in higher education: revisiting institutional proximity through engagement and attitudes
+
+- 作者：Filiz Bezci, Hasan Bircan
+- 日期：2026-05-06
+- DOI：10.1080/09500693.2026.2664676
+- 链接：https://doi.org/10.1080/09500693.2026.2664676
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：题名显示文章关注高等教育中的科学素养，并从 engagement 与 attitudes 重新讨论 institutional proximity。它可能涉及学生与科学机构、课程或知识实践之间的关系。需打开 DOI 页面核验具体方法和发现。
+
+#### 3. Measuring the validity of the pedagogical content knowledge (PCK) framework for inservice chemistry teachers
+
+- 作者：Feng Deng, Wanrong Lan, Zixin Shi, Jiacong Liu
+- 日期：2026-05-06
+- DOI：10.1080/09500693.2026.2651914
+- 链接：https://doi.org/10.1080/09500693.2026.2651914
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：文章聚焦在职化学教师 PCK 框架的效度测量，可能讨论 PCK 各维度是否能有效描述化学教师的专业知识。它与科学教师教育、教师知识测评和学科教学知识模型直接相关。需进一步核验 abstract。
+
+### 4. Science Education
+
+#### 1. A Critical Examination of Tensions During Collaborations in STEM Inquiry
+
+- 作者：Si-Ying Xia, Tang Wee Teo
+- 日期：2026-05-25
+- DOI：10.1002/sce.70081
+- 链接：https://doi.org/10.1002/sce.70081
+- 英文 abstract 要点：研究关注 STEM inquiry 中学生合作的张力，尤其是开放、跨学科真实问题解决中的社会维度。文章试图解释协作技能与 STEM 探究之间的互动，并寻找促进有效合作的方式。
+- 易读中文摘要：这篇文章不是简单说“合作学习有用”，而是分析合作过程中出现的摩擦、分歧和张力。它把这些张力看作理解 STEM 探究质量的重要入口。对设计小组探究、跨学科项目和协作能力培养有参考价值。
+
+#### 2. Integrating Sustainability Through Socio-Scientific Issues in Chile: Towards a Decolonial Chemistry Education
+
+- 作者：Denise Quiroz-Martinez
+- 日期：2026-05-23
+- DOI：10.1002/sce.70083
+- 链接：https://doi.org/10.1002/sce.70083
+- 英文 abstract 要点：研究以智利铜矿议题为背景，分析在中学化学中通过 socio-scientific issues 融入可持续性。文章从去殖民视角考察课堂话语如何把化学定位为中立知识，或与资源开采、环境不正义和责任相连。
+- 易读中文摘要：这篇文章把化学教育放进真实社会议题中看，讨论铜矿、环境正义和可持续性如何改变学生对化学的理解。它强调科学知识不是脱离社会的中立事实，也可以成为讨论责任和权力关系的入口。适合关注 SSI、可持续发展和去殖民科学教育的读者。
+
+#### 3. Students' Emotional Responses to Mistakes: An Ecological Momentary Assessment Study in University Chemistry Laboratory
+
+- 作者：Reetta Kyynarainen, Elisa Vilhunen, Pei-Hsin Li, Mikko-Jussi Laakso, Veli-Matti Vesterinen
+- 日期：2026-05-11
+- DOI：10.1002/sce.70079
+- 链接：https://doi.org/10.1002/sce.70079
+- 英文 abstract 要点：研究使用 ecological momentary assessment，在大学化学实验课中收集 240 名学生、1635 个学习情境的数据，分析学生犯错时的情绪反应，以及错误类型、支持、性别、表现和任务价值等因素的作用。
+- 易读中文摘要：这篇文章关注实验课里“犯错”带来的即时情绪。它把学生在真实实验情境中的情绪波动作为数据，而不是事后笼统回忆。研究有助于教师理解错误、支持和情绪之间的关系，也提醒实验教学设计要把情感体验纳入考虑。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### 1. Teacher Support in Augmented Reality-Enhanced Science Inquiry Learning in Primary Classrooms
+
+- 作者：Zongran Wang, Sujin He, Yun Wen
+- 日期：2026-04-23
+- DOI：10.1002/tea.70053
+- 数据来源：Crossref 扩展补查（5 月窗口无新增）
+- 链接：https://doi.org/10.1002/tea.70053
+- 英文 abstract 要点：研究关注增强现实支持的科学探究学习中，教师支持如何影响小学生的科学自我效能。研究对象为新加坡一所小学 4 个班级的 114 名五年级学生，采用混合方法，分析 AR 探究活动、教师情感/工具性支持以及学生对 AR 环境特征的态度。
+- 易读中文摘要：这篇文章说明，在 AR 科学探究课堂中，技术本身并不是全部。AR 活动提升了学生的概念理解和科学交流自我效能，但教师支持依然很关键：情感支持影响概念理解和实践自我效能，工具性支持更能帮助学生把科学用于日常情境。对小学科学技术增强学习来说，重点是设计“技术 + 教师支架”的组合。
+
+#### 2. Questioning Your Brilliance in Physics: Differential Shifts in Fixed Mindsets by Grade and Gender
+
+- 作者：Fargol Seifollahi, Christian D. Schunn, Chandralekha Singh
+- 日期：2026-04-23
+- DOI：10.1002/tea.70054
+- 数据来源：Crossref 扩展补查（5 月窗口无新增）
+- 链接：https://doi.org/10.1002/tea.70054
+- 英文 abstract 要点：研究考察大学微积分基础物理课程中，学生关于“物理能力是否固定”的心态如何随课程成绩和性别发生变化。样本为 508 名学生，研究识别出 Hesitant、Hopeful、Confident 三类心态，并分析成绩与性别差异。
+- 易读中文摘要：这篇文章关注物理学习中的“天赋神话”。结果显示，学生在课程中可能更倾向固定型心态，且女性学生在获得常见的 B/C 成绩后，更容易从高信心组转出。文章提示物理教学需要更有意识地支持学生把挫折理解为学习过程，而不是能力不足的证据，尤其要关注性别化的信心流失。
+
+#### 3. Into the Black Box: Explicating Black Boxes and Its Effect on Mechanistic Reasoning
+
+- 作者：Gur Arie Livni Alcasid, Michal Haskel-Ittah
+- 日期：2026-04-23
+- DOI：10.1002/tea.70052
+- 数据来源：Crossref 扩展补查（5 月窗口无新增）
+- 链接：https://doi.org/10.1002/tea.70052
+- 英文 abstract 要点：研究提出“black-box pedagogy”，让学生显性讨论科学解释中必然存在的解释黑箱。课程围绕癌症发生机制，持续 14 小时，分析 10 年级生物学生在多尺度机制解释、提问和模型细节取舍上的变化。
+- 易读中文摘要：这篇文章把“不知道的机制细节”变成教学资源。作者认为，科学解释不可能无限展开，关键是让学生知道哪些地方被暂时黑箱化、为什么黑箱化、什么时候需要继续打开。研究发现，显性讨论黑箱能帮助学生更好地 unpack 机制，也能引出关于解释质量和知识边界的认识论讨论。
+
+### 6. British Journal of Educational Technology (BJET)
+
+#### 1. Correcting automatically generated closed captions for online learning materials does not improve student learning outcomes (although students believe it does)
+
+- 作者：Peter J. Allen, Polly Barr, Kristopher G. Magee, Imogen van Jaarsveldt, Andy Wakefield
+- 日期：2026-05-13
+- DOI：10.1111/bjet.70074
+- 链接：https://doi.org/10.1111/bjet.70074
+- 英文 abstract 要点：研究通过区组随机实验，让 144 名本科生观看带未修正自动字幕、人类修正字幕等条件的 lecture capture，检验字幕修正对学习结果的影响。学生认为字幕有帮助，但实验结果显示修正字幕并未提升学习表现。
+- 易读中文摘要：这篇文章很适合提醒教育技术研究区分“学生觉得有用”和“真的提升学习”。在人们普遍支持修正自动字幕的背景下，研究发现修正字幕不一定带来成绩提升。它对在线课程、无障碍设计和多媒体学习理论都有实践意义。
+
+#### 2. Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism
+
+- 作者：Tiansheng Xia, Minyan Tan, Jiayue Guo
+- 日期：2026-05-13
+- DOI：10.1111/bjet.70072
+- 链接：https://doi.org/10.1111/bjet.70072
+- 英文 abstract 要点：研究基于社会临场感理论，引入 identity anthropomorphism 概念，使用问卷、脑电和眼动等多模态学习分析比较身份拟人化 AI、非身份拟人化 AI 和真人陪伴对在线学习的影响。
+- 易读中文摘要：文章讨论 AI 伙伴为什么以及怎样影响在线学习。重点不是 AI 有没有人形外观，而是它是否被赋予更像“有身份的伙伴”的特征。研究结合多模态数据，适合关注 AI 学习环境、社会临场感和学习分析的读者。
+
+#### 3. Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
+
+- 作者：Pengzhan Yang, Wenqian Huang
+- 日期：2026-05-12
+- DOI：10.1111/bjet.70075
+- 链接：https://doi.org/10.1111/bjet.70075
+- 英文 abstract 要点：研究用 Will-Skill-Tool 模型分析中国大学生在非正式 EMI 场景中使用生成式 AI 进行学术写作的意愿，并纳入 AI 风险感知、政策重要性和 AI 素养等变量。
+- 易读中文摘要：这篇文章关注中国大学生为什么愿意或不愿意用 GenAI 支持英文媒介课程中的学术写作。它把问题放在“意愿、能力、工具”三个层面，而不是只讨论 ChatGPT 是否好用。对高校 AI 政策、学生 AI 素养和 EMI 学习支持有参考价值。
+
+### 7. International Journal of STEM Education
+
+#### 1. Model-based reasoning in STEM education: a systematic literature review
+
+- 作者：Abasiafak N. Udosen, Alejandra J. Magana
+- 日期：2026-05-24
+- DOI：10.1186/s40594-026-00621-2
+- 链接：https://doi.org/10.1186/s40594-026-00621-2
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：从题名看，这是一篇关于 STEM 教育中 model-based reasoning 的系统综述。它可能整理模型建构、模型使用和基于模型推理在 STEM 学习中的研究趋势、对象和方法。需进一步核验 DOI 页面中的 abstract。
+
+#### 2. A second-order meta-analysis of interventions and their effectiveness in STEMM education: effects on motivational, affective, and attitudinal outcomes
+
+- 作者：Fabian Heller, Charlotte Popp, Albert Ziegler, Heidrun Stoeger
+- 日期：2026-05-22
+- DOI：10.1186/s40594-026-00619-w
+- 链接：https://doi.org/10.1186/s40594-026-00619-w
+- 英文 abstract 要点：研究对 STEMM 教育干预在动机、情感和态度结果上的效果做 second-order meta-analysis。检索 2000-2023 年研究，纳入 42 篇元分析、64 个效应量和 1903 项原始研究，覆盖 K-12 与高等教育。
+- 易读中文摘要：这篇文章是“元分析的元分析”，目标是看 STEMM 干预对学生非认知结果到底有多大影响。它把动机、情感和态度放在核心位置，适合快速把握 STEMM 干预研究的整体证据。对课程改革、项目评估和干预设计都很有用。
+
+#### 3. The currency of research access: how undergraduates leverage social capital to gain research experience
+
+- 作者：Christopher James Zajic, Trevor T. Tuma, Erin L. Dolan
+- 日期：2026-05-10
+- DOI：10.1186/s40594-026-00615-0
+- 链接：https://doi.org/10.1186/s40594-026-00615-0
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：题名显示文章关注本科生如何利用社会资本获得科研经历。它可能讨论信息、人际网络、导师关系和制度机会如何影响 STEM 本科科研参与。需进一步核验 abstract。
+
+### 8. Research in Science Education
+
+#### 1. Examining Epistemic Teaching Practices: Cases From Integrated and Monodisciplinary Science Laboratory Lessons
+
+- 作者：Tang Wee Teo
+- 日期：2026-05-23
+- DOI：10.1007/s11165-026-10352-7
+- 链接：https://doi.org/10.1007/s11165-026-10352-7
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：题名显示文章比较综合科学实验课与单学科实验课中的 epistemic teaching practices。它可能关注教师如何让学生理解科学知识的产生、证据使用和学科实践。需进一步核验 abstract。
+
+#### 2. Teaching Bioethics in Senior Secondary Using Guided Inquiry: Supporting Teachers to Address Contextual Challenges with Actionable Possibilities
+
+- 作者：Amrita Kamath, Peta J. White, Piper Rodd, Russell Tytler
+- 日期：2026-05-23
+- DOI：10.1007/s11165-026-10350-9
+- 链接：https://doi.org/10.1007/s11165-026-10350-9
+- 英文 abstract 要点：研究关注如何在高中生物中通过 guided inquiry 教授生命伦理。作者与澳大利亚墨尔本两所独立学校的两位高中生物教师合作，共同设计与实施围绕当代生命伦理议题的教学，并分析教师面对情境挑战时的可行策略。
+- 易读中文摘要：这篇文章把生命伦理作为科学教育应对人类世挑战的一部分。它不只是讨论学生学什么伦理知识，而是关注教师如何在具体学校情境中把复杂议题做成可实施的探究活动。适合关注 SSI、生物教育、教师支持和探究学习的读者。
+
+#### 3. The Mediating Role of Risk Judgment Competency in the Relationship Between Understanding of the Nature of Science and Technology, Risk Perception, and Willingness to Respond to Risk in the Context of Socioscientific Issues
+
+- 作者：Mikyung Sim, Hyunju Lee, Yohan Hwang
+- 日期：2026-05-21
+- DOI：10.1007/s11165-026-10347-4
+- 链接：https://doi.org/10.1007/s11165-026-10347-4
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：题名显示文章研究 SSI 情境中，学生对科学与技术本质的理解、风险感知、风险判断能力和风险回应意愿之间的关系。它可能把风险判断能力作为中介机制，适合关注科学素养、SSI 和风险教育的读者。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Analyzing Within-Subject Interdependencies of Cognitive Attributes in Mathematics and Science
+
+- 作者：Jihyun Hwang, Jeong-su Ahn, Kyong Mi Choi, Brian Hand
+- 日期：2026-05-26
+- DOI：10.1007/s10763-026-10684-w
+- 链接：https://doi.org/10.1007/s10763-026-10684-w
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：题名显示文章分析数学与科学内部认知属性之间的相互依赖关系。它可能涉及认知诊断、学习进阶或跨学科能力结构，对理解学生在数学和科学中的知识/能力联系有价值。需进一步核验 abstract。
+
+#### 2. Meaningful Learning in Finnish Mathematics Teaching Online In-Service Training: Two Denotations
+
+- 作者：Erika Lofstrom, Mika Koponen, Visajaani Salonen, Maija Aksela
+- 日期：2026-05-25
+- DOI：10.1007/s10763-026-10680-0
+- 链接：https://doi.org/10.1007/s10763-026-10680-0
+- 英文 abstract 要点：研究以 meaningful learning 模型为理论视角，分析芬兰数学教师在线在职培训中的学习。数据来自培训过程中的三轮问卷，共 589 份教师回应，关注教师对培训的期待与体验。
+- 易读中文摘要：这篇文章研究在线教师培训怎样支持“有意义学习”。虽然对象是数学教师，但对 STEM 教师专业发展也有参考意义：在线培训不应只是内容传递，还要支持教师把新知识与已有经验、课堂实践和职业发展联系起来。
+
+#### 3. Career Transitions in Teacher Education: A Multigroup Analysis of STEM and Non-STEM Graduates
+
+- 作者：Luise Heusel, Judith Glaesser, Augustin Kelava
+- 日期：2026-05-22
+- DOI：10.1007/s10763-026-10682-y
+- 链接：https://doi.org/10.1007/s10763-026-10682-y
+- 英文 abstract 要点：研究关注德国 STEM 教师短缺背景下，教师教育毕业生为什么没有进入教师职业。文章比较 STEM 与非 STEM 毕业生的职业转向，并讨论专业选择、辍学和工作条件之外的毕业后职业决策。
+- 易读中文摘要：这篇文章把 STEM 教师短缺问题延伸到“毕业后为何不从教”。它关注教师教育毕业生的职业转向，尤其比较 STEM 与非 STEM 群体。对教师供给、师范教育和 STEM 教师政策很有参考价值。
+
+### 10. Studies in Science Education
+
+#### 1. Science education's responses to misinformation: a scoping review
+
+- 作者：Carol A. M. Brown
+- 日期：2026-04-23
+- DOI：10.1080/03057267.2026.2654793
+- 数据来源：期刊官网补查（Taylor & Francis latest articles；5 月窗口 Crossref 无新增）
+- 链接：https://doi.org/10.1080/03057267.2026.2654793
+- 英文 abstract 要点：这篇 scoping review 关注科学教育如何应对错误信息/虚假信息。研究纳入 137 篇文献，覆盖 K-12、高等教育以及非正式/非正规科学教育情境，并用主题分析梳理研究主题与实践路径。
+- 易读中文摘要：文章把“后真相”和科学错误信息作为科学教育的重要挑战来处理。综述指出，数字/媒体/信息素养、科学素养和认识论教育是关键主题；有效实践包括 inoculation/debunking、社会科学议题讨论、支架支持，以及正式与非正式科学教育之间的合作。它也指出 K-12、成人非正式学习和受错误信息影响更大的群体仍需要更多干预研究。
+
+#### 2. Fostering multiliteracies pedagogy in K12 science and mathematics: a systematic review (2010-2024)
+
+- 作者：Kallia Katsampoxaki-Hodgetts, Anastasios Emvalotis
+- 日期：2026-01-01
+- DOI：10.1080/03057267.2025.2604954
+- 数据来源：期刊官网补查（Taylor & Francis latest articles；5 月窗口 Crossref 无新增）
+- 链接：https://doi.org/10.1080/03057267.2025.2604954
+- 英文 abstract 要点：这篇系统综述考察 2010-2024 年 K-12 科学与数学教育中 multiliteracies pedagogy 的应用，共分析 84 篇实证研究。研究从 experiencing、conceptualising、critical framing、applying 等知识过程，以及 multimodal synaesthesia、scaffolding 等归纳类别分析研究结果。
+- 易读中文摘要：这篇综述关注科学和数学课堂中学生如何通过多模态方式理解、表达和建构知识。结果显示，多元读写教学对数字素养、学术素养和科学素养有潜力，也能改善态度、反思和自我调节。不过相关研究并不总是清楚描述不同知识过程之间如何转化。对 K-12 科学教育来说，它提示我们把图像、语言、模型、行动和数字媒介作为共同的学习资源来设计课堂。
+
+### 11. Instructional Science
+
+#### 1. Making the productive failure in PS-I more productive: the case of scaffolding the instruction phase
+
+- 作者：Rafi' Safadi, Ali Diab
+- 日期：2026-05-25
+- DOI：10.1007/s11251-026-09802-6
+- 链接：https://doi.org/10.1007/s11251-026-09802-6
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：题名显示文章关注 problem solving before instruction（PS-I）中的 productive failure，并特别研究如何通过支架优化 instruction phase。它适合关注学习科学、教学设计和探究前失败经验如何转化为学习收益的读者。需进一步核验 abstract。
+
+#### 2. Exploring the association of student perceptions of science instruction and emotional engagement: The variance between grade level
+
+- 作者：Xin Xia, Robert Tai
+- 日期：2026-05-19
+- DOI：10.1007/s11251-026-09800-8
+- 链接：https://doi.org/10.1007/s11251-026-09800-8
+- 英文 abstract 要点：研究使用 25 所学校、3 至 12 年级共 6465 名学生的数据，通过两层组织多层模型考察学生对科学教学的感知与科学学习情绪投入之间的关系，并比较不同年级的差异。
+- 易读中文摘要：这篇文章关注学生为什么随着年级升高对科学学习的情绪投入下降。研究发现，学生觉得科学课“有趣”和“易懂”与情绪投入有关，其中“有趣”在过渡年级可能尤其重要。它给 K-12 科学教学的启示是，课程设计不仅要讲清楚，还要让学生感到值得投入。
+
+#### 3. Half a century of Instructional Science: a bibliometric analysis
+
+- 作者：Betzabe Ruiz-Morales, Victor G. Alfaro-Garcia, Jose M. Merigo, Amara Atif, Eleni A. Kyza
+- 日期：2026-05-11
+- DOI：10.1007/s11251-026-09791-6
+- 链接：https://doi.org/10.1007/s11251-026-09791-6
+- 英文 abstract 要点：Crossref 元数据未提供 abstract。
+- 易读中文摘要：题名显示文章对 Instructional Science 半个世纪的发展做文献计量分析。它可能整理该刊的主题演变、核心作者、合作网络和影响力结构，对了解学习科学与教学设计研究的发展脉络有帮助。需进一步核验 abstract。
+
+### 今日重点
+
+1. **AI 与科学/在线学习**：JSET 的 LLM 模拟学生科学思维、BJET 的虚拟 AI 伙伴与 GenAI 写作接受度，显示 AI 已经进入科学教育和教育技术研究的核心议程。
+2. **科学教师技术整合**：JSET 的 TPACK-P 研究强调，技术整合需要和评价、设计、实施及具体科学内容一起看。
+3. **STEM 探究与协作**：Science Education 关于 STEM inquiry 合作张力的文章，适合关注小组探究、跨学科项目和课堂互动质量。
+4. **实验/探究学习**：VR 化学实验预备、大学化学实验中的犯错情绪、高中生命伦理 guided inquiry 都值得关注。
+5. **STEM 教师与职业路径**：IJSME 关于 STEM 与非 STEM 教师教育毕业生职业转向的文章，可为 STEM 教师短缺研究提供政策视角。
