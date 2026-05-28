@@ -345,3 +345,76 @@
 3. **STEM 探究与协作**：Science Education 关于 STEM inquiry 合作张力的文章，适合关注小组探究、跨学科项目和课堂互动质量。
 4. **实验/探究学习**：VR 化学实验预备、大学化学实验中的犯错情绪、高中生命伦理 guided inquiry 都值得关注。
 5. **STEM 教师与职业路径**：IJSME 关于 STEM 与非 STEM 教师教育毕业生职业转向的文章，可为 STEM 教师短缺研究提供政策视角。
+
+## 2026-05-28 推送
+
+### 推送记录
+
+- 本次推送日期：2026-05-28
+- 检索覆盖时间范围：2026-05-28（自 2026-05-27 推送后）
+- 数据来源：Crossref DOI 元数据；未发现需展开的新增 DOI。官网补查未确认到比 Crossref 更新的 2026-05-28 DOI。
+- 期刊新增文章数量：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 官网补查
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 官网补查
+  - International Journal of Science Education：0，数据来源：Crossref + 官网补查
+  - Science Education：0，数据来源：Crossref + 官网补查
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 官网补查
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 官网补查
+  - International Journal of STEM Education：0，数据来源：Crossref + 官网补查
+  - Research in Science Education：0，数据来源：Crossref + 官网补查
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 官网补查
+  - Studies in Science Education：0，数据来源：Crossref + 官网补查
+  - Instructional Science：0，数据来源：Crossref + 官网补查
+- 本次实际展开文章总数：0
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：未发现新增 DOI；无重复文章；无 DOI 缺失记录。
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. 今日 11 本期刊均未检索到新的 2026-05-28 DOI 文章。
+2. 本地日志和 HTML 阅读页已追加今天的检查记录，保留每日连续记录。
+3. 下一轮会继续以 DOI 去重，避免重复推送 2026-05-27 已记录的文章。
