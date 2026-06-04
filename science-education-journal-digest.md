@@ -1093,6 +1093,8 @@
 - 本次实际展开文章总数：4
 - 因每刊最多 3 篇而未展开数量：0
 - 重复或 DOI 缺失：已排除日志中既有 DOI；本次展开文章均有 DOI。International Journal of Science Education 的 1 篇未获取到 abstract。
+- GitHub commit：583195c
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
 
 ### 1. Journal of Science Education and Technology
 
