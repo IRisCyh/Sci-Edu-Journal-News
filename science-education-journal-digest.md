@@ -1180,3 +1180,110 @@
 2. **学习机会与班级基础的关系并不线性**：IJSME 新增文章显示，数学课堂中的 opportunity to learn 需要从内容覆盖、教学质量和班级异质性多个维度理解。
 3. **概念转变需要元概念加工**：Instructional Science 新增文章提示，概念图、概念漫画和讨论等活动可以帮助学生意识到并修正原有理解，对科学概念学习同样有启发。
 4. **“有益困难”依赖元认知过程**：Instructional Science 新增文章把 cognitive load 与 desirable difficulties 结合，强调任务难度设计要促成有效的监控、反思和策略调整。
+## 2026-06-05 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-05
+- 主检索覆盖时间范围：2026-06-05
+- 补充检索覆盖时间范围：2026-05-23 至 2026-06-05（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查
+  - Physical Review Physics Education Research：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查
+  - Science Education：0，数据来源：Crossref + 14 天官网补查
+  - Journal of Research in Science Teaching (JRST)：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查
+  - International Journal of Science and Mathematics Education (IJSME)：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查
+  - Instructional Science：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：4
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已排除日志中既有 DOI；本次展开文章均有 DOI。Physical Review Physics Education Research、International Journal of Science and Mathematics Education、Instructional Science 各有 1 篇未获取到 abstract。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+#### 1. Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education
+
+- 作者：Crossref 返回为 Anonymous，未获取到明确作者列表
+- 日期：2026-06-04
+- DOI：10.1103/gd1w-1637
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/gd1w-1637
+- 英文 abstract 要点：未获取到 abstract。根据题名，文章以质性类型学方式分析物理教育中 ChatGPT 的采用差异，区分较实用主义的使用者与较怀疑的非使用者。
+- 易读中文摘要：这篇文章关注物理教育中的生成式 AI 使用分化：有些人把 ChatGPT 当作解决教学、学习或问题生成需求的实用工具；另一些人则因为准确性、学习依赖、学术诚信或物理理解质量而保持怀疑。它的价值在于把“用不用 AI”拆成不同立场和动机，有助于教师教育、AI 使用规范和物理学习支持设计。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### 1. Tensions in Fostering Student Epistemic Agency Through Sensemaking in Elementary Science
+
+- 作者：Christine Lee Bae, Erin Hogan, Kathryn N. Hayes
+- 日期：2026-06-04
+- DOI：10.1002/tea.70056
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1002/tea.70056
+- 英文 abstract 要点：文章研究小学科学课堂中如何通过现象驱动的 sensemaking 支持学生 epistemic agency。研究基于 5 位小学教师的课堂视频和课后访谈，分析学生提出问题、协商想法、共同建构科学理解时出现的张力。结果指出，教师需要在尊重学生想法与引向规范科学、提供支架与避免限制学生思考、支持日常推理与对齐学科概念、开放课堂规范与维持秩序之间持续权衡。
+- 易读中文摘要：这篇文章讨论小学科学课堂里一个核心难题：教师想让学生真正像知识建构者一样提出问题、解释现象、协商观点，但课堂时间、课程目标和秩序要求又会不断把教师拉回“引导正确答案”。研究提醒我们，学生的科学主体性不是教师简单放手就能出现，而是需要精细设计任务、课堂规范和支架。对 K-12 科学教育、教师专业发展和公平参与很重要。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. An Exploratory Study Investigating Student and Teacher Perceptions of the Classroom Environment within a Taiwanese Inquiry Curriculum
+
+- 作者：Shu-Fen Lin, Thomas J. Smith
+- 日期：2026-06
+- DOI：10.1007/s10763-026-10683-x
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10763-026-10683-x
+- 英文 abstract 要点：未获取到 abstract。根据题名，文章探索台湾探究式课程中学生与教师对课堂环境的感知，重点可能涉及探究课程实施时课堂氛围、互动方式和学习支持如何被不同参与者理解。
+- 易读中文摘要：这篇文章关注探究式课程不只是“设计出来”，还要看学生和教师实际感受到的课堂环境。学生可能更在意是否有机会提问、讨论和尝试；教师则可能更关注课程结构、课堂管理和学习目标达成。它对科学/数学探究课程实施有参考意义，尤其适合用来思考同一课堂改革在教师和学生眼中是否一致。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+#### 1. The effects of focused and unfocused written corrective feedback and teacher instruction on L2 writers’ accuracy in using countable and uncountable nouns
+
+- 作者：Barry Lee Reynolds, Chian-Wen Kao, Yang Gao, Xiaochen Wang, Xiaofang Zhang
+- 日期：2026-06-05
+- DOI：10.1007/s11251-026-09804-4
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s11251-026-09804-4
+- 英文 abstract 要点：未获取到 abstract。根据题名，文章比较 focused 与 unfocused written corrective feedback，并结合教师 instruction，考察二语写作者使用可数/不可数名词的准确性变化。
+- 易读中文摘要：这篇文章属于学习科学/教学反馈研究，主题不是科学教育本身。它关注教师反馈到底应该集中纠正少数目标错误，还是更广泛地反馈多类错误，以及教师讲解如何影响学习者后续写作准确性。对教学设计的启发是：反馈范围、教师说明和学习者注意力分配会共同影响学习效果，这一点也可迁移到科学写作、实验报告反馈和学科语言支持中。
+
+### 今日重点
+
+1. **物理教育中的 ChatGPT 采用分化**：PRPER 新增文章关注生成式 AI 在物理教育中的使用者与非使用者类型，对科学技术与 AI、教师教育和学习支持设计相关。
+2. **小学科学 sensemaking 与学生认识主体性**：JRST 新增文章直接聚焦 K-12 科学教育，强调学生 epistemic agency 需要在支架、规范、课堂秩序和学科目标之间平衡。
+3. **探究课程要看师生共同感知**：IJSME 新增文章关注台湾探究课程课堂环境，提示课程改革需要同时分析教师和学生视角。
+4. **反馈范围影响学习者注意与准确性**：Instructional Science 新增文章虽偏二语写作，但对科学写作反馈、学科语言学习和教学设计有迁移价值。
