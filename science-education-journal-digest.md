@@ -1394,3 +1394,77 @@
 2. **小学科学教师实践的活动系统视角**：IJSE 新增文章从角色、工具和情境分析在职小学科学教师，对教师教育和科学教学改革相关。
 3. **本科女性科学身份来自日常认可**：JRST 新增文章显示，日常科学谈话中的认可会促进女性科学身份和 STEM 持续性，是 STEM 公平研究的重要线索。
 4. **STEM 路径不能只看大学路线**：Research in Science Education 新增文章强调澳大利亚 STEM 劳动力路径中的职业教育与培训通道，对 STEM 教育政策和路径研究有价值。
+## 2026-06-08 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-08
+- 主检索覆盖时间范围：2026-06-08（自上次推送以来）
+- 补充检索覆盖时间范围：2026-05-25 至 2026-06-08（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：0
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：Crossref 14 天补充检索中未发现未记录 DOI；官网补查页面自动访问受限，未发现可解析的 DOI 缺失条目。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. 今天 11 本期刊经 Crossref 14 天补充检索后均未发现未记录 DOI。
+2. 官网 latest/current 页面补查受到自动访问限制，未能解析到额外 online-first 条目；本次结果以 Crossref 去重结果为准。
+3. 持续监测重点仍包括 K-12 科学教育、STEM 教育、教师教育、科学概念学习、探究学习、科学技术与 AI、学习科学和教学设计。
