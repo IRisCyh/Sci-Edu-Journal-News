@@ -1579,3 +1579,86 @@
 2. **学前 STEM 中计算思维与科学过程技能相关**：JSET 新增实证研究显示，5-6 岁儿童的计算思维与科学过程技能存在显著关联，适合关注早期科学教育和 STEM 课程整合。
 3. **项目式科学学习中的反馈素养**：JSET 新增文章把 discourse analytics 与技术设计用于反馈素养，关联项目式科学教育、学习分析和教学设计。
 4. **STEMM 改革如何从项目走向制度化**：International Journal of STEM Education 新增多案例研究关注资助项目的长期嵌入，对高校 STEM 改革和多元学生支持有参考价值。
+## 2026-06-11 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-11
+- 主检索覆盖时间范围：2026-06-11（自上次推送以来）
+- 补充检索覆盖时间范围：2026-05-28 至 2026-06-11（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限；Crossref 返回 1 条 Issue Information，已排除）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：1
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已排除日志中既有 DOI；本次展开文章有 DOI 和 Crossref abstract。Science Education 的 DOI 10.1002/sce.70088 为 Issue Information，不作为研究文章推送。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。Crossref 返回 1 条 Issue Information（DOI：10.1002/sce.70088），属于卷期信息，不作为研究文章展开。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+#### 1. Self-study followed by discussion enhances learning for high school students
+
+- 作者：Jaeseo Lim, Jooyong Park
+- 日期：2026-06-11
+- DOI：10.1007/s11251-026-09801-7
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s11251-026-09801-7
+- 英文 abstract 要点：研究复制并扩展 Lim and Park（2023）关于学习活动组合的发现，比较高中生在“讲授后讨论”和“自学后讨论”两种条件下的学习效果。结果显示，自学后讨论组在即时和长期保持、迁移测试中都优于讲授后讨论组。对讨论话语的分析表明，自学后讨论能产生更多 substantive dialogue，而这种实质性发言数量中介了自学条件对后测成绩的影响。
+- 易读中文摘要：这篇文章的核心结论很直接：让高中生先自学，再进入讨论，比先听讲授再讨论更能促进学习。原因不只是“先学一遍”，而是自学让学生带着问题和初步理解进入讨论，从而更容易产生有内容的对话。对高中科学课堂、翻转课堂、探究学习和同伴讨论设计都有参考价值，尤其适合思考如何把“讨论”从形式活动变成真正推动理解和迁移的学习环节。
+
+### 今日重点
+
+1. **高中生“先自学后讨论”优于“先讲授后讨论”**：Instructional Science 新增文章显示，自学后讨论能提升即时保持、长期保持和迁移表现。
+2. **讨论质量是关键机制**：研究发现，自学条件下学生产生更多 substantive dialogue，这种实质性发言中介了学习效果。
+3. **对 K-12 科学教育有迁移价值**：虽然文章属于一般学习科学研究，但对高中科学课堂中的翻转学习、同伴讨论、探究前准备和教学设计很相关。
+4. **本次排除一条非研究文章元数据**：Science Education 的 Issue Information 被 Crossref 标为 journal-article，但不属于研究论文，因此未展开推送。
