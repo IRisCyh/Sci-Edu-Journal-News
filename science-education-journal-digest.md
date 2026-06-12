@@ -1662,3 +1662,133 @@
 2. **讨论质量是关键机制**：研究发现，自学条件下学生产生更多 substantive dialogue，这种实质性发言中介了学习效果。
 3. **对 K-12 科学教育有迁移价值**：虽然文章属于一般学习科学研究，但对高中科学课堂中的翻转学习、同伴讨论、探究前准备和教学设计很相关。
 4. **本次排除一条非研究文章元数据**：Science Education 的 Issue Information 被 Crossref 标为 journal-article，但不属于研究论文，因此未展开推送。
+## 2026-06-12 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-12
+- 主检索覆盖时间范围：2026-06-12（自上次推送以来）
+- 补充检索覆盖时间范围：2026-05-29 至 2026-06-12（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：10，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：6
+- 因每刊最多 3 篇而未展开数量：7（均来自 International Journal of Science Education）
+- 重复或 DOI 缺失：已排除日志中既有 DOI；本次新增条目均有 DOI。展开文章中 PRPER、IJSE 3 篇和 International Journal of STEM Education 1 篇未获取到 abstract；Science Education 1 篇有 Crossref abstract。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+#### 1. Defining a physics person: Tensions in the identity development of undergraduate women in physics
+
+- 作者：Crossref 返回为 Anonymous，未获取到明确作者列表
+- 日期：2026-06-11
+- DOI：10.1103/j9bh-pz14
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/j9bh-pz14
+- 英文 abstract 要点：未获取到 abstract。根据题名，文章关注本科女性在物理学习中如何理解“physics person”身份，以及这种身份发展中出现的张力。
+- 易读中文摘要：这篇文章切入的是物理教育中很核心的身份问题：谁会被看作“像物理人”，学生又如何把自己放进或排除在这个身份之外。对本科女性来说，兴趣、能力感、同伴和教师认可、物理文化中的性别期待，都可能共同影响她们是否继续留在物理路径中。文章适合关注物理教育公平、STEM 身份和女性 STEM 持续性的读者。
+
+### 3. International Journal of Science Education
+
+#### 1. Artificial intelligence-supported science education: a qualitative study on pre-service teachers’ scientific reasoning experiences
+
+- 作者：Menşure Alkış Küçükaydın
+- 日期：2026-06-11
+- DOI：10.1080/09500693.2026.2676263
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1080/09500693.2026.2676263
+- 英文 abstract 要点：未获取到 abstract。根据题名，文章通过质性研究考察职前教师在 AI 支持的科学教育情境中的 scientific reasoning experiences。
+- 易读中文摘要：这篇文章直接触及 AI 与科学推理的关系：AI 不只是帮教师备课或生成材料，也可能改变职前教师如何提出证据、解释现象、比较观点和形成推理链。关键问题在于，AI 支持是让推理更清晰，还是让学生过早依赖工具给出的结论。对科学技术与 AI、教师教育和科学推理培养都值得关注。
+
+#### 2. Seeing climate change: developing professional vision through interactive data visualisations
+
+- 作者：Anne Solli, Lena Pareto, Alexina Thorén Williams
+- 日期：2026-06-11
+- DOI：10.1080/09500693.2026.2677220
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1080/09500693.2026.2677220
+- 英文 abstract 要点：未获取到 abstract。根据题名，文章关注如何通过交互式数据可视化发展气候变化教学或学习中的 professional vision。
+- 易读中文摘要：这篇文章把气候变化学习和数据可视化结合起来。它关心的不是单纯“看懂图表”，而是学习者或教师是否能从交互式数据中看出关键模式、异常、趋势和解释线索，并把这些观察转化为专业判断。对气候变化教育、数据素养、科学可视化和教师专业发展都有参考价值。
+
+#### 3. Exploring science teachers’ questioning patterns for learning support through a computational grounded theory approach
+
+- 作者：Tongtong Guan, Liqiang Zhang, Jie Yang, Xiaoge Chen, Yonghe Zheng
+- 日期：2026-06-11
+- DOI：10.1080/09500693.2026.2675724
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1080/09500693.2026.2675724
+- 英文 abstract 要点：未获取到 abstract。根据题名，文章使用 computational grounded theory 方法分析科学教师的问题提问模式及其对学习支持的作用。
+- 易读中文摘要：这篇文章关注科学课堂中“教师怎么问问题”。好的提问可以帮助学生解释证据、暴露迷思概念、推进探究和连接学科概念；但不同提问模式支持的学习过程不同。用计算方法结合扎根理论，可能让研究者从大量课堂话语中识别更细致的提问类型。对教师教育、课堂话语分析和学习支持设计很有用。
+
+- 另有 7 篇未展开：What professional judgements do teachers make in utilising resources on contemporary science?；Trust in climate science and scientists: secondary science teachers’ climate change views and teaching；Trends in elementary preservice teachers’ lesson planning for socioscientific issues；Understanding climate scientific uncertainty: how undergraduate students’ epistemic views shape climate concern and action；Investigating students’ scientific thinking process during online inquiry learning: a process mining approach；Nature through children’s eyes: a phenomenological inquiry using the storyline method；Development and validation of a scale for evaluating STEM teachers’ identity in the Chinese context。
+
+### 4. Science Education
+
+#### 1. “That's Our Question!”: College Students' Epistemic Agency in Model‐Based Investigations
+
+- 作者：Julia Svoboda, Robert Hayes
+- 日期：2026-06-11
+- DOI：10.1002/sce.70086
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1002/sce.70086
+- 英文 abstract 要点：文章讨论大学生如何在 model-based investigations 中形成 epistemic agency。研究描述了一个 3 周的大班导论实验单元，设计中包含相互联动的湿实验模型系统和计算模型。结果显示，这种设计支持学生从两个模型系统之间的问题或矛盾中生成并修正自己的探究目标，并用不同模型系统作为作出方法选择和推进研究的场域，从而使科学建模工作对学生更有意义。
+- 易读中文摘要：这篇文章的重点是让学生真正拥有“这是我们的问题”的探究感。作者不是让学生按步骤完成实验，而是让湿实验和计算模型相互产生张力，让学生从矛盾、异常和问题中提出自己的研究目标。它说明，大学实验课也可以给学生较高水平的认识主体性，同时仍然接触复杂的学科概念。对模型建构、实验/探究学习和科学课堂中的学生 agency 很有价值。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+#### 1. Making sense of student STEM identity: an ontological approach
+
+- 作者：Zhimeng Jiang, Jennifer N. Tripp, Xiufeng Liu
+- 日期：2026-06-11
+- DOI：10.1186/s40594-026-00625-y
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1186/s40594-026-00625-y
+- 英文 abstract 要点：未获取到 abstract。根据题名，文章从 ontological approach 重新理解学生 STEM identity，可能关注 STEM 身份作为一种存在方式、关系实践或持续生成的学习状态。
+- 易读中文摘要：这篇文章关注“STEM 身份”到底是什么。它不只是学生是否喜欢 STEM、是否觉得自己擅长 STEM，也可能涉及学生如何在关系、实践、文化和未来想象中成为某种 STEM 学习者或实践者。用本体论视角重新看 STEM identity，有助于避免把身份简化成量表分数，对 STEM 教育公平、身份发展和长期参与研究有启发。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **科学教育中的 AI 与推理**：IJSE 新增文章关注 AI 支持下职前教师的科学推理经历，是科学技术与 AI、教师教育和推理培养的交叉点。
+2. **气候变化与数据可视化**：IJSE 新增文章把交互式数据可视化和 climate change professional vision 结合，适合关注气候科学教育和数据素养。
+3. **课堂提问可被计算化分析**：IJSE 新增文章用 computational grounded theory 分析科学教师提问模式，对课堂话语、学习支持和教师专业发展有价值。
+4. **模型探究中的学生认识主体性**：Science Education 新增文章展示大学生如何在湿实验和计算模型之间生成自己的科学问题。
+5. **STEM/物理身份仍是本次重点**：PRPER 和 International Journal of STEM Education 分别关注本科女性物理身份和学生 STEM identity，为 STEM 公平研究提供新材料。
