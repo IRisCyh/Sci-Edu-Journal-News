@@ -1814,7 +1814,7 @@
 - 本次实际展开文章总数：1
 - 因每刊最多 3 篇而未展开数量：0
 - 重复或 DOI 缺失：IJSE 7 条 Crossref 结果与 2026-06-12 已记录未展开标题匹配，已按标题+期刊辅助去重；BJET 的 DOI 10.1111/bjet.70076 为 Issue Information，不作为研究文章推送。本次展开文章有 DOI，但未获取到 abstract。
-- GitHub commit：待同步
+- GitHub commit：5a13632
 - GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
 
 ### 1. Journal of Science Education and Technology
