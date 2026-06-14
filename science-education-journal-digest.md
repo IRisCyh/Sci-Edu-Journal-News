@@ -1875,3 +1875,86 @@
 2. **标题级去重修正**：IJSE 7 条 Crossref 结果已在 2026-06-12 未展开列表中出现，今天不重复推送，避免同一批 online-first 文章每日反复出现。
 3. **非研究文章继续排除**：BJET 的 Issue Information 被 Crossref 标为 journal-article，但不属于研究论文，因此未展开推送。
 4. **持续监测重点**：后续仍重点关注 K-12 科学教育、STEM 教育、教师教育、科学概念学习、探究学习、科学技术与 AI、学习科学和教学设计。
+## 2026-06-14 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-14
+- 主检索覆盖时间范围：2026-06-14（自上次推送以来）
+- 补充检索覆盖时间范围：2026-05-31 至 2026-06-14（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：1
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重，未发现重复推送；本次展开文章有 DOI，但未获取到 abstract。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Exploring the Second-Level Digital Divide in Elementary Science Classrooms: A Video-Based Comparative Analysis
+
+- 作者：Yuze He, Yaoyuan Zhou, Juan Lai, Fengrui Xie, Yonghe Zheng, Jie Yang
+- 日期：2026-06-13（online first；Crossref published 为 2026-06）
+- DOI：10.1007/s10763-026-10690-y
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10763-026-10690-y
+- 英文 abstract 要点：未获取到 abstract。根据题名，文章使用视频比较分析研究小学科学课堂中的 second-level digital divide，即不仅看是否有数字设备，还看技术如何被实际用于支持高质量科学学习。
+- 易读中文摘要：这篇文章关注的是数字鸿沟的第二层：学校或课堂有了技术之后，学生是否真的获得了更好的科学学习机会。题名显示研究使用课堂视频比较分析，可能观察教师如何组织数字工具、学生如何参与、技术是否促进探究、解释和互动。它对小学科学教育、教育技术公平和课堂观察研究都很相关。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **小学科学课堂中的第二层数字鸿沟**：IJSME 新增文章关注技术进入课堂之后的使用质量，而不只是设备可及性。
+2. **视频分析适合观察技术使用差异**：文章采用 video-based comparative analysis，有助于捕捉教师组织、学生互动和科学学习机会的细节。
+3. **与教育技术公平直接相关**：该主题连接 STEM 教育、公平、课堂实践和技术整合，对判断数字工具是否真正改善学习有参考价值。
+4. **去重策略已调整**：本次使用 DOI 与标题双重去重，避免此前未展开标题在后续日期反复出现。
