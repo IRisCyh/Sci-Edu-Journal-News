@@ -1897,7 +1897,7 @@
 - 本次实际展开文章总数：1
 - 因每刊最多 3 篇而未展开数量：0
 - 重复或 DOI 缺失：已使用 DOI 与标题双重去重，未发现重复推送；本次展开文章有 DOI，但未获取到 abstract。
-- GitHub commit：待同步
+- GitHub commit：2caebc6
 - GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
 
 ### 1. Journal of Science Education and Technology
