@@ -2059,3 +2059,134 @@
 2. **AI 进入探究式 STEAM 学习**：International Journal of STEM Education 的综述把 ChatGPT 定位为 co-inquirer，既看到学习支持，也系统梳理了过度依赖、幻觉、隐私和公平等风险。
 3. **科学概念学习中的机制性推理**：Research in Science Education 的糖溶解研究显示，连续粒子图能帮助研究者和教师捕捉学生对不可见微观过程的因果解释。
 4. **今天的主题集中在教师教育、AI 与 K-12 科学概念学习**：三篇文章分别对应小学科学教师培养、AI/STEAM 探究学习、初中科学概念解释，和当前推送方向高度相关。
+## 2026-06-16 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-16
+- 主检索覆盖时间范围：2026-06-16（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-02 至 2026-06-16（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：7，数据来源：Crossref + 14 天官网补查（官网自动访问受限；展开前 3 篇，另有 4 篇未展开）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：6
+- 因每刊最多 3 篇而未展开数量：4（均为 International Journal of Science Education）
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI，未发现可能重复文章。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+#### 1. Bridging the Inclusion Gap: Women’s STEM Career Development Across Academic and Professional Pathways
+
+- 作者：Shani Goldstein, Shahaf Rocker Yoel, Yehudit Judy Dori
+- 日期：2026-06-15
+- DOI：10.1007/s10956-026-10332-6
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10956-026-10332-6
+- 英文 abstract 要点：The study investigates how women alumni of FIRST Robotics perceive the influence of program core values on STEM career development. It uses Social Cognitive Career Theory together with a structural framework for under-representation, based on semi-structured interviews with 15 women alumni. The main finding is that environmental and sociocultural factors shaped participants’ STEM trajectories more strongly than individual factors alone. Inclusion was often associated with negative lived experiences, while leadership roles and scholarship achievement helped buffer structural barriers.
+- 易读中文摘要：这篇文章关注女性在 STEM 学习和职业路径中的持续参与问题。研究对象是 FIRST Robotics 的女性校友，作者想知道项目强调的探索、创新、影响、包容、团队合作和乐趣，是否真的能支持她们进入并留在 STEM 领域。结果显示，影响女性发展的关键不只是个人兴趣或能力，更多来自环境和结构性条件。尤其是“包容”这个价值，在真实经历中并不总是被感受到；获得奖学金、担任领导角色等经历，反而能帮助一些参与者抵消外部阻力。对 STEM 教育项目设计来说，文章提醒我们不能只写价值口号，还要检查这些价值是否在学生经历中真正发生。
+
+### 2. Physical Review Physics Education Research
+
+#### 1. How to design research-aligned diversity, equity, and inclusion interventions in physics
+
+- 作者：Angela Johnson
+- 日期：2026-06-15
+- DOI：10.1103/q643-8928
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/q643-8928
+- 英文 abstract 要点：This article provides guidance for designing DEI interventions in physics education. It addresses common critiques of DEI work, reviews relevant research support, and discusses physics-specific design concerns, including skeptical participants and the risk of worsening conditions for minoritized participants. It maps intervention activities to intended outcomes such as bias awareness, bias reduction, physics identity, recognition, and belonging. It also discusses how to justify interventions, whether participation should be voluntary or required, and how to evaluate intervention rigor with qualitative and quantitative tools.
+- 易读中文摘要：这篇文章更像一份给物理教育工作者的设计指南：如果要做多元、公平和包容干预，怎样才能和研究证据对齐，而不是只做形式化活动？作者讨论了常见质疑，也指出物理场景中的特殊难点，例如参与者可能怀疑 DEI 的价值，或者活动设计不好反而让少数群体更受伤。文章把干预目标拆得很具体：提升偏见意识、帮助克服偏见、增强物理身份认同、让学生获得认可、提升归属感。对物理教育研究和项目改进来说，它的价值在于把“应该做 DEI”推进到“如何设计、如何评估、如何避免副作用”。
+
+### 3. International Journal of Science Education
+
+#### 1. What professional judgements do teachers make in utilising resources on contemporary science?
+
+- 作者：Mary Vamvakas
+- 日期：2026-06-11
+- DOI：10.1080/09500693.2026.2677218
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1080/09500693.2026.2677218
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文关注教师在使用当代科学相关资源时作出的专业判断，包括资源选择、课堂适配和科学内容更新之间的关系。
+- 易读中文摘要：这篇文章讨论的是教师面对“当代科学”资源时如何判断能不能用、怎么用。现实课堂中，科学知识和社会议题更新很快，教师不能简单把材料搬进课堂，而要判断内容是否准确、学生是否能理解、是否符合课程目标，以及资源会怎样影响讨论和探究。它对教师教育、课程资源设计和科学素养教学都有参考价值。
+
+#### 2. Trust in climate science and scientists: secondary science teachers’ climate change views and teaching
+
+- 作者：Lisa A. Borgerding, Breanna C. Beaver, Jennifer Heisler
+- 日期：2026-06-11
+- DOI：10.1080/09500693.2026.2669572
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1080/09500693.2026.2669572
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究中学科学教师对气候科学与科学家的信任、气候变化观点，以及这些观点如何关联到气候变化教学。
+- 易读中文摘要：这篇文章把气候变化教学放在教师信任和认识框架中考察。它关心的不是学生是否相信气候变化，而是科学教师自己如何看待气候科学、是否信任相关科学家，以及这些立场怎样影响他们在课堂上讲气候变化。对 K-12 科学教育很重要，因为气候变化既是科学概念，也是社会争议议题；教师的认识和信任会直接影响课堂内容的深度、准确性和开放程度。
+
+#### 3. Trends in elementary preservice teachers’ lesson planning for socioscientific issues
+
+- 作者：Melanie Kinskey, Jeff Papa
+- 日期：2026-06-11
+- DOI：10.1080/09500693.2026.2681793
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1080/09500693.2026.2681793
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文关注小学职前教师如何围绕 socioscientific issues（社会性科学议题）进行课程/课时设计，以及这些设计呈现出的趋势。
+- 易读中文摘要：这篇文章关注小学职前教师如何把社会性科学议题放进教学计划中。社会性科学议题通常涉及科学知识、价值判断和社会决策，例如气候、健康、能源、环境等。对小学教师来说，难点在于既要让学生理解科学内容，又要引导他们讨论真实世界问题。文章可能有助于判断职前教师在设计这类课程时更重视哪些环节、忽略哪些支持，以及教师教育课程应如何帮助他们设计更有质量的 SSI 教学。
+
+- 另有 4 篇未展开：Understanding climate scientific uncertainty: how undergraduate students’ epistemic views shape climate concern and action；Investigating students’ scientific thinking process during online inquiry learning: a process mining approach；Nature through children’s eyes: a phenomenological inquiry using the storyline method；Development and validation of a scale for evaluating STEM teachers’ identity in the Chinese context。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+#### 1. Algorithmic Explanations as a Scaffold for Scientific Explanation: A Quasi-Experimental and Time-Series Study in High School Chemistry
+
+- 作者：Liying Zhu, Wenqing Chen, Jingxi Liu, Muxi Jiang, Yin Yang
+- 日期：2026-06-16
+- DOI：10.1007/s11165-026-10353-6
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s11165-026-10353-6
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文使用准实验和时间序列设计，研究“算法式解释”如何作为脚手架支持高中化学中的科学解释能力发展。
+- 易读中文摘要：这篇文章关注高中化学里学生如何学会写出更好的科学解释。标题显示，研究把“算法式解释”作为脚手架，也就是用更结构化、步骤化的方式帮助学生组织证据、概念和因果关系。准实验和时间序列设计说明作者不仅看一次性效果，也关注学习过程随时间的变化。它与科学解释、教学脚手架、化学概念学习和学习过程追踪都相关。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **STEM 包容不能只停留在项目价值层面**：JSET 新文显示，女性 STEM 发展更受环境和结构性因素影响，项目需要验证“包容”是否真的转化为参与者经历。
+2. **物理教育中的 DEI 干预需要可设计、可评估**：PRPER 新文把 DEI 从理念推进到干预目标、活动设计和评估工具，特别强调避免对少数群体造成反效果。
+3. **气候变化与社会性科学议题仍是科学教师教育重点**：IJSE 的两篇展开文章分别关注气候科学信任和小学职前教师 SSI 课程设计，直接关联 K-12 科学教育。
+4. **科学解释能力与脚手架设计继续受到关注**：Research in Science Education 新文聚焦高中化学中的算法式解释脚手架，适合关注概念学习、解释建构和教学设计的读者。
+5. **本次 IJSE 新增量较大**：IJSE 有 7 篇未记录候选，按每刊最多 3 篇规则展开 3 篇，另有 4 篇保留为未展开记录。
