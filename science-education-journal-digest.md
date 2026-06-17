@@ -2190,3 +2190,132 @@
 3. **气候变化与社会性科学议题仍是科学教师教育重点**：IJSE 的两篇展开文章分别关注气候科学信任和小学职前教师 SSI 课程设计，直接关联 K-12 科学教育。
 4. **科学解释能力与脚手架设计继续受到关注**：Research in Science Education 新文聚焦高中化学中的算法式解释脚手架，适合关注概念学习、解释建构和教学设计的读者。
 5. **本次 IJSE 新增量较大**：IJSE 有 7 篇未记录候选，按每刊最多 3 篇规则展开 3 篇，另有 4 篇保留为未展开记录。
+## 2026-06-17 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-17
+- 主检索覆盖时间范围：2026-06-17（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-03 至 2026-06-17（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：3，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限；昨日已统计的未展开标题未重复计入）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：6
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重，并将昨日 IJSE 未展开标题视为已统计候选；本次展开文章均有 DOI，未发现可能重复文章。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+#### 1. Impact of a Study Guide Versus an Immersive Virtual Reality Approach on Student Learning and Perspectives for Introductory Chemistry
+
+- 作者：Leul Tigabu, Akalpreet Sidhu, Ryan Hayashi, Eric Person, Dermot F. Donnelly-Hermosillo
+- 日期：2026-06-16
+- DOI：10.1007/s10956-026-10335-3
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10956-026-10335-3
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文比较学习指南与沉浸式虚拟现实在大学导论化学中的学习效果和学生观点。
+- 易读中文摘要：这篇文章关注一个很实际的教学技术问题：在导论化学中，传统学习指南和沉浸式 VR 哪一种更能支持学生学习，学生又如何看待这两种学习方式。标题显示研究同时关注学习结果和学生体验，因此不只是比较“技术是否新”，而是看 VR 是否真正带来理解上的收益。它适合关注化学概念学习、沉浸式技术和教育技术成本效益的读者。
+
+### 2. Physical Review Physics Education Research
+
+#### 1. Undergraduate students’ application of special relativity to paradoxes
+
+- 作者：Anonymous
+- 日期：2026-06-16
+- DOI：10.1103/n3xm-f4pz
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/n3xm-f4pz
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究本科生如何把狭义相对论知识应用到悖论类问题中。
+- 易读中文摘要：这篇文章关注本科物理学习中一个典型难点：学生能否把相对论的概念真正用于解释看似矛盾的情境。悖论题通常要求学生协调参考系、同时性、时间膨胀等概念，而不是只套公式。该文对理解物理概念迁移、问题解决和相对论教学有直接参考价值。
+
+#### 2. Epistemic aims and values of quantum computation in foundational research papers and implications for education
+
+- 作者：Sara Satanassi, Sibel Erduran
+- 日期：2026-06-16
+- DOI：10.1103/8sq2-zrr9
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/8sq2-zrr9
+- 英文 abstract 要点：This conceptual study analyzes foundational quantum computation papers through the Family Resemblance Approach to the nature of science. It identifies epistemic aims and values in quantum computation, including established values such as objectivity and accuracy and emergent ones such as materiality of information and efficiency. The paper argues that these usually implicit values should be made explicit for quantum technologies education, curriculum design, teaching, and learning.
+- 易读中文摘要：这篇文章不是直接研究某个课堂，而是问“量子计算作为一个科学领域，到底追求什么知识目标、重视什么认识价值”。作者分析量子计算的基础研究论文，提取出这个领域背后的认识目标和价值，例如客观性、准确性、信息的物质性、效率等。对教育的意义在于：量子技术课程不应只教概念和算法，也应让学生理解这个领域如何判断问题、证据和解释的价值。
+
+#### 3. Introductory physics students’ valued features in AI feedback generated from self-crafted and engineered prompts
+
+- 作者：Amogh Sirnoorkar, N. Sanjay Rebello
+- 日期：2026-06-16
+- DOI：10.1103/v3pj-8491
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/v3pj-8491
+- 英文 abstract 要点：This study examines introductory physics students’ own prompts for AI feedback and compares feedback generated from student-crafted prompts with feedback generated through prompt-engineering techniques and effective-feedback principles. The findings suggest that students’ prompts usually include only part of basic prompt-engineering practice. Students identified 12 useful feedback features across evaluation, content, presentation, and depth, and strongly preferred feedback generated from structured prompts. The paper argues for integrating prompt engineering and effective-feedback principles into AI-supported physics courses.
+- 易读中文摘要：这篇文章研究学生怎样向 AI 提问以获得物理学习反馈，以及结构化 prompt 是否会带来更有用的反馈。结果显示，学生自己写的 prompt 往往只包含部分有效提示策略；当 prompt 结合了提示工程和有效反馈原则时，学生明显更喜欢生成的反馈。对物理教育和 AI 教学设计来说，这篇文章的重点是：不能只把 AI 放给学生使用，还需要教学生如何提出高质量请求，并把反馈设计原则嵌入 AI 工具。
+
+### 3. International Journal of Science Education
+
+- 无新增。昨日已统计但未展开的 4 个 IJSE 标题没有重复计入今天新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### 1. Perspectives on Unpacking Climate Literacy in Science Education
+
+- 作者：Sherry Hsi, Emily Harris, Jeffrey Snowden, Lindsey Mohan
+- 日期：2026-06-16
+- DOI：10.1002/tea.70059
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1002/tea.70059
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文围绕科学教育中的气候素养展开观点讨论或专题引介。
+- 易读中文摘要：这篇文章聚焦“气候素养”在科学教育中到底应如何被拆解和理解。气候素养不只是知道气候变化事实，还包括理解证据、模型、不确定性、社会影响和行动选择。对 K-12 科学教育、教师教育和课程设计来说，文章可能有助于澄清气候变化教学应覆盖哪些核心能力，而不是把气候素养简化为单一知识点。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Feeling STEM: How Affective Infrastructures Shape LGBTQIA+ Participation in Higher Education
+
+- 作者：Philip Kairns
+- 日期：2026-06-16
+- DOI：10.1007/s10763-026-10691-x
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10763-026-10691-x
+- 英文 abstract 要点：This article reframes STEM inequity through “affective infrastructures,” meaning emotional norms and ambient institutional pressures embedded in disciplinary cultures, spaces, and administrative systems. Based on critical narrative inquiry and walking interviews with 22 collaborators across five Australian universities, it identifies technical affect and atmospheric violence as mechanisms shaping LGBTQIA+ participation. The study argues that STEM equity should be addressed through emotional, administrative, and spatial design, not only individual adaptation or interpersonal climate.
+- 易读中文摘要：这篇文章把 LGBTQIA+ 学生和工作者在 STEM 高等教育中的参与问题，放到“情感基础设施”这个框架下分析。作者关注的不只是个人偏见或局部氛围，而是学科文化、空间布局、行政系统和情绪规范如何让某些人更难显得“专业”或“胜任”。研究显示，即使没有明显歧视，日常制度和空间也可能持续增加 LGBTQIA+ 群体的心理负担。对 STEM 公平研究来说，它提醒我们，包容不只是改变个体态度，也需要重新设计制度、空间和评价专业性的方式。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **AI 反馈与 prompt 设计进入物理教育研究**：PRPER 新文显示，学生更偏好结合提示工程和有效反馈原则的 AI 反馈，提示 AI 教学不能只提供工具，还要设计使用方式。
+2. **量子技术教育需要呈现科学认识价值**：量子计算文章强调课程不应只讲知识内容，还应讲清领域中的认识目标、价值和判断标准。
+3. **沉浸式 VR 在化学学习中的效果仍需实证比较**：JSET 新文直接比较学习指南和 VR，对评估教育技术是否真正促进学习有参考价值。
+4. **气候素养继续成为科学教育核心议题**：JRST 新文聚焦 climate literacy，有助于把气候变化教学从事实性知识扩展到证据、模型、行动和社会理解。
+5. **STEM 公平研究从个体偏见转向基础设施设计**：IJSME 新文提出 affective infrastructures，强调 LGBTQIA+ 参与 STEM 的障碍也来自制度、空间和情绪规范。
