@@ -2511,3 +2511,95 @@
 2. **科学本质教育可借助物理学史课程**：PRPER 新文关注非 STEM 大学生，提示物理学史可能帮助学生理解科学知识如何形成和变化。
 3. **公民科学项目需要高质量教师支持材料**：IJSE 新文关注小学教师使用 educative support materials 的机会、阻碍和影响，直接关联 K-12 科学探究和真实世界科学参与。
 4. **今天新增集中在 AI、科学本质与小学公民科学**：三篇文章分别对应科学技术与 AI、科学素养、教师支持和探究学习。
+## 2026-06-20 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-20
+- 主检索覆盖时间范围：2026-06-20（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-06 至 2026-06-20（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：2
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI，未发现可能重复文章。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+#### 1. Individual agency and sustainability initiatives in STEM careers and education: a scoping review
+
+- 作者：Ahmed Alduais, Faris Tarlochan, Youmen Chaaban, Asma Mecheter, Mohamed Izham Mohamed Ibrahim, Faiz Ahmed Mohamed Elfaki, Xiangyun Du
+- 日期：2026-06-20
+- DOI：10.1186/s40594-026-00626-x
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1186/s40594-026-00626-x
+- 英文 abstract 要点：This scoping review examines how individual agency is conceptualized and enacted in sustainability initiatives across STEM education and careers. Following Joanna Briggs Institute methodology, the authors screened literature from Scopus and Web of Science and included 59 studies, with supplementary content analysis of additional documents. Five main domains were identified: educational agency and curriculum integration, research-based sustainability initiatives, institutional and organizational change, professional development and capacity building, and interdisciplinary collaboration. The review finds that agency is often linked to student empowerment, teacher agency, and equity, but remains under-theorized and unevenly grounded in empirical research.
+- 易读中文摘要：这篇综述关注 STEM 教育和职业中的“个体能动性”如何推动可持续发展。它不是只问学校有没有可持续发展课程，而是看学生、教师、研究者和专业人员如何主动做选择、推动改变、参与课程整合、研究项目、组织变革和跨学科合作。文章指出，现有研究常把 agency 与学生赋权、教师能动性和公平联系起来，但理论和实证基础还不够稳定。对 STEM 教育来说，重要启示是：可持续发展不能只依赖制度口号，也需要解释个体如何在具体学习和职业情境中真正产生行动。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+#### 1. Effects of a literary intervention on teachers’ monologic and dialogic practices and the quality of students’ contributions
+
+- 作者：Yvonne Dammert, Luciano Gasser, P. Karen Murphy
+- 日期：2026-06-20
+- DOI：10.1007/s11251-026-09809-z
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s11251-026-09809-z
+- 英文 abstract 要点：This quasi-experimental study evaluates a Quality Talk-based literary intervention designed to promote dialogic discussion around moral dilemmas. Nine teachers and 104 fourth- and fifth-grade students in Switzerland participated over one school year. Students read and discussed four fiction books in small groups, while teachers received video-based coaching. Multilevel analyses showed a shift from monologic to dialogic teaching: teachers asked fewer test questions, controlled turn-taking less, evaluated responses less, and used more talk moves. Student contributions improved through more authentic questions, cumulative and exploratory talk, reasoning, and elaborated explanations.
+- 易读中文摘要：这篇文章研究一种基于 Quality Talk 的文学讨论干预，重点是教师如何从“单向提问和评价”转向更有对话性的课堂互动。研究对象是瑞士 9 位教师和 104 名四、五年级学生，持续一个学年。学生小组阅读并讨论小说，教师接受基于视频的指导。结果显示，教师减少了测试式问题、控场式轮次分配和即时评价，更多使用促进学生思考的对话 moves；学生也提出更多真实问题，能进行更累积、探索性和有推理的讨论。虽然不是科学教育专门研究，但它对探究学习、课堂话语和教师专业发展有直接参考价值。
+
+### 今日重点
+
+1. **STEM 可持续发展需要具体化“个体能动性”**：International Journal of STEM Education 新综述把 agency 放到课程、研究、机构变革、专业发展和跨学科合作中分析。
+2. **教师对话实践会影响学生贡献质量**：Instructional Science 新文显示，视频指导和 Quality Talk 能促进教师从 monologic teaching 转向 dialogic teaching，并提升学生推理和解释质量。
+3. **今天新增集中在学习科学与 STEM 可持续发展**：两篇文章分别对应 STEM 教育中的可持续发展行动和课堂对话/教学设计。
+4. **官网补查仍受访问限制**：自动访问 Springer/SpringerOpen、APS、Taylor & Francis 和 Wiley latest 页仍受 Client Challenge 或 403 限制，今天可靠展开依据为 Crossref DOI 元数据。
