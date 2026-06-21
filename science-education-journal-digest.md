@@ -2603,3 +2603,79 @@
 2. **教师对话实践会影响学生贡献质量**：Instructional Science 新文显示，视频指导和 Quality Talk 能促进教师从 monologic teaching 转向 dialogic teaching，并提升学生推理和解释质量。
 3. **今天新增集中在学习科学与 STEM 可持续发展**：两篇文章分别对应 STEM 教育中的可持续发展行动和课堂对话/教学设计。
 4. **官网补查仍受访问限制**：自动访问 Springer/SpringerOpen、APS、Taylor & Francis 和 Wiley latest 页仍受 Client Challenge 或 403 限制，今天可靠展开依据为 Crossref DOI 元数据。
+## 2026-06-21 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-21
+- 主检索覆盖时间范围：2026-06-21（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-07 至 2026-06-21（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：0
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次无新增文章，因此无 DOI 缺失和重复推送。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天的无新增判断以 Crossref DOI 元数据为主要依据，并记录官网自动访问受限。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **今天无新增可展开文章**：11 本期刊经 Crossref 主检索与最近 14 天补充检索后，均未发现尚未记录的新 DOI 或标题。
+2. **去重继续按 DOI 与标题双重执行**：已记录文章没有重复推送；无 DOI 缺失条目需要人工标题去重。
+3. **官网补查仍受自动访问限制**：Springer/SpringerOpen 返回 Client Challenge，APS、Taylor & Francis、Wiley 返回 403，今天的判断主要依赖 Crossref 元数据。
+4. **下一轮继续重点监测 AI/教育技术、K-12 科学教育、教师教育、科学概念学习、探究学习和学习科学相关条目**。
