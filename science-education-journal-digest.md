@@ -2626,7 +2626,7 @@
 - 因每刊最多 3 篇而未展开数量：0
 - 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次无新增文章，因此无 DOI 缺失和重复推送。
 - 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天的无新增判断以 Crossref DOI 元数据为主要依据，并记录官网自动访问受限。
-- GitHub commit：待同步
+- GitHub commit：946ed53
 - GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
 
 ### 1. Journal of Science Education and Technology
