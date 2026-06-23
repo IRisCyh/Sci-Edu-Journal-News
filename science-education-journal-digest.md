@@ -2771,3 +2771,116 @@
 2. **STEM 学习策略综述值得关注**：International Journal of STEM Education 新文系统梳理 evidence-based study strategies，可为学习科学和 STEM 教学设计提供参考。
 3. **今天新增集中在 STEM 公平与学习策略**：两篇文章分别对应包容性 STEM 教育和基于证据的学习方法，均与 STEM 教育质量直接相关。
 4. **检索稳定性记录**：PRPER 与 IJSE 的 Crossref 初次请求异常已重试并确认无新增；官网补查仍受 Client Challenge 或 403 限制。
+## 2026-06-23 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-23
+- 主检索覆盖时间范围：2026-06-23（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-09 至 2026-06-23（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：3，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：4
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI，未发现可能重复文章。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+#### 1. Integrating Digital Tools into the DMCR Framework to Enhance Upper-Primary Students’ Scientific Reasoning
+
+- 作者：Yulong Zhang, Shiyang Pang, Ruyi Jiang
+- 日期：2026-06-22
+- DOI：10.1007/s10956-026-10346-0
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10956-026-10346-0
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究如何把数字工具整合进 DMCR 框架，以提升小学高年级学生的科学推理。
+- 易读中文摘要：这篇文章关注小学高年级科学学习中的推理能力培养。标题显示，作者把数字工具嵌入 DMCR 框架，目标不是单纯增加技术使用，而是让技术支持学生观察、解释、论证或反思等推理过程。对 K-12 科学教育和教育技术来说，它的意义在于把数字工具放进一个明确的学习框架里，评估其是否真正促进科学思维，而不是只看课堂是否“用了技术”。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+#### 1. Broadening Queering: Centering Queer and Trans Cultural Praxis in Science Education Research
+
+- 作者：K. Rende Mendoza, Khanh Q. Tran
+- 日期：2026-06-22
+- DOI：10.1002/sce.70076
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1002/sce.70076
+- 英文 abstract 要点：This commentary challenges deficit framings of queer and trans life in science education research. It reviews safety, equity, and critical paradigms and argues that even useful frameworks can still position queer and trans people through constrained or deficit-oriented lenses. The authors call for a relational, anti-deficit orientation that centers queer and trans cultural praxis, collective care, relationality, joy, and life-affirming science education futures.
+- 易读中文摘要：这篇评论文章讨论科学教育研究如何更好地理解 queer 和 trans 群体。作者认为，已有研究常从安全、平等或批判角度出发，这些视角重要，但有时仍会把 queer 和 trans 学习者放在“风险、受害或缺失”的位置。文章主张把 queer/trans 的文化实践、关系、照护和快乐放到中心，让科学教育研究不只是修补伤害，也能想象更有生命力的学习共同体。它和当前 STEM 公平、身份认同与包容性科学教育研究直接相关。
+
+#### 2. Sentipensar [Feel-Thinking] Cultivates Collective Scientific Sensemaking and Worldbuilding Within and Beyond Ecological Despair
+
+- 作者：Kelsie Fowler
+- 日期：2026-06-22
+- DOI：10.1002/sce.70080
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1002/sce.70080
+- 英文 abstract 要点：This study examines how emotion and reasoning work together in youth learning about environmental and climate justice. Drawing on Latina eco-feminist and anti-colonial perspectives, the author uses Sentipensar, or feel-thinking, to analyze one youth participant’s sensemaking during a science education program on marine plastic pollution in Baja California. The analysis shows how eco-emotions can support honest communal sensemaking, deepen understanding, defend possible futures, and cultivate science identities and just worldbuilding.
+- 易读中文摘要：这篇文章研究青年在学习环境与气候正义时，情感如何参与科学理解。作者用 Sentipensar（可以理解为“感受-思考”）分析一位学生在墨西哥下加利福尼亚海洋塑料污染项目中的学习经历。核心观点是，生态焦虑、悲伤、愤怒等情绪不应该被课堂压下去；它们可以帮助学生更诚实地理解环境不公，深化科学解释，也形成面向未来的行动和身份认同。对气候教育和科学概念学习来说，它提醒我们：科学学习并不是把情感排除在外，情感可能正是深度理解和行动的入口。
+
+#### 3. Understanding the Relational Dimensions of Classroom Modeling Conversations
+
+- 作者：Eve Manz, Annabel Stoler
+- 日期：2026-06-22
+- DOI：10.1002/sce.70087
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1002/sce.70087
+- 英文 abstract 要点：This study examines classroom modeling conversations as both epistemic and relational work. Rather than focusing only on how students build and revise models, the authors analyze how teachers and students negotiate accountability, participation, roles, and relationships while constructing knowledge. Using framing as an analytic lens, the paper shows how different classroom discussion structures create different epistemic and relational opportunities, especially when students evaluate one another’s ideas and participate in whole-class modeling conversations.
+- 易读中文摘要：这篇文章把科学建模讨论看成两件事同时发生：学生在建构知识，也在处理彼此之间的关系。传统建模研究常关注模型是否更科学、解释是否更合理；这篇文章进一步问，学生在评价同伴想法、参与全班讨论时，课堂关系、责任感和参与机会如何被组织出来。对探究学习和建模教学来说，它的价值在于提醒教师：高质量科学讨论不只需要好的问题和模型任务，也需要设计学生如何安全、负责、有建设性地回应彼此。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **小学科学推理与数字工具整合**：JSET 新文关注如何把数字工具嵌入 DMCR 框架，目标是增强小学高年级学生的科学推理，而不是停留在技术使用本身。
+2. **Science Education 今天集中出现三篇关系/身份/情感取向文章**：主题覆盖 queer/trans 文化实践、生态情绪与科学意义建构、课堂建模对话中的关系维度。
+3. **气候与环境教育中的情感不应被剥离**：Sentipensar 文章强调情绪可以支持科学理解、身份发展和公正世界建构，对气候教育尤其重要。
+4. **建模教学需要同时设计知识建构与关系结构**：课堂建模对话文章提醒教师关注学生如何评价彼此想法、如何参与共同体中的科学解释。
+5. **今日重点方向**：K-12 科学推理、教育技术、STEM/科学教育公平、气候与环境教育、科学建模与课堂话语。
