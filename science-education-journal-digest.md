@@ -2976,3 +2976,95 @@
 2. **教师专业发展与科学探究能力**：Studies in Science Education 新综述聚焦如何设计有效培训，让教师更好地促进学生科学探究能力。
 3. **今天新增集中在概念理解与教师教育**：两篇文章分别对应物理概念学习和 K-12 科学探究教学支持，和当前 science education 方向高度相关。
 4. **官网补查仍受访问限制**：自动访问 Springer/SpringerOpen、APS、Taylor & Francis 和 Wiley latest 页仍受 Client Challenge 或 403 限制，今天可靠展开依据为 Crossref DOI 元数据。
+## 2026-06-25 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-25
+- 主检索覆盖时间范围：2026-06-25（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-11 至 2026-06-25（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：2
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI，未发现可能重复文章。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+#### 1. The role of Visuospatial Working Memory in Chemistry Learning Assessed in a Sample of Italian Undergraduate Students
+
+- 作者：Francesca De Vita, Elena Ghibaudi, Barbara Sini, Renato Lombardo, Antonella Maria Maggio, Anna Maria Re
+- 日期：2026-06-24
+- DOI：10.1007/s10956-026-10336-2
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10956-026-10336-2
+- 英文 abstract 要点：这项研究关注化学学习中的认知基础，尤其是学生在宏观、微观和符号三个表征层次之间切换时，工作记忆会怎样影响理解。研究以 315 名意大利本科生的化学任务表现为主要数据，并让其中 81 人完成语言工作记忆、视觉空间工作记忆和流体智力相关测验。结果显示，化学任务准确率与视觉空间工作记忆表现呈正相关；当题目需要处理视觉信息，或同时操作文字和视觉信息时，这种优势更加明显。
+- 易读中文摘要：这篇文章提醒我们，化学学习不只是“会不会背概念”，还很依赖学生能不能在脑中稳定地想象和操作微观结构、符号表达与可观察现象之间的关系。研究发现，视觉空间工作记忆较强的学生，在处理化学题时更容易表现好，尤其是题目涉及图像、结构或多重表征时。对科学教育和教育技术设计来说，这意味着教师和课程开发者需要更认真地考虑认知负荷：图像、模型、动画和分子表征如果设计得好，可以支持理解；如果一下子塞入过多信息，也可能压垮学生的工作记忆。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Doctoral Preparation in Mathematics Education: Graduates' Perspectives on Program Features, Expertise Development, and Scholarly Learning Cultures
+
+- 作者：Scott A. Courtney, Anita N. Alexander
+- 日期：2026-06-24
+- DOI：10.1007/s10763-026-10694-8
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10763-026-10694-8
+- 英文 abstract 要点：这项研究从毕业生视角考察数学教育博士培养，使用汇聚型混合方法：156 名博士毕业生问卷样本覆盖 37 个国家，另有 16 名参与者来自 10 个国家情境并接受深度访谈。问卷和访谈共同显示，理论基础、数学教育研究文献参与、对数学思想的深层理解被毕业生认为尤其重要。研究能力通常在博士阶段形成，而教学、指导、领导和专业职责则更多在毕业后的实践中继续发展。导师关系、研究共同体、学术写作、会议参与和国际合作，对研究者身份形成很关键。
+- 易读中文摘要：这篇文章关心的是：一个数学教育博士项目，到底怎样帮助学生成长为研究者。它没有把毕业生的看法简单当作“课程改革清单”，而是把这些回顾性经验放在不同国家和制度背景中理解。研究最有启发的一点是，博士培养不只是开课和完成论文，而是一种学术共同体中的形成过程：学生需要进入文献、学习理论、写作发表、参与会议、获得导师支持，并逐步建立研究身份。对 STEM 教育研究生培养、教师教育研究团队建设和学习共同体设计都有参考意义。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **化学概念学习与认知负荷**：JSET 新文显示，视觉空间工作记忆与本科生化学学习表现有关，尤其适合关注多重表征、分子模型和科学技术工具设计的研究者。
+2. **科学/数学教育研究者培养**：IJSME 新文从跨国毕业生经验出发，强调博士培养中的理论、文献、导师关系、研究共同体和学术写作文化。
+3. **教育技术与学习科学的交叉提醒**：JSET 文章提示可视化工具、动画和模型并非天然有效，关键在于它们如何管理学生的工作记忆和表征切换。
+4. **今日新增集中在高等 STEM 学习与研究生培养**：两篇文章都不直接指向 K-12 课堂，但分别对科学概念学习、教学设计、学习科学和 STEM 教育人才培养有延伸价值。
