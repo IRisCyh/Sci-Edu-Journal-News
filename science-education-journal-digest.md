@@ -3217,3 +3217,95 @@
 3. **STEM 教育公平继续值得跟踪**：IJSE 新文聚焦乡村和小城镇学生进入 STEM 的路径，有助于理解地域资源、身份和参与机会的关系。
 4. **具身学习与沉浸式技术**：JSET 的 VR 动态模型与手势研究，把科学概念学习、身体动作和虚拟仿真联系起来，是科学技术与学习科学交叉方向的信号。
 5. **教师教育中的技术整合**：IJSME 的 ChatGPT 活动设计和 Scratch 比例关系研究共同说明，未来教师需要同时发展技术使用、学科理解和教学设计判断。
+## 2026-06-28 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-28
+- 主检索覆盖时间范围：2026-06-27 至 2026-06-28（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-14 至 2026-06-28（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限；检出 1 篇昨日已列为未展开标题，今日不重复推送）
+  - International Journal of Science Education：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：2
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI。PRPER 的 `10.1103/5ycs-7v84` 虽未在昨日展开为完整卡片，但其标题已在 2026-06-27 “另有 3 篇未展开”中出现，且发表日期为 2026-06-24，今日不重复推送。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+#### 1. Pedagogical content knowledge (PCK) about scientific reasoning in different groups of science teachers and its relation to other variables
+
+- 作者：Tobias Lieberei, Virginia Deborah Elaine Welter, Moritz Krell
+- 日期：2026-06-27
+- DOI：10.1080/09500693.2026.2684245
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1080/09500693.2026.2684245
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究不同科学教师群体关于科学推理的学科教学知识（PCK），并分析这种 PCK 与其他变量之间的关系。
+- 易读中文摘要：这篇文章关注教师是否真正知道“如何教科学推理”。科学推理不是单一知识点，而涉及提出问题、控制变量、解释证据、建立论证和评价结论。文章可能比较不同教师群体的 PCK 差异，并考察它与经验、背景知识或其他教师变量之间的关系。对 K-12 科学教育和教师教育来说，价值在于把“会科学”与“会教学生进行科学推理”区分开来，为教师培训和诊断提供更具体的方向。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Mathematics Teacher Noticing Frameworks: Tensions and Synergies Across Foundations, Forms, and Functions
+
+- 作者：Thorsten Scheiner, Julie M. Amador
+- 日期：2026-06-27
+- DOI：10.1007/s10763-026-10695-7
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10763-026-10695-7
+- 英文 abstract 要点：研究分析数学教师注意（teacher noticing）框架之间的张力与协同，比较认知、社会文化、生态-具身等理论视角。文章使用 Foundation-Form-Function（3F）分析视角，考察不同框架的理论假设、概念组织和功能能力。结果显示，一些理论差异会形成持续张力，另一些差异则能带来选择性协调的机会。文章不追求统一综合，而是指出哪些领域可以互补，哪些地方因基础假设不同而难以直接对话。
+- 易读中文摘要：这篇文章讨论教师如何“看见”课堂中值得回应的数学学习机会。不同研究传统对 teacher noticing 的理解并不完全一致：有的关注教师头脑中的认知加工，有的强调课堂互动和社会文化情境，有的把身体、环境和行动也纳入分析。文章的意义在于帮助研究者和教师教育者更清楚地选择框架：不是把所有理论硬合并，而是明确每种框架能看见什么、看不见什么，以及在培养教师课堂判断力时怎样互补使用。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **科学推理教师教育**：IJSE 新文聚焦科学教师关于科学推理的 PCK，对 K-12 科学教育、教师培训和科学探究教学具有直接相关性。
+2. **教师课堂判断力框架比较**：IJSME 新文梳理 teacher noticing 的多种理论框架，有助于设计更清晰的教师教育研究和课堂观察工具。
+3. **今日新增偏教师专业知识与教师教育**：两篇展开文章都集中在教师如何理解、观察和支持学生的学科思维，而不是单纯讨论学习结果。
+4. **数据质量说明**：官网 latest/current 页面仍受自动访问限制；今日可靠展开依据为 Crossref 元数据，缺失 abstract 的文章已明确标注。
