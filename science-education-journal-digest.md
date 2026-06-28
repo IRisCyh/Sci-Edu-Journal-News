@@ -3240,7 +3240,7 @@
 - 因每刊最多 3 篇而未展开数量：0
 - 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI。PRPER 的 `10.1103/5ycs-7v84` 虽未在昨日展开为完整卡片，但其标题已在 2026-06-27 “另有 3 篇未展开”中出现，且发表日期为 2026-06-24，今日不重复推送。
 - 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。
-- GitHub commit：待同步
+- GitHub commit：279a9e9
 - GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
 
 ### 1. Journal of Science Education and Technology
