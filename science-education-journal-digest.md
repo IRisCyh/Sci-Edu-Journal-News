@@ -3309,3 +3309,97 @@
 2. **教师课堂判断力框架比较**：IJSME 新文梳理 teacher noticing 的多种理论框架，有助于设计更清晰的教师教育研究和课堂观察工具。
 3. **今日新增偏教师专业知识与教师教育**：两篇展开文章都集中在教师如何理解、观察和支持学生的学科思维，而不是单纯讨论学习结果。
 4. **数据质量说明**：官网 latest/current 页面仍受自动访问限制；今日可靠展开依据为 Crossref 元数据，缺失 abstract 的文章已明确标注。
+## 2026-06-29 推送
+
+### 推送记录
+
+- 本次推送日期：2026-06-29
+- 主检索覆盖时间范围：2026-06-28 至 2026-06-29（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-15 至 2026-06-29（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限；检出 1 篇 2026-06-27 已列为未展开标题，今日不重复推送）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：2，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：2
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI。PRPER 的 `10.1103/5ycs-7v84` 仍为 2026-06-27 “另有 3 篇未展开”中已出现标题，且发表日期为 2026-06-24，今日不重复推送。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+#### 1. Developing deep learning in science through an adaptive AI-based STEM instructional program: evidence from sixth-grade classrooms
+
+- 作者：Tahani Bin Bakheet, Hamdan Alamri, Fahad Alshaya
+- 日期：2026-06-28
+- DOI：10.1186/s40594-026-00630-1
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1186/s40594-026-00630-1
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究基于自适应 AI 的 STEM 教学项目如何促进六年级科学课堂中的深度学习，并提供课堂证据。
+- 易读中文摘要：这篇文章直接指向 K-12 科学教育中的 AI 教学设计。它关注的不是学生是否“用了 AI”，而是一个自适应 AI STEM 教学项目能否支持六年级学生在科学学习中形成更深层的理解。对教学设计来说，关键问题包括：AI 如何根据学生状态调整学习路径，如何支持概念理解而不是只给答案，以及教师如何把 AI 系统嵌入真实课堂活动中。该文对科学技术与 AI、学习科学和小学高年级科学教学都有较高相关性。
+
+#### 2. Inquiry-based learning in STEM education: the impact of generative AI-based Chatbots on primary school students' problem posing ability in science
+
+- 作者：Zhicheng Dai, Feiyan Huang, Junxia Xiong, Yue Yang, Qian Zhang, Xian Peng
+- 日期：2026-06-28
+- DOI：10.1186/s40594-026-00631-0
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1186/s40594-026-00631-0
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究基于生成式 AI 的聊天机器人在 STEM 探究学习中，对小学生科学问题提出能力的影响。
+- 易读中文摘要：这篇文章关注生成式 AI 如何参与小学科学探究学习，重点不是回答问题，而是帮助学生提出更好的科学问题。问题提出能力是探究学习的起点：学生能否发现现象中的变量、关系和可研究点，决定了后续实验设计和证据推理的质量。文章对 K-12 STEM、探究学习和 GenAI 教学应用都很关键，因为它把 AI 的角色从“解题工具”转向“促进学生形成可探究问题的对话伙伴”。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **K-12 科学教育中的 AI 证据增加**：今天两篇新增都来自 International Journal of STEM Education，且都聚焦小学或六年级科学学习中的 AI/STEM 教学。
+2. **自适应 AI 与深度学习**：第一篇关注自适应 AI STEM 教学项目能否促进科学深度学习，适合跟踪 AI 如何从工具层面进入课堂教学设计。
+3. **生成式 AI 支持探究起点**：第二篇把 GenAI 聊天机器人用于提升学生提出科学问题的能力，和探究学习、科学推理、问题设计高度相关。
+4. **今日主题集中度高**：没有新增教师教育或高等教育文章；新增内容集中在 K-12、AI、STEM 教育、探究学习和科学概念学习支持。
