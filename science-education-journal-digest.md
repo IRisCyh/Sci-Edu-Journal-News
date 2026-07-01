@@ -3403,3 +3403,134 @@
 2. **自适应 AI 与深度学习**：第一篇关注自适应 AI STEM 教学项目能否促进科学深度学习，适合跟踪 AI 如何从工具层面进入课堂教学设计。
 3. **生成式 AI 支持探究起点**：第二篇把 GenAI 聊天机器人用于提升学生提出科学问题的能力，和探究学习、科学推理、问题设计高度相关。
 4. **今日主题集中度高**：没有新增教师教育或高等教育文章；新增内容集中在 K-12、AI、STEM 教育、探究学习和科学概念学习支持。
+## 2026-07-01 推送
+
+### 推送记录
+
+- 本次推送日期：2026-07-01
+- 主检索覆盖时间范围：2026-06-29 至 2026-07-01（自上次推送以来；2026-06-30 无单独记录）
+- 补充检索覆盖时间范围：2026-06-17 至 2026-07-01（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：3，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：2，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：6
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI。Crossref 仍返回 PRPER 的 `10.1103/5ycs-7v84`，但该标题已在 2026-06-27 “另有 3 篇未展开”中出现，且发表日期为 2026-06-24，今日不重复推送。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+#### 1. Integrated 5E Learning Cycle Model with Mobile Technology: An Effective Laboratory Approach for Future Educators
+
+- 作者：Murat Okur, Hatice Güngör Seyhan
+- 日期：2026-06-30
+- DOI：10.1007/s10956-026-10348-y
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10956-026-10348-y
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究把 5E 学习循环模型与移动技术整合，用作未来教师实验室学习的一种教学路径。
+- 易读中文摘要：这篇文章关注教师教育中的实验室教学设计。5E 模型强调从引入、探究、解释、拓展到评价的学习过程，移动技术则可能支持数据采集、记录、即时反馈或协作。文章的核心价值在于讨论移动技术不是作为附加工具，而是嵌入实验探究流程，帮助未来教师理解如何组织更完整的科学学习活动。它与科学教师教育、实验/探究学习和教育技术整合高度相关。
+
+### 2. Physical Review Physics Education Research
+
+#### 1. Examining factors influencing the development and evolution of self-efficacy and sense of belonging in a physics class
+
+- 作者：Anonymous
+- 日期：2026-06-29
+- DOI：10.1103/lkdr-cz49
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/lkdr-cz49
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究物理课堂中学生自我效能感和归属感的发展与变化，以及影响这些变化的因素。
+- 易读中文摘要：这篇文章关注物理学习中的身份与情感支持。自我效能感影响学生是否相信自己能学好物理，归属感影响学生是否觉得自己属于物理学习共同体。对物理教育和 STEM 留存研究来说，这类变量很关键，因为学生是否继续投入学习，往往不仅取决于成绩，也取决于课堂互动、反馈、同伴关系、教师支持和课程文化。
+
+#### 2. Teachers' acceptance and understanding of a reduced Dirac formalism and the Bloch sphere
+
+- 作者：Anonymous
+- 日期：2026-06-29
+- DOI：10.1103/zwh6-84p5
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/zwh6-84p5
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究教师对简化 Dirac 表示法和 Bloch 球的接受度与理解，可能服务于量子物理或量子信息相关教学。
+- 易读中文摘要：这篇文章指向高阶物理内容如何进入教学的问题。Dirac 表示法和 Bloch 球是量子物理/量子信息学习中的重要表征，但对教师和学生都可能较抽象。文章关注教师是否理解并接受这些简化形式，意味着它不仅讨论内容本身，也讨论教师能否把复杂表征转化为可教学、可解释的课堂资源。
+
+#### 3. From search to GenAI queries: Global trends in physics information-seeking across topics and regions
+
+- 作者：Anonymous
+- 日期：2026-06-29
+- DOI：10.1103/g1vh-fl9s
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/g1vh-fl9s
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文比较传统搜索与 GenAI 查询在物理信息寻求中的全球趋势，并按主题和地区分析差异。
+- 易读中文摘要：这篇文章把 GenAI 放在物理学习信息获取的宏观变化中观察。它可能关注学生、教师或公众如何从搜索引擎转向生成式 AI 提问，以及不同主题、地区的使用趋势有什么差异。对科学教育来说，这关系到信息素养和 AI 素养：学习者不只需要找到答案，还需要判断来源、理解生成式回答的局限，并知道什么时候需要证据、教材或专家资源支持。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+#### 1. Elementary School Students' Ecosystem Scientific Argumentation Based on the Rule-Space Model: Pathways and Remediation
+
+- 作者：Xin Shou, Qingsong Wang, Qingying Liu, Shengquan Luo
+- 日期：2026-07-01
+- DOI：10.1007/s11165-026-10357-2
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s11165-026-10357-2
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文使用 Rule-Space Model 分析小学生关于生态系统的科学论证路径，并讨论补救或干预方式。
+- 易读中文摘要：这篇文章直接面向小学科学教育和科学论证能力。生态系统学习涉及因果关系、证据解释和系统思维，学生常常需要把生物、环境和相互作用联系起来。Rule-Space Model 可能用于诊断学生在哪些论证规则或知识结构上存在困难，再据此设计补救路径。文章对 K-12 科学概念学习、论证教学和学习诊断都有参考价值。
+
+#### 2. Identifying and Classifying Observed Emotions in Informal Science Learning Environments Using the Emotions Observational Tool (EMOTool)
+
+- 作者：Neta Shaby, Luisa Massarani, Graziele Scalfi, Waneicy S. Gonçalves, Nancy Staus, Shawn Rowe
+- 日期：2026-06-30
+- DOI：10.1007/s11165-026-10358-1
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s11165-026-10358-1
+- 英文 abstract 要点：研究开发 EMOTool，用于在动物园、水族馆、科学中心等非正式科学学习场景中系统记录可观察的情绪表达。文章基于 8 项非正式科学学习研究的数据，建立情绪分类、可观察行为和话语标记，并结合改编版 Affect Grid 进行情绪编码。目标是帮助研究者更准确地区分和分析非正式科学学习中的实时情绪体验。
+- 易读中文摘要：这篇文章关注非正式科学学习中的情绪如何被可靠观察。学生或公众在科学中心、动物园、水族馆中可能产生好奇、兴奋、困惑或挫败，但这些情绪很难只靠事后问卷捕捉。EMOTool 的价值在于提供一个现场观察工具，让研究者能更系统地识别情绪表现。它对学习科学、科学传播、博物馆教育和情感维度的科学学习研究都有意义。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **K-12 科学论证与生态系统学习**：Research in Science Education 新文关注小学生生态系统科学论证路径和补救，直接对应科学概念学习与论证教学。
+2. **AI 改变物理信息寻求**：PRPER 新文从传统搜索转向 GenAI 查询的全球趋势切入，值得继续跟踪科学技术与 AI 素养方向。
+3. **教师教育与技术整合**：JSET 新文把 5E 学习循环、移动技术和实验室教学结合，适合关注未来教师实验/探究教学能力培养。
+4. **物理学习中的归属感与自我效能**：PRPER 新文聚焦物理课堂中的 self-efficacy 与 belonging，对 STEM 留存和公平研究有直接意义。
+5. **非正式科学学习的情绪测量**：EMOTool 文章提供情绪观察工具，有助于把科学中心、博物馆等场景中的学习体验研究做得更可操作。
