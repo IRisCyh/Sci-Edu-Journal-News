@@ -3534,3 +3534,132 @@
 3. **教师教育与技术整合**：JSET 新文把 5E 学习循环、移动技术和实验室教学结合，适合关注未来教师实验/探究教学能力培养。
 4. **物理学习中的归属感与自我效能**：PRPER 新文聚焦物理课堂中的 self-efficacy 与 belonging，对 STEM 留存和公平研究有直接意义。
 5. **非正式科学学习的情绪测量**：EMOTool 文章提供情绪观察工具，有助于把科学中心、博物馆等场景中的学习体验研究做得更可操作。
+## 2026-07-02 推送
+
+### 推送记录
+
+- 本次推送日期：2026-07-02
+- 主检索覆盖时间范围：2026-07-01 至 2026-07-02（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-18 至 2026-07-02（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：2，数据来源：Crossref 主检索重试成功 + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：2，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：6
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI。Crossref 仍返回 PRPER 的 `10.1103/5ycs-7v84`，但该标题已在 2026-06-27 “另有 3 篇未展开”中出现，且发表日期为 2026-06-24，今日不重复推送。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。PRPER 首次 Crossref 查询返回 500，单独重试后成功。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+#### 1. Augmented and Virtual Reality Applications in K-12 STEM Education: Potentials, Limitations, and Future Directions
+
+- 作者：Bülent Kandemi̇r, Emrah Akman
+- 日期：2026-07-02
+- DOI：10.1007/s10956-026-10347-z
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10956-026-10347-z
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文讨论增强现实和虚拟现实在 K-12 STEM 教育中的应用潜力、限制与未来方向。
+- 易读中文摘要：这篇文章聚焦 AR/VR 在中小学 STEM 教育中的实际价值和边界。它的重点不应只是沉浸式技术是否新颖，而是这些技术能否帮助学生理解抽象现象、进行空间推理、观察不可见过程，并参与更真实的科学探究。文章同时强调限制，意味着研究者和教师需要关注设备可及性、认知负荷、课堂管理、教师培训和学习评估，而不是把 AR/VR 视为自动有效的技术方案。
+
+### 2. Physical Review Physics Education Research
+
+#### 1. Students' types of interest in physics: A mixed Rasch model investigation
+
+- 作者：Anonymous
+- 日期：2026-07-01
+- DOI：10.1103/7t87-hcgv
+- 数据来源：Crossref 主检索重试成功 + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/7t87-hcgv
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文使用 mixed Rasch model 研究学生物理兴趣的不同类型。
+- 易读中文摘要：这篇文章关注“学生对物理感兴趣”这件事内部可能并不单一。不同学生的兴趣可能来自概念挑战、实验活动、职业目标、日常应用或课堂归属感。使用 mixed Rasch model 表明研究可能在量化区分学生兴趣类型，而不是只给出一个总分。对物理教育和 STEM 留存研究来说，这有助于更精确地设计课程和干预：不同兴趣类型的学生可能需要不同形式的支持。
+
+#### 2. Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive Load, flow experience and empathy perception in physics learning
+
+- 作者：Anonymous
+- 日期：2026-07-01
+- DOI：10.1103/9t5b-twsb
+- 数据来源：Crossref 主检索重试成功 + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1103/9t5b-twsb
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文比较基于提示词工程设计的教师中心型与学生中心型智能代理，在物理学习中的学习表现、认知负荷、心流体验和共情感知效果。
+- 易读中文摘要：这篇文章直接落在 AI 代理与物理学习设计交叉处。它不只是问 AI 是否有效，而是比较不同教学取向的代理如何影响学习。教师中心型代理可能更强调讲解和引导，学生中心型代理可能更强调提问、探索和自主建构。文章关注认知负荷、心流和共情感知，说明 AI 代理设计需要同时考虑学习效果和学习体验。对 AI 教学助手、物理概念学习和提示词工程都有参考价值。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+#### 1. STEAM education for AI literacy: a systematic literature review
+
+- 作者：Gala Niri, Thomas K. F. Chiu, Angel Mae O. Ombid, Dennis Lee Jarvis B. Ybañez, Sebastian Maximilian Dennerlein, Xinyan Zhou, Zsolt Lavicza
+- 日期：2026-06-29
+- DOI：10.1186/s40594-026-00629-8
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1186/s40594-026-00629-8
+- 英文 abstract 要点：这篇系统综述按 PRISMA 流程分析 2016-2025 年 39 项研究，关注 STEAM 如何支持 K-12 AI 素养。研究用 TIECD 框架和十个 AI Literacy Elements 梳理文献，发现 2021 年后相关研究快速增长，主要集中在中学和高中，地域与方法分布不均。现有 STEAM 实践更多培养基础 AI 概念、计算思维和数据素养，而伦理意识、创造性想象、与 AI 共创、AI 管理和 AI 系统设计相对不足。
+- 易读中文摘要：这篇综述对 AI 素养教育很有价值，因为它指出当前 K-12 STEAM 中的 AI 教育偏重技术层面，较少系统覆盖伦理、创造、协作和设计。换句话说，很多课程可能在教学生“AI 是什么、怎么运行、如何处理数据”，但还没有充分支持学生思考 AI 对社会的影响、如何负责任地使用 AI、怎样与 AI 协作完成创造性任务。对课程设计者来说，下一步需要把 AI 素养从技术知识扩展为综合素养。
+
+#### 2. STEM joiners and STEM leavers in transfer pathways: predictors of undergraduate degree attainment
+
+- 作者：Jue Wu, Yu April Chen
+- 日期：2026-06-27
+- DOI：10.1186/s40594-026-00627-w
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1186/s40594-026-00627-w
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文研究转学路径中进入 STEM 与离开 STEM 的学生，以及影响其本科毕业获得学位的预测因素。
+- 易读中文摘要：这篇文章关注高等教育中的 STEM 进入、流失与完成。转学路径中的学生往往面临课程衔接、学分转换、经济压力、归属感和学术支持等问题。区分 STEM joiners 与 STEM leavers，有助于理解哪些学生在转学后进入 STEM，哪些学生离开 STEM，以及哪些因素预测最终能否获得本科学位。对 STEM 教育公平、留存和转学支持政策有直接意义。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Constructing a Computerized Adaptive Test for Multidimensional Mathematical Competence: Development, Simulation, and Validation
+
+- 作者：Yao-Ting Sung, Yu-Chun Lien, Yeh-Tai Chou, Wei-Hong Yang
+- 日期：2026-07-01
+- DOI：10.1007/s10763-026-10701-y
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10763-026-10701-y
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文开发、模拟并验证用于多维数学能力的计算机化自适应测验。
+- 易读中文摘要：这篇文章关注数学能力评估如何从固定试卷转向自适应测验。多维数学能力意味着测验不只给一个总分，而是可能同时估计多个能力维度。计算机化自适应测验会根据学生前面的回答调整后续题目，从而更高效地获得诊断信息。对 STEM 教育评价、学习分析和个性化学习系统来说，这类工具有助于更精细地识别学生优势和困难，但也要求测验模型、题库质量和公平性验证足够可靠。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **K-12 STEM 中的 AR/VR 与 AI 素养**：JSET 的 AR/VR 综述性主题和 International Journal of STEM Education 的 AI 素养系统综述，都指向技术进入 K-12 STEM 的设计边界。
+2. **AI 代理进入物理学习**：PRPER 新文比较教师中心型与学生中心型 AI 代理，对提示词工程、认知负荷和学习体验评估有直接参考价值。
+3. **STEM 留存与转学路径**：International Journal of STEM Education 新文关注 STEM joiners 和 leavers，对高等教育 STEM 公平与完成率研究有意义。
+4. **物理兴趣的差异化诊断**：PRPER 新文用 mixed Rasch model 区分学生物理兴趣类型，有助于避免把兴趣当作单一变量处理。
+5. **自适应评估与学习分析**：IJSME 新文开发多维数学能力的计算机化自适应测验，适合关注个性化学习和精细诊断的研究者。
