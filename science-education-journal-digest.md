@@ -3663,3 +3663,105 @@
 3. **STEM 留存与转学路径**：International Journal of STEM Education 新文关注 STEM joiners 和 leavers，对高等教育 STEM 公平与完成率研究有意义。
 4. **物理兴趣的差异化诊断**：PRPER 新文用 mixed Rasch model 区分学生物理兴趣类型，有助于避免把兴趣当作单一变量处理。
 5. **自适应评估与学习分析**：IJSME 新文开发多维数学能力的计算机化自适应测验，适合关注个性化学习和精细诊断的研究者。
+## 2026-07-03 推送
+
+### 推送记录
+
+- 本次推送日期：2026-07-03
+- 主检索覆盖时间范围：2026-07-02 至 2026-07-03（自上次推送以来）
+- 补充检索覆盖时间范围：2026-06-19 至 2026-07-03（最近 14 天补充检索）
+- 各期刊新增文章数量与数据来源：
+  - Journal of Science Education and Technology：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Physical Review Physics Education Research：0，数据来源：Crossref 主检索重试成功 + 14 天官网补查（官网自动访问受限；仅检出旧的未展开标题，不重复推送）
+  - International Journal of Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Journal of Research in Science Teaching (JRST)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - British Journal of Educational Technology (BJET)：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of STEM Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Research in Science Education：1，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - International Journal of Science and Mathematics Education (IJSME)：2，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Studies in Science Education：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+  - Instructional Science：0，数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 本次实际展开文章总数：3
+- 因每刊最多 3 篇而未展开数量：0
+- 重复或 DOI 缺失：已使用 DOI 与标题双重去重；本次展开文章均有 DOI。Crossref 仍返回 PRPER 的 `10.1103/5ycs-7v84`，但该标题已在 2026-06-27 “另有 3 篇未展开”中出现，且发表日期为 2026-06-24，今日不重复推送。
+- 官网补查说明：Springer/SpringerOpen latest 页面返回 Client Challenge，APS、Taylor & Francis、Wiley 页面返回 403；因此今天展开内容以 Crossref DOI 元数据和 DOI 链接为可靠来源。PRPER 首次 Crossref 查询返回 500，单独重试后成功。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增。
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+#### 1. Empowering Preservice Biology Teachers as Designers of Pedagogical AI Agents: Moving Beyond Data Feeding toward Pedagogical Design
+
+- 作者：Branko Anđić, Christoph Helm, Robert Weinhandl, Mirjana Maričić, Antonia Radlmair, Valentina Bleckenwegner, Martin Ebner
+- 日期：2026-07-03
+- DOI：10.1007/s11165-026-10359-0
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s11165-026-10359-0
+- 英文 abstract 要点：该研究考察职前生物教师能否独立开发面向教学目标、内容和学生需求的教学型 AI 代理，通常以聊天机器人形式出现。研究采用混合方法和 ICAP 理论框架，分析 54 份教学设计，并考察职前教师对 AI 代理开发及其对生物教学贡献的看法。结果显示三种使用模式：贯穿所有教学阶段的密集使用、聚焦核心活动的选择性使用、主要用于导入环节的有限使用。研究还识别出个性化学习、动机参与、教师数字与教学能力、技术资源挑战、学生-AI 互动设计障碍等主题。
+- 易读中文摘要：这篇文章的关键点是把职前生物教师从“把资料喂给 AI 的使用者”转向“教学型 AI 代理的设计者”。它强调 AI 是否有效，取决于教师能否把 AI 代理嵌入具体教学目标、学生需求和互动结构中。对科学教师教育来说，这意味着未来教师需要学习的不只是会用聊天机器人，而是会设计学生如何与 AI 对话、AI 在课堂哪个阶段发挥作用、如何保持伦理和教学有效性。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Integrated STEM Education: A Pedagogical Chimera Detached from Teaching Practice
+
+- 作者：Antonio García-Carmona, Radu Bogdan Toma, Juan Quílez-Pardo
+- 日期：2026-07-02
+- DOI：10.1007/s10763-026-10702-x
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10763-026-10702-x
+- 英文 abstract 要点：未获取到 abstract。根据标题和元数据，该文批判 integrated STEM education 可能成为脱离教学实践的“教学嵌合体”，关注理念与真实课堂实施之间的断裂。
+- 易读中文摘要：这篇文章可能对 integrated STEM 的流行概念提出审视：跨学科整合听起来合理，但如果缺少清晰的学科目标、教师可操作策略、评价标准和课堂时间结构，就容易停留在口号层面。文章的价值在于提醒研究者和课程设计者，STEM 整合不能只追求把多个学科放在一起，而要说明学生具体学什么、教师如何组织、各学科知识如何真正产生联系。
+
+#### 2. Unplugged but Connected: Linking Computational Thinking and Mathematical Problem-Solving in Primary Education
+
+- 作者：Silvia-Natividad Moral-Sánchez, Gregorio Arjona-Aranda, Cristina Ayala-Altamirano, Cristina Sánchez-Cruzado
+- 日期：2026-07-02
+- DOI：10.1007/s10763-026-10698-4
+- 数据来源：Crossref + 14 天官网补查（官网自动访问受限）
+- 链接：https://doi.org/10.1007/s10763-026-10698-4
+- 英文 abstract 要点：研究使用 Turing Tumble 这类机械计算机工具，让 30 名 9-10 岁学生以 10 个三人小组参与课堂实验，分析无屏幕活动中计算思维与数学问题解决如何共同出现。研究基于视频和学生工作本进行混合方法分析，发现学生大量依赖迭代测试和调试，而不是显性规划。文章提出测试行为分类，包括机械、动觉、部分算法和完整算法测试，并指出回顾反思与测试/调试之间存在强联系。
+- 易读中文摘要：这篇文章说明小学计算思维不一定依赖电脑屏幕。学生通过操作机械装置、不断测试和调试，也能发展算法意识、问题分解和数学问题解决策略。它特别值得关注的是：学生常常先动手试，再从失败中调整规则，这种探索式过程本身就是计算思维与数学思维的结合。对小学 STEM 教学设计来说，无屏幕任务可以降低设备门槛，同时让教师更清楚地观察学生如何推理、调试和反思。
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+1. **职前科学教师的 AI 设计能力**：Research in Science Education 新文强调让职前生物教师设计教学型 AI 代理，而不是只把 AI 当作内容生成工具。
+2. **Integrated STEM 的实践落差**：IJSME 新文批判 integrated STEM 可能脱离真实教学实践，提醒课程设计需要明确学科目标和课堂操作路径。
+3. **小学计算思维与数学问题解决**：IJSME 的 unplugged 活动研究显示，机械操作、测试和调试可以把计算思维与数学问题解决连接起来。
+4. **今日主题集中在教师设计和课堂可实施性**：三篇新增都指向一个共同问题：教育创新要落地，需要可观察、可设计、可评估的课堂实践，而不仅是技术或理念本身。
