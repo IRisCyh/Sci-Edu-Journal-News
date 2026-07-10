@@ -4105,3 +4105,141 @@
 3. STEM/工程实验教学：International Journal of STEM Education 的工程实验室案例关注实践知识、实验学习和教学观念。
 4. 科学教师教育与性别经验：IJSE 的女性科学教师研究可作为科学教师身份、能动性与性别结构的阅读材料。
 5. 学习科学与教学设计：Instructional Science 两篇分别涉及高质量同伴反馈和学习风格个性化争议，均与教学设计证据基础有关。
+## 2026-07-10 推送
+
+### 推送记录
+
+- 本次推送日期：2026-07-10
+- 主检索覆盖时间范围：2026-07-07 至 2026-07-10（自上次推送以来，按 DOI 去重）
+- 补充检索覆盖时间范围：2026-06-26 至 2026-07-10（最近 14 天 Crossref DOI 补查；官网/latest 页面补查存在 403 或 Client Challenge 访问限制）
+- 各期刊新增文章数量：
+  1. Journal of Science Education and Technology：1
+  2. Physical Review Physics Education Research：2
+  3. International Journal of Science Education：1
+  4. Science Education：0
+  5. Journal of Research in Science Teaching (JRST)：0
+  6. British Journal of Educational Technology (BJET)：0
+  7. International Journal of STEM Education：0
+  8. Research in Science Education：0
+  9. International Journal of Science and Mathematics Education (IJSME)：1
+  10. Studies in Science Education：0
+  11. Instructional Science：1
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+  2. Physical Review Physics Education Research：Crossref 主检索 + 14 天补查；APS latest 页面 403
+  3. International Journal of Science Education：Crossref 主检索 + 14 天补查；Taylor & Francis latest 页面 403
+  4. Science Education：Crossref 主检索 + 14 天补查；Wiley 页面 403
+  5. Journal of Research in Science Teaching (JRST)：Crossref 主检索 + 14 天补查；Wiley 页面 403
+  6. British Journal of Educational Technology (BJET)：Crossref 主检索 + 14 天补查；Wiley 页面 403
+  7. International Journal of STEM Education：Crossref 主检索 + 14 天补查；SpringerOpen latest 页面返回 Client Challenge
+  8. Research in Science Education：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+  10. Studies in Science Education：Crossref 主检索 + 14 天补查；Taylor & Francis latest 页面 403
+  11. Instructional Science：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+- 本次实际展开文章总数：6
+- 因每刊最多 3 篇而未展开的数量：0
+- 可能重复文章或 DOI 缺失：未发现 DOI 缺失；PRPER 返回的 DOI 10.1103/j9bh-pz14 已在 2026-06-12 日志中记录，本次去重后不展开。
+- GitHub commit：待同步
+- Pages 链接：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+#### Tracing the Evolution of Teachers’ Debugging Pedagogies: An Interconnected Model of Teacher Professional Learning
+
+- 作者：Jessie Nixon; Srinjita Bhaduri; Umar Shehzad; Mimi Recker
+- 日期：2026-07-07
+- DOI：10.1007/s10956-026-10350-4
+- 数据来源：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s10956-026-10350-4
+- 英文 abstract 要点：研究关注科学课堂越来越多使用计算工具后，教师如何发展支持学生调试 programmable sensors 的教学策略。文章用 4 个中学科学教师案例，分析他们在两个为期一年的专业学习循环中如何形成 debugging pedagogies，并用 Interconnected Model of Teacher Professional Growth 追踪个人、实践、结果和外部领域的变化。
+- 易读中文摘要：这篇文章很适合关注科学技术与教师专业发展的读者。它不是单纯讨论“教师会不会用技术”，而是研究教师如何学会在真实科学课堂中帮助学生处理技术故障、调试传感器和继续探究。核心意义是：计算工具进入科学课堂后，教师需要新的教学知识，尤其是把调试失败转化成学习机会的能力。
+
+### 2. Physical Review Physics Education Research
+
+#### Understanding and enhancing students’ use of evaluation strategies during physics problem solving through reflective prompts
+
+- 作者：Elien Sijmkens; Tinne De Laet; Mieke De Cock
+- 日期：2026-07-09
+- DOI：10.1103/y6cq-bklb
+- 数据来源：Crossref 主检索；APS latest 页面 403
+- 链接：https://doi.org/10.1103/y6cq-bklb
+- 英文 abstract 要点：研究考察在线反思工具 Disciplinary Learning Companion 是否能促进学生在物理问题解决中使用 evaluation strategies。12 名一年级生物科学工程学生在 4 周内多次参加 think-aloud interviews，先解题，再借助学科和主题特定反思提示进行反思。研究重点是学生何时、如何评价自己的解题过程，以及这些评价策略能否迁移到后续问题解决。
+- 易读中文摘要：这篇文章关注物理解题中的元认知：学生不只是算出答案，还要检查自己的过程、判断结果是否合理、反思策略是否有效。研究用反思提示帮助学生更主动地“评价”自己的解题。对物理教学的启发是，教师可以把反思提示设计进解题活动中，让学生形成更稳定的自我检查和策略调整能力。
+
+#### Teaching problem solving in undergraduate physics courses: An endorsement for deliberate practice
+
+- 作者：Anonymous（Crossref 元数据如此返回）
+- 日期：2026-07-07
+- DOI：10.1103/7pqt-gd9c
+- 数据来源：Crossref 主检索；APS latest 页面 403；同题 arXiv 预印本提供摘要线索
+- 链接：https://doi.org/10.1103/7pqt-gd9c
+- 英文 abstract 要点：Crossref/APS 未获取到 DOI abstract；同题 arXiv 预印本显示，研究比较显性问题解决框架、刻意练习与传统重复练习对本科物理学生问题解决表现的影响，并用 multidimensional scaling 分析学生决策模式与专家模式的接近程度。
+- 易读中文摘要：这篇文章讨论本科物理“教学生解题”到底应该怎么教。它支持 deliberate practice：不仅让学生多做题，还要给出明确的问题解决框架、针对性反馈和策略练习。对物理教育的意义在于，它把解题能力看作可培养的专家化实践，而不是只靠重复刷题自然形成。
+
+### 3. International Journal of Science Education
+
+#### Investigating Arabic diglossia in Bedouin society: a case study of high school biology students’ use of adapted primary literature.
+
+- 作者：Shaima Alokbe; Orit Ben Zvi Assaraf
+- 日期：2026-07-07
+- DOI：10.1080/09500693.2026.2675720
+- 数据来源：Crossref 主检索；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2675720
+- 英文 abstract 要点：未获取到 abstract。题名显示研究以 Bedouin society 中高中生物学生使用 adapted primary literature 为案例，考察 Arabic diglossia 对科学文本阅读和学习的影响。
+- 易读中文摘要：这篇文章关注语言与科学学习的交叉问题。Arabic diglossia 指阿拉伯语中正式书面语和日常口语之间的差异；在科学课堂中，这种差异可能影响学生理解生物学原始文献或改写文献。文章的价值在于提醒我们：科学阅读不是只取决于概念难度，也受学生语言环境、学术语言和文化背景影响。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### Interdisciplinary Thinking in STEM Education: Insights from Implementing the STEM-DTaM Model with Preservice Teachers
+
+- 作者：Muhamad Gina Nugraha; Gillian Kidman; Hazel Tan
+- 日期：2026-07-07
+- DOI：10.1007/s10763-026-10703-w
+- 数据来源：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s10763-026-10703-w
+- 英文 abstract 要点：研究探讨 STEM 教育如何促进 preservice teachers 的 interdisciplinary thinking。18 名来自数学、物理、生物、化学和计算机科学教育专业的师范生参与为期两个月、14 课时的 STEM-DTaM 学习序列，该序列结合 design thinking 与 makerspace。数据包括观察、自我反思日志和学习产物，结果显示 STEM 学习帮助师范生整合多学科视角以应对真实问题。
+- 易读中文摘要：这篇文章直接面向 STEM 教师教育。它关注师范生如何在设计思维和创客空间活动中，把数学、科学、工程和技术知识连接起来解决问题。对课程设计的启发是，跨学科思维不是靠口号培养的，而需要具体任务、工具、反思和作品支持，让未来教师体验学科之间如何真正协同。
+
+### 10. Studies in Science Education
+
+无新增。
+
+### 11. Instructional Science
+
+#### Pointing task to manage apprehension in dynamic visualization
+
+- 作者：Emmanuel Schneider; Belen Haza; Fabien Fenouillet
+- 日期：2026-07-07
+- DOI：10.1007/s11251-026-09812-4
+- 数据来源：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s11251-026-09812-4
+- 英文 abstract 要点：未获取到 abstract。题名显示研究关注在 dynamic visualization 中使用 pointing task 来管理 apprehension，可能涉及学习者在处理动态视觉信息时的注意、理解和认知负荷。
+- 易读中文摘要：这篇文章属于学习科学和多媒体学习方向。动态可视化虽然能展示变化过程，但学生也可能因为信息快速移动而难以抓住重点。文章题名提示，pointing task 可能被用来引导学生指认关键元素，从而降低理解动态画面的困难。对教学设计的意义在于：动态动画不应只是播放给学生看，还需要设计交互任务帮助学生聚焦和解释。
+
+### 今日重点
+
+1. 科学技术与教师教育：JSET 的 debugging pedagogies 文章把科学探究、计算工具和教师专业学习连接起来。
+2. 物理问题解决与元认知：PRPER 的 reflective prompts 文章直接涉及学生如何评价自己的解题过程。
+3. 本科物理解题教学：PRPER 的 deliberate practice 文章支持显性策略训练和反馈，而不是单纯重复练习。
+4. 科学学习中的语言公平：IJSE 的 Arabic diglossia 个案提示科学文本阅读受语言环境影响。
+5. STEM 教师教育与跨学科思维：IJSME 的 STEM-DTaM 研究与师范生、设计思维和 makerspace 教学设计相关。
