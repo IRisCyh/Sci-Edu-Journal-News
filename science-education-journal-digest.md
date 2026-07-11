@@ -4243,3 +4243,97 @@
 3. 本科物理解题教学：PRPER 的 deliberate practice 文章支持显性策略训练和反馈，而不是单纯重复练习。
 4. 科学学习中的语言公平：IJSE 的 Arabic diglossia 个案提示科学文本阅读受语言环境影响。
 5. STEM 教师教育与跨学科思维：IJSME 的 STEM-DTaM 研究与师范生、设计思维和 makerspace 教学设计相关。
+## 2026-07-11 推送
+
+### 推送记录
+
+- 本次推送日期：2026-07-11
+- 主检索覆盖时间范围：2026-07-10 至 2026-07-11（自上次推送以来，按 DOI 去重）
+- 补充检索覆盖时间范围：2026-06-27 至 2026-07-11（最近 14 天 Crossref DOI 补查；官网/latest 页面补查存在 403 或 Client Challenge 访问限制）
+- 各期刊新增文章数量：
+  1. Journal of Science Education and Technology：1
+  2. Physical Review Physics Education Research：0
+  3. International Journal of Science Education：0
+  4. Science Education：0
+  5. Journal of Research in Science Teaching (JRST)：0
+  6. British Journal of Educational Technology (BJET)：0
+  7. International Journal of STEM Education：0
+  8. Research in Science Education：0
+  9. International Journal of Science and Mathematics Education (IJSME)：0
+  10. Studies in Science Education：0
+  11. Instructional Science：0
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref 主检索 + 14 天补查；Springer/DOI 页面返回 Client Challenge
+  2. Physical Review Physics Education Research：Crossref 主检索 + 14 天补查；APS latest 页面 403
+  3. International Journal of Science Education：Crossref 主检索 + 14 天补查；Taylor & Francis latest 页面 403
+  4. Science Education：Crossref 主检索 + 14 天补查；Wiley 页面 403
+  5. Journal of Research in Science Teaching (JRST)：Crossref 主检索 + 14 天补查；Wiley 页面 403
+  6. British Journal of Educational Technology (BJET)：Crossref 主检索 + 14 天补查；Wiley 页面 403
+  7. International Journal of STEM Education：Crossref 主检索 + 14 天补查；SpringerOpen latest 页面返回 Client Challenge
+  8. Research in Science Education：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+  10. Studies in Science Education：Crossref 主检索 + 14 天补查；Taylor & Francis latest 页面 403
+  11. Instructional Science：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+- 本次实际展开文章总数：1
+- 因每刊最多 3 篇而未展开的数量：0
+- 可能重复文章或 DOI 缺失：未发现 DOI 缺失；最近 14 天补查未发现除本篇以外的未记录 DOI。
+- GitHub commit：待同步
+- Pages 链接：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+#### How to Improve TPACK in Science Education: Systematic Literature Review of Empirical Studies
+
+- 作者：Mohd Zaidi Bin Amiruddin; Nanang Winarno; Achmad Samsudin; Andi Suhandi; Bayram Costu; Kristóf Fenyvesi
+- 日期：2026-07-10
+- DOI：10.1007/s10956-026-10349-x
+- 数据来源：Crossref 主检索；Springer/DOI 页面返回 Client Challenge；公开搜索未找到可用摘要
+- 链接：https://doi.org/10.1007/s10956-026-10349-x
+- 英文 abstract 要点：未获取到 abstract。题名显示这是一篇关于 science education 中如何提升 TPACK 的 empirical studies 系统综述。
+- 易读中文摘要：这篇文章聚焦科学教育中的 TPACK，也就是教师如何把技术知识、教学法知识和学科内容知识结合起来。作为系统综述，它可能梳理已有实证研究中哪些培训、课程设计或课堂实践更能提升科学教师的技术整合能力。对科学教师教育和教育技术研究的意义在于，它能帮助判断“技术融入科学课堂”到底需要哪些教师知识基础，而不是只讨论工具本身。
+
+### 2. Physical Review Physics Education Research
+
+无新增。
+
+### 3. International Journal of Science Education
+
+无新增。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增。
+
+### 10. Studies in Science Education
+
+无新增。
+
+### 11. Instructional Science
+
+无新增。
+
+### 今日重点
+
+1. 科学教师教育与教育技术：JSET 新增综述聚焦 science education 中 TPACK 的提升路径。
+2. 技术整合不是工具清单：该题目强调教师需要同时处理技术、教学法和科学内容之间的关系。
+3. 对 K-12 科学教育有潜在价值：TPACK 综述可为科学教师培训、课堂技术应用和 AI/数字工具整合提供背景证据。
