@@ -4498,3 +4498,239 @@
 3. AI 与计算思维：International Journal of STEM Education 的 AI assessment tool 文章直接对应科学技术与 AI 教育测评。
 4. 科学概念学习进阶：PRPER 的力与运动 learning progressions 文章关注概念过渡过程。
 5. 教师教育与课堂话语：IJSME 两篇分别涉及师范生主持数学讨论和 noticing 学生数学思维。
+## 2026-07-20 推送
+
+### 推送记录
+
+- 本次推送日期：2026-07-20
+- 主检索覆盖时间范围：2026-07-15 至 2026-07-20（自上次成功推送以来，按 DOI 去重）
+- 补充检索覆盖时间范围：2026-07-06 至 2026-07-20（最近 14 天 Crossref DOI 补查；官网/latest 页面补查存在 403 或 Client Challenge 访问限制）
+- 各期刊新增文章数量：
+  1. Journal of Science Education and Technology：0
+  2. Physical Review Physics Education Research：2
+  3. International Journal of Science Education：8
+  4. Science Education：2
+  5. Journal of Research in Science Teaching (JRST)：0
+  6. British Journal of Educational Technology (BJET)：1
+  7. International Journal of STEM Education：4
+  8. Research in Science Education：1
+  9. International Journal of Science and Mathematics Education (IJSME)：2
+  10. Studies in Science Education：0
+  11. Instructional Science：2
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+  2. Physical Review Physics Education Research：Crossref 主检索 + 14 天补查；APS latest 页面 403
+  3. International Journal of Science Education：Crossref 主检索 + 14 天补查；Taylor & Francis latest 页面 403
+  4. Science Education：Crossref 主检索 + 14 天补查；Wiley 页面 403
+  5. Journal of Research in Science Teaching (JRST)：Crossref 主检索 + 14 天补查；Wiley 页面 403
+  6. British Journal of Educational Technology (BJET)：Crossref 主检索 + 14 天补查；Wiley 页面 403
+  7. International Journal of STEM Education：Crossref 主检索 + 14 天补查；SpringerOpen latest 页面返回 Client Challenge
+  8. Research in Science Education：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+  10. Studies in Science Education：Crossref 主检索 + 14 天补查；Taylor & Francis latest 页面 403
+  11. Instructional Science：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+- 本次实际展开文章总数：16
+- 因每刊最多 3 篇而未展开的数量：6（IJSE 5 篇；International Journal of STEM Education 1 篇）
+- 可能重复文章或 DOI 缺失：未发现 DOI 缺失；IJSME 的 10.1007/s10763-026-10693-9 已在 2026-07-15 日志中记录，本次去重后不重复展开。
+- GitHub commit：待同步
+- Pages 链接：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+#### Open versus closed-response methods of measuring students’ reasoning: A case study using the physics measurement questionnaire
+
+- 作者：Anonymous（Crossref 元数据如此返回）
+- 日期：2026-07-17
+- DOI：10.1103/z9n2-tfr9
+- 数据来源：Crossref 主检索 + 14 天补查；APS latest 页面 403
+- 链接：https://doi.org/10.1103/z9n2-tfr9
+- 英文 abstract 要点：未获取到 abstract。题名显示研究比较开放式与封闭式作答方法在测量学生物理推理时的差异，并使用 physics measurement questionnaire 作为案例。
+- 易读中文摘要：这篇文章关心“我们怎样测到学生真正的推理”。开放式问题可能更能暴露学生思路，但评分更复杂；封闭式问题更便于统计，却可能掩盖学生的实际理由。对物理教育测评的意义在于，它帮助判断不同题型在概念诊断中的有效性。
+
+#### Performance of ChatGPT in solving wave problems
+
+- 作者：Anonymous（Crossref 元数据如此返回）
+- 日期：2026-07-15
+- DOI：10.1103/4dgy-1dg1
+- 数据来源：Crossref 主检索 + 14 天补查；APS latest 页面 403
+- 链接：https://doi.org/10.1103/4dgy-1dg1
+- 英文 abstract 要点：未获取到 abstract。题名显示研究评估 ChatGPT 在解决波动问题时的表现。
+- 易读中文摘要：这篇文章直接关联 AI 与物理学习。它可能分析 ChatGPT 在波动概念、数学表达、边界条件或解释推理中的正确性与错误模式。对教师的价值在于，它能帮助判断生成式 AI 是否适合作为物理解题辅助，以及学生使用 AI 时需要哪些审查和反思能力。
+
+### 3. International Journal of Science Education
+
+#### Examining the impact of virtual reality on middle school students’ biology learning outcomes and experiences
+
+- 作者：Yan Zou; Xiaoming Zhai; Shiyu Cheng; Chunlei Gao
+- 日期：2026-07-18
+- DOI：10.1080/09500693.2026.2700379
+- 数据来源：Crossref 主检索 + 14 天补查；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2700379
+- 英文 abstract 要点：未获取到 abstract。题名显示研究考察虚拟现实对中学生生物学习结果和学习体验的影响。
+- 易读中文摘要：这篇文章关注 VR 是否能改善中学生生物学习。它可能同时看成绩、概念理解、兴趣、沉浸感和学习体验。对 K-12 科学教育和教育技术的意义在于，VR 不应只被看作新奇工具，还要用学习结果和学生体验来评估其实际价值。
+
+#### Scientific literacy and generative AI: embracing nature of science for social justice
+
+- 作者：Hagop A. Yacoubian
+- 日期：2026-07-18
+- DOI：10.1080/09500693.2026.2701380
+- 数据来源：Crossref 主检索 + 14 天补查；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2701380
+- 英文 abstract 要点：未获取到 abstract。题名显示文章把科学素养、生成式 AI、nature of science 和社会正义联系起来讨论。
+- 易读中文摘要：这篇文章很可能讨论生成式 AI 时代科学素养应如何更新。学生不仅需要使用 AI，还要理解科学知识如何产生、证据如何评价、模型和不确定性如何工作，并考虑 AI 对公平和社会正义的影响。它适合作为 AI 与科学教育理论讨论的重点文章。
+
+#### Supporting systems thinking in environmental science education with large language model chatbots
+
+- 作者：Ha Nguyen; Erick Valdez; Jennifer Pei; Sara Ludovise; Rossella Santagata
+- 日期：2026-07-18
+- DOI：10.1080/09500693.2026.2695951
+- 数据来源：Crossref 主检索 + 14 天补查；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2695951
+- 英文 abstract 要点：未获取到 abstract。题名显示研究考察大型语言模型聊天机器人如何支持环境科学教育中的 systems thinking。
+- 易读中文摘要：这篇文章关注 LLM 在环境科学学习中的作用，重点不是简单答题，而是帮助学生理解系统关系、反馈、因果链和多因素互动。对科学技术与 AI 教育的意义在于，它把聊天机器人放到复杂系统理解这个高阶目标中评估。
+
+- 另有 5 篇未展开：cultural and linguistic identity navigation in scientific writing；scientific inquiry time-use video observations；SciSexTed model；food web conceptual change stories；nature of science explanatory problem。
+
+### 4. Science Education
+
+#### Science for All? A Systematic Literature Review on Effective Teaching Approaches in Inclusive and Separate Settings
+
+- 作者：Silvia Fränkel; Nadine Großmann; Melanie Basten
+- 日期：2026-07-15
+- DOI：10.1002/sce.70090
+- 数据来源：Crossref 主检索 + 14 天补查；Wiley 页面 403
+- 链接：https://doi.org/10.1002/sce.70090
+- 英文 abstract 要点：系统综述分析 2013-2022 年关于多样化学习者科学教学干预的研究，只纳入方法较稳健的量化干预研究。综述识别出数字学习、同伴支持、自主学习、设计式工程学习、系统化教学和 UDL 等路径；系统化教学证据较强，数字学习和自主学习证据较混合，其他路径证据不足但有潜力。
+- 易读中文摘要：这篇文章问的是“面向所有人的科学教育”到底有哪些有效教学方法。它特别关注包容性和分离式环境中的科学教学，对特殊教育、差异化教学和科学课程公平很重要。结论提示，真正有证据的做法需要区分学习者、教学目标和支持方式，而不是笼统说某种方法一定有效。
+
+#### From Attitudes to Science Identity: A Critique of the Science Identity Construct in the PISA 2025 Science Framework
+
+- 作者：Antonio García‐Carmona; Radu Bogdan Toma
+- 日期：2026-07-15
+- DOI：10.1002/sce.70091
+- 数据来源：Crossref 主检索 + 14 天补查；Wiley 页面 403
+- 链接：https://doi.org/10.1002/sce.70091
+- 英文 abstract 要点：文章批判 PISA 2025 科学框架中新加入的 science identity 概念，认为其把科学资本、科学态度、自我效能和环境意识等相关构念混在一起，可能造成概念不清。作者通过文献批判和文件解释分析指出，这种变化可能更像对旧构念的重新组织和命名，而不是真正的概念创新。
+- 易读中文摘要：这篇文章适合关注科学素养测评的人。它提醒我们：大型评估中新概念听起来很前沿，但如果定义不清，就会影响测量、课程解释和政策使用。对 PISA 2025 和 science identity 研究来说，这是一篇重要的概念批判文章。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+#### Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers’ language learning
+
+- 作者：Zhuo Wang; Hui Pang
+- 日期：2026-07-18
+- DOI：10.1111/bjet.70078
+- 数据来源：Crossref 主检索 + 14 天补查；Wiley 页面 403
+- 链接：https://doi.org/10.1111/bjet.70078
+- 英文 abstract 要点：准实验研究比较 emotional AI agent 与 regular AI agent 对 147 名 L2 师范生词汇学习的影响。总体上，两类 AI 在词汇获得和情感变量上没有明显差异；探索性亚组结果显示，低基线水平学习者在 regular agent 条件下反而保持更好的学习态度和内在动机。作者认为 emotional AI 的冗长支持可能在高难任务中增加额外认知负荷。
+- 易读中文摘要：这篇文章对“情感化 AI 一定更好”的假设提出挑战。结果提示，AI 的情感表达和支持话语不一定普遍提升学习，尤其对基础较弱的学习者，过多情感化脚手架可能增加负担。对教育技术设计的启发是，AI 代理需要按学习者水平和任务难度调整，而不是简单地越亲切越好。
+
+### 7. International Journal of STEM Education
+
+#### STEM identity development and achievement motivation: a psychometric analysis of the Utrecht-Management of identity commitments scale
+
+- 作者：Minh-Hao D. Tran; Weihua Fan; Diana De La Rosa-Pohl; Allison Master; Consuelo Arbona; Norma Olvera
+- 日期：2026-07-20
+- DOI：10.1186/s40594-026-00636-9
+- 数据来源：Crossref 主检索 + 14 天补查；SpringerOpen latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1186/s40594-026-00636-9
+- 英文 abstract 要点：研究把 STEM identity 看作发展过程，考察 commitment、in-depth exploration 和 reconsideration 三个身份发展维度与成就动机的关系。230 名工程课程本科生完成改编后的 U-MICS 和成就价值量表。结果支持 12 题三因子模型，并显示承诺和探索与内在价值、效用价值正相关，重新考虑与价值负相关并与成本正相关。
+- 易读中文摘要：这篇文章把 STEM 身份从“有没有身份认同”推进到“身份如何发展”。它显示学生对 STEM 的承诺、探索和动摇会以不同方式影响学习动机。对 STEM 教育研究的价值在于，它提供了更细的测量工具，有助于理解学生为什么持续或离开 STEM 路径。
+
+#### The downstream effect of gender bias on academic performance and career aspirations amongst female students in STEM via Gender-Professional Identity Integration (G-PII)
+
+- 作者：Chi-Ying Cheng; Shuna Shiann Khoo; Shih-Fen Cheng; Yeow Leong Lee; Vandana Ramachandra Rao
+- 日期：2026-07-20
+- DOI：10.1186/s40594-026-00635-w
+- 数据来源：Crossref 主检索 + 14 天补查；SpringerOpen latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1186/s40594-026-00635-w
+- 英文 abstract 要点：未获取到 abstract。题名显示研究考察性别偏见如何通过 Gender-Professional Identity Integration 影响女性 STEM 学生的学业表现和职业抱负。
+- 易读中文摘要：这篇文章关注女性 STEM 学生如何把性别身份与专业身份整合起来，以及性别偏见如何间接影响成绩和职业规划。它对 STEM 公平研究很重要，因为它把外部偏见、身份整合和长期发展结果连接起来，而不是只看单次课程表现。
+
+#### Navigating AI in STEM: what secondary students actually do with generative AI-driven tools
+
+- 作者：Martin Lnenicka; Petr Coufal
+- 日期：2026-07-17
+- DOI：10.1186/s40594-026-00637-8
+- 数据来源：Crossref 主检索 + 14 天补查；SpringerOpen latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1186/s40594-026-00637-8
+- 英文 abstract 要点：未获取到 abstract。题名显示研究关注中学生在 STEM 学习中实际如何使用生成式 AI 工具。
+- 易读中文摘要：这篇文章的价值在于看学生“真实怎么用 AI”，而不是只讨论教师设计或政策想象。它可能揭示学生用 AI 查资料、生成解释、辅助解题、验证答案或绕过学习的具体方式。对 K-12 STEM 与 AI 教育治理非常相关。
+
+- 另有 1 篇未展开：Unpacking the heterogeneity of pre-service teachers’ ChatGPT acceptance: a latent profile analysis across STEM and non-STEM disciplines。
+
+### 8. Research in Science Education
+
+#### Integrate or Separate? A Survey of Non-Metropolitan Teachers’, Parents’ and STEM Professionals’ Beliefs about Integration in STEM Education
+
+- 作者：James Deehan; Sarah Redshaw; Lena Danaia
+- 日期：2026-07-20
+- DOI：10.1007/s11165-026-10362-5
+- 数据来源：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s11165-026-10362-5
+- 英文 abstract 要点：研究调查澳大利亚非都市地区教师、家长/监护人和 STEM 专业人士对 STEM 学科整合与分科教学的看法。在线问卷包括 110 名教育者、206 名家长/监护人和 83 名 STEM 专业人士。结果显示家长/监护人与教育者、STEM 专业人士在整合偏好上没有显著差异，并通过开放回答分析不同群体的理由。
+- 易读中文摘要：这篇文章关注非都市地区 STEM 教育中的一个现实问题：STEM 应该整合教，还是分开教？它把教师、家长和 STEM 专业人士都纳入比较，能帮助理解社区文化、资源条件和不同利益相关者如何影响 STEM 课程设计。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### State-Trait Duality of Self-Efficacy in Mathematical Problem-Posing and Solving: Insights from Chinese Eighth Graders
+
+- 作者：Qimeng Liu; Tianxue Cui; Jian Liu
+- 日期：2026-07-17
+- DOI：10.1007/s10763-026-10708-5
+- 数据来源：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s10763-026-10708-5
+- 英文 abstract 要点：未获取到 abstract。题名显示研究考察中国八年级学生在数学问题提出和问题解决中的自我效能，并区分 state 与 trait 两种属性。
+- 易读中文摘要：这篇文章关注学生在数学问题提出与解决时的自信心：有些自我效能可能是相对稳定的个人特质，有些则会随任务和情境变化。对数学教育的意义在于，它提醒教师不要只看学生“总体自信不自信”，还要看具体任务如何影响学生的即时信念。
+
+#### Instrumental Genesis of Learning Trajectories in Professional Noticing: Comparing Expert and Novice Teachers’ Competencies in Fractions
+
+- 作者：Derya Can
+- 日期：2026-07-16
+- DOI：10.1007/s10763-026-10705-8
+- 数据来源：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s10763-026-10705-8
+- 英文 abstract 要点：未获取到 abstract。题名显示研究比较专家和新手教师在分数教学中 professional noticing 能力的发展轨迹，并使用 instrumental genesis 视角。
+- 易读中文摘要：这篇文章研究教师如何学会看懂学生在分数学习中的思维。专家教师和新手教师可能在注意学生错误、解释学生策略、预测学习路径方面不同。对教师教育的启发是，专业 noticing 需要通过工具、案例和反复分析逐步发展。
+
+### 10. Studies in Science Education
+
+无新增。
+
+### 11. Instructional Science
+
+#### Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications
+
+- 作者：Mikko Haavisto; Tomi Jaakkola
+- 日期：2026-07-17
+- DOI：10.1007/s11251-026-09817-z
+- 数据来源：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s11251-026-09817-z
+- 英文 abstract 要点：研究分析 97 份平板屏幕录像，比较五年级学生学习视频和图文材料时的速度、复习策略与学习结果。结果显示，学生学习视频明显快于等内容图文，较快视频学习与更好学习结果和较低认知负荷相关。学生很少使用视频导航选项，通常按设计节奏线性观看；这对阅读较慢学生尤其有益。
+- 易读中文摘要：这篇文章对小学多媒体学习很有启发。它发现五年级学生看视频比读图文更快，而且在这个研究中视频学习速度与较好结果相关。关键不是“视频一定更好”，而是视频的固定节奏可能帮助阅读较慢的学生减少处理负担。对教学设计来说，需要考虑材料形式如何影响学习速度和复习策略。
+
+#### Outspoken emotions – Emotion regulation during emotional challenges in collaborative learning
+
+- 作者：Piia Näykki; Tiina Törmänen; Jaana Isohätälä; Hanna Järvenoja; Sanna Järvelä
+- 日期：2026-07-17
+- DOI：10.1007/s11251-026-09815-1
+- 数据来源：Crossref 主检索 + 14 天补查；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s11251-026-09815-1
+- 英文 abstract 要点：研究考察教师教育学生在数学小组任务中的情绪挑战和情绪调节。数据包括 62 名学生、87 小时小组互动视频，以及小组体验前后评价。结果显示，不同小组和任务中的挑战与调节不同；案例分析呈现了任务结构化、提升觉察、鼓励和社会强化等策略，但调节策略并不总能匹配实际挑战。
+- 易读中文摘要：这篇文章关注合作学习中的情绪，而不只是认知任务完成。小组遇到困难时，学生需要调节挫败、冲突或不确定感。研究提示，合作学习设计不能只要求学生“合作完成任务”，还要给他们识别情绪挑战、协商调节策略和重新组织互动的时间与支持。
+
+### 今日重点
+
+1. AI 与科学/STEM 教育：PRPER 的 ChatGPT 解波动问题、IJSE 的生成式 AI 科学素养、IJSE 的 LLM 系统思维、IJSTEM 的中学生生成式 AI 使用和 BJET 的 emotional AI 都值得重点跟进。
+2. K-12 科学教育与技术：IJSE 的 VR 生物学习和 Instructional Science 的五年级视频学习研究直接面向学生学习体验与效果。
+3. STEM 公平与身份：Science Education 的 PISA science identity 批判、IJSTEM 的 STEM identity 和女性 STEM 性别偏见研究都与公平和持续参与有关。
+4. 教师教育与专业学习：IJSME 的 professional noticing、BJET 的 L2 师范生 AI 学习，以及 Instructional Science 的合作学习情绪调节都适合教师教育阅读。
+5. STEM 课程整合：Research in Science Education 的非都市地区 STEM 整合信念研究可为社区情境下的课程设计提供证据。
