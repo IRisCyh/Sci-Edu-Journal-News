@@ -4734,3 +4734,181 @@
 3. STEM 公平与身份：Science Education 的 PISA science identity 批判、IJSTEM 的 STEM identity 和女性 STEM 性别偏见研究都与公平和持续参与有关。
 4. 教师教育与专业学习：IJSME 的 professional noticing、BJET 的 L2 师范生 AI 学习，以及 Instructional Science 的合作学习情绪调节都适合教师教育阅读。
 5. STEM 课程整合：Research in Science Education 的非都市地区 STEM 整合信念研究可为社区情境下的课程设计提供证据。
+## 2026-07-27 推送
+
+### 推送记录
+
+- 本次推送日期：2026-07-27
+- 主检索覆盖时间范围：2026-07-20 至 2026-07-27（自上次成功推送以来，按 DOI 去重）
+- 补充检索覆盖时间范围：2026-07-13 至 2026-07-27（最近 14 天 Crossref DOI 补查；官网/latest 页面补查存在 403 或 Client Challenge 访问限制）
+- 各期刊新增文章数量：
+  1. Journal of Science Education and Technology：0
+  2. Physical Review Physics Education Research：1
+  3. International Journal of Science Education：8
+  4. Science Education：0
+  5. Journal of Research in Science Teaching (JRST)：0
+  6. British Journal of Educational Technology (BJET)：0
+  7. International Journal of STEM Education：2
+  8. Research in Science Education：2
+  9. International Journal of Science and Mathematics Education (IJSME)：1
+  10. Studies in Science Education：0
+  11. Instructional Science：1
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref 主检索 + 14 天 Crossref 补查；Springer latest 页面返回 Client Challenge
+  2. Physical Review Physics Education Research：Crossref 主检索；APS latest 页面 403
+  3. International Journal of Science Education：Crossref 主检索 + 14 天 Crossref 补查；Taylor & Francis latest 页面 403
+  4. Science Education：Crossref 主检索 + 14 天 Crossref 补查；Wiley 页面 403
+  5. Journal of Research in Science Teaching (JRST)：Crossref 主检索 + 14 天 Crossref 补查；Wiley 页面 403；Crossref 返回的 Issue Information 已排除
+  6. British Journal of Educational Technology (BJET)：Crossref 主检索 + 14 天 Crossref 补查；Wiley 页面 403
+  7. International Journal of STEM Education：Crossref 主检索 + 14 天 Crossref 补查；SpringerOpen latest 页面返回 Client Challenge
+  8. Research in Science Education：Crossref 主检索；Springer latest 页面返回 Client Challenge
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref 主检索；Springer latest 页面返回 Client Challenge
+  10. Studies in Science Education：Crossref 主检索 + 14 天 Crossref 补查；Taylor & Francis latest 页面 403
+  11. Instructional Science：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 本次实际展开文章总数：10
+- 因每刊最多 3 篇而未展开的数量：5（International Journal of Science Education 5 篇）
+- 可能重复文章或 DOI 缺失：未发现 DOI 缺失；已按 DOI 去除日志中已有文章。JRST 的 “Issue Information” 虽有 DOI，但不是研究文章，未纳入推送。International Journal of STEM Education 的 10.1186/s40594-026-00634-x 是 14 天补查中发现的未记录 DOI，本次补入。
+- GitHub commit：待同步
+- Pages 链接：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+#### Building a diagnostic model for misconceptions in physics education using eye tracking technology
+
+- 作者：Jinmei Liu; Xuejuan Zhong; Gang Chen; Liqing Chen
+- 日期：2026-07-22
+- DOI：10.1103/ttrq-px6t
+- 数据来源：Crossref 主检索；APS latest 页面 403
+- 链接：https://doi.org/10.1103/ttrq-px6t
+- 英文 abstract 要点：研究开发并验证一个结合眼动数据和测试作答的二维诊断模型，用于识别高中生在牛顿力学中的迷思概念。研究包括四层诊断测试、眼动实验和模型建构。结果显示，有迷思概念的学生在正确选项上的注视时间更短，扫视路径也更低效；回视次数与自信程度之间出现“倒 U 型”关系，可作为认知不确定性的客观指标。
+- 易读中文摘要：这篇文章的核心是让物理概念诊断不只依赖学生“我有多确定”的自我报告，而是加入眼动证据。研究用测试答案、注视时间、回视和扫视路径来判断学生是否真正理解牛顿力学。对物理教师和测评设计的意义在于，眼动数据可以帮助发现学生表面答对但理解不稳、或表面答错但思路接近正确的情况，从而支持更有针对性的补救教学。
+
+### 3. International Journal of Science Education
+
+#### Children's drawings from scientific stories as vehicles for enhancing argument construction in early science learning
+
+- 作者：Muhamad Hugerat; Naim Najami; Leleian Nassour; Sare Asli
+- 日期：2026-07-22
+- DOI：10.1080/09500693.2026.2700378
+- 数据来源：Crossref 主检索；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2700378
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究关注儿童根据科学故事进行绘画，如何帮助早期科学学习中的论证建构。
+- 易读中文摘要：这篇文章把“画图”放进早期科学论证学习中。它很可能关注儿童如何通过画出科学故事中的现象、关系和证据，逐步组织自己的解释和论点。对 K-12 科学教育的价值在于，低龄学生不一定能用成熟文字表达科学推理，图画可以成为他们建构证据、因果关系和科学解释的桥梁。
+
+#### Digital or analog? Students' Instrument choices in science lessons and their associations with authenticity beliefs and science career aspirations
+
+- 作者：Dean Cairns; Martina Dickson; Melissa McMinn; Jennifer Robinson
+- 日期：2026-07-22
+- DOI：10.1080/09500693.2026.2693813
+- 数据来源：Crossref 主检索；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2693813
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究考察学生在科学课中选择数字或模拟仪器的倾向，以及这种选择与真实性信念和科学职业志向之间的关系。
+- 易读中文摘要：这篇文章关注学生在实验或科学活动中为什么选择数字工具或传统模拟仪器。它不仅看工具偏好，还把这种偏好与学生是否觉得课堂科学“真实”、是否愿意走向科学职业联系起来。对实验/探究学习的意义在于，仪器选择不是纯技术问题，它可能影响学生对科学实践真实性和职业想象的理解。
+
+#### Assessing students' interdisciplinary understanding of socio-scientific issues in STEM education through concept mapping
+
+- 作者：Anna Kellinghusen; Sandra Sprenger; Patrick Schuck; Anna Orschulik; Katrin Vorholter; Sandra Schulz
+- 日期：2026-07-22
+- DOI：10.1080/09500693.2026.2685785
+- 数据来源：Crossref 主检索；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2685785
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究使用概念图评价学生对 STEM 教育中社会性科学议题的跨学科理解。
+- 易读中文摘要：这篇文章关注学生能否把社会性科学议题中的科学、数学、技术、社会和伦理因素连接起来。概念图适合观察学生是否只记住孤立概念，还是能看见变量之间的关系。对 STEM 教育的意义在于，它提供了一种评估跨学科理解的方式，尤其适合气候、健康、能源等复杂议题。
+
+- 另有 5 篇未展开：scientific inquiry supported classes 中的学术/非学术时间使用；Asian student researchers 的科学写作与文化语言身份；science teacher education 中的 SciSexTed model；food web interactions 的概念转变故事；nature of science research 中 explanatory problem 的认识论评估。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。Crossref 主检索返回 1 条 “Issue Information”，已判断为期刊信息页而非研究文章，未纳入推送。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+#### How STEM social capital shapes secondary school students' STEM aspirations: the roles of STEM expectations and mathematics competency
+
+- 作者：Shiyu Xu; Jiateng Zhou; Yulian Cao
+- 日期：2026-07-27
+- DOI：10.1186/s40594-026-00640-z
+- 数据来源：Crossref 主检索；SpringerOpen latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1186/s40594-026-00640-z
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究考察 STEM social capital 如何影响中学生的 STEM 志向，并分析 STEM expectations 与数学能力的作用。
+- 易读中文摘要：这篇文章关注中学生为什么会形成或放弃 STEM 志向。它把家庭、同伴、教师、社会资源等 STEM social capital 与学生的期待和数学能力联系起来。对 STEM 教育公平的意义在于，学生是否走向 STEM 不只取决于个人兴趣，还受到资源、期望和能力感的共同影响。
+
+#### Unpacking the heterogeneity of pre-service teachers' ChatGPT acceptance: a latent profile analysis across STEM and non-STEM disciplines
+
+- 作者：Pei-Hua Chen; Hsin-Yu Lee; Yueh-Min Huang; Ting-Ting Wu
+- 日期：2026-07-16
+- DOI：10.1186/s40594-026-00634-x
+- 数据来源：14 天 Crossref 补查；SpringerOpen latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1186/s40594-026-00634-x
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究用潜在剖面分析比较 STEM 与非 STEM 师范生对 ChatGPT 的接受差异。
+- 易读中文摘要：这篇文章关注师范生接受 ChatGPT 的类型差异，而不是简单问“接不接受 AI”。潜在剖面分析通常会把学习者分成若干群体，例如高接受、高担忧、工具型使用或低信任群体。对教师教育的意义在于，AI 培训不能只做统一讲座，而应根据不同学科和不同接受类型设计支持。
+
+### 8. Research in Science Education
+
+#### Preservice Physics Teachers' Expression of TPACK in Lesson Planning - Using Geogebra Simulations in Physics Teaching
+
+- 作者：Lorena Solvang; Jesper Haglund
+- 日期：2026-07-23
+- DOI：10.1007/s11165-026-10361-6
+- 数据来源：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s11165-026-10361-6
+- 英文 abstract 要点：研究用单案例质性方法分析两名第一学期物理师范生在斜面运动课时设计中使用 GeoGebra 的过程。视频资料按 TPACK 相关维度分析，发现参与者在解释和调整矢量表示时表现出初步 TCK，在比较静态与动态可视化时表现出 TPK，在用模拟支持力学概念理解时表现出 TPACK，同时也出现了对未标注或重叠矢量的解释不确定。
+- 易读中文摘要：这篇文章很适合教师教育和教育技术方向。它不是泛泛讨论“技术整合”，而是观察新手物理师范生如何在具体备课中使用 GeoGebra。研究说明，师范生已经能把模拟、物理内容和教学目标联系起来，但也会在表示含义、矢量解释和课堂使用方式上犹豫。对培养教师 TPACK 的启示是，技术培训要嵌入真实备课任务，并让师范生明确讨论可视化背后的物理意义。
+
+#### Climate Education for Agency: The Power of Emotion
+
+- 作者：Sadie Hundemer; M. C. Monroe; K. J. Crippen; J. R. Brown; E. K. Ebert; S. Tolppanen
+- 日期：2026-07-23
+- DOI：10.1007/s11165-026-10363-4
+- 数据来源：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s11165-026-10363-4
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究讨论气候教育如何通过情绪支持学生形成 agency。
+- 易读中文摘要：这篇文章把气候教育中的情绪放到中心位置。气候议题常带来焦虑、无力感或愤怒，如果课堂只传递知识，学生未必能形成行动感。文章可能强调情绪不是干扰因素，而是学生理解风险、建立责任感和形成行动意愿的重要资源。对 K-12 科学教育和社会性科学议题教学都有直接意义。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### Teachers' Perspectives on Visual Proofs: Assessing Validity, Anticipating Peer Views, and Considering Classroom use
+
+- 作者：Raz Harel; Nadav Marco
+- 日期：2026-07-23
+- DOI：10.1007/s10763-026-10707-6
+- 数据来源：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s10763-026-10707-6
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究考察教师如何看待视觉证明，包括判断其有效性、预判同伴观点和思考课堂使用。
+- 易读中文摘要：这篇文章关注数学教师如何理解“视觉证明”。视觉证明往往直观、易交流，但教师需要判断它到底是严格证明、启发性解释，还是只是一种图像化提示。对数学教育的意义在于，它帮助我们理解教师如何把证明、课堂讨论和学生理解连接起来，也能为科学/数学中的表征教学提供参考。
+
+### 10. Studies in Science Education
+
+无新增。
+
+### 11. Instructional Science
+
+#### Investigating Students' Collaborative Problem-Solving Interactions during Scaffolded and Non-Scaffolded Ill-Structured Tasks
+
+- 作者：Taylor Parks; Saadeddine Shehab; Emma Mercier
+- 日期：2026-07-27
+- DOI：10.1007/s11251-026-09816-0
+- 数据来源：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s11251-026-09816-0
+- 英文 abstract 要点：研究比较有硬脚手架和无硬脚手架的非良构任务中，学生小组在面对面协作解决工程问题时的互动方式和最终方案质量。结果显示，硬脚手架能帮助学生组织任务、参与常被忽略的协作问题解决过程，并提升最终方案质量，让工程任务更接近真实协作问题解决体验。
+- 易读中文摘要：这篇文章关注高等 STEM 课堂中的协作问题解决。它说明，开放复杂任务并不等于完全不给结构；适当的硬脚手架可以帮助小组明确任务、推进讨论、分配认知工作，并产生更好的工程方案。对学习科学和教学设计的意义在于，脚手架不是削弱真实性，而是让学生更有可能真正进入高质量协作。
+
+### 今日重点
+
+1. AI 与教师教育：International Journal of STEM Education 的 ChatGPT 接受度文章直接指向师范生 AI 培训如何分层设计。
+2. 科学概念诊断：PRPER 的眼动诊断模型把客观注意过程引入牛顿力学迷思概念识别，适合关注物理概念学习和测评。
+3. K-12 STEM 志向与公平：International Journal of STEM Education 的 STEM social capital 文章关注中学生志向、数学能力和资源差异。
+4. 实验/探究学习与技术整合：Research in Science Education 的 GeoGebra/TPACK 文章展示新手物理教师如何在备课中整合可视化模拟。
+5. 学习科学与教学设计：Instructional Science 的非良构工程任务研究强调硬脚手架对协作问题解决质量的支持作用。
