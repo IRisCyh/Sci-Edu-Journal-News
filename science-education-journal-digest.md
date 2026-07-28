@@ -4946,7 +4946,7 @@
 - 本次实际展开文章总数：6
 - 因每刊最多 3 篇而未展开的数量：2（International Journal of Science Education 2 篇；本次记录 DOI，避免后续重复计入）
 - 可能重复文章或 DOI 缺失：未发现 DOI 缺失；已按 DOI 去除日志中已有文章。IJSE 的 5 篇为 2026-07-17 文章，昨日只概述题名未记录 DOI，本次通过 14 天补查补录。
-- GitHub commit：待同步
+- GitHub commit：8e6c9b0
 - Pages 链接：https://iriscyh.github.io/Sci-Edu-Journal-News/
 
 ### 1. Journal of Science Education and Technology
