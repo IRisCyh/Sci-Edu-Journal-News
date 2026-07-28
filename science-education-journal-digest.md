@@ -4912,3 +4912,147 @@
 3. K-12 STEM 志向与公平：International Journal of STEM Education 的 STEM social capital 文章关注中学生志向、数学能力和资源差异。
 4. 实验/探究学习与技术整合：Research in Science Education 的 GeoGebra/TPACK 文章展示新手物理教师如何在备课中整合可视化模拟。
 5. 学习科学与教学设计：Instructional Science 的非良构工程任务研究强调硬脚手架对协作问题解决质量的支持作用。
+## 2026-07-28 推送
+
+### 推送记录
+
+- 本次推送日期：2026-07-28
+- 主检索覆盖时间范围：2026-07-27 至 2026-07-28（自上次成功推送以来，按 DOI 去重）
+- 补充检索覆盖时间范围：2026-07-14 至 2026-07-28（最近 14 天 Crossref DOI 补查；官网/latest 页面补查存在 403 或 Client Challenge 访问限制）
+- 各期刊新增文章数量：
+  1. Journal of Science Education and Technology：0
+  2. Physical Review Physics Education Research：0
+  3. International Journal of Science Education：5
+  4. Science Education：0
+  5. Journal of Research in Science Teaching (JRST)：0
+  6. British Journal of Educational Technology (BJET)：0
+  7. International Journal of STEM Education：1
+  8. Research in Science Education：1
+  9. International Journal of Science and Mathematics Education (IJSME)：1
+  10. Studies in Science Education：0
+  11. Instructional Science：0
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref 主检索 + 14 天 Crossref 补查；Springer latest 页面返回 Client Challenge
+  2. Physical Review Physics Education Research：Crossref 主检索 + 14 天 Crossref 补查；APS latest 页面 403
+  3. International Journal of Science Education：14 天 Crossref 补查；Taylor & Francis latest 页面 403
+  4. Science Education：Crossref 主检索 + 14 天 Crossref 补查；Wiley 页面 403
+  5. Journal of Research in Science Teaching (JRST)：Crossref 主检索 + 14 天 Crossref 补查；Wiley 页面 403
+  6. British Journal of Educational Technology (BJET)：Crossref 主检索 + 14 天 Crossref 补查；Wiley 页面 403
+  7. International Journal of STEM Education：Crossref 主检索；SpringerOpen latest 页面返回 Client Challenge
+  8. Research in Science Education：Crossref 主检索；Springer latest 页面返回 Client Challenge
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref 主检索；Springer latest 页面返回 Client Challenge
+  10. Studies in Science Education：Crossref 主检索 + 14 天 Crossref 补查；Taylor & Francis latest 页面 403
+  11. Instructional Science：Crossref 主检索 + 14 天 Crossref 补查；Springer latest 页面返回 Client Challenge
+- 本次实际展开文章总数：6
+- 因每刊最多 3 篇而未展开的数量：2（International Journal of Science Education 2 篇；本次记录 DOI，避免后续重复计入）
+- 可能重复文章或 DOI 缺失：未发现 DOI 缺失；已按 DOI 去除日志中已有文章。IJSE 的 5 篇为 2026-07-17 文章，昨日只概述题名未记录 DOI，本次通过 14 天补查补录。
+- GitHub commit：待同步
+- Pages 链接：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+无新增。
+
+### 3. International Journal of Science Education
+
+#### Analysis of academic and non-academic time use patterns in scientific inquiry supported classes through video observations
+
+- 作者：Onur Bektas; Ayse Oguz Unver
+- 日期：2026-07-17
+- DOI：10.1080/09500693.2026.2691612
+- 数据来源：14 天 Crossref 补查；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2691612
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究通过课堂视频观察分析科学探究支持课堂中学术时间和非学术时间的使用模式。
+- 易读中文摘要：这篇文章关注探究式科学课堂里时间究竟花在了哪里。它可能区分学生真正投入观察、讨论、解释和证据建构的时间，以及等待、管理、偏离任务等非学术时间。对实验/探究学习的意义在于，探究活动是否有效，不只看活动设计是否开放，还要看课堂时间是否真正支持了科学思维。
+
+#### Mediating sexuality as lived biology in science teacher education: the SciSexTed model
+
+- 作者：Espen Hoff-Haugalokken; Bodil Svendsen
+- 日期：2026-07-17
+- DOI：10.1080/09500693.2026.2694732
+- 数据来源：14 天 Crossref 补查；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2694732
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究提出 SciSexTed model，用于在科学教师教育中把 sexuality 作为 lived biology 来中介和教学。
+- 易读中文摘要：这篇文章把性教育、生物学和教师教育连接起来。它可能强调 sexuality 不只是抽象生物知识，也与学生的身体经验、身份、关系和社会语境相关。对科学教师教育的价值在于，它提示教师在教授生物相关主题时，需要同时处理科学概念、学生生活经验和课堂伦理。
+
+#### From controlling agents to emergent patterns: conceptual change stories as tools for understanding food web interactions
+
+- 作者：Cornelia Averdunk; Jorg Zabel; Alexander Bergmann-Gering
+- 日期：2026-07-17
+- DOI：10.1080/09500693.2026.2688457
+- 数据来源：14 天 Crossref 补查；Taylor & Francis latest 页面 403
+- 链接：https://doi.org/10.1080/09500693.2026.2688457
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究用概念转变故事帮助学生从“控制性个体/主体”的理解转向食物网中的涌现模式理解。
+- 易读中文摘要：这篇文章直接关注科学概念学习。学生理解食物网时，常把生态变化归因于某个单一控制者，而不是多个生物种群互动产生的系统模式。概念转变故事可能帮助学生重新组织原有解释，从线性因果走向生态系统中的涌现关系。对科学教师的意义在于，它提供了处理复杂系统概念的一种教学路径。
+
+- 另有 2 篇未展开，但记录 DOI 以避免后续重复：
+  - 10.1080/09500693.2026.2688455：Spurring and siloing: cultural and linguistic identity (CLI) navigation in scientific writing among Asian student researchers
+  - 10.1080/09500693.2026.2693811：Unveiling the explanatory problem in nature of science research: a critical epistemological assessment
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+#### The impact of an LLM-based educational agent on learning achievement, cognitive dynamics, and student perceptions in computer science education
+
+- 作者：Xu Li; Zhi Liu; Shiyan Jiang; Juanjuan Chen; Wenzhi Chen
+- 日期：2026-07-27
+- DOI：10.1186/s40594-026-00641-y
+- 数据来源：Crossref 主检索；SpringerOpen latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1186/s40594-026-00641-y
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究考察基于 LLM 的教育智能体对计算机科学学习成绩、认知动态和学生感知的影响。
+- 易读中文摘要：这篇文章是 AI 教育应用的直接证据来源。它不只看 LLM agent 是否提高成绩，还关注学生学习过程中的认知变化和主观体验。对 STEM 教育和 AI 教学设计的意义在于，LLM 工具的评价应同时包含学习结果、认知过程和学生如何理解这种工具，而不是只看分数。
+
+### 8. Research in Science Education
+
+#### Enacted AI Literacy Towards Epistemic Visibility; Embedding Human-AI Design as Assessment-as-Learning in Pre-Service Science Teachers' Lesson Redesign
+
+- 作者：Kallia Katsampoxaki-Hodgetts
+- 日期：2026-07-28
+- DOI：10.1007/s11165-026-10360-7
+- 数据来源：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s11165-026-10360-7
+- 英文 abstract 要点：研究把 AI literacy 视为一种设计导向的认识过程，而不仅是能力清单或伦理框架。文章基于 Learning by Design 和设计研究，分析师范生在 AI 支持的课时重设计中如何通过提问、质询、修改和选择性拒绝 AI 建议来形成教学判断、自我调节和 assessment-as-learning。研究强调，人机设计活动能让教师的推理、判断和责任变得可观察。
+- 易读中文摘要：这篇文章对科学教师教育很重要。它不是教师范生“会不会用 AI”，而是观察他们如何在备课中和 AI 互动、判断 AI 建议、修改教学设计，并通过这个过程暴露自己的教学推理。对 AI literacy 的启示是，真正的 AI 素养不是会输入提示词，而是在真实教学设计中能解释、质疑和负责地使用 AI。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### Psychological Mechanisms of Emotion-Cognition Interactions in Secondary Mathematics Learning: An Empirical Study based on Large-Scale Educational Behavioral Data
+
+- 作者：Yicheng Wang
+- 日期：2026-07-28
+- DOI：10.1007/s10763-026-10700-z
+- 数据来源：Crossref 主检索；Springer latest 页面返回 Client Challenge
+- 链接：https://doi.org/10.1007/s10763-026-10700-z
+- 英文 abstract 要点：未获取到 abstract。题名显示，研究基于大规模教育行为数据，分析中学数学学习中情绪与认知互动的心理机制。
+- 易读中文摘要：这篇文章关注数学学习中的情绪和认知如何相互影响。它可能用大规模行为数据观察学生在学习过程中的情绪状态、认知投入、表现变化和调节机制。对学习科学和数学教育的意义在于，它把“情绪影响学习”这个常见说法转化为可测量、可建模的心理机制问题。
+
+### 10. Studies in Science Education
+
+无新增。
+
+### 11. Instructional Science
+
+无新增。
+
+### 今日重点
+
+1. AI 与科学教师教育：Research in Science Education 的 enacted AI literacy 文章把 AI 使用放进师范生真实备课和评价过程。
+2. LLM 教育智能体：International Journal of STEM Education 的 LLM agent 文章同时关注学习成绩、认知动态和学生感知。
+3. 探究学习课堂时间：IJSE 的视频观察研究可帮助判断探究课中真正用于科学学习的时间比例。
+4. 科学概念学习：IJSE 的食物网 conceptual change stories 文章关注学生如何理解复杂生态系统中的涌现关系。
+5. 教师教育与敏感科学主题：IJSE 的 SciSexTed model 提醒生物教学需要连接科学概念、生活经验和课堂伦理。
