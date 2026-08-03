@@ -5368,3 +5368,129 @@
 1. 本次 11 本期刊均无未记录新增文章。
 2. 最近 14 天补查未发现需要补录的 DOI。
 3. 官网 latest/current 页面仍受 403 或 Client Challenge 限制，后续继续以 Crossref 主检索加 DOI 补查为主。
+
+## 2026-08-03 推送
+
+### 推送记录
+
+- 本次推送日期：2026-08-03
+- 主检索覆盖时间范围：2026-08-01 至 2026-08-03（Crossref created-date journal-article；覆盖 2026-08-02 中断后的补漏）
+- 补充检索覆盖时间范围：2026-07-20 至 2026-08-03（最近 14 天 Crossref online-pub-date 补查；官网 latest/current 页面状态检查）
+- 11 本期刊新增文章数量：
+  1. Journal of Science Education and Technology：0
+  2. Physical Review Physics Education Research：0
+  3. International Journal of Science Education：0
+  4. Science Education：0
+  5. Journal of Research in Science Teaching (JRST)：1
+  6. British Journal of Educational Technology (BJET)：2
+  7. International Journal of STEM Education：0
+  8. Research in Science Education：0
+  9. International Journal of Science and Mathematics Education (IJSME)：1
+  10. Studies in Science Education：0
+  11. Instructional Science：0
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref 主检索 + 14 天 Crossref 补查；官网状态 访问失败/超时
+  2. Physical Review Physics Education Research：Crossref 主检索 + 14 天 Crossref 补查；官网状态 403
+  3. International Journal of Science Education：Crossref 主检索 + 14 天 Crossref 补查；官网状态 403
+  4. Science Education：Crossref 主检索 + 14 天 Crossref 补查；官网状态 403
+  5. Journal of Research in Science Teaching (JRST)：Crossref 主检索 + 14 天 Crossref 补查；官网状态 403
+  6. British Journal of Educational Technology (BJET)：Crossref 主检索 + 14 天 Crossref 补查；官网状态 403
+  7. International Journal of STEM Education：Crossref 主检索 + 14 天 Crossref 补查；官网状态 访问失败/超时
+  8. Research in Science Education：Crossref 主检索 + 14 天 Crossref 补查；官网状态 访问失败/超时
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref 主检索 + 14 天 Crossref 补查；官网状态 访问失败/超时
+  10. Studies in Science Education：Crossref 主检索 + 14 天 Crossref 补查；官网状态 403
+  11. Instructional Science：Crossref 主检索 + 14 天 Crossref 补查；官网状态 访问失败/超时
+- 本次实际展开文章总数：4
+- 因每刊最多 3 篇而未展开的数量：0
+- 可能重复文章或 DOI 缺失：未发现 DOI 缺失；已按 DOI 去除日志中已有文章；如 DOI 缺失则按标题+期刊去重。
+- GitHub commit：待同步
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+- 无新增。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增。
+
+### 3. International Journal of Science Education
+
+- 无新增。
+
+### 4. Science Education
+
+- 无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### The Separate Worlds of Science and Science Teaching, According to Potential Science Teachers
+
+- 期刊名：Journal of Research in Science Teaching (JRST)
+- 作者：Emily MacLeod, Allison Jardim Gonsalves, Emily Sprowls, Louise Archer
+- 发表日期 / online first：2026-08-03
+- DOI：10.1002/tea.70061
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：ABSTRACT In the context of severe and worsening science teacher shortages in many countries and a body of literature reliant on retrospective accounts from those already teaching science, this paper explores the views and assumptions held about school science teaching by potential future science teachers. Using a theoretical lens informed by the concept of ‘figured worlds’, this paper presents analyses of qualitative data collected in the UK and Canada via longitudinal and life history methods to examine what scien...
+- 易读版中文摘要：这篇文章聚焦教师教育或教师专业发展，核心价值在于说明教师如何理解、设计或支持科学/STEM 学习；可优先关注其研究情境、教师样本与对课堂实践的启示。
+- 文章链接：https://doi.org/10.1002/tea.70061
+
+### 6. British Journal of Educational Technology (BJET)
+
+#### Unveiling patterns of socially shared regulation in relation to self‐regulated learning: The roles of individual profiles and group dynamics in online collaborative learning
+
+- 期刊名：British Journal of Educational Technology (BJET)
+- 作者：Tao He, Xintong Wu, Mingzhu Li, Ting Xia, Xiaoming Cao
+- 发表日期 / online first：2026-08-02
+- DOI：10.1111/bjet.70082
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：Abstract The rapid growth of massive online learning has intensified interest in self‐regulated learning (SRL) and socially shared regulation of learning (SSRL), yet empirical insights into their interplay in online collaborative learning (OCL) remain limited. This study employed a three‐layer analytical method combining cluster analysis, content analysis and complex network analysis to investigate how SSRL patterns evolve in relation to individual SRL profiles.
+- 易读版中文摘要：这篇文章关注教育技术或 AI/数字工具在学习中的作用，重点可看技术如何改变学习任务、反馈或互动方式，以及作者对有效教学设计提出的条件。
+- 文章链接：https://doi.org/10.1111/bjet.70082
+
+#### Not all collaboration benefits from competition: Collaboration modes in a computational thinking game
+
+- 期刊名：British Journal of Educational Technology (BJET)
+- 作者：Ching‐Huei Chen, Kun Huang
+- 发表日期 / online first：2026-08-02
+- DOI：10.1111/bjet.70081
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：Abstract Digital game‐based learning often leverages social dynamics to enhance engagement, yet the interplay between collaborative structures and competitive pressures remains complex. This study investigated different collaboration modes and how they interact with competition to influence computational thinking (CT) learning, group metacognition and in‐game behaviours.
+- 易读版中文摘要：这篇文章关注教育技术或 AI/数字工具在学习中的作用，重点可看技术如何改变学习任务、反馈或互动方式，以及作者对有效教学设计提出的条件。
+- 文章链接：https://doi.org/10.1111/bjet.70081
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+- 无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### STEM Participation in Global Higher Education: Core–Periphery Structures and Scientific Capital in Fulbright Foreign Student Program
+
+- 期刊名：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Angga Hidayat, Ismu Sukamto, Johan Syahbrudin, Nurmalia Nurmalia, Hervin Maulina, Anita Anggraini
+- 发表日期 / online first：2026-08-03
+- DOI：10.1007/s10763-026-10709-4
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。
+- 易读版中文摘要：这篇文章面向 STEM 教育情境，重点通常在跨学科任务、学生参与、学习表现或课程设计，对 STEM 项目设计和评价有参考意义。
+- 文章链接：https://doi.org/10.1007/s10763-026-10709-4
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+- 无新增。
+
+### 今日重点
+
+- 【教师教育】The Separate Worlds of Science and Science Teaching, According to Potential Science Teachers（Journal of Research in Science Teaching (JRST)，2026-08-03）
+- 【科学技术与AI/教育技术】Unveiling patterns of socially shared regulation in relation to self‐regulated learning: The roles of individual profiles and group dynamics in online collaborative learning（British Journal of Educational Technology (BJET)，2026-08-02）
+- 【科学技术与AI/教育技术】Not all collaboration benefits from competition: Collaboration modes in a computational thinking game（British Journal of Educational Technology (BJET)，2026-08-02）
+- 【STEM 教育】STEM Participation in Global Higher Education: Core–Periphery Structures and Scientific Capital in Fulbright Foreign Student Program（International Journal of Science and Mathematics Education (IJSME)，2026-08-03）
