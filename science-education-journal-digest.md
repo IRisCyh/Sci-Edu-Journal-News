@@ -5620,3 +5620,278 @@
 - 【实验/探究学习或物理教育】Measuring fidelity of implementation of named active learning methods in physics（Physical Review Physics Education Research，2026-08-04）
 - 【教师教育】Synergy and complexity: How teacher support modifies motivational pathways from cognitive activation to mathematics achievement（Instructional Science，2026-08-04）
 - 【教师教育】From Video to Analytics: A Design-based Study on Fostering Critical Collective Reflection for Pre-service Science Teachers（Journal of Science Education and Technology，2026-08-03）
+
+## 2026-08-10 推送
+
+### 推送记录
+
+- 本次推送日期：2026-08-10
+- 主检索覆盖时间范围：2026-08-04 至 2026-08-10（Crossref created-date 候选，并核对 published/online 日期；按 DOI 去重）
+- 补充检索覆盖时间范围：2026-07-27 至 2026-08-10（最近 14 天 Crossref online-pub-date / pub-date 补查；同时检查官网 latest/current 页面状态）
+- 11 本期刊各自新增文章数量：
+  1. Journal of Science Education and Technology：1
+  2. Physical Review Physics Education Research：7
+  3. International Journal of Science Education：3
+  4. Science Education：1
+  5. Journal of Research in Science Teaching (JRST)：2
+  6. British Journal of Educational Technology (BJET)：2
+  7. International Journal of STEM Education：0
+  8. Research in Science Education：3
+  9. International Journal of Science and Mathematics Education (IJSME)：2
+  10. Studies in Science Education：0
+  11. Instructional Science：1
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 200
+  2. Physical Review Physics Education Research：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 403
+  3. International Journal of Science Education：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 403
+  4. Science Education：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 403
+  5. Journal of Research in Science Teaching (JRST)：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 403
+  6. British Journal of Educational Technology (BJET)：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 403
+  7. International Journal of STEM Education：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 200
+  8. Research in Science Education：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 200
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 200
+  10. Studies in Science Education：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 403
+  11. Instructional Science：Crossref 主检索 + 14 天 Crossref 补查；官网 latest/current 页面状态 200
+- 本次实际展开文章总数：18
+- 因每刊最多 3 篇而未展开的数量：4（Physical Review Physics Education Research 4 篇，已在本次记录 DOI 清单中列出，避免后续重复计入）
+- 是否发现可能重复文章或 DOI 缺失：未发现 DOI 缺失；已按历史日志 DOI 去重；本次未发现 Crossref 与官网冲突。
+- GitHub commit：同步后在本次对话记录中报告
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+
+#### Robotic Enactment of Scientific History: Supporting Contextual Chemistry Learning through Embodied Storytelling
+
+- 期刊名：Journal of Science Education and Technology
+- 作者：Kuan-Fu Chen、Gwo-Jen Hwang、Mei-Rong Alice Chen
+- 发表日期 / online first：2026-08-06
+- DOI：10.1007/s10956-026-10353-1
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。题名显示文章将机器人、科学史叙事与化学情境学习结合，重点可能在 embodied storytelling 如何帮助学生把化学知识放回历史与社会语境中理解。
+- 易读版中文摘要：这篇文章关注如何用机器人重演科学史来支持化学学习。它的核心意义在于把化学概念、历史人物/事件和具身叙事结合起来，让学生不只是记忆概念，而是在情境化故事中理解科学知识如何形成。适合关注 K-12 化学、STEM 叙事教学和机器人教育应用。
+- 文章链接：https://doi.org/10.1007/s10956-026-10353-1
+
+### 2. Physical Review Physics Education Research
+
+#### Exploring preservice teachers’ use of ontologies and stances toward the wave function through a classical/quantum analogy lesson
+
+- 期刊名：Physical Review Physics Education Research
+- 作者：Anonymous
+- 发表日期 / online first：2026-08-05
+- DOI：10.1103/ynjj-22sw
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。题名显示研究以经典/量子类比课为情境，考察职前教师如何使用 ontology 与 epistemic stance 理解 wave function。
+- 易读版中文摘要：这篇文章面向职前教师量子物理学习，关注他们如何借助经典/量子类比理解波函数。它对教师教育的价值在于揭示未来教师在抽象物理概念上采用哪些本体假设和解释立场，从而帮助课程设计者更精准地支持量子概念教学。
+- 文章链接：https://doi.org/10.1103/ynjj-22sw
+
+#### Effect of scale comprehension on student reasoning about astronomical phenomena. I. The apparent sizes of Moon and Sun and Solar Eclipses
+
+- 期刊名：Physical Review Physics Education Research
+- 作者：Willem Keppens、Mieke De Cock、Hans Van Winckel、Wim Van Dooren、Jan Sermeus
+- 发表日期 / online first：2026-08-05
+- DOI：10.1103/dvkz-5pt7
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：研究访谈 25 名高中毕业年级学生，借助个人化日地月比例模型分析学生对月亮/太阳视大小与日食的解释；重点发现是许多解释受空间尺度理解不足影响。
+- 易读版中文摘要：这项研究访谈高中学生，分析他们如何解释月亮和太阳的视大小、日食与空间尺度关系。研究提示，学生对日地月系统比例的误解会直接影响天文现象解释，因此教学中需要把比例模型、图示和可操作表征结合起来，帮助学生建立尺度感。
+- 文章链接：https://doi.org/10.1103/dvkz-5pt7
+
+#### Effects of generative AI-mediated socratic dialogue on preservice physics teachers’ critical thinking in kinematics
+
+- 期刊名：Physical Review Physics Education Research
+- 作者：Anonymous
+- 发表日期 / online first：2026-08-04
+- DOI：10.1103/x7vq-17rq
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。题名显示研究考察生成式 AI 介导的苏格拉底式对话对职前物理教师运动学批判性思维的影响。
+- 易读版中文摘要：这篇文章关注生成式 AI 介导的苏格拉底式对话是否能促进职前物理教师的运动学批判性思维。它与 AI 教育技术和教师教育直接相关，重点在于 AI 不只是给答案，而是通过追问、反思和论证支持教师形成更高质量的物理推理。
+- 文章链接：https://doi.org/10.1103/x7vq-17rq
+
+- 另有 4 篇未展开，但记录 DOI 以避免后续重复：
+  - 2026-08-05｜Effect of scale comprehension on student reasoning about astronomical phenomena. II. Moon phases｜DOI：10.1103/bxw9-xm6x｜链接：https://doi.org/10.1103/bxw9-xm6x
+  - 2026-08-05｜Nature of heat inventory: Assessing students’ understanding of thermal processes in kinetic molecular terms｜DOI：10.1103/q4n2-d2w3｜链接：https://doi.org/10.1103/q4n2-d2w3
+  - 2026-08-04｜Can a controlled-not gate affect the control qubit? Student resources for understanding controlled not and entanglement｜DOI：10.1103/6tn7-klxh｜链接：https://doi.org/10.1103/6tn7-klxh
+  - 2026-08-04｜Material-based contextualization in physics: Student preference for household objects versus laboratory equipment in a resonance demonstration｜DOI：10.1103/6q11-82vh｜链接：https://doi.org/10.1103/6q11-82vh
+
+### 3. International Journal of Science Education
+
+#### Everyday certainty and scientific uncertainty: potentials of scientists’ perspectives from microplastics research to address uncertainty in science education
+
+- 期刊名：International Journal of Science Education
+- 作者：Elena Drometer、Tobias Rähse、Anja Knöchelmann、Paul-Tiberiu Miclea、Ralf Wehrspohn、Sarah Dannemann
+- 发表日期 / online first：2026-08-09
+- DOI：10.1080/09500693.2026.2683072
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。题名显示文章从微塑料研究科学家的视角切入，讨论日常确定性与科学不确定性如何进入科学教育。
+- 易读版中文摘要：这篇文章从微塑料研究中的科学家视角切入科学不确定性。对科学教育的启示是，课堂可以把真实科研中的不确定、证据限制和公众判断带进来，帮助学生区分日常确定感与科学知识的暂定性，提升科学素养和社会性科学议题理解。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2683072
+
+#### Exploring the associations of curiosity, scientific interest, and scientific identity with 4th and 6th graders’ scientific knowledge understanding, reasoning, and inquiry
+
+- 期刊名：International Journal of Science Education
+- 作者：Yafeng Zheng、Cuixin Li、Gen Li、Yang Yang
+- 发表日期 / online first：2026-08-04
+- DOI：10.1080/09500693.2026.2707432
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。题名显示研究 4 年级与 6 年级学生的好奇心、科学兴趣和科学身份，与科学知识理解、推理和探究之间的关系。
+- 易读版中文摘要：这项研究关注四、六年级学生的好奇心、科学兴趣和科学身份如何关联科学知识理解、推理和探究。它对 K-12 科学教育的意义在于把情感/身份变量与认知表现放在同一框架中，提示课程设计不能只看知识掌握，也要培养学生对科学的自我关联。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2707432
+
+#### Digital incremental scaffolds during experimentation in biology lessons – beneficial for competence experience and intrinsic motivation?
+
+- 期刊名：International Journal of Science Education
+- 作者：Svea Isabel Kleinert、Marlina Hülsmann、Margit Offermann、Matthias Wilde
+- 发表日期 / online first：2026-08-04
+- DOI：10.1080/09500693.2026.2693808
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。题名显示文章考察生物实验课中的数字化递进支架是否能提升学生的胜任感体验与内在动机。
+- 易读版中文摘要：这篇文章考察生物实验课中的数字化递进支架，重点是这些支架是否能改善学生的胜任感和内在动机。它对实验/探究学习有直接价值，因为它把技术支架与学生动机体验联系起来，说明实验教学中的数字工具应服务于逐步放手和自主感建立。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2693808
+
+### 4. Science Education
+
+#### An Exploration of the Relationships Between Science Identity and Disabled Identities in Undergraduate Science Students
+
+- 期刊名：Science Education
+- 作者：Ariel Chasen、Maura Borrego
+- 发表日期 / online first：2026-08-05
+- DOI：10.1002/sce.70093
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：研究关注残障身份与科学身份在本科科学学生中的交织关系；基于 21 名自我认同为残障的本科生访谈，分析实验课经历、身份叙事与现有 science identity 框架之间的关系。
+- 易读版中文摘要：这篇质性研究聚焦残障本科生的科学身份与残障身份之间的关系。它扩展了 science identity 研究中常见的表现、能力、认可和兴趣框架，提醒科学教育需要更认真地处理实验课、制度支持和身份承认如何共同影响残障学生的科学归属感。
+- 文章链接：https://doi.org/10.1002/sce.70093
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### Pre‐Service Science Teachers' Judgment Accuracy Across Science Competencies: Evidence From a Digital Classroom Simulation
+
+- 期刊名：Journal of Research in Science Teaching (JRST)
+- 作者：Johannes Poser、Ute Harms、Daniel Schönle、Christoph Reich、Daniela Fiedler
+- 发表日期 / online first：2026-08-07
+- DOI：10.1002/tea.70064
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：研究使用数字课堂模拟考察职前科学教师判断学生科学能力的准确性，并比较不同科学能力维度上的判断表现。
+- 易读版中文摘要：这项研究用数字课堂模拟评估职前科学教师判断学生科学能力的准确性。核心价值在于说明教师诊断能力可能随科学能力维度而变化，因此教师教育不应只训练一般课堂判断，还要针对解释现象、评价证据和使用科学信息等具体能力进行训练。
+- 文章链接：https://doi.org/10.1002/tea.70064
+
+#### A Methodology to Analyze Students' Comics Created in the Context of Science Inquiry in Secondary Education Reveals Their Modes of Reasoning
+
+- 期刊名：Journal of Research in Science Teaching (JRST)
+- 作者：Evi Ketsea、Cécile de Hosson、Emmanuel Rollinde
+- 发表日期 / online first：2026-08-05
+- DOI：10.1002/tea.70065
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：文章提出一种分析科学探究情境下学生自创漫画的方法，将视觉叙事语法、情境符号学和推理类型结合，用于识别学生在探究过程中的推理模式。
+- 易读版中文摘要：这篇文章提出分析学生科学探究漫画的方法，把学生画出的序列图像视为意义建构和推理过程的证据。它对科学探究学习有价值，因为漫画能呈现学生如何连接观察、模型、解释和证据，为教师评价学生推理提供了非传统但细致的入口。
+- 文章链接：https://doi.org/10.1002/tea.70065
+
+### 6. British Journal of Educational Technology (BJET)
+
+#### From emotion regulation to academic success: A self‐determination theory‐based emotional agent‐mediated approach
+
+- 期刊名：British Journal of Educational Technology (BJET)
+- 作者：Xiao‐Li Zheng、Zi‐Ying Lyu、Shi‐Ying Wang、Feng Wang、Xi Kong、Gwo‐Jen Hwang、Yun‐Fang Tu
+- 发表日期 / online first：2026-08-07
+- DOI：10.1111/bjet.70083
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：研究提出基于 self-determination theory 的情绪代理框架 EmoAgent，用于识别学生情绪状态并提供调节策略；准实验对象为小学信息技术课程学生。
+- 易读版中文摘要：这项研究设计 EmoAgent 来检测和支持学生情绪调节，并在小学信息技术课程中进行准实验。它说明教育技术可以从认知支持扩展到情绪和动机支持，尤其适合关注 AI/智能代理如何帮助学生维持学习投入和提升学业表现。
+- 文章链接：https://doi.org/10.1111/bjet.70083
+
+#### Effects of AI chatbot‐supported cooperative flipped classroom on student collaboration, self‐regulated learning and academic performance: A mastery learning perspective
+
+- 期刊名：British Journal of Educational Technology (BJET)
+- 作者：Kai Wang、Sihan Qin、Yue Shen、Jianwen Guo、Qianqian Ruan、Tingting Jia
+- 发表日期 / online first：2026-08-07
+- DOI：10.1111/bjet.70079
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：研究从 mastery learning 视角检验 AI chatbot 支持的合作翻转课堂，关注其对大学生协作、自我调节学习和学业表现的影响。
+- 易读版中文摘要：这项研究考察 AI 聊天机器人支持的合作翻转课堂。它关注学生协作、自我调节学习和学业表现，并比较不同先备知识学生的表现模式。对教学设计的启示是，AI chatbot 需要嵌入明确的合作结构和掌握学习路径，而不是简单作为答疑工具。
+- 文章链接：https://doi.org/10.1111/bjet.70079
+
+### 7. International Journal of STEM Education
+
+- 无新增。
+
+### 8. Research in Science Education
+
+#### Designing Epistemic Partnerships with Generative AI: A Four-Stage Model of Student Engagement in Scientific Argumentation
+
+- 期刊名：Research in Science Education
+- 作者：Akiko Deguchi、Hiroko Tsuji、Takeshi Kitazawa
+- 发表日期 / online first：2026-08-10
+- DOI：10.1007/s11165-026-10370-5
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：设计型研究考察一年级本科生在科学论证课中如何与 ChatGPT 建立 epistemic partnership；分析学生提示语并提出四阶段对话伙伴模型。
+- 易读版中文摘要：这篇设计型研究分析本科生在科学论证课中如何与 ChatGPT 互动，并提出四阶段 epistemic partnership 模型。它的重要性在于把生成式 AI 从“辅助写作工具”重新定位为论证、批判和认识论代理的伙伴，适合关注 AI 与科学论证教学。
+- 文章链接：https://doi.org/10.1007/s11165-026-10370-5
+
+#### (dis)Ability in Science: How Scientists with Disabilities Embody the Nature of Science as a Human Endeavor
+
+- 期刊名：Research in Science Education
+- 作者：Mila Rosa Librea-Carden、Jonathan L. Hall、Sarah H. Losoya
+- 发表日期 / online first：2026-08-10
+- DOI：10.1007/s11165-026-10364-3
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。题名显示文章通过残障科学家的经验讨论 science as a human endeavor，强调科学实践中的身体、身份与 nature of science。
+- 易读版中文摘要：这篇文章关注残障科学家如何体现科学作为人类事业的本质。它对科学教育和 NOS 教学的意义在于把科学家的身体经验、身份和制度障碍纳入科学实践图景，帮助学生看到科学不是去人格化活动，而是由多样化的人共同完成的知识生产。
+- 文章链接：https://doi.org/10.1007/s11165-026-10364-3
+
+#### Affordances and Challenges of GenAI Feedback in Primary Students’ Scientific Drawing
+
+- 期刊名：Research in Science Education
+- 作者：Kason Ka Ching Cheung、Chen Jiahao Enzo、Young Hoan Cho、Wan Zhi Hong、Cheung Ho Wai、Pang Wai Fung
+- 发表日期 / online first：2026-08-07
+- DOI：10.1007/s11165-026-10366-1
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。题名显示研究关注生成式 AI 对小学生科学绘图反馈的 affordances 与 challenges，适合关注 AI 支持科学表征学习。
+- 易读版中文摘要：这篇文章关注生成式 AI 对小学生科学绘图的反馈。它的价值在于把 AI 用于学生表征学习和科学解释建构，而不是只用于文本生成；同时也提示教师需要关注反馈准确性、学生理解和 AI 介入程度之间的平衡。
+- 文章链接：https://doi.org/10.1007/s11165-026-10366-1
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### Systematic Review on Automatic Math Word Problem Generation and a Comprehensive Framework for Quality Evaluation
+
+- 期刊名：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Ika Qutsiati Utami、Wu-Yuin Hwang
+- 发表日期 / online first：2026-08-07
+- DOI：10.1007/s10763-026-10715-6
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：未获取到 abstract。题名显示文章系统综述自动生成数学文字题的研究，并提出质量评价框架。
+- 易读版中文摘要：这篇系统综述聚焦自动生成数学文字题，并提出质量评价框架。它对 STEM/数学教育技术有价值，因为自动生成题目正在进入练习系统和智能辅导系统，关键问题不只是能否生成，而是题目是否真实、清晰、难度合适并支持目标概念学习。
+- 文章链接：https://doi.org/10.1007/s10763-026-10715-6
+
+#### Examining the nature of biology teacher explanations and resulting student heightened interaction: A topic-specific PCK analysis approach
+
+- 期刊名：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Hlologelo Climant Khoza
+- 发表日期 / online first：2026-08-05
+- DOI：10.1007/s10763-026-10712-9
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：研究以南非 11 年级生命科学课堂为案例，分析生物教师解释如何动员 topic-specific PCK，并如何引发学生更高水平互动。
+- 易读版中文摘要：这项研究分析生物教师解释中的 topic-specific PCK 如何影响学生互动。它挑战了“教师解释等于单向讲授”的简单看法，显示高质量解释可以整合学生先备知识、表征、难点和课程重点，从而引发更丰富的课堂交流。
+- 文章链接：https://doi.org/10.1007/s10763-026-10712-9
+
+### 10. Studies in Science Education
+
+- 无新增。
+
+### 11. Instructional Science
+
+#### Sequential patterns of challenges and socially shared regulation of learning: a comparison of pre-service and in-service teachers’ collaborative learning
+
+- 期刊名：Instructional Science
+- 作者：Faisal Channa、Piia Näykki、Päivi Häkkinen、Kristóf Fenyvesi、Takumi Yada
+- 发表日期 / online first：2026-08-08
+- DOI：10.1007/s11251-026-09818-y
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- English abstract 要点：研究比较职前与在职教师在计算机支持协作问题解决任务中的挑战序列与 socially shared regulation of learning，使用视频数据和过程挖掘分析互动模式。
+- 易读版中文摘要：这篇文章比较职前和在职教师在协作问题解决中的挑战序列与共同调节策略。它对教师教育和学习科学有价值，因为它用过程数据揭示教师群体如何面对认知、情绪和动机挑战，并说明协作学习支持需要关注互动顺序而不只是最终表现。
+- 文章链接：https://doi.org/10.1007/s11251-026-09818-y
+
+### 今日重点
+
+- 【科学技术与AI】Designing Epistemic Partnerships with Generative AI: A Four-Stage Model of Student Engagement in Scientific Argumentation（Research in Science Education，2026-08-10）
+- 【科学技术与AI/教师教育】Effects of generative AI-mediated socratic dialogue on preservice physics teachers’ critical thinking in kinematics（Physical Review Physics Education Research，2026-08-04）
+- 【K-12 科学教育/科学概念学习】Effect of scale comprehension on student reasoning about astronomical phenomena. I. The apparent sizes of Moon and Sun and Solar Eclipses（Physical Review Physics Education Research，2026-08-05）
+- 【实验/探究学习】Digital incremental scaffolds during experimentation in biology lessons – beneficial for competence experience and intrinsic motivation?（International Journal of Science Education，2026-08-04）
+- 【教师教育/学习科学】Sequential patterns of challenges and socially shared regulation of learning: a comparison of pre-service and in-service teachers’ collaborative learning（Instructional Science，2026-08-08）
