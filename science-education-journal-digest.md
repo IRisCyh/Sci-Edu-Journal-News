@@ -1,4 +1,4 @@
-# Education Journal News Log
+﻿# Education Journal News Log
 
 ## 2026-05-27 推送
 
@@ -5918,7 +5918,7 @@
 - 本次实际展开文章总数：13
 - 因每刊最多 3 篇而未展开数量：3
 - 可能重复文章或 DOI 缺失：本次新增均有 DOI；发现并排除历史 DOI 重复候选 37 条；未发现 DOI 缺失文章。
-- GitHub commit hash：待 GitHub 推送后回填
+- GitHub commit hash：15093bb
 - GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
 
 ### 1. Journal of Science Education and Technology
