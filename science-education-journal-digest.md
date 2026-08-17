@@ -5895,3 +5895,222 @@
 - 【K-12 科学教育/科学概念学习】Effect of scale comprehension on student reasoning about astronomical phenomena. I. The apparent sizes of Moon and Sun and Solar Eclipses（Physical Review Physics Education Research，2026-08-05）
 - 【实验/探究学习】Digital incremental scaffolds during experimentation in biology lessons – beneficial for competence experience and intrinsic motivation?（International Journal of Science Education，2026-08-04）
 - 【教师教育/学习科学】Sequential patterns of challenges and socially shared regulation of learning: a comparison of pre-service and in-service teachers’ collaborative learning（Instructional Science，2026-08-08）
+
+## 2026-08-17 推送
+
+### 推送记录
+- 本次推送日期：2026-08-17
+- 主检索覆盖时间范围：2026-08-10 至 2026-08-17
+- 补充检索覆盖时间范围：2026-08-03 至 2026-08-17（最近 14 天）
+- 11 本期刊各自新增文章数量：JSET 1 篇；PRPER 0 篇；IJSE 2 篇；Science Education 2 篇；JRST 2 篇；BJET 0 篇；IJ STEM Education 0 篇；RISE 2 篇；IJSME 6 篇；Studies in Science Education 0 篇；Instructional Science 1 篇
+- 各期刊数据来源：
+1. Journal of Science Education and Technology：Crossref + 14 天官网补查；新增 1 篇
+2. Physical Review Physics Education Research：Crossref + 14 天 Crossref 补查；官网补查受限；新增 0 篇
+3. International Journal of Science Education：Crossref + 14 天 Crossref 补查；官网补查受限；新增 2 篇
+4. Science Education：Crossref + 14 天 Crossref 补查；官网补查受限；新增 2 篇
+5. Journal of Research in Science Teaching (JRST)：Crossref + 14 天 Crossref 补查；官网补查受限；新增 2 篇
+6. British Journal of Educational Technology (BJET)：Crossref + 14 天 Crossref 补查；官网补查受限；新增 0 篇
+7. International Journal of STEM Education：Crossref + 14 天官网补查；新增 0 篇
+8. Research in Science Education：Crossref + 14 天官网补查；新增 2 篇
+9. International Journal of Science and Mathematics Education (IJSME)：Crossref + 14 天官网补查；新增 6 篇
+10. Studies in Science Education：Crossref + 14 天 Crossref 补查；官网补查受限；新增 0 篇
+11. Instructional Science：Crossref + 14 天官网补查；新增 1 篇
+- 本次实际展开文章总数：13
+- 因每刊最多 3 篇而未展开数量：3
+- 可能重复文章或 DOI 缺失：本次新增均有 DOI；发现并排除历史 DOI 重复候选 37 条；未发现 DOI 缺失文章。
+- GitHub commit hash：待 GitHub 推送后回填
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+- 新增数量：1
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 31）
+1. **In-Field and Out-of-Field Teachers Incorporating a bMOOC in Physics Classrooms: Challenges and Opportunities**
+- 期刊：Journal of Science Education and Technology
+- 作者：Asnat R. Zohar; Inbal Ston; Shulamit Kapon
+- 发表/online first 日期：2026-08-17
+- DOI：10.1007/s10956-026-10357-x
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：The study compares in-field and out-of-field physics teachers using a blended MOOC in 9th-grade classrooms. It finds similar reports of student engagement, but different instructional enactments: in-field teachers adapted resources more flexibly, while many out-of-field teachers used the course in more teacher-centered ways and struggled with pacing, control, and disciplinary authority.
+- 易读版中文摘要：这篇文章关注九年级物理课堂中 bMOOC 的使用，重点不是平台本身是否有效，而是教师背景如何影响使用方式。研究显示，专业对口和非专业对口教师都能看到学生投入和自主学习的价值，但非专业对口教师更容易把资源用成“跟着平台走”的教师中心模式。这对教师教育和数字资源设计很关键：技术可以承载集体化的 PCK，但不能自动补足教师的学科知识、教学判断和专业身份感。
+- 文章链接：https://doi.org/10.1007/s10956-026-10357-x
+
+### 2. Physical Review Physics Education Research
+- 新增数量：0
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+- 无新增。
+
+### 3. International Journal of Science Education
+- 新增数量：2
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+1. **‘Going against the grain’: science teachers’ socio-political and social justice-informed praxis in secondary school science**
+- 期刊：International Journal of Science Education
+- 作者：Catherine Fraser-Andrews; Haira E. Gandolfi
+- 发表/online first 日期：2026-08-11
+- DOI：10.1080/09500693.2026.2707430
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。Based on the title and metadata, the article concerns secondary science teachers whose classroom praxis is shaped by socio-political and social-justice commitments.
+- 易读版中文摘要：未获取到 publisher abstract。根据题名判断，文章讨论中学科学教师如何在课堂中实践社会政治和社会正义取向的科学教育。它可能关注教师如何在课程规范、学校环境和科学知识教学之间处理张力，并把科学课堂连接到现实社会议题。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2707430
+
+2. **Students’ pre-instructional reasoning about evolution: interactions among conceptual, epistemic, and positioning dimensions**
+- 期刊：International Journal of Science Education
+- 作者：Mercy Varghese; Pooja V. Birwatkar
+- 发表/online first 日期：2026-08-11
+- DOI：10.1080/09500693.2026.2716302
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title indicates a study of students' pre-instructional reasoning about evolution across conceptual understanding, epistemic framing, and positioning.
+- 易读版中文摘要：未获取到 publisher abstract。根据题名判断，文章研究学生在正式教学前如何理解进化，且不只看概念是否正确，还看他们如何判断知识证据、如何把自己放在讨论中的位置。这类研究对科学概念学习很有价值，因为它提醒教师：进化学习的困难往往同时包含概念、认识论和身份/立场层面的因素。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2716302
+
+### 4. Science Education
+- 新增数量：2
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+1. **What If Cooking Isn't Chemistry? Examining the Good and the Harm in Metaphorical Connections Between Science and Everyday Activities**
+- 期刊：Science Education
+- 作者：Noah Weeth Feinstein; Ryan L. Stowe
+- 发表/online first 日期：2026-08-14
+- DOI：10.1002/sce.70094
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：This theoretical paper examines claims such as 'cooking is chemistry.' It argues that links between scientific and everyday practices are more complex than common slogans suggest, and that folding everyday practices under science can obscure their independent histories and values.
+- 易读版中文摘要：这是一篇理论文章，质疑“做饭就是化学”这类常见连接方式。作者不是反对把科学与日常生活相连，而是指出这种连接如果过度简单化，可能把日常实践的独立价值、文化历史和经验知识压扁成科学的附庸。对科学教育而言，关键启发是：生活化教学需要更精确地区分“有联系”和“完全等同”。
+- 文章链接：https://doi.org/10.1002/sce.70094
+
+2. **Testing Times: A Structure/Agency Perspective on Becoming a Science Teacher in a Competitive, Exam‐Based Teacher Selection System**
+- 期刊：Science Education
+- 作者：Wonyong Park; Heesoo Ha
+- 发表/online first 日期：2026-08-11
+- DOI：10.1002/sce.70096
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：The study analyzes prospective science teachers in South Korea's competitive exam-based teacher selection system. It shows how structural features of the exam interact with candidates' envisioned teacher identities and produce different agentive strategies, from alignment to distancing and optimization.
+- 易读版中文摘要：文章研究韩国准科学教师在高竞争、考试选拔制中的身份形成。研究显示，考试制度的知识层级、程序不透明和竞争压力会塑造候选人对“成为科学教师”的理解；他们可能顺应制度，也可能策略性疏离或工具化应对。这对教师教育有提示：教师身份不是只在课程中形成，也被选拔制度持续塑形。
+- 文章链接：https://doi.org/10.1002/sce.70096
+
+### 5. Journal of Research in Science Teaching (JRST)
+- 新增数量：2
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+1. **Unveiling the “Gray Zone”: Characterizing Young People's Moderate STEM Identities**
+- 期刊：Journal of Research in Science Teaching (JRST)
+- 作者：Carme Grimalt‐Álvaro; Digna Couso; Henriette Tolstrup Holmegaard
+- 发表/online first 日期：2026-08-14
+- DOI：10.1002/tea.70068
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：Using data from 1004 Catalonian students aged 12-16, the study characterizes students with moderate STEM identities who sit between strong identification and disengagement. It identifies patterns involving interest, competence, self-efficacy, aspirations, and recognition, with gendered differences in mathematics, arts, languages, and social sciences.
+- 易读版中文摘要：这篇 JRST 文章把注意力放在“不强烈认同 STEM、但也没有完全疏离”的灰色地带学生。通过 1004 名 12-16 岁学生的数据，研究发现这些学生的兴趣、能力感、自我效能、职业期待和被认可感组合不同，且呈现明显性别化模式。意义在于：扩大 STEM 参与不能只盯住“高兴趣学生”，还要改善那些有潜力但缺少认可的学生的身份发展环境。
+- 文章链接：https://doi.org/10.1002/tea.70068
+
+2. **Care Praxis–Driven STEM Design for Sustainable and Just Communities in Middle School**
+- 期刊：Journal of Research in Science Teaching (JRST)
+- 作者：Wisam Sedawi; Angela Calabrese Barton; Edna Tan
+- 发表/online first 日期：2026-08-10
+- DOI：10.1002/tea.70063
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：The study uses participatory critical design-based research in an urban middle school STEM unit on engineering for sustainable communities. It shows how care praxis can support students' sense-making through problem identification, prioritization, solution design, and integration into community practice.
+- 易读版中文摘要：这篇文章与 K-12 STEM 教育高度相关。研究把 care praxis 引入城市中学工程设计单元，让学生围绕可持续和公正社区开展问题识别、需求排序、方案设计和社区整合。它的价值在于把工程设计从单纯技术解题扩展为关怀、正义和社区参与的实践，为中学 STEM 教学设计提供了更有伦理维度的路径。
+- 文章链接：https://doi.org/10.1002/tea.70063
+
+### 6. British Journal of Educational Technology (BJET)
+- 新增数量：0
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+- 无新增。
+
+### 7. International Journal of STEM Education
+- 新增数量：0
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 31）
+- 无新增。
+
+### 8. Research in Science Education
+- 新增数量：2
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 29）
+1. **Stretching the Applications of Simulator Rehearsal: Preparing Chemistry GTAs in Questioning Techniques**
+- 期刊：Research in Science Education
+- 作者：Esther R. Richards; Emanuella R. Dolcine; Daniel Sharkey; Constance M. Doty; Christopher A. Nix; AJ Sona; Ashley A. Geraets; Tong Wan; et al.
+- 发表/online first 日期：2026-08-17
+- DOI：10.1007/s11165-026-10372-3
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title suggests a study of simulator rehearsal as preparation for chemistry graduate teaching assistants' questioning techniques.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章研究用模拟排练训练化学研究生助教的课堂提问技术。它可能对实验课、讨论课和大学 STEM 助教培训有直接意义，因为提问质量会影响学生解释、推理和参与。
+- 文章链接：https://doi.org/10.1007/s11165-026-10372-3
+
+2. **Mapping the Evolution of Science Education: A 35-Year Topic Modeling Analysis of Research Trends**
+- 期刊：Research in Science Education
+- 作者：Nurcan Kahraman
+- 发表/online first 日期：2026-08-12
+- DOI：10.1007/s11165-026-10371-4
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title indicates a 35-year topic-modeling analysis of research trends in science education.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章用主题模型梳理 35 年科学教育研究的发展趋势。这类综述/计量研究适合用来观察领域关注点如何变化，例如概念学习、教师教育、技术整合、身份与公平等主题是否升降。
+- 文章链接：https://doi.org/10.1007/s11165-026-10371-4
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+- 新增数量：6
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 33）
+1. **The Impacts of Using a Gamified Intelligent Tutoring System on Students’ Mathematical Self-Efficacy: A Mixed-Method Study**
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Jieun Lim; Kyeongjin Park; Minji Kim
+- 发表/online first 日期：2026-08-15
+- DOI：10.1007/s10763-026-10711-w
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title identifies a mixed-method study of a gamified intelligent tutoring system and students' mathematical self-efficacy.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章考察游戏化智能辅导系统对学生数学自我效能的影响，并采用混合方法。它与教育技术和智能教学系统有关，重点可能在于技术如何影响学生对自己数学能力的信念，而不只是成绩表现。
+- 文章链接：https://doi.org/10.1007/s10763-026-10711-w
+
+2. **Artificial Intelligence in Primary Mathematics Education: A Systematic Review of Pedagogical Applications, Benefits, and Challenges**
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Mao Li; Hazel Tan
+- 发表/online first 日期：2026-08-14
+- DOI：10.1007/s10763-026-10722-7
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title identifies a systematic review of AI applications, benefits, and challenges in primary mathematics education.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章系统综述小学数学教育中的 AI 教学应用、收益和挑战。它对基础教育阶段 AI 工具设计尤其相关，因为小学场景更需要关注教师调控、儿童理解、数据伦理和学习支持的边界。
+- 文章链接：https://doi.org/10.1007/s10763-026-10722-7
+
+3. **Expertise-Based Training of Prospective Mathematics Teachers for Authentic Mathematics Problems: Assessing and Improving Authenticity**
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Lütfi İncikabı; Feyza Aliustaoğlu; Çiğdem Kılıç; Musa Sadak
+- 发表/online first 日期：2026-08-13
+- DOI：10.1007/s10763-026-10717-4
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title suggests a study on training prospective mathematics teachers to assess and improve authenticity in authentic mathematics problems.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章研究如何训练准数学教师识别并提升真实数学问题的真实性。它与教师教育和任务设计相关，核心问题是教师能否判断一个“真实情境题”是否真的保留了现实问题的复杂性，而不是只披着生活化外衣。
+- 文章链接：https://doi.org/10.1007/s10763-026-10717-4
+
+- 另有 3 篇未展开：
+  - 2026-08-12｜Mathematical Modelling in Pre-service Teacher Education: A Scoping Review｜DOI：10.1007/s10763-026-10714-7｜链接：https://doi.org/10.1007/s10763-026-10714-7
+  - 2026-08-11｜Reconceptualizing Generative AI as Dialogic Partner: Pedagogical and Methodological Implications for Science Education｜DOI：10.1007/s10763-026-10710-x｜链接：https://doi.org/10.1007/s10763-026-10710-x
+  - 2026-08-11｜Between Force and Curvature: A Multimodal Analysis of Competing Conceptual Zones for Gravity in High School Students｜DOI：10.1007/s10763-026-10713-8｜链接：https://doi.org/10.1007/s10763-026-10713-8
+
+### 10. Studies in Science Education
+- 新增数量：0
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+- 无新增。
+
+### 11. Instructional Science
+- 新增数量：1
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 29）
+1. **Incorporating instructor presence in a multimedia language learning context**
+- 期刊：Instructional Science
+- 作者：Yu-Jr Lan; Emmanuel Manalo
+- 发表/online first 日期：2026-08-11
+- DOI：10.1007/s11251-026-09814-2
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：The study tested instructor presence in Mandarin tone-learning videos with 50 Japanese university students, using eye movements, skin conductance, performance, and perception measures. Instructor video did not improve overall performance, but increased satisfaction and perceived learning; the benefit depends on whether visible instructor behavior provides task-usable information.
+- 易读版中文摘要：这篇 Instructional Science 文章研究多媒体语言学习中的教师出镜效应。50 名日本大学生观看普通话声调视频，研究记录眼动、皮肤电和学习表现。结果显示，教师出镜提升了满意度和主观学习感，但没有显著提高总体成绩；只有当教师的可见行为能直接提供任务所需信息时，教师存在感才更可能转化为学习收益。
+- 文章链接：https://doi.org/10.1007/s11251-026-09814-2
+
+### 今日重点
+- **K-12 科学教育 / 教师教育**：JSET 的 bMOOC 研究显示，数字资源对非专业对口物理教师有支持作用，但不能自动替代学科知识、PCK 和专业身份建设。
+- **STEM 教育 / 公平与社区设计**：JRST 的 care praxis 文章把中学 STEM 设计学习与可持续、公正社区连接起来，适合重点关注 K-12 STEM 教学设计。
+- **科学概念学习**：IJSE 的进化前概念推理、IJSME 的重力概念区研究（未展开）都提示概念学习需要同时看知识、认识论和表达方式。
+- **科学技术与 AI / 教学设计**：IJSME 的小学数学 AI 系统综述和生成式 AI 作为对话伙伴文章值得后续细读，分别对应基础教育 AI 应用与科学学习中的人机互动。
+- **学习科学 / 多媒体学习**：Instructional Science 的教师出镜研究提醒，教师存在感能提升感知学习，但只有当可见行为与任务信息直接相关时才更可能改善学习结果。
