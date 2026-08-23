@@ -1,4 +1,4 @@
-﻿# Education Journal News Log
+# Education Journal News Log
 
 ## 2026-05-27 推送
 
@@ -6114,3 +6114,227 @@
 - **科学概念学习**：IJSE 的进化前概念推理、IJSME 的重力概念区研究（未展开）都提示概念学习需要同时看知识、认识论和表达方式。
 - **科学技术与 AI / 教学设计**：IJSME 的小学数学 AI 系统综述和生成式 AI 作为对话伙伴文章值得后续细读，分别对应基础教育 AI 应用与科学学习中的人机互动。
 - **学习科学 / 多媒体学习**：Instructional Science 的教师出镜研究提醒，教师存在感能提升感知学习，但只有当可见行为与任务信息直接相关时才更可能改善学习结果。
+
+## 2026-08-23 推送
+
+### 推送记录
+- 本次推送日期：2026-08-23
+- 主检索覆盖时间范围：2026-08-17 至 2026-08-23
+- 补充检索覆盖时间范围：2026-08-09 至 2026-08-23（最近 14 天）
+- 11 本期刊各自新增文章数量：JSET 1 篇；PRPER 5 篇；IJSE 3 篇；Science Education 1 篇；JRST 1 篇；BJET 0 篇；IJ STEM Education 1 篇；RISE 2 篇；IJSME 0 篇；Studies in Science Education 1 篇；Instructional Science 1 篇
+- 各期刊数据来源：
+1. Journal of Science Education and Technology：Crossref + 14 天官网补查；新增 1 篇
+2. Physical Review Physics Education Research：Crossref + 14 天 Crossref 补查；官网补查受限；新增 5 篇
+3. International Journal of Science Education：Crossref + 14 天 Crossref 补查；官网补查受限；新增 3 篇
+4. Science Education：Crossref + 14 天 Crossref 补查；官网补查受限；新增 1 篇
+5. Journal of Research in Science Teaching (JRST)：Crossref + 14 天 Crossref 补查；官网补查受限；新增 1 篇
+6. British Journal of Educational Technology (BJET)：Crossref + 14 天 Crossref 补查；官网补查受限；新增 0 篇
+7. International Journal of STEM Education：Crossref + 14 天官网补查；新增 1 篇
+8. Research in Science Education：Crossref + 14 天官网补查；新增 2 篇
+9. International Journal of Science and Mathematics Education (IJSME)：Crossref + 14 天官网补查；新增 0 篇
+10. Studies in Science Education：Crossref + 14 天 Crossref 补查；官网补查受限；新增 1 篇
+11. Instructional Science：Crossref + 14 天官网补查；新增 1 篇
+- 本次实际展开文章总数：14
+- 因每刊最多 3 篇而未展开数量：2
+- 可能重复文章或 DOI 缺失：本次新增均有 DOI；发现并排除历史 DOI 重复候选 24 条；未发现 DOI 缺失文章。
+- GitHub commit hash：待 GitHub 推送后回填
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+
+### 1. Journal of Science Education and Technology
+- 新增数量：1
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 31）
+1. **Socioscientific Spatiotemporal Reasoning in Mixed Reality Serious Education Games for Place-Based Climate Instruction**
+- 期刊：Journal of Science Education and Technology
+- 作者：Mark H. Newton; Leonard A. Annetta; Rachel M. Cacace
+- 发表/online first 日期：2026-08-18
+- DOI：10.1007/s10956-026-10358-w
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。Based on the title and metadata, the article examines mixed-reality serious educational games for place-based climate instruction, focusing on socioscientific spatiotemporal reasoning.
+- 易读版中文摘要：未获取到 publisher abstract。根据题名判断，文章研究混合现实严肃教育游戏如何支持地方本位气候教学中的社会科学议题推理，特别是学生如何把空间、时间、地点和气候变化联系起来。这篇与 MR、气候教育、SSI 和科学技术学习直接相关，值得后续细读。
+- 文章链接：https://doi.org/10.1007/s10956-026-10358-w
+
+### 2. Physical Review Physics Education Research
+- 新增数量：5
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+1. **Characterizing the U.S. graduate-level quantum curriculum: Insights into doctoral programs’ coursework and comparisons with undergraduate preparation**
+- 期刊：Physical Review Physics Education Research
+- 作者：Crossref 未提供作者
+- 发表/online first 日期：2026-08-20
+- DOI：10.1103/1ww9-cf72
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title indicates a characterization of U.S. graduate-level quantum curricula, comparing doctoral coursework with undergraduate preparation.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章分析美国博士层面量子课程的结构，并与本科准备进行比较。它对 DBER 中的高阶物理课程设计、量子教育路径和课程衔接有参考价值。
+- 文章链接：https://doi.org/10.1103/1ww9-cf72
+
+2. **Exploring students’ perceptions of their learning experience and self-efficacy in online physics class with project-based learning: An interpretative phenomenological analysis**
+- 期刊：Physical Review Physics Education Research
+- 作者：Crossref 未提供作者
+- 发表/online first 日期：2026-08-20
+- DOI：10.1103/wgcy-66s2
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The article studies students' perceived learning experience and self-efficacy in an online physics class using project-based learning.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章用解释现象学方法研究项目式在线物理课中的学习体验和自我效能。重点可能不是单纯线上课效果，而是学生如何理解项目任务、互动方式和自身能力变化。
+- 文章链接：https://doi.org/10.1103/wgcy-66s2
+
+3. **Student interactions and experiences in online team-working activities in astrophysics and space science**
+- 期刊：Physical Review Physics Education Research
+- 作者：Crossref 未提供作者
+- 发表/online first 日期：2026-08-20
+- DOI：10.1103/ldgz-smd6
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The article focuses on student interaction and experience during online team-working activities in astrophysics and space science.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章研究天体物理与空间科学在线团队活动中的学生互动体验。它适合关注协作学习、在线 STEM 课堂和高阶科学主题教学的人阅读。
+- 文章链接：https://doi.org/10.1103/ldgz-smd6
+
+- 另有 2 篇未展开：
+  - 2026-08-19｜Faculty orientations shape adoption of AI in research and teaching｜DOI：10.1103/7qnc-52m6｜链接：https://doi.org/10.1103/7qnc-52m6
+  - 2026-08-19｜Comparing AI chatbot, tiered, and textual support in physics problem solving: Effects on cognitive load and affective-motivational outcomes｜DOI：10.1103/nvf1-zrq8｜链接：https://doi.org/10.1103/nvf1-zrq8
+
+### 3. International Journal of Science Education
+- 新增数量：3
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+1. **Science teachers’ views of Toulmin’s argument pattern: an investigation framed by expansive learning theory**
+- 期刊：International Journal of Science Education
+- 作者：D. Lazarou; S. Erduran
+- 发表/online first 日期：2026-08-22
+- DOI：10.1080/09500693.2026.2700377
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title identifies a study of science teachers' views of Toulmin's argument pattern, framed by expansive learning theory.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章考察科学教师如何理解 Toulmin 论证模式，并用扩展学习理论分析教师观点变化。这与科学论证教学和教师专业学习直接相关。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2700377
+
+2. **Exploring the integration of computational thinking into scientific inquiry: effects on knowledge, higher-order thinking, STEM attitudes, and collaborative behaviours**
+- 期刊：International Journal of Science Education
+- 作者：Yueyue Ma; Hongliang Ma; Xiaofei Li; Bin Jing; Feifei Xi
+- 发表/online first 日期：2026-08-17
+- DOI：10.1080/09500693.2026.2685784
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title reports an intervention integrating computational thinking into scientific inquiry and examining effects on knowledge, higher-order thinking, STEM attitudes, and collaboration.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章研究把计算思维嵌入科学探究后，对知识学习、高阶思维、STEM 态度和协作行为的影响。它对 K-12 STEM、科学探究和计算思维融合教学有直接价值。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2685784
+
+3. **Character and values for global citizenship in the context of GMOs: perspectives of pre-service science teachers**
+- 期刊：International Journal of Science Education
+- 作者：Selvi Gör İflazi; Perihan Güneş
+- 发表/online first 日期：2026-08-17
+- DOI：10.1080/09500693.2026.2714189
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title suggests a study of pre-service science teachers' perspectives on character and values for global citizenship in the context of GMOs.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章以转基因议题为情境，研究准科学教师对全球公民素养、品格与价值教育的看法。它连接 SSI、教师教育和价值敏感的科学教学。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2714189
+
+### 4. Science Education
+- 新增数量：1
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+1. **Reasoning Together or Clicking Though? Analyzing Patterns of Group Science Talk On and Off Individualized Computers**
+- 期刊：Science Education
+- 作者：Tess Bernhard
+- 发表/online first 日期：2026-08-17
+- DOI：10.1002/sce.70095
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：The study analyzes group science talk in urban secondary classrooms using one-to-one computers. It finds that individualized devices can encourage private, self-paced habits that weaken collective sensemaking, while shared or limited computer use can support more social forms of science discourse.
+- 易读版中文摘要：这篇 Science Education 文章研究一对一电脑环境下的中学科学小组讨论。核心发现是，个人设备会让学生更容易各自推进、隐藏屏幕，从而削弱共同推理；当电脑共享、受限或暂时收起时，小组科学话语更容易展开。它提醒技术整合不能只看设备数量，还要看设备如何改变课堂互动。
+- 文章链接：https://doi.org/10.1002/sce.70095
+
+### 5. Journal of Research in Science Teaching (JRST)
+- 新增数量：1
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+1. **University Students' Utility Value of Learning About a Local or Nonlocal Environmental Socioscientific Issue: Written Reflections and Instructional Contexts**
+- 期刊：Journal of Research in Science Teaching (JRST)
+- 作者：F. K. Matthiesen; F. Rehling; G. Nolte; I. G. Arjana; L. Sundawati; S. Bögeholz
+- 发表/online first 日期：2026-08-21
+- DOI：10.1002/tea.70066
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：The study examines how university students perceive the utility value of learning about local or nonlocal environmental socioscientific issues. It finds that relevance is shaped by locality and instructional context, challenging the assumption that local issues are automatically more relevant.
+- 易读版中文摘要：这篇 JRST 文章研究学生学习环境类社会科学议题时感到“有用”的原因。研究使用印尼四所大学的油棕种植 SSI 单元，发现非本地学生有时反而报告更高效用价值，说明“本地化”并不自动等于高相关性；教学情境和反思任务如何组织同样重要。
+- 文章链接：https://doi.org/10.1002/tea.70066
+
+### 6. British Journal of Educational Technology (BJET)
+- 新增数量：0
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+- 无新增。
+
+### 7. International Journal of STEM Education
+- 新增数量：1
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 31）
+1. **STEM immersions + pedagogical PD drives multi-domain growth in multi-disciplinary teachers: qualitative findings from the Kenan Fellows Program for Teacher Leadership**
+- 期刊：International Journal of STEM Education
+- 作者：Vance Kite; Kevin Winn; Teresa Leavens; Mariam Maiga
+- 发表/online first 日期：2026-08-17
+- DOI：10.1186/s40594-026-00642-x
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title indicates qualitative findings from the Kenan Fellows Program, examining how STEM immersions plus pedagogical professional development support multi-domain growth in multidisciplinary teachers.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章研究 STEM 沉浸体验与教学法专业发展结合后，如何促进多学科教师在多个维度成长。它对 STEM 教师教育、跨学科教师发展和学校外部 STEM 资源整合有参考价值。
+- 文章链接：https://doi.org/10.1186/s40594-026-00642-x
+
+### 8. Research in Science Education
+- 新增数量：2
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 29）
+1. **The Connections Between STEM Learning Outcomes in a STEM Hackathon**
+- 期刊：Research in Science Education
+- 作者：Yu Chen; Tang Wee Teo
+- 发表/online first 日期：2026-08-22
+- DOI：10.1007/s11165-026-10369-y
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title suggests a study of relationships among learning outcomes in a STEM hackathon.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章研究 STEM hackathon 中不同学习结果之间的连接，可能涉及问题解决、协作、创新、自我效能或 STEM 兴趣等维度。它适合关注短周期项目式 STEM 活动评价的人阅读。
+- 文章链接：https://doi.org/10.1007/s11165-026-10369-y
+
+2. **Integrating Augmented Reality in STEM Inquiry: A Focus on Scaffolding for Design Practices**
+- 期刊：Research in Science Education
+- 作者：Jina Chang
+- 发表/online first 日期：2026-08-20
+- DOI：10.1007/s11165-026-10367-0
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The article focuses on augmented reality in STEM inquiry, especially scaffolding for design practices.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章研究增强现实如何融入 STEM 探究，并特别关注对设计实践的脚手架支持。这篇与 AR、探究学习、STEM 设计和教育技术高度相关，是本次最值得标记的技术增强学习文章之一。
+- 文章链接：https://doi.org/10.1007/s11165-026-10367-0
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+- 新增数量：0
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 33）
+- 无新增。
+
+### 10. Studies in Science Education
+- 新增数量：1
+- 数据来源：Crossref + 14 天 Crossref 补查；官网补查受限
+- 官网补查状态：受限（HTTP Error 403: Forbidden）
+1. **A systematic review of multilingual learner outcomes associated with linguistically responsive science instruction**
+- 期刊：Studies in Science Education
+- 作者：Niki M. Koukoulidis; Julie C. Brown
+- 发表/online first 日期：2026-08-21
+- DOI：10.1080/03057267.2026.2717988
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：未获取到 abstract。The title identifies a systematic review of multilingual learner outcomes associated with linguistically responsive science instruction.
+- 易读版中文摘要：未获取到 abstract。根据题名判断，文章系统综述语言响应型科学教学与多语学习者结果之间的关系。它对公平导向科学教育、语言支持和多语学生科学学习很重要。
+- 文章链接：https://doi.org/10.1080/03057267.2026.2717988
+
+### 11. Instructional Science
+- 新增数量：1
+- 数据来源：Crossref + 14 天官网补查
+- 官网补查状态：可访问（HTTP 200；页面 DOI 数约 29）
+1. **Infusing students’ everyday experiences in classrooms: a case study of classroom conversations in life skills education**
+- 期刊：Instructional Science
+- 作者：Kenneth Silseth; Marthe Fundingsrud; Anniken Furberg
+- 发表/online first 日期：2026-08-18
+- DOI：10.1007/s11251-026-09820-4
+- 数据来源：Crossref 主检索 + 14 天 Crossref 补查
+- 英文 abstract 要点：The case study examines classroom conversations in life skills education and how teachers orient to students' everyday experiences, ideas, and assumptions. It identifies opportunities for using personal experiences as conceptual resources and challenges around emotional contributions and connecting everyday life with conceptual knowledge.
+- 易读版中文摘要：这篇 Instructional Science 文章研究教师如何在生活技能教育课堂讨论中引入学生日常经验。研究显示，学生个人经历可以成为概念理解的资源，但教师也需要处理情绪化或敏感发言，并把生活经验与概念知识连接起来。它对学习科学中的课堂话语、经验知识和教学设计有启发。
+- 文章链接：https://doi.org/10.1007/s11251-026-09820-4
+
+### 今日重点
+- **科学技术与 MR/AR**：JSET 的 mixed reality 气候教育游戏、RISE 的 AR-STEM 探究脚手架文章都直接涉及沉浸式技术支持科学/STEM 学习。
+- **科学技术与 AI**：PRPER 未展开的两篇 AI 文章分别关注教师采纳 AI 与 AI chatbot 支持物理问题解决，建议后续补读全文。
+- **K-12 科学教育 / 课堂互动**：Science Education 的一对一电脑研究提醒，个人设备可能削弱小组共同推理，技术整合需要设计共享讨论结构。
+- **STEM 教育 / 教师教育**：International Journal of STEM Education 的 Kenan Fellows 项目文章关注 STEM 沉浸体验与教学法 PD 对多学科教师成长的作用。
+- **科学概念学习与 SSI**：IJSE 的论证模式、计算思维融入科学探究，以及 JRST 的环境 SSI 效用价值研究，都可用于设计更有推理和社会相关性的科学学习任务。
