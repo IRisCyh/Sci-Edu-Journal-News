@@ -6338,3 +6338,91 @@
 - **K-12 科学教育 / 课堂互动**：Science Education 的一对一电脑研究提醒，个人设备可能削弱小组共同推理，技术整合需要设计共享讨论结构。
 - **STEM 教育 / 教师教育**：International Journal of STEM Education 的 Kenan Fellows 项目文章关注 STEM 沉浸体验与教学法 PD 对多学科教师成长的作用。
 - **科学概念学习与 SSI**：IJSE 的论证模式、计算思维融入科学探究，以及 JRST 的环境 SSI 效用价值研究，都可用于设计更有推理和社会相关性的科学学习任务。
+
+## 2026-08-24 推送
+
+### 推送记录
+
+- 本次推送日期：2026-08-24
+- 主检索覆盖时间范围：2026-08-23 至 2026-08-24
+- 补充检索覆盖时间范围：2026-08-10 至 2026-08-24（最近 14 天补查）
+- GitHub commit hash：待回填
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+- 11 本期刊各自新增文章数量：
+  1. Journal of Science Education and Technology：0 篇
+  2. Physical Review Physics Education Research：0 篇
+  3. International Journal of Science Education：0 篇
+  4. Science Education：0 篇
+  5. Journal of Research in Science Teaching (JRST)：0 篇
+  6. British Journal of Educational Technology (BJET)：0 篇
+  7. International Journal of STEM Education：0 篇
+  8. Research in Science Education：0 篇
+  9. International Journal of Science and Mathematics Education (IJSME)：0 篇
+  10. Studies in Science Education：0 篇
+  11. Instructional Science：0 篇
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref + 14 天官网补查（官网 HTTP 200）
+  2. Physical Review Physics Education Research：Crossref + 14 天官网补查（官网 HTTP 403）
+  3. International Journal of Science Education：Crossref + 14 天官网补查（官网 HTTP 403）
+  4. Science Education：Crossref + 14 天官网补查（官网 HTTP 403）
+  5. Journal of Research in Science Teaching (JRST)：Crossref + 14 天官网补查（官网 HTTP 403）
+  6. British Journal of Educational Technology (BJET)：Crossref + 14 天官网补查（官网 HTTP 403）
+  7. International Journal of STEM Education：Crossref + 14 天官网补查（官网 HTTP 200）
+  8. Research in Science Education：Crossref + 14 天官网补查（官网 HTTP 200）
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref + 14 天官网补查（官网 HTTP 200）
+  10. Studies in Science Education：Crossref + 14 天官网补查（官网 HTTP 403）
+  11. Instructional Science：Crossref + 14 天官网补查（官网 HTTP 200）
+- 本次实际展开文章总数：0 篇
+- 因每刊最多 3 篇而未展开的数量：0 篇
+- 是否发现可能重复文章或 DOI 缺失：未发现新增 DOI 缺失；最近 14 天窗口内已记录 DOI 已按日志去重，因此不重复推送。
+
+### 1. Journal of Science Education and Technology
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200）。
+
+### 2. Physical Review Physics Education Research
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403）。
+
+### 3. International Journal of Science Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403）。
+
+### 4. Science Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403）。
+
+### 7. International Journal of STEM Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200）。
+
+### 8. Research in Science Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200）。
+
+### 10. Studies in Science Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403）。
+
+### 11. Instructional Science
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200）。
+
+### 今日重点
+
+- 今日 11 本期刊经 Crossref 主检索与最近 14 天补查去重后，未发现需要展开的新文章。
+- 与 K-12 科学教育、STEM 教育、教师教育、科学概念学习、实验/探究学习、科学技术与 AI、学习科学和教学设计相关的新增记录：本轮无新增。
+- 2026-08-23 已推送的 mixed reality、augmented reality 与生成式 AI 相关文章未重复纳入本轮。
+
