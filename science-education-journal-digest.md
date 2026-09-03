@@ -6807,7 +6807,7 @@
 - 本次推送日期：2026-09-03
 - 主检索覆盖时间范围：2026-09-02 至 2026-09-03
 - 补充检索覆盖时间范围：2026-08-20 至 2026-09-03（最近 14 天补查）
-- GitHub commit hash：待回填
+- GitHub commit hash：14d472b
 - GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
 - 11 本期刊各自新增文章数量：
   1. Journal of Science Education and Technology：0 篇
