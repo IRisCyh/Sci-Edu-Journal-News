@@ -6799,3 +6799,159 @@
 - STEM 公平与身份：PRPER 的女生物理学习综述、International Journal of STEM Education 的科学博物馆研究，都指向 STEM 身份发展中的机会结构问题。
 - 科学概念学习与课堂话语：Science Education 的小组意义建构论证研究和 PRPER 的天文距离访谈分析，都适合关注概念理解如何在语言、模型和互动中形成。
 
+
+## 2026-09-03 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-03
+- 主检索覆盖时间范围：2026-09-02 至 2026-09-03
+- 补充检索覆盖时间范围：2026-08-20 至 2026-09-03（最近 14 天补查）
+- GitHub commit hash：待回填
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+- 11 本期刊各自新增文章数量：
+  1. Journal of Science Education and Technology：0 篇
+  2. Physical Review Physics Education Research：1 篇
+  3. International Journal of Science Education：6 篇
+  4. Science Education：1 篇
+  5. Journal of Research in Science Teaching (JRST)：0 篇
+  6. British Journal of Educational Technology (BJET)：0 篇
+  7. International Journal of STEM Education：0 篇
+  8. Research in Science Education：1 篇
+  9. International Journal of Science and Mathematics Education (IJSME)：0 篇
+  10. Studies in Science Education：0 篇
+  11. Instructional Science：0 篇
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 32 个）
+  2. Physical Review Physics Education Research：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  3. International Journal of Science Education：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  4. Science Education：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  5. Journal of Research in Science Teaching (JRST)：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  6. British Journal of Educational Technology (BJET)：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  7. International Journal of STEM Education：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 50 个）
+  8. Research in Science Education：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 50 个）
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 0 个）
+  10. Studies in Science Education：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  11. Instructional Science：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 0 个）
+- 本次实际展开文章总数：6 篇
+- 因每刊最多 3 篇而未展开的数量：3 篇
+- 是否发现可能重复文章或 DOI 缺失：未发现新增 DOI 缺失；本轮包含上轮因每刊上限未展开、且日志中尚无 DOI 记录的补充候选。
+
+### 1. Journal of Science Education and Technology
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200，页面识别 DOI 32 个）。
+
+### 2. Physical Review Physics Education Research
+
+#### Ethnographic investigations of the emerging culture on departmental teams: Evidence of transforming physics faculty’s practices and values around departmental change
+
+- 期刊名：Physical Review Physics Education Research
+- 文章标题：Ethnographic investigations of the emerging culture on departmental teams: Evidence of transforming physics faculty’s practices and values around departmental change
+- 作者：Diana Sachmpazidi；Chandra Turpen；Jayna Petrella；Robert P. Dalka
+- 发表日期 / online first 日期：2026-08-27
+- DOI：10.1103/zbzl-dcsf
+- 数据来源：Crossref + 14 天官网补查
+- 英文 abstract 要点：The abstract reports multiple case studies of five Departmental Action Teams in physics programs connected to DALI. These teams developed local working cultures that differed from dominant departmental norms by emphasizing collaboration, deliberate planning, feasibility, formal evidence, and student voices in educational change.
+- 易读版中文摘要：这篇文章用民族志和多案例研究分析物理系教学改革团队如何形成新的部门文化。研究发现，DALI 支持下的团队不像传统个人化、匆忙推进的改革方式，而是更强调协作、证据、学生声音和对本地情境可行性的判断。它对高校物理教育改革、教师共同体和组织层面的教学改变有参考价值。
+- 文章链接：https://doi.org/10.1103/zbzl-dcsf
+
+### 3. International Journal of Science Education
+
+#### ‘God didn’t like it and detained them not to fly again:’ evolutionary understanding, acceptance, and perceived conflicts of students with interwoven religious beliefs
+
+- 期刊名：International Journal of Science Education
+- 文章标题：‘God didn’t like it and detained them not to fly again:’ evolutionary understanding, acceptance, and perceived conflicts of students with interwoven religious beliefs
+- 作者：Tim Hartelt；Elizabeth Shekupe Kashango；Barbara Scharfbillig
+- 发表日期 / online first 日期：2026-08-31
+- DOI：10.1080/09500693.2026.2695950
+- 数据来源：Crossref + 14 天官网补查
+- 英文 abstract 要点：未获取到 abstract. From the title and metadata, the article examines students whose religious beliefs are intertwined with their understanding and acceptance of evolution, including how they perceive conflicts between religious explanation and evolutionary science.
+- 易读版中文摘要：这篇文章关注学生在进化理解、接受度和宗教信念之间的冲突感。元数据没有 abstract，但题名显示研究并不只是测学生“懂不懂进化”，而是分析他们如何把宗教解释、因果判断和生物进化概念交织在一起。对科学概念学习、科学与文化/信念关系、教师如何处理敏感科学议题很重要。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2695950
+
+#### Characterising the motivations of learners in a massive open online course on astronomy
+
+- 期刊名：International Journal of Science Education
+- 文章标题：Characterising the motivations of learners in a massive open online course on astronomy
+- 作者：Matthew C. Wenger；Skylar Grayson；Sanlyn R. Buxner；Chris D. Impey；Martin Formanek；Molly Simon
+- 发表日期 / online first 日期：2026-08-31
+- DOI：10.1080/09500693.2026.2717397
+- 数据来源：Crossref + 14 天官网补查
+- 英文 abstract 要点：未获取到 abstract. The article characterizes motivations of learners in an astronomy MOOC, likely examining why participants join, persist, and engage in large-scale informal or online astronomy learning.
+- 易读版中文摘要：这篇文章研究天文学 MOOC 学习者的动机。虽然没有获取到 abstract，但题名显示它关注大规模在线科学课程中学习者为什么参与、如何维持兴趣、以及不同动机类型可能如何影响学习行为。它适合放在学习科学、在线科学教育和非正式天文学教育的交叉处阅读。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2717397
+
+#### Unpacking multimodal assessment in primary science: a teacher's view on task design, implicit criteria and representational challenges
+
+- 期刊名：International Journal of Science Education
+- 文章标题：Unpacking multimodal assessment in primary science: a teacher's view on task design, implicit criteria and representational challenges
+- 作者：Fredrik Jeppsson；Zeynep Ünsal；Kristina Danielsson；Christina Siry；Sara E. D. Wilmes
+- 发表日期 / online first 日期：2026-08-30
+- DOI：10.1080/09500693.2026.2681791
+- 数据来源：Crossref + 14 天官网补查
+- 英文 abstract 要点：未获取到 abstract. The article studies multimodal assessment in primary science from a teacher perspective, focusing on task design, implicit criteria, and representational challenges.
+- 易读版中文摘要：这篇文章从教师视角分析小学科学中的多模态评价。元数据未提供 abstract；从题名看，重点在于任务设计、教师隐性评价标准，以及学生用图像、动作、模型、语言等多种表征表达科学理解时会遇到的挑战。它对 K-12 科学评价和科学表征学习特别相关。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2681791
+
+- 另有 3 篇未展开。
+
+### 4. Science Education
+
+#### A Systematic Review of Participatory Science Approaches in K–12 Ecological Monitoring
+
+- 期刊名：Science Education
+- 文章标题：A Systematic Review of Participatory Science Approaches in K–12 Ecological Monitoring
+- 作者：Ho Yeong Yu；Seongjae Lee；Jae Geun Kim
+- 发表日期 / online first 日期：2026-08-26
+- DOI：10.1002/sce.70099
+- 数据来源：Crossref + 14 天官网补查
+- 英文 abstract 要点：The abstract synthesizes 72 empirical studies from 2006 to 2025 on K-12 ecological monitoring participatory science. Using Cultural-Historical Activity Theory, it identifies patterns across subjects, goals, tools, rules, communities, and labor divisions, and highlights gaps around educational aims, teacher labor, data quality, assessment, and geographic representation.
+- 易读版中文摘要：这篇系统综述整理了 2006-2025 年 K-12 学生参与生态监测的 72 项实证研究。文章用文化历史活动理论分析项目中的主体、目标、工具、规则、共同体和分工，指出很多项目科学目标清楚，但教育目标常常隐含；教师劳动、学校规则、数字工具、数据质量和评价方式也容易错位。对 K-12 参与式科学、公民科学和生态监测课程设计很有价值。
+- 文章链接：https://doi.org/10.1002/sce.70099
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403，页面识别 DOI 0 个）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403，页面识别 DOI 0 个）。
+
+### 7. International Journal of STEM Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200，页面识别 DOI 50 个）。
+
+### 8. Research in Science Education
+
+#### Figuring Science Across Worlds: A Case of Newcomer Multilingual Learners’ Meaning-Making in Online Science Learning
+
+- 期刊名：Research in Science Education
+- 文章标题：Figuring Science Across Worlds: A Case of Newcomer Multilingual Learners’ Meaning-Making in Online Science Learning
+- 作者：Ayça Fackler；Emily Adah Miller
+- 发表日期 / online first 日期：2026-09-02
+- DOI：10.1007/s11165-026-10377-y
+- 数据来源：Crossref 主检索
+- 英文 abstract 要点：未获取到 abstract. From the title and metadata, the study presents a case of newcomer multilingual learners' meaning-making in online science learning, focusing on how students figure science across language, cultural, and digital learning worlds.
+- 易读版中文摘要：这篇文章关注新近移民/新入学多语学习者如何在在线科学学习中建构意义。元数据没有 abstract，但题名显示它把语言、身份、在线环境和科学理解放在一起看。对多语科学教育、公平导向的在线学习设计，以及学生如何跨越家庭、学校和数字空间理解科学都有参考价值。
+- 文章链接：https://doi.org/10.1007/s11165-026-10377-y
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200，页面识别 DOI 0 个）。
+
+### 10. Studies in Science Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403，页面识别 DOI 0 个）。
+
+### 11. Instructional Science
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200，页面识别 DOI 0 个）。
+
+### 今日重点
+
+- K-12 参与式科学：Science Education 的生态监测系统综述继续补上了 K-12 公民科学/参与式科学设计中的工具、分工、评价和教师劳动问题。
+- 科学概念与信念冲突：IJSE 的进化理解与宗教信念文章适合关注概念改变、科学接受度和文化情境中的科学教育。
+- 小学科学评价：IJSE 的多模态评价文章提示，学生科学理解不只通过文字答案呈现，任务设计和隐性评价标准会显著影响可见学习证据。
+- STEM 教师与组织变革：PRPER 的物理系改革团队研究强调协作文化、学生声音和正式证据在部门教学改变中的作用。
+- 多语在线科学学习：Research in Science Education 的 newcomer multilingual learners 个案值得与在线科学学习、公平和学习科学设计结合阅读。
+
