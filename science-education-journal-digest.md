@@ -6955,3 +6955,171 @@
 - STEM 教师与组织变革：PRPER 的物理系改革团队研究强调协作文化、学生声音和正式证据在部门教学改变中的作用。
 - 多语在线科学学习：Research in Science Education 的 newcomer multilingual learners 个案值得与在线科学学习、公平和学习科学设计结合阅读。
 
+## 2026-09-04 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-04
+- 主检索覆盖时间范围：2026-09-03 至 2026-09-04（Crossref pub-date / online-pub-date / created-date）
+- 补充检索覆盖时间范围：2026-08-21 至 2026-09-04（最近 14 天 Crossref 元数据 + 期刊官网 latest / online-first / current 页面状态核验）
+- GitHub commit hash：待回填
+- GitHub Pages：https://iriscyh.github.io/Sci-Edu-Journal-News/
+- 11 本期刊各自新增文章数量：
+  - Journal of Science Education and Technology：0 篇，数据来源：Crossref + 14 天官网补查
+  - Physical Review Physics Education Research：2 篇，数据来源：Crossref + 14 天官网补查
+  - International Journal of Science Education：3 篇，数据来源：Crossref + 14 天官网补查
+  - Science Education：0 篇，数据来源：Crossref + 14 天官网补查
+  - Journal of Research in Science Teaching (JRST)：1 篇，数据来源：Crossref + 14 天官网补查
+  - British Journal of Educational Technology (BJET)：0 篇，数据来源：Crossref + 14 天官网补查
+  - International Journal of STEM Education：0 篇，数据来源：Crossref + 14 天官网补查
+  - Research in Science Education：1 篇，数据来源：Crossref + 14 天官网补查
+  - International Journal of Science and Mathematics Education (IJSME)：0 篇，数据来源：Crossref + 14 天官网补查
+  - Studies in Science Education：0 篇，数据来源：Crossref + 14 天官网补查
+  - Instructional Science：0 篇，数据来源：Crossref + 14 天官网补查
+- 各期刊数据来源：
+  1. Journal of Science Education and Technology：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 50 个）
+  2. Physical Review Physics Education Research：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  3. International Journal of Science Education：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  4. Science Education：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  5. Journal of Research in Science Teaching (JRST)：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  6. British Journal of Educational Technology (BJET)：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  7. International Journal of STEM Education：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 50 个）
+  8. Research in Science Education：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 50 个）
+  9. International Journal of Science and Mathematics Education (IJSME)：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 50 个）
+  10. Studies in Science Education：Crossref + 14 天官网补查（官网 HTTP 403，页面识别 DOI 0 个）
+  11. Instructional Science：Crossref + 14 天官网补查（官网 HTTP 200，页面识别 DOI 50 个）
+- 本次实际展开文章总数：7 篇
+- 因每刊最多 3 篇而未展开的数量：0 篇
+- 是否发现可能重复文章或 DOI 缺失：未发现新增 DOI 缺失；已按本地日志 DOI 与“标题 + 期刊名”去重。PRPER 两篇作者字段在 Crossref 中返回 Anonymous，已在作者栏标注。
+
+### 1. Journal of Science Education and Technology
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200，页面识别 DOI 50 个）。
+
+### 2. Physical Review Physics Education Research
+
+
+#### Investigative analysis tool for physics textbook representations: The force diagram case study
+
+- 期刊名：Physical Review Physics Education Research
+- 文章标题：Investigative analysis tool for physics textbook representations: The force diagram case study
+- 作者：未获取到作者（Crossref 返回 Anonymous）
+- 发表日期 / online first 日期：2026-09-03
+- DOI：10.1103/ryn8-5gd7
+- 数据来源：Crossref 主检索
+- 英文 abstract 要点：未获取到 abstract. From the title and metadata, the article introduces or analyzes an investigative tool for examining physics textbook representations, using force diagrams as the case. The focus appears to be how textbook visual representations shape students' and teachers' opportunities to reason about forces.
+- 易读版中文摘要：这篇文章以力图为案例，关注物理教材中的表征如何被系统分析。虽然未获取到 abstract，但题名显示它可能提供一种分析工具，用来检查教材如何呈现力、受力图和相关物理意义。它对物理概念学习、教材评价和多重表征研究有直接参考价值。
+- 文章链接：https://doi.org/10.1103/ryn8-5gd7
+
+#### Cultivating cross-disciplinary measurement literacy via a unified classical- to-quantum interferometry framework and metrological practices
+
+- 期刊名：Physical Review Physics Education Research
+- 文章标题：Cultivating cross-disciplinary measurement literacy via a unified classical- to-quantum interferometry framework and metrological practices
+- 作者：未获取到作者（Crossref 返回 Anonymous）
+- 发表日期 / online first 日期：2026-09-03
+- DOI：10.1103/wn6j-gzxz
+- 数据来源：Crossref 主检索
+- 英文 abstract 要点：未获取到 abstract. The article appears to propose a unified classical-to-quantum interferometry framework for developing cross-disciplinary measurement literacy, connecting metrological practices across physics contexts.
+- 易读版中文摘要：这篇文章把经典到量子干涉测量放在同一框架下，讨论如何培养跨学科的测量素养。元数据没有 abstract；从题名看，重点不是单一实验技能，而是让学生理解测量、误差、证据和计量实践如何贯穿不同物理主题。适合关注实验/探究学习和大学物理教学设计。
+- 文章链接：https://doi.org/10.1103/wn6j-gzxz
+
+### 3. International Journal of Science Education
+
+
+#### Exploring science teacher adaptive expertise through the framework of pedagogical content knowledge
+
+- 期刊名：International Journal of Science Education
+- 文章标题：Exploring science teacher adaptive expertise through the framework of pedagogical content knowledge
+- 作者：Pernilla Nilsson；Amanda Berry
+- 发表日期 / online first 日期：2026-08-29
+- DOI：10.1080/09500693.2026.2714190
+- 数据来源：Crossref + 14 天官网补查
+- 英文 abstract 要点：未获取到 abstract. The article explores science teachers' adaptive expertise using pedagogical content knowledge as the analytic framework, likely examining how teachers adjust subject-specific teaching decisions in changing classroom situations.
+- 易读版中文摘要：这篇文章用 PCK 框架分析科学教师的适应性专长。由于没有 abstract，目前只能基于题名判断：研究核心应是教师如何在真实课堂变化中调整科学内容解释、学生理解判断和教学策略。它与教师教育、教师专业发展和科学教学决策高度相关。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2714190
+
+#### Dispositions towards scientific uncertainty navigation (DSUN): relationships with epistemic curiosity and science learning before and after uncertainty-driven instruction
+
+- 期刊名：International Journal of Science Education
+- 文章标题：Dispositions towards scientific uncertainty navigation (DSUN): relationships with epistemic curiosity and science learning before and after uncertainty-driven instruction
+- 作者：Ying-Chih Chen；Jongchan Park；Michelle Jordan；Carlos Meza-Torres；Emily Starrett
+- 发表日期 / online first 日期：2026-08-29
+- DOI：10.1080/09500693.2026.2714191
+- 数据来源：Crossref + 14 天官网补查
+- 英文 abstract 要点：未获取到 abstract. The article studies dispositions toward scientific uncertainty navigation and their relationships with epistemic curiosity and science learning before and after uncertainty-driven instruction.
+- 易读版中文摘要：这篇文章关注学生面对科学不确定性时的倾向，并考察它与认识性好奇心、科学学习之间的关系，以及不确定性驱动教学前后的变化。它适合用来理解如何把“科学不是简单确定答案”转化为可教学的认识论能力。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2714191
+
+#### Implicit and explicit conceptual knowledge of gear mechanics in preschoolers: comparing minimal guidance and instructional modelling
+
+- 期刊名：International Journal of Science Education
+- 文章标题：Implicit and explicit conceptual knowledge of gear mechanics in preschoolers: comparing minimal guidance and instructional modelling
+- 作者：Timo Reuter；Jonas Schäfer；Miriam Leuchter
+- 发表日期 / online first 日期：2026-08-28
+- DOI：10.1080/09500693.2026.2707431
+- 数据来源：Crossref + 14 天官网补查
+- 英文 abstract 要点：未获取到 abstract. The article compares minimal guidance and instructional modelling for preschoolers' implicit and explicit conceptual knowledge of gear mechanics.
+- 易读版中文摘要：这篇文章比较最少指导与教学建模对学前儿童齿轮机械概念学习的影响。题名显示它同时关注隐性知识和显性知识，说明儿童可能在操作中表现出机制理解，但未必能清楚说出规则。它对早期 STEM、工程概念学习和指导强度设计有价值。
+- 文章链接：https://doi.org/10.1080/09500693.2026.2707431
+
+### 4. Science Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403，页面识别 DOI 0 个）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+
+#### The Role of Science Course Pathways in Predicting College Enrollment: Insight From A Large Urban School District
+
+- 期刊名：Journal of Research in Science Teaching (JRST)
+- 文章标题：The Role of Science Course Pathways in Predicting College Enrollment: Insight From A Large Urban School District
+- 作者：Vandeen A. Campbell；Jessica Zulawski‐Riccio；Lexi Hwang
+- 发表日期 / online first 日期：2026-09-03
+- DOI：10.1002/tea.70067
+- 数据来源：Crossref 主检索
+- 英文 abstract 要点：The abstract reports a large urban district study of students' science course-taking pathways from ninth to eleventh grade and their relationship with on-time college enrollment. Cross-classified hierarchical logistic models show that course pathways explain more variance than schools; completing biology, chemistry, and physics remains predictive, advanced science coursework has the strongest association, and stronger school STEM orientation is linked with higher enrollment likelihood.
+- 易读版中文摘要：这篇 JRST 文章研究高中科学选课路径如何预测大学入学。基于大型城市学区数据，作者分析 9-11 年级课程组合与准时升学之间的关系。结果显示，学生走过怎样的科学课程路径，比学校差异更能解释入学差异；完成生物、化学和物理仍然重要，而高级科学课程关联最强。它对 STEM 通道、公平和高中课程规划很有价值。
+- 文章链接：https://doi.org/10.1002/tea.70067
+
+### 6. British Journal of Educational Technology (BJET)
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403，页面识别 DOI 0 个）。
+
+### 7. International Journal of STEM Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200，页面识别 DOI 50 个）。
+
+### 8. Research in Science Education
+
+
+#### Investigation of Science Education Using Educational Robotics and Design Thinking Applications in Terms of STEM Attitudes and Scientific Process Skills
+
+- 期刊名：Research in Science Education
+- 文章标题：Investigation of Science Education Using Educational Robotics and Design Thinking Applications in Terms of STEM Attitudes and Scientific Process Skills
+- 作者：Mehmet Koca；İsmail Türkoğlu
+- 发表日期 / online first 日期：2026-09-04
+- DOI：10.1007/s11165-026-10375-0
+- 数据来源：Crossref 主检索
+- 英文 abstract 要点：未获取到 abstract. The article investigates science education activities that combine educational robotics and design thinking, focusing on STEM attitudes and scientific process skills.
+- 易读版中文摘要：这篇文章考察教育机器人与设计思维应用在科学教育中的效果，指标包括 STEM 态度和科学过程技能。元数据未提供 abstract；从题名看，它很可能关注学生在机器人设计/问题解决活动中是否提升探究、实验、设计迭代和 STEM 学习意愿。适合关注技术增强科学学习和工程设计式教学。
+- 文章链接：https://doi.org/10.1007/s11165-026-10375-0
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200，页面识别 DOI 50 个）。
+
+### 10. Studies in Science Education
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 403，页面识别 DOI 0 个）。
+
+### 11. Instructional Science
+
+- 无新增（数据来源：Crossref + 14 天官网补查；官网 HTTP 200，页面识别 DOI 50 个）。
+
+### 今日重点
+
+1. PRPER 两篇文章都指向物理教育中的核心实践：一种关注教材中的力图表征，另一种关注从经典到量子干涉的测量素养。
+2. IJSE 的教师适应性专长文章适合放入教师教育与 PCK 研究线索，关注教师如何在变化情境中做内容相关教学判断。
+3. IJSE 的科学不确定性导航文章与认识性好奇心、科学学习和不确定性驱动教学直接相关，适合学习科学和科学本质教学阅读。
+4. IJSE 的学前儿童齿轮机械文章连接早期 STEM、概念学习与指导强度设计。
+5. Research in Science Education 的教育机器人与设计思维文章涉及 STEM 态度、科学过程技能和技术增强探究学习。
