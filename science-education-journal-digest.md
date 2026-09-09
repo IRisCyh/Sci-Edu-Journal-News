@@ -7486,3 +7486,80 @@
 3. 【教师教育】三年模型教学个案研究为 PCK 议题提供新的阅读线索，具体发现尚待摘要或全文核验。
 4. 【STEM／教学设计】条码分析文章聚焦课程机会与 STEM 学习成果的联系；当前不据标题推断相关关系或因果效果。
 5. 【科学教材／测评】两条勘误已获取更正正文：一条修订教材图像，另一条修订生物系统思维测验的模型比较计算。使用原文时应采用更正版。
+
+## 2026-09-09 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-09。
+- 主检索覆盖时间范围：2026-09-08 至 2026-09-09（截至本次实际检索）；出版日期、online-first 日期及 DOI 创建日期，按历史 DOI 去重。
+- 补充检索覆盖时间范围：2026-08-26 至 2026-09-09（最近 14 天）；Crossref 多 ISSN 检索及官网 latest / Early View 列表补查。
+- Crossref 全部查询成功；官网有访问限制及缓存时差，不能将局部无新增视为所有官网均已完整核验。
+- 去重：Crossref 合计返回 45 个期刊内唯一 DOI，45 个已记录；无未记录 DOI。未发现新的 DOI 缺失条目。
+- 本次实际展开文章总数：0；因每刊最多 3 篇而未展开数量：0。
+- GitHub 同步状态：待同步。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增数量 | 数据来源 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| Science Education | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| Research in Science Education | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查（详见下方限制） |
+| Instructional Science | 0 | Crossref + 14 天官网补查（详见下方限制） |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。官网列表最新为 8 月 18 日，早于补查窗口。 [官网列表](https://link.springer.com/journal/10956/articles)。
+
+### 2. Physical Review Physics Education Research
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。直接访问 403；网页检索读取 recent 列表，近期条目已记录。 [官网列表](https://journals.aps.org/prper/recent)。
+
+### 3. International Journal of Science Education
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。官网补查返回 403，网页检索亦未能读取；仅能确认 Crossref 无未记录 DOI。 [官网列表](https://www.tandfonline.com/toc/tsed20/0/0)。
+
+### 4. Science Education
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。官网补查返回 403，网页检索亦未能读取；仅能确认 Crossref 无未记录 DOI。 [官网列表](https://onlinelibrary.wiley.com/toc/1098237x/0/0)。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。直接访问 403；网页检索读取 Early View，9 月 3 日条目已记录（网页缓存为 9 月 7 日）。 [官网列表](https://onlinelibrary.wiley.com/toc/10982736/0/0)。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。直接访问 403；网页检索读取 Early View，最新显示 8 月 7 日。 [官网列表](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)。
+
+### 7. International Journal of STEM Education
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。官网列表近期条目已记录。 [官网列表](https://stemeducationjournal.springeropen.com/articles)。
+
+### 8. Research in Science Education
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。官网列表近期条目已记录。 [官网列表](https://link.springer.com/journal/11165/articles)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。官网列表近期条目已记录。 [官网列表](https://link.springer.com/journal/10763/articles)。
+
+### 10. Studies in Science Education
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。官网补查返回 403，网页检索亦未能读取；仅能确认 Crossref 无未记录 DOI。 [官网列表](https://www.tandfonline.com/toc/rsse20/0/0)。
+
+### 11. Instructional Science
+
+无新增（已获取记录中）。数据来源：Crossref + 14 天官网补查。官网列表最新为 8 月 18 日，早于补查窗口。 [官网列表](https://link.springer.com/journal/11251/articles)。
+
+### 今日重点
+
+1. 【K-12／STEM／教师教育】本轮已获取记录中没有可新增推送的文章；既有 DOI 已去重。
+2. 【科学概念／探究学习／AI／学习科学与教学设计】本轮没有新的、可核实且未记录的文章可供展开，不重复推荐昨日条目。
+3. 【检索完整性】IJSE、Science Education 和 Studies in Science Education 官网未能读取；JRST 网页存在缓存时差。因此本次“无新增”仅适用于已获取记录。
