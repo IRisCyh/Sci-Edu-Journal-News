@@ -7574,7 +7574,7 @@
 - 新增 DOI 记录 3 条：1 篇正式发表，2 篇官网已公开摘要的 Accepted Paper（尚非正式出版版本，单独注明状态）；全部展开，未展开 0。
 - Crossref 查询全部成功；合计 48 个期刊内唯一 DOI，45 个已记录。新增 DOI 无缺失、无重复。
 - 元数据冲突：两篇 APS 的 Crossref 作者为 Anonymous，online 日期等于接受日期；依官网补全真实作者，并以官网 Accepted 状态为准。
-- GitHub 同步状态：待同步。
+- GitHub 同步状态：已推送；内容提交 hash：89fe038（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
 
 | 期刊（优先级） | 新增记录 | 数据来源与限制 |
