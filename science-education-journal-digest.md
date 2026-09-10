@@ -7563,3 +7563,132 @@
 1. 【K-12／STEM／教师教育】本轮已获取记录中没有可新增推送的文章；既有 DOI 已去重。
 2. 【科学概念／探究学习／AI／学习科学与教学设计】本轮没有新的、可核实且未记录的文章可供展开，不重复推荐昨日条目。
 3. 【检索完整性】IJSE、Science Education 和 Studies in Science Education 官网未能读取；JRST 网页存在缓存时差。因此本次“无新增”仅适用于已获取记录。
+
+## 2026-09-10 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-10。
+- 主检索覆盖：2026-09-09 至 2026-09-10（截至实际检索时）；出版、online 及 DOI 创建日期，边界重叠后去重。
+- 补充检索覆盖：2026-08-27 至 2026-09-10（最近 14 天）；多 ISSN Crossref 检索及官网 recent / Early View / articles 补查。
+- 新增 DOI 记录 3 条：1 篇正式发表，2 篇官网已公开摘要的 Accepted Paper（尚非正式出版版本，单独注明状态）；全部展开，未展开 0。
+- Crossref 查询全部成功；合计 48 个期刊内唯一 DOI，45 个已记录。新增 DOI 无缺失、无重复。
+- 元数据冲突：两篇 APS 的 Crossref 作者为 Anonymous，online 日期等于接受日期；依官网补全真实作者，并以官网 Accepted 状态为准。
+- GitHub 同步状态：待同步。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增记录 | 数据来源与限制 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；官网最新 8 月 18 日，早于窗口。 |
+| Physical Review Physics Education Research | 2 | Crossref + 14 天官网补查；recent 页面存在缓存；两条 Accepted Paper 作者及摘要已通过官网检索结果核验。 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；官网 403，补查受限。 |
+| Science Education | 0 | Crossref + 14 天官网补查；官网 403，补查受限。 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；网页 Early View 最新 9 月 3 日条目已记录。 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；网页 Early View 最新 8 月 7 日，早于窗口。 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；官网 8 月 27 日条目已记录。 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；官网近期条目已记录。 |
+| International Journal of Science and Mathematics Education (IJSME) | 1 | Crossref + 14 天官网补查；官网 9 月 9 日新文及摘要已核验。 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；官网 403，补查受限。 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；官网最新 8 月 18 日，早于窗口。 |
+
+### 1. Journal of Science Education and Technology
+
+数据来源：Crossref + 14 天官网补查。官网最新 8 月 18 日，早于窗口。 [官网列表](https://link.springer.com/journal/10956/articles)。
+
+无新增（已获取记录中；受限官网不能排除漏检）。
+
+### 2. Physical Review Physics Education Research
+
+数据来源：Crossref + 14 天官网补查。recent 页面存在缓存；两条 Accepted Paper 作者及摘要已通过官网检索结果核验。 [官网列表](https://journals.aps.org/prper/recent)。
+
+#### Student understanding of the apparent motion of the Sun: Insights from an in-depth interview study
+
+- 期刊：Physical Review Physics Education Research
+- 作者：Rebecca Raskin; Mieke De Cock; Wim Van Dooren; Hans Van Winckel
+- 日期：2026-09-09（官网：Accepted Paper；正式出版日期待定）
+- DOI：10.1103/mtbf-vy62
+- 数据来源：Crossref + 14 天官网补查（作者、状态及摘要以官网为准）。
+- 英文摘要要点：Task-based think-aloud interviews with 16–18-year-olds used speech, drawings and 3-D materials to probe mental models of apparent solar motion. Students often knew isolated facts but struggled to integrate them into an external-frame explanation. Alternative ideas clustered around five spatial themes.
+- 易读中文摘要：【K-12／科学概念学习】研究用访谈、绘图和三维材料了解 16–18 岁学生如何解释太阳视运动。学生常能说对局部事实，却难以形成完整的外部视角解释。困难集中于方位、距离、地轴方向、视线与光线，以及太阳运行平面方向。教学上应检查空间关系如何连接，不能仅以术语答对判断理解。
+- 链接：https://journals.aps.org/prper/accepted/10.1103/mtbf-vy62
+
+#### From mathematical structure to physical discovery: A curriculum-grounded characterization
+
+- 期刊：Physical Review Physics Education Research
+- 作者：Tom Reshef-Israeli; Dan Klein
+- 日期：2026-09-09（官网：Accepted Paper；正式出版日期待定）
+- DOI：10.1103/x43w-y42m
+- 数据来源：Crossref + 14 天官网补查（作者、状态及摘要以官网为准）。
+- 英文摘要要点：An abductive comparison of nine introductory physics examples distinguishes what mathematical structure helps learners discover from the reasoning moves that reveal it. Making functions, limits and reformulations explicit can expose discovery opportunities within existing curricula. This is a conceptual analysis, not an intervention-effect study.
+- 易读中文摘要：【教师教育／教学设计】作者比较力学、电磁学和波动中的九个典型例子，将“发现什么”与“怎样发现”区分开：前者包括约束、极值和规律，后者包括分析函数形式、极限与代数重组。文章提供了让学生用数学理解物理的设计框架，但没有检验课堂干预效果。
+- 链接：https://journals.aps.org/prper/accepted/10.1103/x43w-y42m
+
+### 3. International Journal of Science Education
+
+数据来源：Crossref + 14 天官网补查。官网 403，补查受限。 [官网列表](https://www.tandfonline.com/toc/tsed20/0/0)。
+
+无新增（已获取记录中；受限官网不能排除漏检）。
+
+### 4. Science Education
+
+数据来源：Crossref + 14 天官网补查。官网 403，补查受限。 [官网列表](https://onlinelibrary.wiley.com/toc/1098237x/0/0)。
+
+无新增（已获取记录中；受限官网不能排除漏检）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+数据来源：Crossref + 14 天官网补查。网页 Early View 最新 9 月 3 日条目已记录。 [官网列表](https://onlinelibrary.wiley.com/toc/10982736/0/0)。
+
+无新增（已获取记录中；受限官网不能排除漏检）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+数据来源：Crossref + 14 天官网补查。网页 Early View 最新 8 月 7 日，早于窗口。 [官网列表](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)。
+
+无新增（已获取记录中；受限官网不能排除漏检）。
+
+### 7. International Journal of STEM Education
+
+数据来源：Crossref + 14 天官网补查。官网 8 月 27 日条目已记录。 [官网列表](https://stemeducationjournal.springeropen.com/articles)。
+
+无新增（已获取记录中；受限官网不能排除漏检）。
+
+### 8. Research in Science Education
+
+数据来源：Crossref + 14 天官网补查。官网近期条目已记录。 [官网列表](https://link.springer.com/journal/11165/articles)。
+
+无新增（已获取记录中；受限官网不能排除漏检）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+数据来源：Crossref + 14 天官网补查。官网 9 月 9 日新文及摘要已核验。 [官网列表](https://link.springer.com/journal/10763/articles)。
+
+#### Examining the Relative Contributions of Foundational Knowledge and Skills, Cognitive Resources, and Affective Factors to Mathematics Writing
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Xiaonan Han; Xin Lin
+- 日期：2026-09-09（Version of Record）
+- DOI：10.1007/s10763-026-10724-5
+- 数据来源：Crossref + 14 天官网补查（作者、状态及摘要以官网为准）。
+- 英文摘要要点：Among 300 fifth-graders, foundational knowledge explained the largest unique variance in fraction-based argumentative mathematics writing. Mathematics knowledge and vocabulary had the strongest unique associations. The ranking depends on measurement choices, including a narrative general-writing assessment, and does not establish causation.
+- 易读中文摘要：【K-12／学习科学】300 名五年级学生完成三类共八项因素测评。分数论证写作与数学知识、数学词汇的独立关联最强，一般写作也有较小的显著关联。但一般写作测的是叙事文，任务差异可能影响排序；结果可提示教学研究方向，不能证明训练某项能力就会改善写作。
+- 链接：https://link.springer.com/article/10.1007/s10763-026-10724-5
+
+### 10. Studies in Science Education
+
+数据来源：Crossref + 14 天官网补查。官网 403，补查受限。 [官网列表](https://www.tandfonline.com/toc/rsse20/0/0)。
+
+无新增（已获取记录中；受限官网不能排除漏检）。
+
+### 11. Instructional Science
+
+数据来源：Crossref + 14 天官网补查。官网最新 8 月 18 日，早于窗口。 [官网列表](https://link.springer.com/journal/11251/articles)。
+
+无新增（已获取记录中；受限官网不能排除漏检）。
+
+### 今日重点
+
+1. 【K-12／科学概念学习】太阳视运动访谈揭示局部知识与完整空间模型之间的落差，值得用于检查学生解释。
+2. 【教师教育／教学设计】数学结构分析提供课程内的物理发现机会；它属于概念框架研究，不是教学效果实验。
+3. 【学习科学／数学教育】数学写作关联研究提醒同时关注学科知识和词汇，并谨慎对待不同测量任务造成的排序。
+4. 【出版状态】两篇 PRPER 目前已接受并公开摘要，正式出版日期尚待确认；本轮无新增可核实的 AI 或实验干预文章。
