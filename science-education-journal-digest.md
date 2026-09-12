@@ -7810,3 +7810,111 @@
 2. 【K-12/教师教育】JRST：公平的科学意义建构与师生关系应结合考虑，而非分开训练。
 3. 【探究学习】JRST的多语课堂案例提示，学生生活故事可成为科学讨论的入口，但制度要求可能造成取舍。
 4. 本轮没有新增VR/AR/MR或AI主题文章；不将既往文章或接受稿的正式出版重复计入。
+
+## 2026-09-12 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-12。
+- 主检索覆盖时间：2026-09-11 至 2026-09-12（截至本次运行，重叠边界按日志去重）。
+- 补充检索覆盖时间：2026-08-29 至 2026-09-12（最近14天）；Crossref元数据及官网latest/recent/Early View。
+- 本轮新增1篇；实际展开1篇，因每刊最多3篇而未展开0篇。新增文章DOI完整。
+- Crossref检回41条期刊内去重记录；排除40条已记录DOI。无新增缺失DOI记录。
+- 局限：IJSE及Studies in Science Education官网访问受限；Science Education网页快照有一天缓存延迟。无新增仅代表本轮可获取来源，不保证无遗漏。
+- GitHub同步状态：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级顺序） | 新增数量 | 数据来源与核查状态 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14天官网补查；官网最新9月10日文章已记录 |
+| Physical Review Physics Education Research | 0 | Crossref + 14天官网补查；官网recent窗口内文章已记录，接受稿转正式发表不重复推送 |
+| International Journal of Science Education | 0 | Crossref + 14天官网补查；官网403/读取失败，存在补查缺口 |
+| Science Education | 0 | Crossref + 14天官网补查；Early View可获取快照为9月11日，窗口内记录已入日志，存在一天缓存延迟 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14天官网补查；官网Early View最新9月10日文章已记录 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14天官网补查；官网Early View最新8月7日，早于窗口 |
+| International Journal of STEM Education | 0 | Crossref + 14天官网补查；官网最新8月27日，早于窗口 |
+| Research in Science Education | 0 | Crossref + 14天官网补查；官网窗口内文章已记录 |
+| International Journal of Science and Mathematics Education (IJSME) | 1 | Crossref + 14天官网补查；官网核实9月12日新文章，补齐Crossref缺失的摘要 |
+| Studies in Science Education | 0 | Crossref + 14天官网补查；官网403/读取失败，存在补查缺口 |
+| Instructional Science | 0 | Crossref + 14天官网补查；官网最新8月18日，早于窗口 |
+
+### 1. Journal of Science Education and Technology
+
+数据来源：Crossref + 14天官网补查；官网最新9月10日文章已记录。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 2. Physical Review Physics Education Research
+
+数据来源：Crossref + 14天官网补查；官网recent窗口内文章已记录，接受稿转正式发表不重复推送。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 3. International Journal of Science Education
+
+数据来源：Crossref + 14天官网补查；官网403/读取失败，存在补查缺口。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 4. Science Education
+
+数据来源：Crossref + 14天官网补查；Early View可获取快照为9月11日，窗口内记录已入日志，存在一天缓存延迟。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+数据来源：Crossref + 14天官网补查；官网Early View最新9月10日文章已记录。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+数据来源：Crossref + 14天官网补查；官网Early View最新8月7日，早于窗口。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 7. International Journal of STEM Education
+
+数据来源：Crossref + 14天官网补查；官网最新8月27日，早于窗口。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 8. Research in Science Education
+
+数据来源：Crossref + 14天官网补查；官网窗口内文章已记录。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+数据来源：Crossref + 14天官网补查；官网核实9月12日新文章，补齐Crossref缺失的摘要。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+#### The Impact of Teacher-Facilitated Generative AI Lesson Plans in 6th-Grade Science on Collaborative Learning, Science Attitudes, and Academic Achievement
+
+- 期刊：International Journal of Science and Mathematics Education
+- 作者：Serhan Sarioglu; Ummuhan Ormanci
+- 发表日期：2026-09-12（官网）；Article 101。
+- DOI：10.1007/s10763-026-10725-4
+- 数据来源：Crossref + 14天官网补查；摘要来自出版商文章页面。
+- 英文abstract要点：A quasi-experiment compared 100 sixth-graders in two equal groups. Teacher-facilitated, generative-AI-supported lesson plans were compared with standard 5E/constructivist instruction without AI-assisted material development. Tests, attitude measures and observations indicated stronger achievement gains, science attitudes and collaborative behaviors in the experimental group. The study concerns teacher-mediated lesson design, not unsupervised student chatbot use.
+- 易读中文摘要：【K-12科学教育/科学技术与AI/教学设计/合作学习】研究以100名六年级学生开展前后测准实验，两组各50人。实验组使用教师借助生成式AI开发的教案，对照组采用未使用AI开发材料的常规5E/建构主义教学。通过成绩测试、科学态度量表与合作行为观察，实验组呈现更好的成绩进步、科学态度和合作表现。作者将教学潜力归于结构化任务、多模态资源及教师支架。重点是教师如何设计和引导教学，并非证明AI自身或学生直接使用聊天机器人就能产生同样效果；摘要未报告效应量或长期追踪。
+- 文章链接：[出版商原文](https://link.springer.com/article/10.1007/s10763-026-10725-4)
+
+### 10. Studies in Science Education
+
+数据来源：Crossref + 14天官网补查；官网403/读取失败，存在补查缺口。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 11. Instructional Science
+
+数据来源：Crossref + 14天官网补查；官网最新8月18日，早于窗口。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 今日重点
+
+1. 【K-12科学教育/AI】新增研究覆盖六年级学生，比较教师引导的AI辅助教案与常规5E教学。
+2. 【教学设计/合作学习】同时考察成绩、科学态度和合作行为，值得关注教师支架与多模态资源的组织。
+3. 【检索质量】保留两本Taylor & Francis期刊的官网访问缺口及Science Education缓存延迟说明，避免把检索受限当成确定无新增。
