@@ -7929,7 +7929,7 @@
 - 本轮新增1篇，实际展开1篇，因每刊最多3篇而未展开0篇；新增文章DOI完整。
 - Crossref检回40条期刊内去重记录，排除39条已记录DOI。未发现新增缺失DOI记录。
 - 局限：IJSE及Studies in Science Education官网访问受限；无新增仅代表可获取来源，不保证完整无遗漏。
-- GitHub同步状态：待同步
+- GitHub同步状态：已推送；内容提交 hash：d3e5d8b（回执另行同步）
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
 
 | 期刊（优先级顺序） | 新增数量 | 数据来源与核查状态 |
