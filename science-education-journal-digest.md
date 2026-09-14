@@ -8026,3 +8026,80 @@
 1. 【STEM/教师教育】465名职前教师的跨院校研究提示，教学法课程可伴随信心提升与顾虑减少。
 2. 【教学设计】知识不足和资源限制应分别处理；更有信心的教师仍可能敏锐地察觉技术可及性问题。
 3. 【证据边界】自我效能不等于实际教学表现；本轮无新增AI或VR/AR/MR主题论文，不重复展开昨日文章。
+
+## 2026-09-14 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-14。
+- 主检索覆盖时间：2026-09-13 至 2026-09-14（截至本次运行，重叠边界按完整日志去重）。
+- 补充检索覆盖时间：2026-08-31 至 2026-09-14（最近14天）；Crossref元数据及官网latest/recent/Early View。
+- 本轮可获取来源未检出未记录文章；实际展开0篇，因每刊最多3篇而未展开0篇。
+- Crossref检回39条期刊内去重记录，排除39条已记录DOI。未发现新增缺失DOI记录。
+- 局限：IJSE及Studies in Science Education官网访问受限；Science Education与JRST页面快照有缓存延迟。无新增不代表完整确认无遗漏。
+- GitHub同步状态：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级顺序） | 新增数量 | 数据来源与核查状态 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14天官网补查；官网窗口内文章已记录 |
+| Physical Review Physics Education Research | 0 | Crossref + 14天官网补查；官网窗口内文章已记录 |
+| International Journal of Science Education | 0 | Crossref + 14天官网补查；官网403/读取失败，补查未完成 |
+| Science Education | 0 | Crossref + 14天官网补查；官网Early View可获取快照为9月13日，窗口内记录已入日志；有缓存延迟 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14天官网补查；官网Early View可获取快照为9月13日，窗口内记录已入日志；有缓存延迟 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14天官网补查；官网Early View最新8月7日，早于窗口 |
+| International Journal of STEM Education | 0 | Crossref + 14天官网补查；官网窗口内文章已记录 |
+| Research in Science Education | 0 | Crossref + 14天官网补查；官网窗口内文章已记录 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14天官网补查；官网窗口内文章已记录 |
+| Studies in Science Education | 0 | Crossref + 14天官网补查；官网403/读取失败，补查未完成 |
+| Instructional Science | 0 | Crossref + 14天官网补查；官网窗口内文章已记录 |
+
+### 1. Journal of Science Education and Technology
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网窗口内文章已记录。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+### 2. Physical Review Physics Education Research
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网窗口内文章已记录。[期刊页面](https://journals.aps.org/prper/recent)
+
+### 3. International Journal of Science Education
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网403/读取失败，补查未完成。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+### 4. Science Education
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网Early View可获取快照为9月13日，窗口内记录已入日志；有缓存延迟。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网Early View可获取快照为9月13日，窗口内记录已入日志；有缓存延迟。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网Early View最新8月7日，早于窗口。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+### 7. International Journal of STEM Education
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网窗口内文章已记录。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+### 8. Research in Science Education
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网窗口内文章已记录。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网窗口内文章已记录。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+### 10. Studies in Science Education
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网403/读取失败，补查未完成。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+### 11. Instructional Science
+
+无新增（可获取来源）。数据来源：Crossref + 14天官网补查；官网窗口内文章已记录。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+### 今日重点
+
+1. 【K-12/STEM/教师教育】本次没有未记录文章；昨日职前教师整合式STEM自我效能研究不重复推送。
+2. 【AI/教学设计/学习科学】无新增文章推荐；既往文章与出版状态更新均按日志去重。
+3. 【科学概念/探究学习】未发现可确认的新记录，保留官网访问及缓存缺口，不从检索空结果推断研究停更。
