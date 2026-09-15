@@ -8103,3 +8103,144 @@
 1. 【K-12/STEM/教师教育】本次没有未记录文章；昨日职前教师整合式STEM自我效能研究不重复推送。
 2. 【AI/教学设计/学习科学】无新增文章推荐；既往文章与出版状态更新均按日志去重。
 3. 【科学概念/探究学习】未发现可确认的新记录，保留官网访问及缓存缺口，不从检索空结果推断研究停更。
+
+## 2026-09-15 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-15。
+- 主检索覆盖时间：2026-09-14 至 2026-09-15（截至本次运行，重叠边界按完整日志去重）。
+- 补充检索覆盖时间：2026-09-01 至 2026-09-15（最近14天）；Crossref元数据及官网latest/recent/Early View。
+- 新增4篇，实际展开4篇，因每刊最多3篇而未展开0篇。其中3篇IJSE未获取到abstract，只提供新文线索，不编造研究结论。
+- Crossref检回36条期刊内去重记录，排除32条已记录DOI。新增DOI完整。
+- 局限：IJSE及Studies in Science Education官网访问受限；Science Education与JRST快照有两天缓存延迟。
+- GitHub同步状态：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级顺序） | 新增数量 | 数据来源与核查状态 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对 |
+| Physical Review Physics Education Research | 0 | Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对 |
+| International Journal of Science Education | 3 | Crossref + 14天官网补查（含受限尝试）；Crossref发现3篇；官网latest及3篇摘要页403，搜索未取得补充摘要 |
+| Science Education | 0 | Crossref + 14天官网补查（含受限尝试）；Early View可获取快照为9月13日；窗口内记录已入日志，但有两天缓存延迟 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14天官网补查（含受限尝试）；Early View可获取快照为9月13日；窗口内记录已入日志，但有两天缓存延迟 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14天官网补查（含受限尝试）；官网Early View最新8月7日，早于窗口 |
+| International Journal of STEM Education | 0 | Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对 |
+| Research in Science Education | 1 | Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对 |
+| Studies in Science Education | 0 | Crossref + 14天官网补查（含受限尝试）；官网403/读取失败，补查未完成 |
+| Instructional Science | 0 | Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对 |
+
+### 1. Journal of Science Education and Technology
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 2. Physical Review Physics Education Research
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 3. International Journal of Science Education
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；Crossref发现3篇；官网latest及3篇摘要页403，搜索未取得补充摘要。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+#### Gender perspectives in STEM education. An exploratory study with pre-service teachers
+
+- 期刊：International Journal of Science Education
+- 作者：Cristina García-Ruiz; Verónica Torres-Blanco; Desirée García-Durán; Carolina Martín-Gámez; Agustina Torres-Prioris; Asunción Jiménez-Cordero
+- Online first日期：2026-09-14（Crossref published-online；官网日期尚未独立核实）。
+- DOI：10.1080/09500693.2026.2727689
+- 数据来源：Crossref主检索；14天官网补查及摘要页访问受限。
+- 英文abstract要点：未获取到abstract。Abstract unavailable from accessible metadata and publisher pages; methods and findings could not be verified.
+- 易读中文摘要：【STEM/教师教育】题名表明这是一项面向职前教师的STEM教育性别视角探索研究。未获取到abstract；样本、具体方法、发现及实践意义尚无法核实，不能据标题推断性别差异或干预效果。
+- 文章链接：[DOI原文](https://doi.org/10.1080/09500693.2026.2727689)
+
+#### From dual constraints to developmental pathways: a comprehensive study on assessment literacy of high school chemistry teachers in inquiry-based laboratory teaching
+
+- 期刊：International Journal of Science Education
+- 作者：Niannian Ma; Xingchi Pan; Beining Zhang; Hongyan Ren
+- Online first日期：2026-09-14（Crossref published-online；官网日期尚未独立核实）。
+- DOI：10.1080/09500693.2026.2727685
+- 数据来源：Crossref主检索；14天官网补查及摘要页访问受限。
+- 英文abstract要点：未获取到abstract。Abstract unavailable from accessible metadata and publisher pages; methods and findings could not be verified.
+- 易读中文摘要：【K-12/教师教育/实验与探究学习】题名聚焦高中化学教师在探究实验教学中的评价素养及发展路径。未获取到abstract；双重约束具体指什么、研究样本和方法、结论均待核实。
+- 文章链接：[DOI原文](https://doi.org/10.1080/09500693.2026.2727685)
+
+#### Understanding the potential classes of elementary school students’ attitudes towards Socioscientific issues
+
+- 期刊：International Journal of Science Education
+- 作者：Jiaxin Zou; Xiaoming Zhai; Chunlei Gao
+- Online first日期：2026-09-14（Crossref published-online；官网日期尚未独立核实）。
+- DOI：10.1080/09500693.2026.2727688
+- 数据来源：Crossref主检索；14天官网补查及摘要页访问受限。
+- 英文abstract要点：未获取到abstract。Abstract unavailable from accessible metadata and publisher pages; methods and findings could not be verified.
+- 易读中文摘要：【K-12科学教育】题名关注小学生对社会性科学议题的态度类别。未获取到abstract；不能确认分类方法、类别数量、样本和主要发现。
+- 文章链接：[DOI原文](https://doi.org/10.1080/09500693.2026.2727688)
+
+### 4. Science Education
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；Early View可获取快照为9月13日；窗口内记录已入日志，但有两天缓存延迟。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；Early View可获取快照为9月13日；窗口内记录已入日志，但有两天缓存延迟。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；官网Early View最新8月7日，早于窗口。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 7. International Journal of STEM Education
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 8. Research in Science Education
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+#### The Effect of Deliberative Argumentation on Knowledge, Trust, and Willingness to Mitigate Climate Change in a Group of Chilean High School Students
+
+- 期刊：Research in Science Education
+- 作者：Pablo Escobar; Claudia Vergara; Antonia Larrain; Justin Dillon; Hernán Cofré
+- 发表日期：2026-09-15（官网核实）。
+- DOI：10.1007/s11165-026-10376-z
+- 数据来源：Crossref + 14天官网补查；官网补齐摘要。
+- 英文abstract要点：A quasi-experiment involved 100 Chilean students aged 15-18, with three experimental and two control groups. Six 80-minute deliberative-argumentation lessons improved knowledge in all experimental groups. Some ozone and ultraviolet misconceptions persisted. Trust improved in two experimental classes, but willingness to act did not change, distinguishing cognitive gains from action intentions.
+- 易读中文摘要：【K-12/科学概念学习/论证教学】研究以智利100名15至18岁学生开展准实验，设3个实验组与2个对照组；实验教学含6次80分钟课，围绕气候变化争议问题开展商议式论证。实验组知识均显著提高，但紫外线和臭氧层空洞相关误解仍普遍存在。3个实验班中2个对科学的信任改善，行动意愿则未见变化。启示是知识、信任与行动意愿不能视为同一教学结果，概念纠偏也需要针对性支持。
+- 文章链接：[DOI原文](https://doi.org/10.1007/s11165-026-10376-z)
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 10. Studies in Science Education
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；官网403/读取失败，补查未完成。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 11. Instructional Science
+
+数据来源：Crossref + 14天官网补查（含受限尝试）；官网可获取记录已与日志核对。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（可获取来源；官网受限者仍存在检索缺口）。
+
+### 今日重点
+
+1. 【STEM/教师教育】职前教师性别视角研究是本轮新文线索，尚不能总结发现。
+2. 【K-12/探究实验】高中化学教师评价素养文章与实验教学直接相关，摘要待补。
+3. 【K-12/社会性科学议题】小学生态度类别研究值得后续核实；目前不能报告类别或教学建议。
+
+4. 【科学概念/论证教学】智利气候变化研究表明知识提升不自动转化为行动意愿，且部分误解仍需针对性纠正。
