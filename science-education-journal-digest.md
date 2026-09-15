@@ -8114,7 +8114,7 @@
 - 新增4篇，实际展开4篇，因每刊最多3篇而未展开0篇。其中3篇IJSE未获取到abstract，只提供新文线索，不编造研究结论。
 - Crossref检回36条期刊内去重记录，排除32条已记录DOI。新增DOI完整。
 - 局限：IJSE及Studies in Science Education官网访问受限；Science Education与JRST快照有两天缓存延迟。
-- GitHub同步状态：待同步
+- GitHub同步状态：已推送；内容提交 hash：5224f41（回执另行同步）
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
 
 | 期刊（优先级顺序） | 新增数量 | 数据来源与核查状态 |
