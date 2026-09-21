@@ -8622,7 +8622,7 @@
 - Crossref主检索未发现未记录文章；官网补查新增1篇。实际展开1篇，因每刊上限而未展开0篇。
 - Crossref合并记录34条，排除已记录DOI 34条；官网新文DOI与标题均未在日志出现，无DOI缺失。
 - 覆盖限制：Taylor & Francis官网访问仍受限。“无新增”仅指已获取来源，不代表不可访问页面确定没有更新。
-- GitHub同步：待同步
+- GitHub同步：成功；内容提交 hash：ef463c2426edffd11c1a8229c221425ecb1ab220（后续回执）
 - Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
 
 | 期刊（优先级） | 新增 | 数据来源与覆盖 |
