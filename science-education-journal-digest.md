@@ -8612,3 +8612,110 @@
 1. 【K-12／STEM／探究】未发现未记录文章，不重复推送此前数字游戏及探究学习研究。
 2. 【AI／教师教育／教学设计】未发现未记录文章；此前AI学生角色及GenAI-TPACK文章保持原记录。
 3. 【科学概念学习／学习科学】未发现未记录文章；保留官网访问限制，不将检索盲区解释为确定没有新研究。
+
+## 2026-09-21 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-21。主检索：2026-09-20至2026-09-21（日期重叠，按历史日志去重）。
+- 最近14天补查：2026-09-07至2026-09-21；Crossref及官网latest/recent/Early View。
+- Crossref主检索未发现未记录文章；官网补查新增1篇。实际展开1篇，因每刊上限而未展开0篇。
+- Crossref合并记录34条，排除已记录DOI 34条；官网新文DOI与标题均未在日志出现，无DOI缺失。
+- 覆盖限制：Taylor & Francis官网访问仍受限。“无新增”仅指已获取来源，不代表不可访问页面确定没有更新。
+- GitHub同步：待同步
+- Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源与覆盖 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；官网列表已核实 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent最新9月16日文章已记录 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；官网403／读取失败，补查受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；Early View最新9月4日，窗口外 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Early View最新9月18日文章已记录 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Early View最新9月17日文章已记录 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；官网列表已核实 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；官网列表已核实 |
+| International Journal of Science and Mathematics Education (IJSME) | 1 | Crossref + 14 天官网补查；官网直连发现9月21日新文；搜索缓存较旧，以直连记录为准 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；官网403／读取失败，补查受限 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；官网列表已核实 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；官网列表已核实。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（已获取来源范围内）。
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；APS recent最新9月16日文章已记录。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（已获取来源范围内）。
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；官网403／读取失败，补查受限。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Early View最新9月4日，窗口外。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Early View最新9月18日文章已记录。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Early View最新9月17日文章已记录。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（已获取来源范围内）。
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；官网列表已核实。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（已获取来源范围内）。
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；官网列表已核实。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+无新增（已获取来源范围内）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；官网直连发现9月21日新文；搜索缓存较旧，以直连记录为准。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+#### Through Different Lenses: Connecting Educational Backgrounds to Fermi Problem-Solving Pathways
+
+- 期刊：International Journal of Science and Mathematics Education
+- 作者：Hyewon Jang；Petter Holme
+- 发表日期：2026-09-21（官网发表，Article 105）
+- DOI：10.1007/s10763-026-10727-2
+- 数据来源：14 天官网补查；本轮Crossref未返回该文。
+- 英文abstract要点：An exploratory study coded the equations and assumptions of 84 Ivy League undergraduates solving one Fermi problem independently before team reflection. Engineering majors were more likely to use a bottom-up target-revenue pathway (odds ratio 3.43), but individual approaches varied considerably. A single task and limited sample constrain generalization; the association does not establish an effect of engineering education.
+- 易读版中文摘要：【STEM／学习科学／教学设计】研究询问专业及既往课程背景是否与开放性估算题的解题路径有关。84名常春藤高校本科生先独立解决一道费米问题，再进行小组反思；研究者按方程和书面假设编码其决策过程。工程专业学生更常从单位层面的假设逐步汇总潜在收入，再与学费相关成本目标比较，优势比为3.43。不同个体在分解、假设和参数上仍差异很大。这提示教学可比较多种建模路径，但不能认定某专业学生能力更强，也不能把单题、小样本的关联解释成工程教育的因果效果。
+- 文章链接：[官网原文](https://link.springer.com/article/10.1007/s10763-026-10727-2)
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；官网403／读取失败，补查受限。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；官网列表已核实。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【STEM／教学设计】可将费米问题用于比较假设、分解和估算路径，而不只核对最终数值。
+2. 【学习科学】教育背景与路径选择的关联是初步证据，不是专业培养效果的因果证明。
+3. 【K-12／教师教育】本研究对象是本科生，不能直接推及中小学生或职前教师；今日其余期刊无可核实新增。
