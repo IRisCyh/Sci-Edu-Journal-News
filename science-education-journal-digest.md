@@ -8877,3 +8877,172 @@
 3. 【实验教学／教师能动性】IJSE新文直接触及科学实验教学的变化，但摘要不可访问，暂不推断其证据与结论。
 4. 【STEM／性别与身份】跨学科比较刻板印象与STEM身份的新研究值得跟踪，现阶段仅能确认题目与元数据。
 5. 【大学物理／教学设计】极限情形分析文章可能涉及任务剂量，但摘要与作者尚未核实，应等待APS页面更新。
+
+## 2026-09-23 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-23；主检索覆盖2026-09-22至2026-09-23，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-09至2026-09-23（最近14天）；使用Crossref及官网latest/recent/Early View。
+- 新增7篇，实际展开7篇，因每刊最多3篇而未展开0篇；其中3篇未获取到abstract。
+- Crossref合并检索记录40条，排除已记录DOI 33条；7篇DOI完整，未发现标题重复。
+- 覆盖限制：Taylor & Francis官网受限；APS recent尚未显示3篇新DOI，且Crossref作者字段为Anonymous。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；官网列表已补查 |
+| Physical Review Physics Education Research | 3 | Crossref + 14 天官网补查；Crossref主检索；APS recent尚未显示新条目 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；官网403／读取失败 |
+| Science Education | 0 | Crossref + 14 天官网补查；Early View已补查 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Early View已补查 |
+| British Journal of Educational Technology (BJET) | 2 | Crossref + 14 天官网补查；Crossref主检索 + Early View补查 |
+| International Journal of STEM Education | 1 | Crossref + 14 天官网补查；官网列表及摘要已核实 |
+| Research in Science Education | 1 | Crossref + 14 天官网补查；官网列表及摘要已核实 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；官网列表已补查 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；官网403／读取失败 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；官网列表已补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；官网列表已补查。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（已获取来源范围内）。
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；Crossref主检索；APS recent尚未显示新条目。[期刊页面](https://journals.aps.org/prper/recent)
+
+#### Measuring student understanding in quantum computing: Development and validation of the quantum computing conceptual survey
+
+- 期刊：Physical Review Physics Education Research
+- 作者：Anonymous（Crossref当前作者字段；真实作者未核实）
+- 日期：2026-09-22（Crossref online）
+- DOI：10.1103/svp6-ffxn
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title reports development and validation of a quantum-computing conceptual survey; participants, validation evidence, reliability, and instrument scope could not be verified.
+- 易读版中文摘要：【量子计算／概念学习／测评】题目显示研究开发并验证量子计算概念测评工具。当前未获取摘要，作者字段也尚未更新，因此无法核实目标群体、题目范围、效度证据或信度，暂不能评价工具是否适合具体课程。
+- 文章链接：[原文](https://doi.org/10.1103/svp6-ffxn)
+
+#### Chunking of physics formulae: An exploratory study using handwriting recording
+
+- 期刊：Physical Review Physics Education Research
+- 作者：Anonymous（Crossref当前作者字段；真实作者未核实）
+- 日期：2026-09-22（Crossref online）
+- DOI：10.1103/m6bl-7rnq
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title identifies an exploratory handwriting-recording study of how physics formulae are chunked; sample, task design, measures, and findings remain unverified.
+- 易读版中文摘要：【大学物理／科学概念学习】题目关注学生书写物理公式时如何形成信息组块，并采用手写记录进行探索。摘要和作者尚不可得，不能判断研究对象、记录指标、组块差异或其与专业水平的关系。
+- 文章链接：[原文](https://doi.org/10.1103/m6bl-7rnq)
+
+#### Missing data on physics exams: Demographic patterns, course-level predictions, and implications for equity
+
+- 期刊：Physical Review Physics Education Research
+- 作者：Anonymous（Crossref当前作者字段；真实作者未核实）
+- 日期：2026-09-22（Crossref online）
+- DOI：10.1103/b4q5-dkn5
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title concerns demographic patterns and course-level prediction of missing physics-exam data and their equity implications; methods and results could not be verified.
+- 易读版中文摘要：【物理教育／公平性／测评】题目研究物理考试缺失数据的群体差异、课程层面的预测及公平影响。由于摘要不可得，不能确认哪些人口统计变量相关、缺失机制如何建模，或缺失数据是否会改变成绩与公平结论。
+- 文章链接：[原文](https://doi.org/10.1103/b4q5-dkn5)
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；官网403／读取失败。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Early View已补查。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Early View已补查。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Early View补查。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+#### The role of digital media in the home learning environment and associations with children's early language and literacy skills
+
+- 期刊：British Journal of Educational Technology (BJET)
+- 作者：Burcu H. Tatar; Lori E. Skibbe; Ryan P. Bowles; Hope K. Gerde
+- 日期：2026-09-22（Crossref online）
+- DOI：10.1111/bjet.70086
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：Across two samples totaling 289 young children, caregiver reports grouped home learning into analog activities, digital learning, and content watching. Analog activities were positively associated with language comprehension and vocabulary; digital learning was negatively associated with vocabulary, while watching showed no significant association. Observational associations do not establish that digital learning caused lower vocabulary.
+- 易读版中文摘要：【早期学习／教育技术】两组样本共289名幼儿，照护者报告显示家庭学习可分为非数字活动、数字学习和观看内容。非数字活动与语言理解和词汇正相关，数字学习与词汇负相关，观看内容无显著关联。结果提示工具质量和共同使用方式很重要，但相关研究不能证明数字活动造成词汇下降。
+- 文章链接：[原文](https://doi.org/10.1111/bjet.70086)
+
+#### A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
+
+- 期刊：British Journal of Educational Technology (BJET)
+- 作者：Yanyi Wu; Xinyu Lu
+- 日期：2026-09-22（Crossref online）
+- DOI：10.1111/bjet.70090
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：Three-wave data from 342 undergraduates in 85 fixed groups examined GenAI reliance and agency during collaborative writing. After stable between-person differences were separated, higher-than-usual reliance predicted lower subsequent perceived agency more strongly than the reverse path. Logs confirmed use intensity but could not distinguish strategic consultation from cognitive offloading.
+- 易读版中文摘要：【GenAI／协作学习／学习科学】342名本科生组成85个固定小组，在AI辅助写作课中接受三次测量。控制稳定个体差异后，一个人某阶段高于自己通常水平的AI依赖，与下一阶段较低的主观能动性相关；反向路径证据较弱。使用日志只能显示强度，不能区分策略性求助与把思考外包给AI。
+- 文章链接：[原文](https://doi.org/10.1111/bjet.70090)
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；官网列表及摘要已核实。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+#### More than getting the answer: How students engage with generative AI in technical problem solving
+
+- 期刊：International Journal of STEM Education
+- 作者：Aparajita Jaiswal; Gaurav Nanda
+- 日期：2026-09-22（官网发表）
+- DOI：10.1186/s40594-026-00646-7
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：Thirty-eight undergraduates first solved a linear-programming problem manually and then with GenAI. Reflection coding under ICAP, checked against available interaction records, identified passive answer receipt, active verification, and constructive explanation-seeking, but no sufficiently evidenced interactive co-construction. The study describes engagement rather than testing learning gains.
+- 易读版中文摘要：【STEM／GenAI／技术问题解决】38名本科生先手工解决线性规划题，再使用GenAI。依据ICAP框架分析反思和可用对话记录，研究发现被动接收、主动核对和建构性寻求解释三种模式，没有足够证据证明真正的互动式共同建构。重点不是“用了几次AI”，而是学生是否核对、解释和延伸理解；研究未直接比较学习增益。
+- 文章链接：[原文](https://doi.org/10.1186/s40594-026-00646-7)
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；官网列表及摘要已核实。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+#### An Accelerated Longitudinal Design Study Examining Emotional Engagement toward Learning Science from Grades 3 through 12
+
+- 期刊：Research in Science Education
+- 作者：Robert H. Tai; Ji Hoon Ryoo; Xin Xia; Katherine P. Dabney; John T. Almarode; Adam V. Maltese
+- 日期：2026-09-23（官网发表）
+- DOI：10.1007/s11165-026-10368-z
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：An accelerated longitudinal design followed 11 adjacent cohorts from four US districts, surveying more than 7,000 students four times over two years to model Grades 3–12. Emotional engagement in school science declined from Grade 3 through Grade 9 and leveled at ambivalent levels in Grade 10; declines occurred both across and within grades. The design simulates a longer trajectory and does not follow one cohort for a decade.
+- 易读版中文摘要：【K-12／科学学习动机】研究用加速纵向设计整合美国四个学区11个相邻年级队列，两年内四次调查7000多名学生，模拟三至十二年级的发展轨迹。科学学习情感投入从三年级起持续下降至九年级，十年级后趋于较低且矛盾的水平；同一年级的学年内部也下降。结果提示学校经历可能参与形成下降，但这种设计并非真正追踪同一批学生十年。
+- 文章链接：[原文](https://doi.org/10.1007/s11165-026-10368-z)
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；官网列表已补查。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+无新增（已获取来源范围内）。
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；官网403／读取失败。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；官网列表已补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【K-12／科学学习】7000多名学生的加速纵向研究显示，科学学习情感投入从小学阶段即开始下降。
+2. 【GenAI／学习科学】AI使用强度不能直接等同于依赖；更关键的是学生是否保留解释、判断和作者责任。
+3. 【STEM／问题解决】GenAI可被当作答案机、核对工具或解释工具，多轮对话本身不等于共同建构。
+4. 【教育技术／早期学习】家庭数字学习与词汇的负相关不能解释为因果，活动质量与亲子共同使用需要进一步研究。
+5. 【物理教育／概念学习与公平】新增3篇PRPER文章涉及量子计算测评、公式组块和考试缺失数据，但作者与摘要仍待APS更新。
