@@ -9046,3 +9046,130 @@
 3. 【STEM／问题解决】GenAI可被当作答案机、核对工具或解释工具，多轮对话本身不等于共同建构。
 4. 【教育技术／早期学习】家庭数字学习与词汇的负相关不能解释为因果，活动质量与亲子共同使用需要进一步研究。
 5. 【物理教育／概念学习与公平】新增3篇PRPER文章涉及量子计算测评、公式组块和考试缺失数据，但作者与摘要仍待APS更新。
+
+## 2026-09-24 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-24；主检索覆盖2026-09-23至2026-09-24，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-10至2026-09-24（最近14天）；使用Crossref及官网latest/recent/Early View。
+- 新增3篇，实际展开3篇，因每刊最多3篇而未展开0篇；其中2篇未获取到abstract。
+- Crossref合并检索记录37条，排除已记录DOI 34条；3篇DOI完整，未发现标题重复或DOI缺失。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403；APS recent尚未显示1篇新DOI，且Crossref作者字段为Anonymous。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| Physical Review Physics Education Research | 1 | Crossref + 14 天官网补查；Crossref主检索；APS recent尚未显示该新DOI |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Science Education | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表已补查 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| International Journal of Science and Mathematics Education (IJSME) | 2 | Crossref + 14 天官网补查；Springer latest articles已补查并核实2篇 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（已获取来源范围内）。
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；Crossref主检索；APS recent尚未显示该新DOI。[期刊页面](https://journals.aps.org/prper/recent)
+
+#### Modeling high school students’ acceptance of GenAI for physics learning via an extended technology acceptance model: Disciplinary beliefs as a distal antecedent
+
+- 期刊：Physical Review Physics Education Research
+- 作者：Anonymous（Crossref当前作者字段；真实作者未核实）
+- 日期：2026-09-23（Crossref online）
+- DOI：10.1103/62m6-lkh7
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title indicates an extended technology acceptance model of high-school students' acceptance of GenAI for physics learning, with disciplinary beliefs treated as a distal antecedent. Authors, sample, measures, model fit, and findings could not be verified.
+- 易读版中文摘要：【K-12／物理教育／GenAI】题目显示研究以扩展技术接受模型分析高中生接受生成式AI辅助物理学习的机制，并把学科信念作为较远端的前因。由于APS页面尚未上线且Crossref未提供摘要和真实作者，样本、量表、模型路径和研究结果均无法核实。
+- 文章链接：[原文](https://doi.org/10.1103/62m6-lkh7)
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（已获取来源范围内）。
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；SpringerOpen文章列表已补查。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（已获取来源范围内）。
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+无新增（已获取来源范围内）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查并核实2篇。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+#### Primary Mathematics Preservice Teachers’ Reflections on Lesson Study-Inspired Collaborative Planning: A Didactical Suitability Perspective
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Dung Tran; Giang-Nguyen Nguyen; Javier Díez-Palomar
+- 日期：2026-09-23（官网 online first）
+- DOI：10.1007/s10763-026-10733-4
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：Thirty-six reflection entries from primary mathematics preservice teachers were coded with the Didactical Suitability Criteria framework after a lesson-study-inspired collaborative planning cycle. Reflections emphasized interactional, epistemic, mediational, differentiation, and ecological aspects. Revision decisions ranged from retaining plans unchanged to adding theoretically justified components.
+- 易读版中文摘要：【教师教育／教学设计】小学数学职前教师参加了受课例研究启发的协作备课流程，包括共同构思、观看相关课堂视频、接受反馈、修改教案并反思。研究用教学适切性标准分析36份反思，发现教师更常关注互动、知识内容、教学媒介、差异化与情境适配；他们对教案的处理从维持原案到依据学习理论增补内容不等。结果说明，保留课例研究的关键环节并提供明确分析框架，有助于把协作备课转化为更聚焦的教学反思。
+- 文章链接：[原文](https://doi.org/10.1007/s10763-026-10733-4)
+
+#### From Content Knowledge to Informal Reasoning: The Mediation of Modeling Competence in Socio-scientific Issues
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Chang-Yi Chiang; Chi-Jung Sui; Yu-hsuan Chien; Chung-Yi Huang; Chun-Yen Chang
+- 日期：2026-09-23（官网 online first）
+- DOI：10.1007/s10763-026-10730-7
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title proposes that modeling competence mediates the relationship between content knowledge and informal reasoning in socioscientific issues. The participant group, instruments, analytic model, effect sizes, and findings could not be verified.
+- 易读版中文摘要：【科学概念学习／社会性科学议题】题目提出一个值得关注的机制：学科内容知识可能通过建模能力影响学生处理社会性科学议题时的非形式推理。当前官网列表可核实作者、日期和题名，但正文页未返回摘要，因此研究对象、测量工具、中介效应及结论仍不能确认。
+- 文章链接：[原文](https://doi.org/10.1007/s10763-026-10730-7)
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【K-12／物理教育／科学技术与AI】PRPER新增研究把学科信念纳入高中生接受GenAI物理学习的技术接受模型，但摘要和真实作者仍待APS更新。
+2. 【教师教育／教学设计】协作备课若同时包含课堂视频、同伴反馈、修订和结构化反思，更有机会让职前教师关注互动、知识、媒介、差异化与情境适配。
+3. 【科学概念学习／社会性科学议题】IJSME新研究关注内容知识、建模能力与非形式推理之间的中介关系；当前摘要缺失，暂不对路径强度和结论作推断。
