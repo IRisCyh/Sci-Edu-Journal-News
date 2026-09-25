@@ -9173,3 +9173,140 @@
 1. 【K-12／物理教育／科学技术与AI】PRPER新增研究把学科信念纳入高中生接受GenAI物理学习的技术接受模型，但摘要和真实作者仍待APS更新。
 2. 【教师教育／教学设计】协作备课若同时包含课堂视频、同伴反馈、修订和结构化反思，更有机会让职前教师关注互动、知识、媒介、差异化与情境适配。
 3. 【科学概念学习／社会性科学议题】IJSME新研究关注内容知识、建模能力与非形式推理之间的中介关系；当前摘要缺失，暂不对路径强度和结论作推断。
+
+## 2026-09-25 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-25；主检索覆盖2026-09-24至2026-09-25，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-11至2026-09-25（最近14天）；使用Crossref及官网latest/recent/Early View。
+- 新增4篇，实际展开4篇，因每刊最多3篇而未展开0篇；其中2篇未获取到abstract。
+- Crossref合并检索记录39条，排除已记录DOI 35条；4篇DOI完整，未发现标题重复或DOI缺失。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent已补查 |
+| International Journal of Science Education | 1 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Science Education | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| British Journal of Educational Technology (BJET) | 1 | Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表已补查 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| International Journal of Science and Mathematics Education (IJSME) | 2 | Crossref + 14 天官网补查；Springer latest articles已补查并核实2篇 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（已获取来源范围内）。
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；APS recent已补查。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（已获取来源范围内）。
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+#### Relationship between understanding of the Nature of Science (NOS) and pedagogical content knowledge (PCK) of NOS in a group of biology teachers before and after a professional development programme
+
+- 期刊：International Journal of Science Education
+- 作者：Carolina Parraguez; Paola Núñez; Renée Schwartz; Hernán Cofré
+- 日期：2026-09-24（Crossref online）
+- DOI：10.1080/09500693.2026.2736151
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title concerns the relationship between biology teachers' understanding of the nature of science and their pedagogical content knowledge for teaching NOS, before and after professional development. The programme, sample, measures, and findings could not be verified.
+- 易读版中文摘要：【教师教育／科学本质】题目显示研究比较一组生物教师在专业发展项目前后，对科学本质的理解及其科学本质教学PCK之间的关系。由于摘要不可得，培训设计、样本规模、测量方法和变化结果均无法核实。
+- 文章链接：[原文](https://doi.org/10.1080/09500693.2026.2736151)
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+#### Unpacking student interactions in GenAI ‐assisted social annotation: An epistemic network analysis of cognitive and social presence
+
+- 期刊：British Journal of Educational Technology (BJET)
+- 作者：Mengru Pan; Chun Lai; Kai Guo; Chin‐Hsi Lin
+- 日期：2026-09-24（Crossref online）
+- DOI：10.1111/bjet.70088
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：A five-week quasi-experiment involved 63 Chinese undergraduates in two classes. The experimental class used a social-annotation platform with a GPT-4o-mini chatbot supporting cognitive and social presence; the control class used the same platform without the chatbot. Survey, performance, and log analyses indicated higher cognitive and emotional engagement and reading performance in the assisted class. Epistemic network analysis showed stronger links between social presence, integration, and resolution, but lower-performing students integrated the scaffolds less effectively.
+- 易读版中文摘要：【GenAI／学习科学／协作学习】63名中国本科生参加为期五周的协作阅读。实验班使用带GPT-4o mini聊天机器人的社会标注平台，对照班使用没有机器人的同一平台。实验班在认知投入、情感投入和阅读成绩上更高，互动网络也更紧密地连接社会临场感、知识整合与问题解决。不过，低表现学生较难把AI提示真正融入协作思考，说明提供脚手架并不等于所有学生都能有效利用。
+- 文章链接：[原文](https://doi.org/10.1111/bjet.70088)
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；SpringerOpen文章列表已补查。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（已获取来源范围内）。
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+无新增（已获取来源范围内）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查并核实2篇。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+#### Positioning Mathematical Routine Enactments Along the Ritual–Explorative Continuum: The Case of Prospective Teachers’ Fraction Ordering
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Jinqing Liu; Merav Weingarden
+- 日期：2026-09-25（官网 online first）
+- DOI：10.1007/s10763-026-10726-3
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：Using Sfard's commognitive framework, the study compared how three prospective teachers enacted the same common-denominator routine in a fraction-ordering task. Analysis of bondedness, substantiation, objectification, and agency showed that identical correct procedures masked different task construals, justifications, connections, and sources of mathematical authority. Three prototypes illustrate that successful routine performance can differ substantially in learning potential.
+- 易读版中文摘要：【教师教育／数学概念学习】三名职前教师都用通分法正确完成分数排序，但他们参与数学活动的方式并不相同。研究从规则依附、论证、对象化和能动性分析话语，发现相同答案可能掩盖对任务理解、理由连接和数学权威来源的显著差异。仅按答案正确与否评价，可能看不到学生或教师真正的学习潜力。
+- 文章链接：[原文](https://doi.org/10.1007/s10763-026-10726-3)
+
+#### The Integration of Technological Tools into Mathematics Courses: A Systematic Literature Review
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Oscar Villalobos; Kinshuk
+- 日期：2026-09-24（官网 online first）
+- DOI：10.1007/s10763-026-10732-5
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title identifies a systematic literature review of the integration of technological tools into mathematics courses. The databases, date range, inclusion criteria, study count, synthesis method, and conclusions could not be verified.
+- 易读版中文摘要：【教育技术／数学教育】题目显示这是一项关于技术工具融入数学课程的系统综述。当前只能确认题名、作者和发表日期，尚不能核实检索数据库、时间范围、纳入研究数量、技术类型或综合结论。
+- 文章链接：[原文](https://doi.org/10.1007/s10763-026-10732-5)
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【教师教育／科学本质】IJSE新文比较专业发展前后，教师科学本质理解与其教学PCK的关系；摘要仍待出版方补充。
+2. 【GenAI／学习科学】AI社会标注脚手架与更高的认知、情感投入和阅读表现相关，但低表现学生较难有效整合提示。
+3. 【教师教育／概念学习】相同的正确数学程序可能对应截然不同的理解、论证和学习潜力，评价不能只看答案。
+4. 【教育技术／教学设计】技术工具融入数学课程的系统综述已上线，但检索范围与综合结论尚未取得。
