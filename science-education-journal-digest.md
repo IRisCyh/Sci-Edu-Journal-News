@@ -9310,3 +9310,101 @@
 2. 【GenAI／学习科学】AI社会标注脚手架与更高的认知、情感投入和阅读表现相关，但低表现学生较难有效整合提示。
 3. 【教师教育／概念学习】相同的正确数学程序可能对应截然不同的理解、论证和学习潜力，评价不能只看答案。
 4. 【教育技术／教学设计】技术工具融入数学课程的系统综述已上线，但检索范围与综合结论尚未取得。
+
+## 2026-09-26 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-26；主检索覆盖2026-09-25至2026-09-26，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-12至2026-09-26（最近14天）；使用Crossref及官网latest/recent/Early View。
+- 11本期刊均无未记录新增；实际展开0篇，因每刊最多3篇而未展开0篇；无新增摘要缺失记录。
+- Crossref合并检索记录41条，全部为日志中已记录DOI或不属于本次新增；未发现可能重复文章或DOI缺失。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent已补查 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Science Education | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表已补查 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（已获取来源范围内）。
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；APS recent已补查。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（已获取来源范围内）。
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（已获取来源范围内）。
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；SpringerOpen文章列表已补查。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（已获取来源范围内）。
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+无新增（已获取来源范围内）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+无新增（已获取来源范围内）。
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【整体监测】本轮11本期刊均未发现日志中尚未记录的新文章。
+2. 【K-12／STEM／教师教育】最近14天官网列表中的相关新文均已在此前推送记录中收录，没有重复推送。
+3. 【数据质量】Taylor & Francis与Wiley部分官网页面仍返回403，因此“无新增”限定于Crossref及成功获取的官网来源。
