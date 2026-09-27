@@ -9408,3 +9408,110 @@
 1. 【整体监测】本轮11本期刊均未发现日志中尚未记录的新文章。
 2. 【K-12／STEM／教师教育】最近14天官网列表中的相关新文均已在此前推送记录中收录，没有重复推送。
 3. 【数据质量】Taylor & Francis与Wiley部分官网页面仍返回403，因此“无新增”限定于Crossref及成功获取的官网来源。
+
+## 2026-09-27 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-27；主检索覆盖2026-09-26至2026-09-27，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-13至2026-09-27（最近14天）；使用Crossref及官网latest/recent/Early View。
+- 新增1篇，实际展开1篇，因每刊最多3篇而未展开0篇；该篇未获取到abstract。
+- Crossref合并检索记录41条，排除已记录DOI 40条；新增文章DOI完整，未发现标题重复或DOI缺失。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent已补查 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Science Education | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表已补查 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Instructional Science | 1 | Crossref + 14 天官网补查；Springer latest articles已补查并核实1篇 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（已获取来源范围内）。
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；APS recent已补查。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（已获取来源范围内）。
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（已获取来源范围内）。
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；SpringerOpen文章列表已补查。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（已获取来源范围内）。
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+无新增（已获取来源范围内）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+无新增（已获取来源范围内）。
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查并核实1篇。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+#### Timing matters: exploring the impact of pre- and post-draft rubrics on students’ written assignments
+
+- 期刊：Instructional Science
+- 作者：Anastasiya A. Lipnevich; Ligia Tomazin; Samuel P. León
+- 日期：2026-09-27（官网 online first）
+- DOI：10.1007/s11251-026-09821-3
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title indicates a study comparing the impact of providing assessment rubrics before versus after students prepare a first draft of a written assignment. The participants, assignment context, experimental design, measures, and findings could not be verified.
+- 易读版中文摘要：【学习科学／教学设计／评价】题目关注评分量规应该在学生写初稿之前还是之后提供，以及不同时机是否影响书面作业。当前官网只提供题名、作者和发表日期，尚不能确认研究对象、课程情境、比较设计、写作表现指标或哪种时机更有效。
+- 文章链接：[原文](https://doi.org/10.1007/s11251-026-09821-3)
+
+### 今日重点
+
+1. 【学习科学／教学设计】新增研究把重点放在量规的提供时机，而不只是量规内容本身。
+2. 【评价与反馈】在初稿前提供量规可能影响规划过程，初稿后提供则可能影响修订过程，但摘要尚未取得，不能判断哪种方式更有效。
+3. 【数据质量】其余10本期刊在Crossref及成功获取的最近14天官网来源中均无未记录新增。
