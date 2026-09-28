@@ -9515,3 +9515,131 @@
 1. 【学习科学／教学设计】新增研究把重点放在量规的提供时机，而不只是量规内容本身。
 2. 【评价与反馈】在初稿前提供量规可能影响规划过程，初稿后提供则可能影响修订过程，但摘要尚未取得，不能判断哪种方式更有效。
 3. 【数据质量】其余10本期刊在Crossref及成功获取的最近14天官网来源中均无未记录新增。
+
+## 2026-09-28 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-28；主检索覆盖2026-09-27至2026-09-28，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-14至2026-09-28（最近14天）；使用Crossref及官网latest/recent/Early View。
+- 新增3篇，实际展开3篇，因每刊最多3篇而未展开0篇；3篇均获取到abstract。
+- Crossref合并检索记录43条，排除已记录DOI 40条；3篇DOI完整，未发现标题重复或DOI缺失。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent已补查 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Science Education | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 1 | Crossref + 14 天官网补查；SpringerOpen文章列表及摘要已核实1篇 |
+| Research in Science Education | 2 | Crossref + 14 天官网补查；Springer latest articles及摘要已核实2篇 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（已获取来源范围内）。
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；APS recent已补查。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（已获取来源范围内）。
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（已获取来源范围内）。
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；SpringerOpen文章列表及摘要已核实1篇。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+#### The shifting landscape of assessment in STEM education in the age of generative AI
+
+- 期刊：International Journal of STEM Education
+- 作者：Milo D. Koretsky; Meixia Ding; Thomas K. F. Chiu; Jonas Hallström; Yeping Li
+- 日期：2026-09-28（官网发表）
+- DOI：10.1186/s40594-026-00648-5
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：Using the assessment triangle and an ecosystems perspective, this editorial reviews how GenAI is changing cognition targets, observation of learning, and interpretation of evidence in STEM assessment. It highlights AI's entanglement with validity, assessment redesign, and acceptable-use policy; AI-supported analysis and feedback; and the need to validate AI-generated instructional and assessment materials. It maps research directions rather than reporting a new empirical intervention.
+- 易读版中文摘要：【STEM／GenAI／评价】这篇社论用“认知目标—学习证据—证据解释”的评价三角审视生成式AI带来的变化。核心问题包括：AI介入后传统作业还能否有效证明学生学习、评价任务与学校政策如何重构、AI如何参与分析和反馈，以及AI生成的教学与评价材料如何验证。文章主要提出研究议程，并非新的教学实验。
+- 文章链接：[原文](https://doi.org/10.1186/s40594-026-00648-5)
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Springer latest articles及摘要已核实2篇。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+#### More than a Quick Search: Interplay between Students’ use of Scientific Concepts and Online Search Strategies
+
+- 期刊：Research in Science Education
+- 作者：Anna Lodén; Johanna Lönngren; Christina Ottander
+- 日期：2026-09-28（官网 online first）
+- DOI：10.1007/s11165-026-10381-2
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：Video recordings of upper-secondary students' online searches and peer discussions during two tasks of different complexity were analyzed with the semantics dimension of Legitimation Code Theory. Alongside linear, one-shot, and random searching, the study identified targeted refinement, text-to-image, and piecewise strategies. Iterative refinement and movement between isolated and combined queries were associated with more extended semantic shifts, showing that scientific concept use and query formulation develop together.
+- 易读版中文摘要：【K-12／科学概念学习／数字素养】研究记录高中阶段学生完成两项不同复杂度任务时的在线搜索和同伴讨论。除线性、一次性和随机搜索外，还发现定向细化、文字转图片及分段拼接搜索。更有效的过程不是简单换关键词，而是反复细化并在单一与组合查询之间移动；学生对科学概念的理解与他们如何构造搜索式是相互交织的。
+- 文章链接：[原文](https://doi.org/10.1007/s11165-026-10381-2)
+
+#### Replacing Traditional Written Laboratory Reports with Interactive Oral Assessments: Enhancing Laboratory Skill Assessment in Undergraduate Genetics Education
+
+- 期刊：Research in Science Education
+- 作者：Chris B. Della Vedova; David Birbeck; Sarah K. Davey
+- 日期：2026-09-28（官网 online first）
+- DOI：10.1007/s11165-026-10380-3
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：A longitudinal mixed-methods comparison in a second-year genetics course evaluated replacing written laboratory reports with short interactive oral assessments. Comparing cohorts before (n=218) and after implementation (n=504), laboratory scores rose from 67.8% to 76.2% and theoretical assessment scores from 55.4% to 60.5%. Satisfaction improved, initial anxiety decreased, and no significant performance differences were found by gender, international status, degree program, or age. The format also supported immediate feedback, marking efficiency, academic integrity, and assessment of individual understanding.
+- 易读版中文摘要：【实验学习／大学科学教育／评价】一门二年级遗传学课程以短时互动口试替代传统实验报告，并比较实施前218名与实施后504名学生。实验成绩由67.8%升至76.2%，理论评价由55.4%升至60.5%；学生满意度提高，初期焦虑随时间下降，性别、国际生身份、专业或年龄之间没有显著表现差异。口试还能即时反馈并更直接确认个人理解，但跨多年队列比较仍需谨慎解释因果。
+- 文章链接：[原文](https://doi.org/10.1007/s11165-026-10380-3)
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+无新增（已获取来源范围内）。
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【STEM／GenAI／评价】生成式AI正在同时改变评价目标、证据采集和结果解释，评价有效性与AI可接受使用政策需要一起重构。
+2. 【K-12／科学概念学习】高中生的科学概念运用与搜索式构造相互影响，迭代细化比一次性检索更能支持意义建构。
+3. 【实验／探究学习】遗传学实验课的短时互动口试与更高成绩、满意度和即时反馈相关，并能更直接评价个人理解。
+4. 【教学设计】三篇文章共同提示：当AI、搜索或新评价工具进入课堂时，关键不是工具本身，而是证据如何产生、解释并转化为反馈。
