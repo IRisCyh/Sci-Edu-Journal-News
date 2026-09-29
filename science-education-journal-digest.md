@@ -9643,3 +9643,120 @@
 2. 【K-12／科学概念学习】高中生的科学概念运用与搜索式构造相互影响，迭代细化比一次性检索更能支持意义建构。
 3. 【实验／探究学习】遗传学实验课的短时互动口试与更高成绩、满意度和即时反馈相关，并能更直接评价个人理解。
 4. 【教学设计】三篇文章共同提示：当AI、搜索或新评价工具进入课堂时，关键不是工具本身，而是证据如何产生、解释并转化为反馈。
+
+## 2026-09-29 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-29；主检索覆盖2026-09-28至2026-09-29，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-15至2026-09-29（最近14天）；使用Crossref及官网latest/recent/Early View。
+- 新增研究文章2篇，实际展开2篇，因每刊最多3篇而未展开0篇；其中1篇未获取到abstract。
+- Crossref合并检索记录43条；排除日志中已记录DOI及1条Issue Information非研究文章；2篇DOI完整，未发现标题重复或DOI缺失。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 1 | Crossref + 14 天官网补查；Springer latest articles及摘要已核实1篇 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent已补查 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Science Education | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Wiley官网返回403；排除1条Issue Information非研究文章 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表已补查 |
+| Research in Science Education | 1 | Crossref + 14 天官网补查；Springer latest articles已核实1篇 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Springer latest articles及摘要已核实1篇。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+#### The Influence of Augmented Reality on Learner-generated Explanations During Chemical Hands-on Experiments
+
+- 期刊：Journal of Science Education and Technology
+- 作者：Hendrik Peeters; Sebastian Habig; Sabine Fechner
+- 日期：2026-09-29（官网 online first）
+- DOI：10.1007/s10956-026-10354-0
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：A quasi-experimental pre-post study compared augmented reality, animation, and filmstrip conditions in Grade 11 chemistry. A total of 104 students worked in pairs on two acid-base experiments and produced explanatory screencasts. Network and holistic analyses showed that the AR group incorporated submicroscopic entities more often, but this stronger representational integration did not consistently improve overall explanatory quality. Explicit scaffolding may be needed to turn AR-supported representations into causal explanations.
+- 易读版中文摘要：【K-12／AR／化学实验／科学概念学习】104名十一年级学生两人一组完成两个酸碱实验，并用AR、动画或连续图片辅助制作解释视频。AR组更频繁地把微观粒子纳入对宏观现象的解释，但“提到更多微观实体”并不稳定等于“解释质量更高”。这说明AR能帮助连接宏观、微观与符号表征，却仍需要明确脚手架来推动因果推理。
+- 文章链接：[原文](https://doi.org/10.1007/s10956-026-10354-0)
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；APS recent已补查。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（已获取来源范围内）。
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403；排除1条Issue Information非研究文章。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（已获取来源范围内）。
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；SpringerOpen文章列表已补查。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（已获取来源范围内）。
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Springer latest articles已核实1篇。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+#### Enhancing the Conceptual Understanding of Pre-Service Science Teachers: Augmented Reality in Online Education for Interparticle Forces
+
+- 期刊：Research in Science Education
+- 作者：Nesrin Urun Arici
+- 日期：2026-09-29（官网 online first）
+- DOI：10.1007/s11165-026-10379-w
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title indicates a study of augmented reality in online education for improving preservice science teachers' conceptual understanding of interparticle forces. The participants, AR design, comparison condition, measures, and findings could not be verified.
+- 易读版中文摘要：【教师教育／AR／在线学习／科学概念学习】题目显示研究将增强现实用于职前科学教师的在线学习，目标是促进其理解粒子间作用力。当前官网仅能核实题名、作者和日期，尚不能确认AR活动设计、比较条件、测量工具或实际学习效果。
+- 文章链接：[原文](https://doi.org/10.1007/s11165-026-10379-w)
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+无新增（已获取来源范围内）。
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【K-12／AR／实验学习】AR帮助高中生在化学实验解释中更频繁连接微观粒子，但并未自动提高整体因果解释质量。
+2. 【教师教育／AR】职前科学教师的粒子间作用力在线学习出现新的AR研究，但摘要尚待出版方补充。
+3. 【科学概念学习】两篇文章共同提示，可视化微观机制只是第一步，学习者仍需要脚手架把表征组织成科学解释。
+4. 【数据质量】JRST的一条Issue Information虽被Crossref标记为journal article，但不属于研究文章，已排除。
