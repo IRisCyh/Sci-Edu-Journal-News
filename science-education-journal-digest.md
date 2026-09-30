@@ -9771,7 +9771,7 @@
 - Crossref合并检索记录48条；排除日志中已记录DOI及1条Issue Information非研究文章；7篇DOI完整，未发现标题重复或DOI缺失。
 - 永久排除记录：10.1002/tea.70071（JRST Issue Information，非研究文章；仅用于防止后续重复检出）。
 - 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
-- GitHub同步：待同步
+- GitHub同步：推送成功；内容提交 hash：15a4fcdf41bdc699892e945e95e59e42d3a6c956（后续同步回执）
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
