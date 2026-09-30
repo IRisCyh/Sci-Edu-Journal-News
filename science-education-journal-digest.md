@@ -9760,3 +9760,167 @@
 2. 【教师教育／AR】职前科学教师的粒子间作用力在线学习出现新的AR研究，但摘要尚待出版方补充。
 3. 【科学概念学习】两篇文章共同提示，可视化微观机制只是第一步，学习者仍需要脚手架把表征组织成科学解释。
 4. 【数据质量】JRST的一条Issue Information虽被Crossref标记为journal article，但不属于研究文章，已排除。
+
+## 2026-09-30 推送
+
+### 推送记录
+
+- 本次推送日期：2026-09-30；主检索覆盖2026-09-29至2026-09-30，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-16至2026-09-30（最近14天）；使用Crossref及官网latest/recent/Early View。
+- 新增文章7篇，实际展开7篇，因每刊最多3篇而未展开0篇；其中6篇未获取到abstract。
+- Crossref合并检索记录48条；排除日志中已记录DOI及1条Issue Information非研究文章；7篇DOI完整，未发现标题重复或DOI缺失。
+- 永久排除记录：10.1002/tea.70071（JRST Issue Information，非研究文章；仅用于防止后续重复检出）。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 1 | Crossref + 14 天官网补查；Springer latest articles已核实1篇 |
+| Physical Review Physics Education Research | 1 | Crossref + 14 天官网补查；Crossref主检索；APS recent补查 |
+| International Journal of Science Education | 1 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Science Education | 0 | Crossref + 14 天官网补查；Wiley官网返回403 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Wiley官网返回403；排除Issue Information |
+| British Journal of Educational Technology (BJET) | 1 | Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 1 | Crossref + 14 天官网补查；SpringerOpen文章列表已核实1篇评论 |
+| Research in Science Education | 1 | Crossref + 14 天官网补查；Springer latest articles已核实1篇 |
+| International Journal of Science and Mathematics Education (IJSME) | 1 | Crossref + 14 天官网补查；Springer latest articles已核实1篇 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Taylor & Francis官网返回403 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest articles已补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Springer latest articles已核实1篇。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+#### Effects of Virtual Versus Physical Experiments on Students’ Scientific Attitudes: A Three-Level Meta-Analysis
+
+- 期刊：Journal of Science Education and Technology
+- 作者：Hongwei Wu; Zhengdong Zhang
+- 日期：2026-09-29（官网 online first）
+- DOI：10.1007/s10956-026-10364-y
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title identifies a three-level meta-analysis comparing virtual and physical experiments in relation to students' scientific attitudes. Databases, inclusion criteria, effect sizes, moderators, and conclusions could not be verified.
+- 易读版中文摘要：【实验学习／虚拟实验】题目显示研究以三层元分析比较虚拟实验与实体实验对学生科学态度的影响。当前无法核实纳入研究数量、效应量、调节因素或哪种实验形式更具优势。
+- 文章链接：[原文](https://doi.org/10.1007/s10956-026-10364-y)
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；Crossref主检索；APS recent补查。[期刊页面](https://journals.aps.org/prper/recent)
+
+#### Should quantum physics be approached with mathematical formalism in school? Effects of instructional approach on functional understanding under cognitive and affective controls
+
+- 期刊：Physical Review Physics Education Research
+- 作者：Anonymous（Crossref当前作者字段；真实作者未核实）
+- 日期：2026-09-29（Crossref online）
+- DOI：10.1103/6vyb-dbvj
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title asks whether school quantum physics should use mathematical formalism and examines effects of instructional approach on functional understanding while controlling cognitive and affective factors. Authors, sample, intervention, controls, and findings could not be verified.
+- 易读版中文摘要：【K-12／量子物理／科学概念学习】题目聚焦学校量子物理是否应引入数学形式体系，并在控制认知和情感因素后比较不同教学路径对功能性理解的影响。APS尚未提供摘要和真实作者，不能判断哪种路径更有效。
+- 文章链接：[原文](https://doi.org/10.1103/6vyb-dbvj)
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+#### Biology teachers’ personal and enacted pedagogical content knowledge of evolution (PCK EVO ): is classroom practice enough for PCK development?
+
+- 期刊：International Journal of Science Education
+- 作者：Arlette Bassaber Bahamondes; Hernán Cofré; Claudia Vergara
+- 日期：2026-09-29（Crossref online）
+- DOI：10.1080/09500693.2026.2727686
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title examines biology teachers' personal and enacted pedagogical content knowledge of evolution and asks whether classroom practice alone is sufficient for PCK development. The sample, observations, PCK framework, and findings could not be verified.
+- 易读版中文摘要：【教师教育／进化教学】研究题目区分教师个人拥有的进化教学PCK与课堂中实际表现出来的PCK，并追问仅靠日常课堂实践是否足以促进PCK发展。当前摘要缺失，尚不能确认研究方法或答案。
+- 文章链接：[原文](https://doi.org/10.1080/09500693.2026.2727686)
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Wiley官网返回403；排除Issue Information。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+#### Many hands make light work? Individual and collaborative interaction with a GenAI ‐powered multi‐agent system: Effects on learning performance and critical thinking
+
+- 期刊：British Journal of Educational Technology (BJET)
+- 作者：Xiaoyan Chu; Hongzhu Dai; Xuesong Zhai
+- 日期：2026-09-29（Crossref online）
+- DOI：10.1111/bjet.70089
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：A quasi-experiment with 87 instructional-design undergraduates compared peer collaboration without AI, individual interaction with a GenAI multi-agent system, and collaborative human-MAS interaction. Collaborative MAS use corresponded to higher design-project performance, while individual MAS use produced larger gains in critical-thinking awareness. Process analyses indicated more focused analytical-evaluative work individually and more distributed, integrative reasoning collaboratively.
+- 易读版中文摘要：【GenAI／学习科学／批判性思维】87名教学设计专业本科生分为无AI同伴协作、个人使用GenAI多智能体系统、协作使用多智能体系统三组。协作使用AI的项目表现更高，个人使用AI则更能提升批判性思维意识；前者促进分布式整合推理，后者更集中于个人分析与评价。设计AI学习活动时，应按教学目标选择个人或协作配置。
+- 文章链接：[原文](https://doi.org/10.1111/bjet.70089)
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；SpringerOpen文章列表已核实1篇评论。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+#### A framework for institutional change in the age of AI
+
+- 期刊：International Journal of STEM Education
+- 作者：David Perl-Nussbaum; Noah D. Finkelstein
+- 日期：2026-09-30（官网发表）
+- DOI：10.1186/s40594-026-00649-4
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The publisher labels this item as a Comment proposing a framework for institutional change in the age of AI. The framework components, evidence base, implementation stages, and recommendations could not be verified.
+- 易读版中文摘要：【STEM／AI／机构变革】这是一篇评论文章，题目表明作者提出AI时代教育机构变革框架。当前未取得摘要，因此不能确认框架包含哪些层级、实施步骤或证据基础。
+- 文章链接：[原文](https://doi.org/10.1186/s40594-026-00649-4)
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Springer latest articles已核实1篇。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+#### Exploring the Tension Between Fidelity and Flexibility in Research-Informed Primary Science Professional Development
+
+- 期刊：Research in Science Education
+- 作者：Sarah Earle
+- 日期：2026-09-30（官网 online first）
+- DOI：10.1007/s11165-026-10382-1
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title explores tensions between fidelity to research evidence and flexible local adaptation in research-informed primary science professional development. The context, participants, program, analytic method, and findings could not be verified.
+- 易读版中文摘要：【小学科学／教师教育】题目关注循证小学科学教师发展中的核心张力：既要忠实保留研究支持的关键要素，又要允许教师和学校按本地情境灵活调整。摘要尚不可得，无法判断研究如何解决这一平衡。
+- 文章链接：[原文](https://doi.org/10.1007/s11165-026-10382-1)
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Springer latest articles已核实1篇。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+#### Breaking Boundaries in School Climate: The Relationship Between Refugee Students’ Perceptions of School Climate, Mathematics Achievement, and Demographic Variables
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Bedirhan Teke; Zühal Gün Şahin
+- 日期：2026-09-29（官网 online first）
+- DOI：10.1007/s10763-026-10728-1
+- 数据来源：Crossref主检索 + 14天官网补查
+- 英文abstract要点：未获取到 abstract. The title investigates relationships among refugee students' perceptions of school climate, mathematics achievement, and demographic variables. The country, sample, instruments, analytic design, and findings could not be verified.
+- 易读版中文摘要：【K-12／数学教育／教育公平】研究题目考察难民学生对学校氛围的感受与数学成绩、人口统计变量之间的关系。当前不能确认研究地区、样本、测量工具或哪些学校氛围因素与成绩相关。
+- 文章链接：[原文](https://doi.org/10.1007/s10763-026-10728-1)
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Taylor & Francis官网返回403。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Springer latest articles已补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【实验学习】虚拟实验与实体实验对科学态度的比较出现三层元分析，但摘要尚未发布。
+2. 【K-12／科学概念学习】学校量子物理是否应使用数学形式体系成为新的实证问题，需等待APS补充摘要。
+3. 【GenAI／学习科学】个人使用多智能体AI更有利于批判性思维意识，协作使用则更有利于复杂设计表现。
+4. 【教师教育】进化教学PCK与小学科学专业发展两篇文章都追问，仅靠课堂实践是否足以推动教师知识成长。
+5. 【教育公平／机构变革】难民学生学校氛围与AI时代机构变革提示，教学创新还需放在制度与学习环境中理解。
