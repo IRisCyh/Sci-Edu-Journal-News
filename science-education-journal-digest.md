@@ -10041,3 +10041,131 @@
 2. 【STEM教育／可持续发展】ARAI-Land不仅关注学科成绩，还将品格、公民素养和生态情境纳入化学教学设计。
 3. 【学习科学／教学设计】心理网络方法能够同时刻画六类教育变量之间的复杂联系，为复杂系统研究提供了新的分析工具。
 4. 【研究方法】心理网络研究仍面临解释、方法完整性和可推广性问题，系统综述建议加强多源数据三角互证。
+
+## 2026-10-02 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-02；主检索覆盖2026-10-01至2026-10-02，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-18至2026-10-02（最近14天）；使用Crossref及官网latest/recent/accepted papers/Early View。
+- 新增文章3篇，实际展开3篇，因每刊最多3篇而未展开0篇；3篇均获取到abstract。
+- Crossref合并检索记录51条；3篇DOI完整，未发现标题重复或DOI缺失。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查 |
+| Physical Review Physics Education Research | 2 | Crossref + 14 天官网补查；Crossref主检索 + APS recent/accepted papers核实2篇 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403） |
+| Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Wiley官网补查（官网返回403） |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Crossref主检索 + Wiley官网补查（官网返回403） |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + SpringerOpen文章列表补查 |
+| Research in Science Education | 1 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles核实1篇 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403） |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（已获取来源范围内）。
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + APS recent/accepted papers核实2篇。[期刊页面](https://journals.aps.org/prper/recent)
+
+#### Trajectories into careers in the quantum industry: Beyond knowledge and skills
+
+- 期刊：Physical Review Physics Education Research
+- 作者：Shams El-Adawy; A. R. Piña; Benjamin M. Zwickl; H. J. Lewandowski
+- 日期：2026-10-01（APS accepted paper）
+- DOI：10.1103/vh35-y52v
+- 数据来源：Crossref主检索 + APS accepted paper官网补查
+- 英文abstract要点：Interviews with quantum-industry professionals across multiple roles and company types were analysed thematically to identify how people enter the sector. Four often-overlapping trajectories emerged: continuing academic research practice in industry, reframing prior expertise for quantum applications, building involvement incrementally through professional opportunities, and entering through professional networks. Preparation therefore extends beyond formal knowledge and skills to experiential learning and relationships that connect candidates with quantum careers.
+- 易读版中文摘要：【STEM职业教育／量子产业】研究访谈了不同岗位和企业类型的量子产业从业者，归纳出四条常见入行路径：延续学术研究实践、把原有专长重新应用于量子领域、通过职业机会逐步进入，以及依靠专业网络获得入口。这些路径常在同一个人的经历中交叠。研究提醒学校和大学，量子人才培养不能只设计课程与学位，还应提供真实项目、行业体验和建立职业联系的机会。
+- 文章链接：[原文](https://doi.org/10.1103/vh35-y52v)
+
+#### Testing the validity of embedding-based similarity and clustering for handwritten physics solutions
+
+- 期刊：Physical Review Physics Education Research
+- 作者：Maike Tauschhuber; Gerd Kortemeyer
+- 日期：2026-10-01（APS accepted paper）
+- DOI：10.1103/sdnj-cjst
+- 数据来源：Crossref主检索 + APS accepted paper官网补查
+- 英文abstract要点：The study tested nine embedding mechanisms and five text representations using 992 handwritten solutions from a high-stakes engineering thermodynamics examination. Embedding similarity was consistently but only modestly related to human-score similarity, while resulting clusters were enriched for particular scores but were not equivalent to grading categories. Synthetic-data experiments suggested that embeddings overemphasised surface features rather than conceptual structure. Off-the-shelf embeddings can support exploratory organisation and human review, but are not a validated unsupervised grading method.
+- 易读版中文摘要：【物理教育／AI评估／学习分析】研究把992份工程热力学手写解题过程转成五种文本形式，并用九种嵌入模型比较和聚类。模型形成的相似度与教师评分只有稳定但较弱的关系，聚类也不能等同于成绩等级；进一步实验显示，模型像初学者一样容易受表面特征影响，而没有真正抓住概念结构。因此，文本嵌入适合协助整理答案和支持教师复核，但不能在缺乏效度验证时直接用于自动评分。
+- 文章链接：[原文](https://doi.org/10.1103/sdnj-cjst)
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403）。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley官网补查（官网返回403）。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley官网补查（官网返回403）。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（已获取来源范围内）。
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + SpringerOpen文章列表补查。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（已获取来源范围内）。
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles核实1篇。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+#### Supporting Science Teachers to Embed Writing: Teacher Perspectives and Curriculum Redesign
+
+- 期刊：Research in Science Education
+- 作者：Helen Georgiou; Annette Turney; Wendy Nielsen; Honglin Chen
+- 日期：2026-10-02（官网 online first）
+- DOI：10.1007/s11165-026-10384-z
+- 数据来源：Crossref主检索 + Springer latest articles官网核实
+- 英文abstract要点：Science teachers collaborated with researchers to redesign a plate-tectonics unit using the Teaching and Learning Cycle as a scaffold for disciplinary writing. Teacher interviews documented their views of writing instruction, the collaborative redesign process, implementation of the cycle as a planning framework, and the resulting intervention. Participants reported changed perceptions and greater confidence, leading them to include more authentic writing activities in science lessons. The study identifies structures that can help teachers embed writing in science curricula.
+- 易读版中文摘要：【教师教育／科学写作／课程设计】科学教师经常担心学生不会写科学文本，却又觉得自己缺乏教授写作的方法。研究让教师与研究者合作，以教学与学习循环重新设计板块构造单元，为科学写作提供明确脚手架。访谈显示，协作设计改变了教师对写作教学的认识并增强了信心，使他们在科学课堂中加入更多真实写作任务。研究的意义在于，科学写作需要进入课程规划，而不应被当作语文教师单独负责的附加技能。
+- 文章链接：[原文](https://doi.org/10.1007/s11165-026-10384-z)
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+无新增（已获取来源范围内）。
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403）。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【STEM职业教育／量子技术】量子产业人才的入行不仅依靠课程知识，也依赖真实项目、已有专长迁移和职业网络。
+2. 【物理教育／AI】文本嵌入能辅助整理大量手写物理解答，但尚不能在无人监督的情况下替代教师评分。
+3. 【学习科学／评估设计】AI模型容易依据答案表面特征聚类，自动评估必须对照具体评分目标做外部效度验证。
+4. 【教师教育／科学写作】协作式课程重构和明确写作脚手架能够增强科学教师教授学科写作的信心。
