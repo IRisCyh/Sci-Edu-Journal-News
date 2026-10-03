@@ -10169,3 +10169,140 @@
 2. 【物理教育／AI】文本嵌入能辅助整理大量手写物理解答，但尚不能在无人监督的情况下替代教师评分。
 3. 【学习科学／评估设计】AI模型容易依据答案表面特征聚类，自动评估必须对照具体评分目标做外部效度验证。
 4. 【教师教育／科学写作】协作式课程重构和明确写作脚手架能够增强科学教师教授学科写作的信心。
+
+## 2026-10-03 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-03；主检索覆盖2026-10-02至2026-10-03，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-19至2026-10-03（最近14天）；使用Crossref及官网latest/recent/accepted papers/Early View。
+- 新增文章4篇，实际展开4篇，因每刊最多3篇而未展开0篇；2篇获取到abstract，2篇未获取到abstract。
+- Crossref合并检索记录53条；4篇DOI完整，未发现标题重复或DOI缺失。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403；两篇JSET文章官网当前未返回摘要正文。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 2 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles核实2篇 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；Crossref主检索 + APS recent/accepted papers补查 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403） |
+| Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Wiley官网补查（官网返回403） |
+| Journal of Research in Science Teaching (JRST) | 1 | Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403） |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + SpringerOpen文章列表补查 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查 |
+| International Journal of Science and Mathematics Education (IJSME) | 1 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles核实1篇 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403） |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles核实2篇。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+#### Student-Selected Videos Together with Scaffolding Questions Improves Learning in a Physics Course
+
+- 期刊：Journal of Science Education and Technology
+- 作者：Melanie V. Adler; Richard Steinberg; Lucas C. Parra
+- 日期：2026-10-03（官网 online first）
+- DOI：10.1007/s10956-026-10360-2
+- 数据来源：Crossref主检索 + Springer latest articles官网核实
+- 英文abstract要点：未获取到 abstract. The title reports that combining student-selected videos with scaffolding questions improved learning in a physics course. The course level, comparison condition, sample, outcome measures, effect size, and mechanisms could not be verified from the available metadata.
+- 易读版中文摘要：【物理教育／视频学习／教学设计】题目显示，允许学生自己选择视频，并同时提供脚手架问题，可以改善物理课程学习。当前未取得摘要，因此无法确认课程层级、学生人数、对照方式、学习指标或提升幅度，也不能判断成效主要来自选择自主性还是引导问题。
+- 文章链接：[原文](https://doi.org/10.1007/s10956-026-10360-2)
+
+#### The Effect of Inquiry-based Science Learning Supported By Augmented Reality On Scientific Process Skills and Academic Achievement in Preschool
+
+- 期刊：Journal of Science Education and Technology
+- 作者：Faruk Arici
+- 日期：2026-10-02（官网 online first）
+- DOI：10.1007/s10956-026-10361-1
+- 数据来源：Crossref主检索 + Springer latest articles官网核实
+- 英文abstract要点：未获取到 abstract. The title examines inquiry-based science learning supported by augmented reality and its effects on preschool children's scientific-process skills and academic achievement. The participants, science topic, intervention design, comparison, assessments, and findings could not be verified.
+- 易读版中文摘要：【学前科学／AR／探究学习】题目显示，研究把增强现实用于幼儿探究式科学学习，并考察科学过程技能和学业表现。由于摘要尚未取得，目前不能确认学习主题、样本、活动设计、对照条件或实际效果大小。
+- 文章链接：[原文](https://doi.org/10.1007/s10956-026-10361-1)
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + APS recent/accepted papers补查。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（已获取来源范围内）。
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403）。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley官网补查（官网返回403）。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403）。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+#### The Potential Impact of a Socioscientific Issues Programme on Elementary School Students' Scientific Literacy
+
+- 期刊：Journal of Research in Science Teaching (JRST)
+- 作者：Nicola Broderick; Paul van Kampen
+- 日期：2026-10-02（Crossref online）
+- DOI：10.1002/tea.70074
+- 数据来源：Crossref主检索 + Wiley Early View官网补查（官网返回403）
+- 英文abstract要点：Six teachers implemented a six-month socioscientific-issues programme with 152 Irish elementary students aged 8–12. Students improved their science-content knowledge and experience of inquiry-based science education. Many demonstrated socioscientific argumentation and applied scientific knowledge when reasoning about real-life issues, supporting more informed decisions. The authors recommend making SSI education explicit in elementary curricula and supporting teachers with implementation.
+- 易读版中文摘要：【小学科学／社会性科学议题／科学素养】六名教师在六所爱尔兰学校为152名8至12岁学生实施了六个月课程。以真实社会性科学议题组织教学后，学生的科学知识和探究学习经验得到改善，许多学生还能运用证据展开论证，并把科学知识用于现实问题决策。研究建议把SSI明确写进小学科学课程，同时为教师提供实施支持。
+- 文章链接：[原文](https://doi.org/10.1002/tea.70074)
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+无新增（已获取来源范围内）。
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + SpringerOpen文章列表补查。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（已获取来源范围内）。
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+无新增（已获取来源范围内）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles核实1篇。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+#### What Does a Logical Paradox Reveal? An Exploration of Beliefs of Preservice Mathematics Teachers
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)
+- 作者：Hatice Aydan Kaplan
+- 日期：2026-10-03（官网 online first）
+- DOI：10.1007/s10763-026-10736-1
+- 数据来源：Crossref主检索 + Springer latest articles官网核实
+- 英文abstract要点：This qualitative study used written responses, interviews, and classroom observations to compare four purposefully selected preservice mathematics teachers' engagement with the formal Russell paradox and the more accessible Barber and Liar paradoxes. Participants leaning toward absolutist views tended to dismiss the Russell paradox as irrelevant, external, or threatening to mathematical stability, whereas the participant with a fallibilist stance treated it as a transformative critical-thinking tool. Formal mathematical content proved more diagnostic of entrenched epistemological beliefs than informal paradoxes.
+- 易读版中文摘要：【教师教育／数学信念／批判性思维】研究通过书面回答、访谈和课堂观察，分析四名职前数学教师如何理解罗素悖论、理发师悖论和说谎者悖论。倾向把数学看成绝对不变知识的人，往往认为正式的罗素悖论无关、来自数学之外，甚至威胁数学稳定性；持可修正观点的参与者则把它视为反思知识和发展批判性思维的工具。正式数学悖论比生活化悖论更能显露教师深层的数学认识论信念。
+- 文章链接：[原文](https://doi.org/10.1007/s10763-026-10736-1)
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403）。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【学前科学／AR／探究学习】新增研究直接考察增强现实支持的探究活动能否提升幼儿科学过程技能与学业表现。
+2. 【小学科学／科学素养】为期六个月的社会性科学议题课程帮助8至12岁学生把科学知识用于论证和现实决策。
+3. 【物理教育／教学设计】学生自主选择视频与脚手架问题的组合可能改善物理学习，但具体机制仍需等待摘要。
+4. 【教师教育／概念学习】正式数学悖论能够显露职前教师关于数学是否绝对不变的深层信念。
