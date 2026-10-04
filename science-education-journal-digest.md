@@ -10316,7 +10316,7 @@
 - 新增文章1篇，实际展开1篇，因每刊最多3篇而未展开0篇；已获取abstract。
 - Crossref合并检索记录53条；1篇DOI完整，未发现标题重复或DOI缺失。
 - 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
-- GitHub同步：待同步
+- GitHub同步：推送成功；内容提交 hash：e90f1aa555e89d332d0fd662bdee6b2102709363（后续同步回执）
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
