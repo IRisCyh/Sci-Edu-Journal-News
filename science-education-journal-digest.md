@@ -10306,3 +10306,110 @@
 2. 【小学科学／科学素养】为期六个月的社会性科学议题课程帮助8至12岁学生把科学知识用于论证和现实决策。
 3. 【物理教育／教学设计】学生自主选择视频与脚手架问题的组合可能改善物理学习，但具体机制仍需等待摘要。
 4. 【教师教育／概念学习】正式数学悖论能够显露职前教师关于数学是否绝对不变的深层信念。
+
+## 2026-10-04 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-04；主检索覆盖2026-10-03至2026-10-04，重叠日期按完整历史日志DOI去重。
+- 补充检索覆盖：2026-09-20至2026-10-04（最近14天）；使用Crossref及官网latest/recent/accepted papers/Early View。
+- 新增文章1篇，实际展开1篇，因每刊最多3篇而未展开0篇；已获取abstract。
+- Crossref合并检索记录53条；1篇DOI完整，未发现标题重复或DOI缺失。
+- 覆盖限制：Taylor & Francis与Wiley部分页面返回403。无新增仅指已获取来源。
+- GitHub同步：待同步
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；Crossref主检索 + APS recent/accepted papers补查 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403） |
+| Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Wiley官网补查（官网返回403） |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403） |
+| British Journal of Educational Technology (BJET) | 1 | Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403） |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + SpringerOpen文章列表补查 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403） |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查 |
+
+### 1. Journal of Science Education and Technology
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查。[期刊页面](https://link.springer.com/journal/10956/articles)
+
+无新增（已获取来源范围内）。
+
+### 2. Physical Review Physics Education Research
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + APS recent/accepted papers补查。[期刊页面](https://journals.aps.org/prper/recent)
+
+无新增（已获取来源范围内）。
+
+### 3. International Journal of Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403）。[期刊页面](https://www.tandfonline.com/toc/tsed20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 4. Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley官网补查（官网返回403）。[期刊页面](https://onlinelibrary.wiley.com/toc/1098237x/0/0)
+
+无新增（已获取来源范围内）。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403）。[期刊页面](https://onlinelibrary.wiley.com/toc/10982736/0/0)
+
+无新增（已获取来源范围内）。
+
+### 6. British Journal of Educational Technology (BJET)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Wiley Early View补查（官网返回403）。[期刊页面](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)
+
+#### Catching the spark: The role of electrodermal activity in understanding teacher enthusiasm and students' lesson enjoyment
+
+- 期刊：British Journal of Educational Technology (BJET)
+- 作者：Muhterem Dindar; Ismail Çelik; Héctor J. Pijeira-Díaz; Signe Siklander
+- 日期：2026-10-03（Crossref online）
+- DOI：10.1111/bjet.70092
+- 数据来源：Crossref主检索 + Wiley Early View官网补查（官网返回403）
+- 英文abstract要点：Ten higher-education teachers and 42 students participated during authentic lectures. Students reported prior course interest, perceived teacher enthusiasm, and lesson enjoyment, while teacher and student electrodermal activity was recorded at 2 kHz. Nonlinear recurrence analyses examined individual EDA dynamics and teacher-student physiological synchrony. Students' individual EDA entropy predicted perceived enthusiasm and enjoyment beyond course interest. Synchrony occurred above chance but did not add predictive value beyond course interest, which remained the only predictor at the interpersonal level.
+- 易读版中文摘要：【学习科学／课堂情绪／生理数据】研究在真实大学课堂中记录10名教师和42名学生的皮肤电活动，同时测量学生原有课程兴趣、感知到的教师热情和课堂愉悦感。学生自身皮肤电变化的复杂程度，在控制课程兴趣后仍能预测他们感受到的教师热情和学习愉悦；师生生理同步虽然高于偶然水平，却没有提供超出课程兴趣的额外预测力。这说明课堂情绪既有个体生理动态，也受学生进入课程前的兴趣基础影响。
+- 文章链接：[原文](https://doi.org/10.1111/bjet.70092)
+
+### 7. International Journal of STEM Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + SpringerOpen文章列表补查。[期刊页面](https://stemeducationjournal.springeropen.com/articles)
+
+无新增（已获取来源范围内）。
+
+### 8. Research in Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查。[期刊页面](https://link.springer.com/journal/11165/articles)
+
+无新增（已获取来源范围内）。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查。[期刊页面](https://link.springer.com/journal/10763/articles)
+
+无新增（已获取来源范围内）。
+
+### 10. Studies in Science Education
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Taylor & Francis官网补查（官网返回403）。[期刊页面](https://www.tandfonline.com/toc/rsse20/0/0)
+
+无新增（已获取来源范围内）。
+
+### 11. Instructional Science
+
+来源：Crossref + 14 天官网补查；Crossref主检索 + Springer latest articles补查。[期刊页面](https://link.springer.com/journal/11251/articles)
+
+无新增（已获取来源范围内）。
+
+### 今日重点
+
+1. 【学习科学／课堂情绪】学生自身皮肤电活动的动态复杂度能够提供课程兴趣之外的课堂愉悦信息。
+2. 【教学设计／学习投入】学生进入课程前的兴趣仍是感知教师热情和课堂愉悦的重要基础。
+3. 【科学技术与AI／多模态学习分析】生理同步不能直接等同于教学效果，使用传感数据时仍需结合自陈、情境和教学变量解释。
