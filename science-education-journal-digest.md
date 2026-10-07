@@ -10665,7 +10665,7 @@
 - 新增研究文章6篇，实际展开6篇，因每刊最多3篇而未展开0篇；2篇获取到abstract，4篇未获取到abstract。
 - Crossref合并检索记录52条；6篇DOI完整，未发现标题重复或DOI缺失。另检出1条Science Education的Issue Information，因不是研究文章未纳入推送。
 - 覆盖限制：Taylor & Francis与Wiley部分页面返回403；PRPER的3篇新录用论文尚未发布abstract。无新增仅指已获取来源。
-- GitHub同步：待同步
+- GitHub同步：推送成功；内容提交 hash：b7f239889673af0528237da1a136026559b13865（后续同步回执）
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
