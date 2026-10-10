@@ -11024,3 +11024,90 @@
 1. 【K-12科学教育／教师教育／实验与探究学习】优先读IJSME的引导式探索文章：探究与明确教学可交织，关键是教师依据目标与学生条件作出判断；不是教法效果竞赛的实验证据。
 2. 【科学教育／教学设计】IJSE关注效用价值干预与科学兴趣，但未获取abstract，不能确认干预是否有效，也不能确认适用学段。
 3. 【K-12／教育技术／学习科学】BJET的529名学生调查提示社会支持与愉悦感关联课外数字学习；研究对象是中文学习，不宜直接当作STEM或科学教学证据。
+
+## 2026-10-10 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-10（Europe/London）。
+- 主检索覆盖时间范围：2026-10-09至2026-10-10；日期重叠用于处理新登记记录，按完整历史日志DOI查重，兼核标题与期刊名。
+- 补充检索覆盖时间范围：2026-09-26至2026-10-10（最近14天）；Crossref及各刊官网latest articles、Early View、recent/accepted和文章列表。
+- Crossref合并检索记录53条，52条DOI已在历史日志中，均排除。本次未发现新增非研究类记录。
+- 新增文章1篇；实际展开1篇；因每刊最多3篇而未展开0篇。新增文章已获取abstract，无摘要缺失。
+- 重复及DOI缺失：排除52条历史DOI记录；新增文章DOI完整，标题＋期刊名核对未发现可能重复。未重新推送既有文章。
+- 来源限制：本地Wiley和Taylor & Francis部分页面请求返回403；网页工具补查取得Science Education、JRST和BJET的Early View。前两者网页工具结果标注昨日抓取，因此不能独立确认今日新增JRST文章的官网日期；BJET及Studies in Science Education的官网索引结果标注今日抓取。IJSE及新增JRST详情仍受限。所有“无新增”均限于已取得来源范围。
+- GitHub同步：待同步。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent及accepted可访问 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；latest及主页请求受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；网页工具取得Early View，标注昨日抓取 |
+| Journal of Research in Science Teaching (JRST) | 1 | Crossref + 14 天官网补查；日期、作者、abstract来自Crossref，Early View网页结果未显示今日新条目 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；网页工具取得Early View，标注今日抓取 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表可访问 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；直接请求403，网页工具取得今日抓取的官网latest索引 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/10956/articles)。
+
+### 2. Physical Review Physics Education Research
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查。[APS recent](https://journals.aps.org/prper/recent)、[accepted papers](https://journals.aps.org/prper/accepted)。录用条目仅辅助查重，不把录用日期当作正式发表日期。
+
+### 3. International Journal of Science Education
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查；[latest articles](https://www.tandfonline.com/toc/tsed20/0/0)及期刊主页请求受限，不能据此保证官网无新上线。
+
+### 4. Science Education
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)网页工具结果标注昨日抓取，其中近期文章已在日志记录。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### What Does It Mean To Be Good at Physics? Peer Recognition in a High School Physics Classroom
+
+- 期刊：Journal of Research in Science Teaching (JRST)。
+- 作者：Marta R. Stoeckel; Gillian H. Roehrig。
+- 日期：2026-10-10（Crossref published-online；官网日期未能独立核实）。
+- DOI：10.1002/tea.70078。
+- 数据来源：Crossref + 14 天官网补查；作者、日期和abstract来自Crossref；Wiley详情受限，[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)网页结果为昨日抓取，尚未列出本篇。未发现可读取的官网冲突记录。
+- 英文abstract要点：Classroom videos of high-school physics group work and student interviews were used to develop a framework distinguishing explicit and implicit peer recognition. Explicit recognition commonly accompanied perceived correct contributions; implicit recognition also sustained questions and incorrect ideas. Students described peers' competence broadly but linked their own competence and received recognition mainly to explicit acknowledgement. The authors suggest making a wider range of contributions explicitly valued; this qualitative analysis does not test the causal effects of such an intervention.
+- 易读版中文摘要：【K-12科学教育／高中物理／科学身份／教师教育】“擅长物理”是否只意味着答对题？作者分析高中物理小组活动视频，并访谈部分学生，提出同伴认可的两种形式：明确说出或表达的认可，通常给予被认为正确的答案或贡献；较隐含、持续发生的认可，也可能回应提问和错误想法。学生谈论同伴能力时能看到多种贡献，但评价自己、描述自己受到的认可时，更集中于那些获得明确肯定的表现。研究提示，课堂可让提问、尝试和其他有价值的参与也得到清晰认可，以拓宽“科学学习者”的身份空间。这是质性框架研究，不是验证该做法能提高成绩或身份认同的干预实验；摘要未报告具体样本人数。
+- 文章链接：[原文与DOI](https://doi.org/10.1002/tea.70078)。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查；网页工具取得[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)，标注今日抓取，最近14天所列条目已记录。
+
+### 7. International Journal of STEM Education
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查。[SpringerOpen文章列表](https://stemeducationjournal.springeropen.com/articles)。
+
+### 8. Research in Science Education
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/11165/articles)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/10763/articles)。
+
+### 10. Studies in Science Education
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查；直接请求403，网页工具取得标注今日抓取的[latest articles官网索引](https://www.tandfonline.com/toc/rsse20/0/0)，所列最新在线日期为2026-08-21，未见最近14天新条目。索引结果仍不等同于完整实时官网覆盖。
+
+### 11. Instructional Science
+
+无新增（已获取来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/11251/articles)。
+
+### 今日重点
+
+1. 【K-12科学教育／高中物理】今日唯一新增研究直接观察物理课堂小组活动，关注学生如何通过同伴认可理解“擅长物理”。
+2. 【教师教育／教学设计／探究学习】明确认可不必只围绕答对题；文章提示可让提问、尝试与有价值的参与更可见，但尚未验证这种改变的干预效果。
+3. 【学习科学／科学身份／STEM教育】学生对同伴能力的理解比对自身能力的评价更宽泛。区分明确与隐含认可，为分析课堂参与和身份形成提供框架，不应将质性发现解释为普遍因果规律。
