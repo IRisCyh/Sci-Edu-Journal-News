@@ -11036,7 +11036,7 @@
 - 新增文章1篇；实际展开1篇；因每刊最多3篇而未展开0篇。新增文章已获取abstract，无摘要缺失。
 - 重复及DOI缺失：排除52条历史DOI记录；新增文章DOI完整，标题＋期刊名核对未发现可能重复。未重新推送既有文章。
 - 来源限制：本地Wiley和Taylor & Francis部分页面请求返回403；网页工具补查取得Science Education、JRST和BJET的Early View。前两者网页工具结果标注昨日抓取，因此不能独立确认今日新增JRST文章的官网日期；BJET及Studies in Science Education的官网索引结果标注今日抓取。IJSE及新增JRST详情仍受限。所有“无新增”均限于已取得来源范围。
-- GitHub同步：待同步。
+- GitHub同步：推送成功；内容提交 hash：7b51e0dd10930c238c632f780d2e09c9d02b2ac3（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
