@@ -11188,3 +11188,90 @@
 1. 【K-12科学教育／STEM教育／教师教育】今日未发现可确认的未记录文章，不用旧文章充当今日新增。
 2. 【科学概念学习／实验与探究学习】已检查相关期刊近期记录；本次没有可展开的新研究，历史文章仍保留在阅读页。
 3. 【科学技术与AI／学习科学／教学设计】BJET近期Early View条目已记录，本次不重复推送。部分官网有访问或缓存限制，零新增结论仅适用于已获取来源。
+
+## 2026-10-12 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-12（Europe/London）。
+- 主检索覆盖时间范围：2026-10-11至2026-10-12；与上次成功推送日期重叠，按完整历史日志DOI查重，不把重新索引当作新发表。
+- 补充检索覆盖时间范围：2026-09-28至2026-10-12（最近14天）；Crossref及各刊官网latest articles、Early View、recent/accepted或文章列表，并补查Wiley主页Most Recent。
+- Crossref合并检索记录53条，其中52条DOI已在历史日志中，全部排除；新增1篇JRST评论文章（COMMENT），不是新的实证研究。实际展开1篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：排除52条历史DOI记录；新增文章DOI完整，标题＋期刊名核对未发现可能重复。新增文章未获取到abstract，已明确标注，不从标题推断研究发现。
+- 来源限制：Wiley和Taylor & Francis直接请求返回403。网页工具取得今日抓取的Science Education、JRST主页Most Recent及BJET Early View；Science Education和JRST Early View仍标注三天前抓取，故用较新的主页补充。Studies in Science Education官网latest索引标注两天前抓取。IJSE仅取得标注上周抓取的非首屏latest页面索引，latest首屏及current未能读取。所有“无新增”仅限已取得来源，不代表受限官网的完整实时覆盖。
+- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent及accepted可访问 |
+| International Journal of Science Education | 0 | Crossref 主检索及14天Crossref补查；官网仅取得较早非首屏索引，实时补查受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；今日抓取的主页Most Recent及较早Early View |
+| Journal of Research in Science Teaching (JRST) | 1 | Crossref + 14 天官网补查；今日抓取的主页核实新文章日期、作者及COMMENT类型 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Early View标注今日抓取 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表可访问 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；官网latest索引标注两天前抓取 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/10956/articles)。
+
+### 2. Physical Review Physics Education Research
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[APS recent](https://journals.aps.org/prper/recent)、[accepted papers](https://journals.aps.org/prper/accepted)。录用日期不当作正式发表日期。
+
+### 3. International Journal of Science Education
+
+无新增（Crossref已取得来源范围内）。数据来源：Crossref 主检索及14天Crossref补查；[latest articles](https://www.tandfonline.com/toc/tsed20/0/0)与current请求受限，仅取得上周抓取的[非首屏latest索引](https://www.tandfonline.com/toc/tsed20/0/0?startPage=1)，不能据此确认官网没有新上线。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[期刊主页Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)标注今日抓取，所列近期研究文章已记录，Issue Information不当作研究文章；[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)标注三天前抓取。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### Perspectives on “The Separate Worlds of Science and Science Teaching, According to Potential Science Teachers”
+
+- 期刊：Journal of Research in Science Teaching (JRST)。
+- 作者：Katie Wade-Jaimes。
+- 日期：2026-10-11（官网First Published，与Crossref published-online一致）。
+- DOI：10.1002/tea.70076。
+- 文献类型：COMMENT（评论文章）；不是新的实证研究。
+- 数据来源：Crossref + 14 天官网补查；[期刊主页Most Recent](https://onlinelibrary.wiley.com/journal/10982736)标注今日抓取，核实标题、作者、日期及COMMENT类型；详情页访问受限。
+- 英文abstract要点：未获取到 abstract。The publisher identifies this item as a COMMENT on “The Separate Worlds of Science and Science Teaching, According to Potential Science Teachers.” No abstract was available in Crossref or the accessible publisher listing; its arguments, methods and conclusions could not be verified.
+- 易读版中文摘要：【教师教育／科学教育】这是一篇对题为“根据潜在科学教师的看法，科学与科学教学的两个独立世界”的文章所作的评论。从标题只能确认它回应了科学与科学教学之间关系这一主题；目前没有获取到abstract或可读正文，无法核实作者的具体立场、论证过程、方法或结论，也不能声称它提出了经验证的教学建议。它可作为教师教育相关的待读评论，但不应作为新的实证发现引用。
+- 文章链接：[原文与DOI](https://doi.org/10.1002/tea.70076)。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)标注今日抓取，最近14天所列文章已记录。
+
+### 7. International Journal of STEM Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[SpringerOpen文章列表](https://stemeducationjournal.springeropen.com/articles)。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/11165/articles)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/10763/articles)。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[latest articles官网索引](https://www.tandfonline.com/toc/rsse20/0/0)标注两天前抓取，所列最新在线日期为2026-08-21，未见最近14天条目。直接请求403，索引不等于完整实时覆盖。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/11251/articles)。
+
+### 今日重点
+
+1. 【教师教育／科学教育】今日唯一新增是JRST评论文章，主题指向科学与科学教学之间的关系；由于abstract和正文未获取，不推断其具体观点。
+2. 【K-12／STEM／科学概念／实验与探究学习】今日未确认这些方向的新增实证研究，不将评论文章包装成研究效果证据。
+3. 【科学技术与AI／学习科学／教学设计】BJET近期文章已记录，本次不重复推送；受限官网及缓存的覆盖边界已保留在推送记录中。
