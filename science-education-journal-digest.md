@@ -11394,7 +11394,7 @@
 - 录用稿处理：APS官网标注Accepted Paper、Accepted 13 October 2026，且正式abstract地址返回404。因此优先采纳官网状态，不把Crossref同日published-online字段视作正式上线。暂缓的2条不属于每刊上限导致的未展开文章，也不写入已推送DOI记录，避免将来正式上线时被误判为重复。
 - 重复及DOI缺失：排除45条历史DOI记录；新增文章DOI完整，标题＋期刊名核对未发现可能重复；未获取到abstract，已明确标注，不推断研究方法和结论。
 - 来源限制：Wiley和Taylor & Francis部分直接请求403。网页工具取得标注今日抓取的Science Education、JRST主页Most Recent及BJET Early View；Science Education主页已显示昨天推送的评价研究，日期与Crossref一致，不重复推送。Science Education及JRST Early View标注五天前抓取。Studies in Science Education的latest索引标注四天前抓取，另取得标注今日抓取的期刊主页索引。IJSE仅取得标注上周抓取的非首屏latest索引，latest首屏、current及新增文章详情页未能读取。新增日期以Crossref published-online为据，未能独立核实官网文章日期。所有“无新增”仅限已取得来源，不代表受限官网的完整实时覆盖。
-- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub同步：推送成功；内容提交 hash：f1d7f7d2bba7141309e54992d4815578c623f26a（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
