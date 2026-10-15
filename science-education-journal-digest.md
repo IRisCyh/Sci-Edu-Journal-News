@@ -11469,3 +11469,103 @@
 1. 【教师教育】今日唯一新增聚焦在职科学教师的情绪、投入与耗竭，但缺少abstract，具体发现与实践意义仍待核实。
 2. 【科学概念学习／科学技术与AI】APS检出的相关候选仍为录用稿，本次不当作已发表新文章；正式上线后仍可参与检索，不因本次暂缓而进入已推送DOI集合。
 3. 【K-12／STEM／实验与探究学习／学习科学／教学设计】本次未确认这些方向的其他新增文章，昨天已推送的评价研究及概念学习文章均未重复推送。
+
+## 2026-10-15 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-15（Europe/London）。
+- 主检索覆盖时间范围：2026-10-14至2026-10-15；与上次成功推送日期重叠，按完整历史日志DOI查重，不把重新索引或录用日期当作新发表。
+- 补充检索覆盖时间范围：2026-10-01至2026-10-15（最近14天）；Crossref及各刊官网latest articles、Early View、recent/accepted或文章列表，并尝试Wiley主页Most Recent。
+- Crossref合并检索记录48条：42条DOI已在历史日志中，全部排除；3条PRPER候选经官方DOI跳转核实仍为仅录用稿，暂缓；1条International Journal of STEM Education候选经官网明确标注Editorial，按既有研究文章口径排除。最终新增2篇，均来自IJSE；实际展开2篇，因每刊最多3篇而未展开0篇。
+- 非研究条目排除记录：10.1186/s40594-026-00653-8，官网citation_article_type为Editorial、dc.type为EditorialNotes，页面亦标注Editorial；仅记录DOI与类型以防后续误报，不计新增或每刊上限未展开数。[官网核实页](https://link.springer.com/article/10.1186/s40594-026-00653-8)。
+- 录用稿处理：APS的3条未记录候选仍指向accepted页面，不把录用日期当作正式发表日期；候选保存在本地检索证据中，不写入已推送DOI记录，以免将来正式上线时因本次暂缓而被误判重复。
+- 重复及DOI缺失：排除42条历史DOI记录；2篇新增文章DOI完整，标题＋期刊名核对未发现可能重复。2篇均未获取到abstract，已明确标注，不推断研究结果。
+- 来源限制：Wiley和Taylor & Francis部分直接请求403。网页工具取得标注今日抓取的JRST主页Most Recent及BJET Early View；Science Education主页本次403，Early View标注六天前抓取，JRST Early View也标注六天前抓取。Studies in Science Education官网主页索引标注昨日抓取，latest索引标注五天前抓取。IJSE仅取得有限latest索引（含昨日抓取的索引条目），首屏、current及新增文章详情页正文均未能读取。2篇新增文章日期均据Crossref published-online，未能独立核实官网日期。所有“无新增”仅限已取得来源，不代表受限官网的完整实时覆盖。
+- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent、accepted及官方DOI跳转；3条仅录用稿暂缓 |
+| International Journal of Science Education | 2 | Crossref 主检索及14天Crossref补查；官网正文访问受限，2篇未获取abstract |
+| Science Education | 0 | Crossref + 14 天官网补查；主页403，仅取得六天前Early View |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；今日抓取的主页Most Recent，近期文章已记录 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Early View标注今日抓取 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；列表及详情可访问，排除1条官网明确标注的Editorial |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；昨日主页索引及五天前latest索引，非完整实时页面 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/10956/articles)。
+
+### 2. Physical Review Physics Education Research
+
+无新增正式发表或online-first文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[APS recent](https://journals.aps.org/prper/recent)、[Accepted Papers](https://journals.aps.org/prper/accepted)。3条未记录候选仍为Accepted Paper，暂不展开，不把录用日期当作上线日期；不加入已推送DOI集合。
+
+### 3. International Journal of Science Education
+
+#### Feeling prepared for the instructional demands of teaching evolution: a mixed-methods study of pre-service science teachers
+
+- 期刊：International Journal of Science Education。
+- 作者：Judith Lanka; Anna Beniermann。
+- 日期：2026-10-14（Crossref published-online；官网日期未能独立核实）。
+- DOI：10.1080/09500693.2026.2733689。
+- 数据来源：Crossref 主检索；已做14天Crossref补查并尝试官网latest、current及详情页补查，详情页403，网页工具亦未能读取。
+- 英文abstract要点：未获取到 abstract。The title identifies a mixed-methods study of prospective science teachers' perceived preparedness for evolution instruction. Sampling, instruments, analyses and findings could not be verified.
+- 易读版中文摘要：【教师教育／科学概念学习】文章关注职前科学教师是否觉得自己能够应对进化教学的要求，标题明确标注采用混合方法。由于abstract和正文均未取得，无法核实研究对象规模、具体数据来源、分析方式，以及教师在哪些方面准备充分或不足。它是进化教学与教师培养相关的待读线索，不能据此断言某种培养课程有效，也不能把自我感受等同于实际教学能力。
+- 文章链接：[原文与DOI](https://doi.org/10.1080/09500693.2026.2733689)。
+
+#### An analysis of laboratory manuals for upper secondary school: their potential for teaching students about the nature of scientific inquiry
+
+- 期刊：International Journal of Science Education。
+- 作者：Jakob Gyllenpalm; Leena Arvanitis; Maria Åqvist Almlöv。
+- 日期：2026-10-14（Crossref published-online；官网日期未能独立核实）。
+- DOI：10.1080/09500693.2026.2742393。
+- 数据来源：Crossref 主检索；已做14天Crossref补查并尝试官网latest、current及详情页补查，详情页403，网页工具亦未能读取。
+- 英文abstract要点：未获取到 abstract。The title concerns an analysis of upper-secondary laboratory manuals and their potential to support learning about scientific inquiry. The corpus, analytical framework and results could not be verified.
+- 易读版中文摘要：【K-12科学教育／实验与探究学习／教学设计】从标题可确认，作者分析高中阶段的实验手册，关注这类材料能否支持学生理解科学探究本质。当前无法核实涉及哪些国家或学科、多少份手册、采用何种分析框架，也不知道作者发现了哪些优势或不足。不能据此认定手册普遍只强调照步骤操作，或声称某种实验设计已被证明能提升探究能力。
+- 文章链接：[原文与DOI](https://doi.org/10.1080/09500693.2026.2742393)。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)本次403，[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)标注六天前抓取，无法据此确认完整实时官网状态。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[期刊主页Most Recent](https://onlinelibrary.wiley.com/journal/10982736)标注今日抓取，所列近期文章已记录。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)标注今日抓取，最近14天所列条目已记录。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[SpringerOpen文章列表](https://stemeducationjournal.springeropen.com/articles)及候选详情可访问，官网明确标注的1条Editorial已排除，DOI仅作为类型排除记录保留在推送记录中。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/11165/articles)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/10763/articles)。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官网主页索引](https://www.tandfonline.com/journals/rsse20)标注昨日抓取，[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)标注五天前抓取，所列最新上线日期仍为2026-08-21。直接请求403，索引不等于完整实时覆盖。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/11251/articles)。
+
+### 今日重点
+
+1. 【教师教育／科学概念学习】职前教师的进化教学准备文章直接相关，标题说明混合方法，但尚无可核实的研究结果。
+2. 【K-12／实验与探究学习／教学设计】高中实验手册文章值得关注；材料分析不等于已经验证了学生学习效果，且本次未获取abstract。
+3. 【STEM／科学技术与AI】另检出的AI素养条目为官网明确标注的社论，本次不作为新增研究展开，也不当作实证教学效果证据。
+4. 【学习科学／科学概念学习】APS的3条候选仍为录用稿，不计入本次已发表新增；历史文章未重复推送。
