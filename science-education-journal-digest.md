@@ -11569,3 +11569,121 @@
 2. 【K-12／实验与探究学习／教学设计】高中实验手册文章值得关注；材料分析不等于已经验证了学生学习效果，且本次未获取abstract。
 3. 【STEM／科学技术与AI】另检出的AI素养条目为官网明确标注的社论，本次不作为新增研究展开，也不当作实证教学效果证据。
 4. 【学习科学／科学概念学习】APS的3条候选仍为录用稿，不计入本次已发表新增；历史文章未重复推送。
+
+## 2026-10-16 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-16（Europe/London）。
+- 主检索覆盖时间范围：2026-10-15至2026-10-16；与上次成功推送日期重叠，按完整历史日志DOI查重，不把重新索引或录用日期当作新发表。
+- 补充检索覆盖时间范围：2026-10-02至2026-10-16（最近14天）；Crossref及各刊官网latest articles、Early View、recent/accepted或文章列表，并补查Wiley主页Most Recent。
+- Crossref合并检索记录46条：39条DOI已在历史日志中，全部排除；3条PRPER候选仍为仅录用稿，暂缓。最终新增4篇：JSET 1篇、JRST 1篇、IJSME 2篇。实际展开4篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：4篇新增文章DOI完整，标题＋期刊名核对未发现可能重复。4篇均取得abstract；十字绣无屏编程文章的Crossref记录缺少abstract，已由Springer官网补齐。历史文章未重复推送。
+- 发表状态及来源核实：4篇官网上线日期均为2026-10-15，与Crossref一致。Springer详情页核实JSET及IJSME的作者、日期和abstract；网页工具取得JRST官网全文，核实作者、日期及摘要，10名教师与访谈资料来自官网方法部分3.2至3.3。3条APS仅录用稿不计每刊上限未展开数，也不写入已推送DOI记录。昨天已记录的社论不重复推送。
+- 来源限制：本地Wiley和Taylor & Francis部分请求403；网页工具取得今日抓取的Science Education、JRST主页Most Recent、JRST Early View及BJET Early View，Science Education Early View标注上周抓取。IJSE的latest首屏和current未能读取，仅取得上周抓取的非首屏latest索引。Studies in Science Education主页索引标注两天前抓取，latest索引标注六天前抓取。所有“无新增”仅限已取得来源，不代表受限官网的完整实时覆盖。
+- 执行校验：首次运行因Windows标题输出编码中断，修复UTF-8输出后已重跑并完成全部11本期刊；未追加中断结果或重复日期段落。
+- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 1 | Crossref + 14 天官网补查；Springer详情核实作者、日期及abstract |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent、accepted及官方DOI跳转；3条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索及14天Crossref补查；实时官网补查受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；网页工具取得今日主页Most Recent，近期文章已记录 |
+| Journal of Research in Science Teaching (JRST) | 1 | Crossref + 14 天官网补查；网页工具取得今日官网全文与Early View |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Early View标注今日抓取 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表可访问，既有社论已记录排除 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 2 | Crossref + 14 天官网补查；Springer详情核实两篇，补齐1篇abstract |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；两天前主页索引及六天前latest索引，非完整实时页面 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+#### A Classroom Intervention Study to Assess the Potential of a 360-Degree Virtual Reality Learning Environment to Enhance Conceptual Understanding and Engagement in Physics
+
+- 期刊：Journal of Science Education and Technology。
+- 作者：Eliane Barbara Merki; Andreas Lichtenberger; Volker Eisenlauer; Andreas Vaterlaus; Sarah Isabelle Hofer。
+- 日期：2026-10-15（online first；Springer官网与Crossref一致）。
+- DOI：10.1007/s10956-026-10343-3。
+- 数据来源：Crossref + 14 天官网补查；Springer官网核实作者、日期及abstract。
+- 英文abstract要点：A pre-post classroom comparison involved 313 upper-secondary students using either desktop-based, low-immersive 360-degree VR or paper materials. Both used multiple representations and Predict-Observe-Explain activities for motion-graph reference-frame transformations. Conceptual scores improved in both conditions without a significant between-condition difference. VR participants reported a stronger desire to perform well, suggesting a limited engagement benefit rather than demonstrated superiority in conceptual learning.
+- 易读版中文摘要：【K-12／VR／科学概念学习／教学设计】313名高中生分别用桌面低沉浸360°VR或纸笔学习运动图像中的参照系变换，两组都采用“预测—观察—解释”活动。两组概念理解均提高，组间未见显著差异；VR组自报更愿意争取好表现。它提示VR可能支持部分投入意愿，但不是概念学习更优的证据，也不能推广为头显VR的效果。
+- 文章链接：[原文与DOI](https://doi.org/10.1007/s10956-026-10343-3)。
+
+### 2. Physical Review Physics Education Research
+
+无新增正式发表或online-first文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[APS recent](https://journals.aps.org/prper/recent)、[Accepted Papers](https://journals.aps.org/prper/accepted)。3条未记录候选仍为Accepted Paper，暂不展开，不把录用日期当作上线日期；不加入已推送DOI集合。
+
+### 3. International Journal of Science Education
+
+无新增（Crossref已取得来源范围内）。数据来源：Crossref 主检索及14天Crossref补查；[latest articles](https://www.tandfonline.com/toc/tsed20/0/0)及current请求受限，只取得较早非首屏索引，不能据此确认完整实时官网状态。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)网页工具结果标注今日抓取，近期所列文章已记录。[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)标注上周抓取。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### Teachers' Sense of Place and Perspectives on Climate Change Education: Moving Toward Community-Based, Justice-Oriented Approaches
+
+- 期刊：Journal of Research in Science Teaching (JRST)。
+- 作者：Wisam Sedawi; Shaima Alokbe; Orit Ben Zvi Assaraf; Angela Calabrese Barton。
+- 日期：2026-10-15（First Published；Wiley官网与Crossref一致）。
+- DOI：10.1002/tea.70077。
+- 数据来源：Crossref + 14 天官网补查；网页工具取得Wiley官网全文及摘要，样本和访谈细节核实自方法部分3.2至3.3。
+- 英文abstract要点：Critical narrative inquiry with repeated interviews of 10 Bedouin women teachers examined how local climate experiences inform educational perspectives. Connections to land, environmental deterioration and unequal vulnerability shaped community-focused teaching commitments, while exclusion and institutional barriers constrained agency. The study argues for valuing teachers' local knowledge and supporting justice-oriented climate education; it is not a test of student learning gains.
+- 易读版中文摘要：【教师教育／K-12／气候教育／教学设计】研究反复访谈那卡布地区10名贝都因女性教师，分析地方生活经验如何影响气候教育观点。教师与土地的文化联系、亲历的环境变化及社会脆弱性，使教学关注社区现实；资源和制度障碍又限制行动。研究强调重视教师的本地知识与能动性，不是验证某种教法提升学生成绩的实验。
+- 文章链接：[官网全文](https://onlinelibrary.wiley.com/doi/10.1002/tea.70077)。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)标注今日抓取，最近14天所列条目已记录。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[SpringerOpen文章列表](https://stemeducationjournal.springeropen.com/articles)。昨天已记录的社论不重复推送。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/11165/articles)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### Cross-Stitch-Based Screenless Coding for Fifth Graders: Applicability and Mathematical–Algorithmic Noticing
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)。
+- 作者：Sevda Göktepe Yıldız; Beyza Nur Akbal。
+- 日期：2026-10-15（online first；Springer官网与Crossref一致）。
+- DOI：10.1007/s10763-026-10738-z。
+- 数据来源：Crossref + 14 天官网补查；Crossref未提供abstract，已由Springer官网补齐，作者和日期亦经官网核实。
+- 英文abstract要点：Thirty-eight fifth graders completed four cross-stitch coding tasks. Opinions, observations, field notes and artifacts showed positive reception, collaboration and algorithmic practices such as sequencing and debugging. Written mathematical noticing was limited despite implicit reasoning, and later products contained fewer alignment errors. This qualitative study supports feasibility, not a controlled causal claim about mathematics achievement.
+- 易读版中文摘要：【K-12／STEM／无屏编程／学习科学】38名五年级学生完成4项十字绣编程任务，研究结合反馈、观察和作品分析。学生表现出顺序规划、重复与纠错等算法思维，后期作品对齐错误减少；但书面表达中的数学觉察有限，更多数学推理是隐含的。它支持活动可行性，不等于已证明十字绣能提高数学成绩。
+- 文章链接：[原文与DOI](https://doi.org/10.1007/s10763-026-10738-z)。
+
+#### Examining Students’ Mathematical Reasoning Within and Across Paper-and-Pencil, Dynamic Geometry, and Text-Based Programming Environments: The Case of Linear Inequalities and Linear Programming
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)。
+- 作者：Jietong Luo; Oi-Lam Ng; Huiyan Ye。
+- 日期：2026-10-15（online first；Springer官网与Crossref一致）。
+- DOI：10.1007/s10763-026-10737-0。
+- 数据来源：Crossref + 14 天官网补查；Springer官网核实作者、日期及abstract。
+- 英文abstract要点：Task-based interviews with three high-school students examined linear inequalities and linear programming across paper, dynamic geometry and text-based code. An instrumental-genesis analysis identified environment-specific reasoning, cross-tool translations and adaptations to tool functions or constraints. The exploratory cases inform coordination of multiple resources; they do not establish which environment produces better learning outcomes.
+- 易读版中文摘要：【中学数学／学习科学／教学设计】研究让3名高中生处理线性不等式与线性规划任务，分析纸笔、动态几何和文本编程之间的推理。学生会因工具功能与限制调整策略，也会在环境之间转换表征与思路。它提示多工具教学需关注转换过程，但样本小，不能据此给三种环境排出学习效果高低。
+- 文章链接：[原文与DOI](https://doi.org/10.1007/s10763-026-10737-0)。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官网主页索引](https://www.tandfonline.com/journals/rsse20)标注两天前抓取，[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)标注六天前抓取，所列最新上线日期仍为2026-08-21。直接请求403，索引不等于完整实时覆盖。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[Springer latest articles](https://link.springer.com/journal/11251/articles)。
+
+### 今日重点
+
+1. 【VR／K-12／科学概念学习】优先读313名高中生的VR课堂研究：概念成绩组间未见显著差异，投入收益仅限一项自报指标，不宜概括为“VR提升学习效果”。
+2. 【教师教育／气候教育／教学设计】JRST强调教师的地方经验与社区知识，也揭示资源和制度约束；这是质性研究，不是教学效果试验。
+3. 【STEM／无屏编程／实验与动手学习】十字绣任务展示算法思维与隐含数学推理，适合关注跨学科活动设计，但须区分可行性与因果效果。
+4. 【学习科学／多工具教学】三名高中生的推理研究提示，应关注跨纸笔、几何和代码的转换，而非只比较工具优劣。本次未确认新增AI研究文章，既有社论及录用稿不冒充新增。
