@@ -11687,3 +11687,99 @@
 2. 【教师教育／气候教育／教学设计】JRST强调教师的地方经验与社区知识，也揭示资源和制度约束；这是质性研究，不是教学效果试验。
 3. 【STEM／无屏编程／实验与动手学习】十字绣任务展示算法思维与隐含数学推理，适合关注跨学科活动设计，但须区分可行性与因果效果。
 4. 【学习科学／多工具教学】三名高中生的推理研究提示，应关注跨纸笔、几何和代码的转换，而非只比较工具优劣。本次未确认新增AI研究文章，既有社论及录用稿不冒充新增。
+
+## 2026-10-17 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-17（Europe/London）。
+- 主检索覆盖时间范围：2026-10-16至2026-10-17（截至本次运行）；与上次成功运行重叠，按完整历史日志DOI查重，不以重新索引或录用日期代替发表日期。
+- 补充检索覆盖时间范围：2026-10-03至2026-10-17（最近14天）；查询Crossref发表/online日期及新建元数据，并检查官网latest articles、Early View、recent/accepted、文章列表和Wiley主页Most Recent。
+- Crossref合并检索记录43条：38条DOI已在历史日志中，全部排除；3条PRPER候选仍为仅录用稿，暂缓。最终新增2篇：JSET 1篇、Instructional Science 1篇。实际展开2篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：2篇新增文章DOI完整，标题＋期刊名核对未发现可能重复。两篇均取得abstract；JSET的Crossref记录未提供abstract，已由Springer官网补齐。
+- 来源与发表状态核实：两篇Springer详情均可访问，作者、2026-10-16上线日期及摘要已核实，日期与Crossref一致；类型分别为Article（JSET）与Original Research（Instructional Science）。3条APS候选DOI仍跳转Accepted Paper页面，不计入新增或每刊上限未展开数，不写入已推送DOI集合。既有社论、期次信息不作为新增研究推送。
+- 来源限制：本地Wiley与Taylor & Francis部分请求403。网页工具取得Science Education、JRST主页及BJET Early View，均标注今日抓取；JRST Early View标注昨日、Science Education Early View标注上周抓取。IJSE仅检索到六天前latest首屏摘要索引及两周前非首屏索引，实时首屏/current未能读取，不能核实其完整实时官网状态。Studies主页索引标注三天前、latest索引标注上周抓取。所有“无新增”仅限已取得来源，不等同于受限官网的完整实时覆盖。
+- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 1 | Crossref + 14 天官网补查；Springer详情补齐abstract并核实作者、日期 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent/accepted及DOI跳转，3条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索及14天Crossref补查；实时官网补查受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；今日主页Most Recent，近期条目已记录 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；今日主页与昨日Early View，近期条目已记录 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Early View标注今日抓取，近期条目已记录 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表可访问 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；较早主页/latest索引，非完整实时覆盖 |
+| Instructional Science | 1 | Crossref + 14 天官网补查；Springer详情核实作者、日期与abstract |
+
+### 1. Journal of Science Education and Technology
+
+#### “Heavier Objects Fall Faster”: Exploring Conceptual Reconstruction in Pre-Service Primary Teachers Through Refutational and AI-Supported Reflective Learning
+
+- 期刊：Journal of Science Education and Technology。
+- 作者：Nuzulira Janeusse Fratiwi; Nor Farahwahidah Abdul Rahman; Fanni Zulaiha; Nur Habib Muhammad Iqbal; Achmad Samsudin; Kuang Han Yong。
+- 日期：2026-10-16（online first；Springer官网与Crossref一致）。
+- DOI：10.1007/s10956-026-10365-x。
+- 数据来源：Crossref + 14 天官网补查；Crossref未提供abstract，已由Springer官网补齐，作者和日期亦经官网核实。
+- 英文abstract要点：Twenty-five pre-service elementary teachers studied free fall through refutational texts and AI-supported reflection. Conceptual understanding improved after the intervention (p = .007), but some participants retained misconceptions or regressed. Epistemic Network Analysis identified different reflective structures across the two phases. Participants used AI to evaluate and reconsider ideas; these findings do not isolate AI's independent contribution or establish superiority over another teaching approach.
+- 易读版中文摘要：【教师教育／科学概念学习／科学技术与AI／教学设计】25名职前小学教师通过反驳文本和AI对话反思自由落体概念。活动后整体理解显著提高，但仍有人保留原有错误观念，甚至发生概念退步；认知网络分析显示，两阶段的反思结构不同。研究提示，概念转变需要比较、评价和重新审视观点，而不只是接收正确答案。不能把整体前后变化直接归因于AI，也不能据此认定AI教学优于其他方法。
+- 文章链接：[Springer原文与DOI](https://doi.org/10.1007/s10956-026-10365-x)。
+
+### 2. Physical Review Physics Education Research
+
+无新增正式发表或online-first文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查。[APS recent](https://journals.aps.org/prper/recent)、[Accepted Papers](https://journals.aps.org/prper/accepted)及官方DOI跳转核实；3条未记录候选仍为仅录用稿，暂缓推送，不加入已推送DOI集合。
+
+### 3. International Journal of Science Education
+
+无新增（Crossref已取得来源范围内）。数据来源：Crossref 主检索及14天Crossref补查；[latest articles](https://www.tandfonline.com/toc/tsed20/0/0)和[current](https://www.tandfonline.com/toc/tsed20/current)实时读取受限。较早摘要索引不能确认完整实时官网状态。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)标注今日抓取，最新所列研究为10月13日，已记录。[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)标注上周抓取。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/10982736)标注今日抓取，[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)标注昨日抓取。10月15日气候教育文章已于昨日推送，不重复展开。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)标注今日抓取，最近14天所列条目已在历史日志中。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[SpringerOpen文章列表](https://stemeducationjournal.springeropen.com/articles)可访问，既有社论不作为新增研究推送。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/10763/articles)可访问，昨日已推送的两篇不重复展开。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页索引](https://www.tandfonline.com/journals/rsse20)标注三天前抓取，[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)标注上周抓取，所列最新上线日期仍为2026-08-21。直接请求403，不能声称完整实时覆盖。
+
+### 11. Instructional Science
+
+#### Learning the control-of-variables strategy through self-generated and vicarious errors: the mediating roles of affect, motivation, cognitive load, and error awareness
+
+- 期刊：Instructional Science。
+- 作者：Linda Hämmerle; Shelbi L. Kuhlmann; Theresa Krause-Wichmann; Andrea Möller。
+- 日期：2026-10-16（online first；Springer官网与Crossref一致）。
+- DOI：10.1007/s11251-026-09822-2。
+- 数据来源：Crossref + 14 天官网补查；Springer官网核实作者、日期及abstract。
+- 英文abstract要点：An experiment with 255 seventh- and eighth-graders compared self-generated, vicarious, combined and no-error conditions for learning the control-of-variables strategy before instruction and error reflection. All groups improved, with no significant between-group performance differences after accounting for prior knowledge. Affect, motivation and cognitive load did not mediate learning. Error awareness predicted performance positively but showed a complex, marginally negative mediation pattern for self-generated errors.
+- 易读版中文摘要：【K-12／实验与探究学习／学习科学／教学设计】255名七、八年级学生先处理实验任务，再接受教学和错误反思，比较自己犯错、观察他人错误、两者结合及无错误四种条件。各组前后测均进步，但控制已有知识后，组间表现没有显著差异；情绪、动机和认知负荷也未显示中介作用。错误觉察与较好成绩有关，但其在自己犯错条件下的中介关系复杂。因此，不能仅凭自生错误组平均分最高，就认定“让学生先犯错”更有效。
+- 文章链接：[Springer原文与DOI](https://doi.org/10.1007/s11251-026-09822-2)。
+
+### 今日重点
+
+1. 【教师教育／科学概念学习／AI】JSET直面自由落体错误观念：25名职前教师整体进步，但变化并不一致，AI的独立效果不能由整体前后测推出。
+2. 【K-12／实验与探究学习】控制变量策略研究样本为255人；不同错误学习条件均伴随进步，却没有显著组间优势，不宜只看平均分排名。
+3. 【学习科学／教学设计】两篇共同提示，应关注学习者如何评价观点、觉察错误及参与反思，同时区分前后变化、相关关系和教学方法之间的因果比较。
