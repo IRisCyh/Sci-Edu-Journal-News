@@ -11783,3 +11783,90 @@
 1. 【教师教育／科学概念学习／AI】JSET直面自由落体错误观念：25名职前教师整体进步，但变化并不一致，AI的独立效果不能由整体前后测推出。
 2. 【K-12／实验与探究学习】控制变量策略研究样本为255人；不同错误学习条件均伴随进步，却没有显著组间优势，不宜只看平均分排名。
 3. 【学习科学／教学设计】两篇共同提示，应关注学习者如何评价观点、觉察错误及参与反思，同时区分前后变化、相关关系和教学方法之间的因果比较。
+
+## 2026-10-18 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-18（Europe/London）。
+- 主检索覆盖时间范围：2026-10-17至2026-10-18（截至本次运行）；与上次成功运行重叠，按完整历史日志DOI查重，不把重新索引或录用日期当作新发表。
+- 补充检索覆盖时间范围：2026-10-04至2026-10-18（最近14天）；Crossref发表/online日期补查及新建元数据候选发现，结合官网latest articles、Early View、recent/accepted、文章列表和Wiley主页Most Recent。所有候选再核实实际发表日期。
+- Crossref合并检索记录41条：37条DOI已在历史日志中，全部排除；3条PRPER候选仍为仅录用稿，暂缓。最终新增1篇，来自Instructional Science。实际展开1篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：新增文章DOI完整；标题＋期刊名辅助核对未发现可能重复。Crossref和Springer官网均提供abstract，未获取到abstract的新增文章为0篇。
+- 发表状态核实：新增文章Springer详情可访问，Original Research类型、两位作者、2026-10-17上线日期及abstract已核实，日期与Crossref一致。3条APS候选仍跳转Accepted Paper页面，不计入新增或每刊上限未展开数，不写入已推送DOI集合。既有社论、期次信息不作为新增研究推送。
+- 来源限制：本地Wiley和Taylor & Francis部分请求403。网页工具取得Science Education、JRST主页及BJET Early View，均标注今日抓取；Science Education Early View标注上周、JRST Early View标注两天前抓取。IJSE实时latest/current未能读取，仅有两周前非首屏latest索引，不能确认完整实时官网状态。Studies主页索引标注四天前、latest索引标注上周抓取。所有“无新增”仅限已取得来源，不代表受限官网的完整实时覆盖。
+- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent/accepted及DOI跳转，3条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索及14天Crossref补查；实时官网补查受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；今日主页Most Recent，近期条目已记录 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；今日主页及两天前Early View，近期条目已记录 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Early View标注今日抓取，近期条目已记录 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表可访问 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；较早主页/latest索引，非完整实时覆盖 |
+| Instructional Science | 1 | Crossref + 14 天官网补查；Springer详情核实类型、作者、日期与abstract |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/10956/articles)可访问。
+
+### 2. Physical Review Physics Education Research
+
+无新增正式发表或online-first文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[APS recent](https://journals.aps.org/prper/recent)、[Accepted Papers](https://journals.aps.org/prper/accepted)及官方DOI跳转核实，3条候选仍为仅录用稿，暂缓推送，不写入已推送DOI集合。
+
+### 3. International Journal of Science Education
+
+无新增（Crossref已取得来源范围内）。数据来源：Crossref 主检索及14天Crossref补查；[latest articles](https://www.tandfonline.com/toc/tsed20/0/0)及[current](https://www.tandfonline.com/toc/tsed20/current)实时读取受限，较早非首屏索引不能确认完整实时官网状态。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)标注今日抓取，最新所列研究为10月13日，已记录。[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)标注上周抓取。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/10982736)标注今日抓取，[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)标注两天前抓取，所列近期文章已记录。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)标注今日抓取，最近14天所列条目已记录，不重复推送。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[SpringerOpen文章列表](https://stemeducationjournal.springeropen.com/articles)可访问，既有社论不作为新增研究推送。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/10763/articles)可访问。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页索引](https://www.tandfonline.com/journals/rsse20)标注四天前抓取，[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)标注上周抓取，所列最新上线日期仍为2026-08-21。直接读取受限，不能声称完整实时覆盖。
+
+### 11. Instructional Science
+
+#### Combining Generative Drawing and Explaining Activities for Chemistry Learning: Exploring the Role of Prior Knowledge
+
+- 期刊：Instructional Science。
+- 作者：Runzhi Chen; Jennifer G. Cromley。
+- 日期：2026-10-17（online first；Springer官网与Crossref一致）。
+- DOI：10.1007/s11251-026-09824-0。
+- 数据来源：Crossref + 14 天官网补查；Springer官网核实Original Research类型、作者、日期与abstract。
+- 英文abstract要点：In a randomized 2-by-3 experiment, 134 undergraduates who had completed introductory chemistry studied using drawing or no drawing combined with self-explaining, explaining to others, or no explaining. They revised their work against instructor examples before the posttest. Drawing and explaining showed no significant overall main effects. Prior knowledge moderated outcomes: drawing benefited moderately knowledgeable learners, while drawing plus explaining to others was especially helpful for those with lower prior knowledge. These generative learning strategies are not generative AI.
+- 易读版中文摘要：【STEM／化学学习／学习科学／教学设计】134名修过入门化学的本科生随机进入六组，比较“画不画图”与“自我解释、向他人解释、不解释”的组合。学生按分配策略学习，再对照教师范例修订作品并后测。研究未发现绘图或解释的总体主效应，但已有知识会调节效果：中等基础者受益于绘图，低基础者尤其受益于绘图加向他人解释。启示不是“活动越多越好”，而是按学习基础选择组合；样本不是K-12，生成性绘图也不是生成式AI。
+- 文章链接：[Springer原文与DOI](https://doi.org/10.1007/s11251-026-09824-0)。
+
+### 今日重点
+
+1. 【STEM／化学学习】今日仅新增1篇，研究对象为134名本科生，不能直接当作K-12课堂效果证据。
+2. 【学习科学／教学设计】绘图与解释没有显著总体主效应；重点是已有知识对策略组合效果的调节，不宜概括为“绘图加解释普遍更好”。
+3. 【科学技术与AI／概念辨析】本篇的generative指学习者主动建构表征与解释，不涉及生成式AI。本次未确认新增AI、教师教育或实验探究研究，历史文章不重复展开。
