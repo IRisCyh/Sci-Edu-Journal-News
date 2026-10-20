@@ -11967,3 +11967,100 @@
 2. 【K-12／AI／教学设计】144名高中生实验提示，学习调节与情感支架可支持更积极的体验和任务层面调节行为，不宜直接推断长期自主学习能力。
 3. 【学习科学／证据边界】自动评分准确率、情绪改善、学习增益是不同指标；今天两篇均不能被简化为“AI全面提高学习效果”。
 4. 【教师教育／实验探究】本次未确认这两类主题的新增研究；3篇APS仅录用稿及1条期次信息不冒充新发表研究。
+
+## 2026-10-20 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-20（Europe/London）。
+- 主检索覆盖时间范围：2026-10-19至2026-10-20（截至本次运行）；与上次成功运行重叠，按完整历史日志DOI查重，不以重新索引或录用日期替代发表日期。
+- 补充检索覆盖时间范围：2026-10-06至2026-10-20（最近14天）；Crossref发表/online日期补查及新建元数据候选发现，结合官网latest articles、Early View、recent/accepted、文章列表及Wiley主页Most Recent，候选再核实实际发表日期。
+- Crossref合并检索记录43条：36条DOI已在历史日志中，全部排除；4条PRPER候选仍为仅录用稿，暂缓；1条BJET Issue Information为期次信息，排除。最终新增2篇：BJET 1篇、Instructional Science 1篇。实际展开2篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：2篇新增DOI完整；标题＋期刊名核对未发现可能重复。两篇均取得abstract，未获取到abstract的新增文章为0篇。
+- 发表状态及摘要核实：BJET主页Most Recent核实新文章标题、6位作者及2026-10-20 First Published日期，与Crossref一致；详情本地请求403，网页工具也未读到全文，研究摘要依据Crossref，不声称官网全文已核实。Instructional Science的Springer详情可访问，Original Research类型、3位作者、2026-10-20上线日期及abstract已核实。4条APS候选仍为Accepted Paper，不写入已推送DOI集合。
+- 来源限制及补查差异：本地Wiley、Taylor & Francis部分请求403；网页工具取得Science Education、JRST、BJET主页与三刊Early View，均标注今日抓取。BJET可读Early View未列出本次新增，但主页已列出，优先保留已核实的主页记录。昨日已推送的情感支架研究今天获得BJET主页作者与日期确认，不重复展开。IJSE实时latest/current未取得，仅有两周前非首屏索引；Studies主页索引标注六天前、latest标注上周抓取。所有“无新增”仅限已取得来源，不代表受限官网完整实时覆盖。
+- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent/accepted及DOI跳转，4条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索及14天Crossref补查；实时官网补查受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；今日主页及Early View，近期研究已记录 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；今日主页及Early View，近期研究已记录 |
+| British Journal of Educational Technology (BJET) | 1 | Crossref + 14 天官网补查；主页核实作者和日期，摘要来自Crossref，详情403；排除期次信息1条 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表可访问 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；较早主页/latest索引，非完整实时覆盖 |
+| Instructional Science | 1 | Crossref + 14 天官网补查；Springer详情核实类型、作者、日期及abstract |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/10956/articles)可访问，昨日自动评分研究不重复展开。
+
+### 2. Physical Review Physics Education Research
+
+无新增正式发表或online-first文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[APS recent](https://journals.aps.org/prper/recent)、[Accepted Papers](https://journals.aps.org/prper/accepted)及官方DOI跳转核实，4条候选仍为仅录用稿，暂缓推送，不写入已推送DOI集合，不计每刊上限未展开数。
+
+### 3. International Journal of Science Education
+
+无新增（Crossref已取得来源范围内）。数据来源：Crossref 主检索及14天Crossref补查；[latest articles](https://www.tandfonline.com/toc/tsed20/0/0)及[current](https://www.tandfonline.com/toc/tsed20/current)实时读取受限，较早非首屏索引不能确认完整实时官网状态。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)及[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)均标注今日抓取，所列10月13日、8日、7日研究已记录。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/10982736)及[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)均标注今日抓取，近期研究已记录。
+
+### 6. British Journal of Educational Technology (BJET)
+
+#### Generative AI as a team moderator in CSCL: Facilitating students' multidimensional engagement through adaptive scaffolding for socially shared regulation of learning
+
+- 期刊：British Journal of Educational Technology (BJET)。
+- 作者：Dengkang Chen; Yi Zhang; Heng Luo; Fucheng Guo; Yijie Lu; Xiaoge Guo。
+- 日期：2026-10-20（First Published；BJET主页与Crossref一致）。
+- DOI：10.1111/bjet.70096。
+- 数据来源：Crossref + 14 天官网补查；[BJET主页Most Recent](https://bera-journals.onlinelibrary.wiley.com/journal/14678535)核实标题、作者及日期，摘要来自Crossref；详情403，未读取全文。
+- 英文abstract要点：A 16-week quasi-experiment with 64 Chinese undergraduates compared a GenAI team moderator providing adaptive socially shared regulation scaffolding with static digital worksheets. Surveys and discussion transcripts, including epistemic network analysis, indicated greater participation equality, deeper cognitive engagement and higher emotional engagement in the adaptive condition. Participation intensity did not differ significantly. The findings concern collaborative engagement, not demonstrated achievement gains or K-12 generalizability.
+- 易读版中文摘要：【科学技术与AI／学习科学／教学设计】研究在64名中国本科生中开展16周准实验，比较AI动态小组调节支架与结构化数字工作表，并分析问卷和讨论文本。AI组参与更均衡、认知讨论更深入，情感投入也更高，但参与强度没有显著组间差异。启示是让AI帮助协调协作过程，而不只是回答知识问题；这不是随机试验，也未由摘要证明考试成绩提高，不能直接推广到K-12。
+- 文章链接：[Wiley原文与DOI](https://doi.org/10.1111/bjet.70096)。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[SpringerOpen文章列表](https://stemeducationjournal.springeropen.com/articles)可访问，既有社论不作为新增研究推送。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/10763/articles)可访问。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页索引](https://www.tandfonline.com/journals/rsse20)标注六天前、[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)标注上周抓取，所列最新上线日期仍为2026-08-21。实时读取受限，不代表完整实时覆盖。
+
+### 11. Instructional Science
+
+#### Replicating the advantage of classifying over generating examples in an authentic relational category learning context
+
+- 期刊：Instructional Science。
+- 作者：Tim M. Steininger; Thamar Voss; Jörg Wittwer。
+- 日期：2026-10-20（online first；Springer官网与Crossref一致）。
+- DOI：10.1007/s11251-026-09823-1。
+- 数据来源：Crossref + 14 天官网补查；Springer官网核实Original Research类型、作者、日期与abstract。
+- 英文abstract要点：An experiment with 104 students in education-related degree programs compared classifying provided examples with generating examples when learning relational categories. Even with deliberate support for generalization and discrimination, classification remained more effective. Generators overestimated learning during and after the knowledge test. Instructional guidance is proposed as an explanation, rather than established as the tested mechanism; the result is specific to this learning context.
+- 易读版中文摘要：【教师教育相关／概念学习／学习科学／教学设计】104名教育学相关专业学生学习关系类别，比较给现成例子分类与自己举例。即便刻意促进概括和辨别，分类仍更有效；自举例组在测试过程中和测试后仍高估了自己的学习。作者推测，分类兼顾认知参与和指导，而自举例可能指导不足，但这一机制不能视为已经直接证实。结果针对特定关系类别学习，不意味着所有学科都应取消生成性活动；样本也不能直接标作K-12或全部职前教师。
+- 文章链接：[Springer原文与DOI](https://doi.org/10.1007/s11251-026-09823-1)。
+
+### 今日重点
+
+1. 【AI／学习科学】BJET把AI定位为协作过程调节者；改善的是参与均衡、认知与情感投入，参与强度并未显著提高，不要等同于学习成绩提高。
+2. 【教师教育相关／概念学习】Instructional Science显示分类例子在特定关系类别学习中优于自举例，还应关注学习者持续高估理解的问题。
+3. 【教学设计／证据边界】两篇都提示支持方式与任务情境很重要，但AI研究是准实验，类别学习研究的指导机制仍属解释，不宜泛化为普遍因果结论。
+4. 【K-12／STEM／实验探究】本次两篇均非K-12科学或STEM实验教学的直接证据；4篇APS仅录用稿与1条期次信息不作为新增研究推送。
