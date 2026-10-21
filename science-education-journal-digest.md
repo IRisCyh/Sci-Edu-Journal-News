@@ -12064,3 +12064,90 @@
 2. 【教师教育相关／概念学习】Instructional Science显示分类例子在特定关系类别学习中优于自举例，还应关注学习者持续高估理解的问题。
 3. 【教学设计／证据边界】两篇都提示支持方式与任务情境很重要，但AI研究是准实验，类别学习研究的指导机制仍属解释，不宜泛化为普遍因果结论。
 4. 【K-12／STEM／实验探究】本次两篇均非K-12科学或STEM实验教学的直接证据；4篇APS仅录用稿与1条期次信息不作为新增研究推送。
+
+## 2026-10-21 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-21（Europe/London）。
+- 主检索覆盖时间范围：2026-10-20至2026-10-21（截至本次运行）；与上次成功运行重叠，按完整历史日志DOI查重，不以重新索引或录用日期替代发表日期。
+- 补充检索覆盖时间范围：2026-10-07至2026-10-21（最近14天）；Crossref发表/online日期补查及新建元数据候选发现，结合官网latest articles、Early View、recent/accepted、文章列表和Wiley主页Most Recent，候选再核实实际发表日期。
+- Crossref合并检索记录39条：33条DOI已在历史日志中，全部排除；4条PRPER候选仍为仅录用稿，暂缓；1条BJET Issue Information为期次信息，排除。最终新增1篇，来自International Journal of STEM Education。实际展开1篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：新增文章DOI完整，标题＋期刊名核对未发现可能重复；Crossref与Springer官网均提供abstract，未获取到abstract的新增文章为0篇。
+- 发表状态核实：新增文章官网详情可访问，Research类型、4位作者、2026-10-21上线日期及abstract已核实，日期与Crossref一致。期次元数据另列2026年12月，不以该期次日期替换实际online日期。4条APS候选仍为Accepted Paper，不写入已推送DOI集合，不计每刊上限未展开数。
+- 来源限制：本地Wiley和Taylor & Francis部分请求403。网页工具取得Science Education、JRST、BJET主页及JRST、BJET Early View，均标注今日抓取；Science Education Early View标注昨日抓取，所列近期研究已记录。IJSE实时latest/current未取得，仅有两周前非首屏索引；Studies主页和latest索引均标注上周抓取，非完整实时页面。所有“无新增”仅限已取得来源，不代表受限官网完整实时覆盖。
+- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent/accepted及DOI跳转，4条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索及14天Crossref补查；实时官网补查受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；今日主页及昨日Early View，近期研究已记录 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；今日主页及Early View，近期研究已记录 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；今日主页及Early View，近期研究已记录；排除期次信息1条 |
+| International Journal of STEM Education | 1 | Crossref + 14 天官网补查；官网详情核实类型、作者、日期与abstract |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；上周主页/latest索引，非完整实时覆盖 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/10956/articles)可访问，既有自动评分及概念学习研究不重复推送。
+
+### 2. Physical Review Physics Education Research
+
+无新增正式发表或online-first文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[APS recent](https://journals.aps.org/prper/recent)、[Accepted Papers](https://journals.aps.org/prper/accepted)及官方DOI跳转核实，4条候选仍为仅录用稿，暂缓推送，不写入已推送DOI集合。
+
+### 3. International Journal of Science Education
+
+无新增（Crossref已取得来源范围内）。数据来源：Crossref 主检索及14天Crossref补查；[latest articles](https://www.tandfonline.com/toc/tsed20/0/0)及[current](https://www.tandfonline.com/toc/tsed20/current)实时读取受限，较早非首屏索引不能确认完整实时官网状态。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)标注今日、[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)标注昨日抓取，近期研究均已记录。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/10982736)及[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)标注今日抓取，近期研究均已记录。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://bera-journals.onlinelibrary.wiley.com/journal/14678535)及[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)标注今日抓取。昨日AI协作调节研究已记录，不重复展开；1条Issue Information作为期次信息排除。
+
+### 7. International Journal of STEM Education
+
+#### Modeling STEM persistence in college: the mediating roles of academic preparation and academic behaviors for students with attention-deficit/hyperactivity disorder
+
+- 期刊：International Journal of STEM Education。
+- 作者：Xiaping Li; Nolgie Oquendo-Colón; Cynthia J. Finelli; Laura J. Carroll。
+- 日期：2026-10-21（online；官网与Crossref一致，期次日期另列2026年12月）。
+- DOI：10.1186/s40594-026-00639-6。
+- 数据来源：Crossref + 14 天官网补查；官网详情核实Research类型、4位作者、上线日期与abstract。
+- 英文abstract要点：Matched first-year and senior-year surveys covered 26,199 college students, including 4,644 initially intending STEM majors. Students with ADHD had similar initial STEM intentions but lower persistence in this sample. Generalized structural equation modeling associated stronger academic preparation and fewer disengaged behaviors with persistence; preparation dominated the modeled mediation of the ADHD-persistence association. The authors suggest targeted academic and learning-environment support. These observational associations do not establish causality or individual capability.
+- 易读版中文摘要：【STEM／教育公平／学习科学／教学设计】研究配对分析26,199名大学生的大一与高年级调查，并考察其中4,644名最初有意选择STEM的学生。样本中，ADHD与非ADHD学生最初选择STEM的意愿相近，但前者持续就读STEM的比例较低。广义结构方程模型显示，学业准备更充分、脱离学习的行为更少，与持续就读有关，学业准备在中介模型中作用更大。作者建议把常规便利措施与学业支持、课程结构和评价设计结合；这是样本层面的观察关联，不证明因果，也不是对个体能力的判断。
+- 文章链接：[官网原文与DOI](https://doi.org/10.1186/s40594-026-00639-6)。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/10763/articles)可访问。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页索引](https://www.tandfonline.com/journals/rsse20)与[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)均标注上周抓取，所列最新上线日期仍为2026-08-21。实时读取受限，不代表完整实时覆盖。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/11251/articles)可访问，昨日例子分类研究已记录，不重复展开。
+
+### 今日重点
+
+1. 【STEM／教育公平】新增研究区分“最初选择STEM的意愿”与“持续就读”，不把样本中的持续就读差异解读为个体能力差异。
+2. 【学习科学／教学设计】学业准备及学习行为是重要关联因素；作者提出学业支持、课程结构与评价设计方向，但研究不是干预效果实验。
+3. 【K-12／教师教育／科学概念／实验探究／AI】本篇为大学STEM持续就读研究，不是上述课堂情境的直接效果证据；今日未确认这些主题的新增文章，历史文章不重复展开。
