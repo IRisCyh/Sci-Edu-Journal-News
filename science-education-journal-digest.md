@@ -12151,3 +12151,100 @@
 1. 【STEM／教育公平】新增研究区分“最初选择STEM的意愿”与“持续就读”，不把样本中的持续就读差异解读为个体能力差异。
 2. 【学习科学／教学设计】学业准备及学习行为是重要关联因素；作者提出学业支持、课程结构与评价设计方向，但研究不是干预效果实验。
 3. 【K-12／教师教育／科学概念／实验探究／AI】本篇为大学STEM持续就读研究，不是上述课堂情境的直接效果证据；今日未确认这些主题的新增文章，历史文章不重复展开。
+
+## 2026-10-22 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-22（Europe/London）。
+- 主检索覆盖时间范围：2026-10-21至2026-10-22（截至本次运行）；与上次成功运行重叠，按完整历史日志DOI查重，不以重新索引或录用日期替代发表日期。
+- 补充检索覆盖时间范围：2026-10-08至2026-10-22（最近14天）；Crossref发表/online日期补查及新建元数据候选发现，结合官网latest articles、Early View、recent/accepted、文章列表与Wiley主页Most Recent，候选再核实实际发表日期。
+- Crossref合并检索记录39条：32条DOI已在历史日志中，全部排除；4条PRPER候选仍为仅录用稿，暂缓；1条BJET Issue Information为期次信息，排除。最终新增2篇：JSET 1篇、IJSE 1篇。实际展开2篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：2篇DOI完整，标题＋期刊名核对未发现可能重复。JSET的Crossref记录缺少abstract，已由Springer官网补齐；IJSE元数据及可读取官网均未提供abstract，明确标注“未获取到 abstract”，不据题名推断方法、结果或意义。
+- 来源及发表状态核实：JSET的Springer详情可访问，Article类型、2位作者、2026-10-22上线日期及abstract已核实，与Crossref一致。IJSE官网latest索引（showAxaArticles，标注今日抓取）列出标题、Vanessa Kind与Jonathan Osborne两位作者及2026-10-21上线日期，与Crossref一致；详情全文/摘要请求受限。4条APS候选仍为Accepted Paper，不写入已推送DOI集合，不计每刊上限未展开数。
+- 来源限制：本地Wiley与Taylor & Francis部分请求403；网页工具取得Science Education、JRST、BJET主页及JRST、BJET Early View，均标注今日抓取；Science Education Early View标注两天前抓取。IJSE常规latest/current实时读取受限，但补查取得今日showAxaArticles索引；索引不等于全文。Studies主页/latest标注上周抓取。所有“无新增”仅限已取得来源，不代表受限官网完整实时覆盖。
+- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 1 | Crossref + 14 天官网补查；Springer详情核实类型、作者、日期并补齐abstract |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent/accepted及DOI跳转，4条仅录用稿暂缓 |
+| International Journal of Science Education | 1 | Crossref + 14 天官网补查；今日官网latest索引核实作者与日期，未获取到abstract |
+| Science Education | 0 | Crossref + 14 天官网补查；今日主页及两天前Early View，近期研究已记录 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；今日主页及Early View，近期研究已记录 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；今日主页及Early View，近期研究已记录；排除期次信息1条 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；SpringerOpen文章列表可访问 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；上周主页/latest索引，非完整实时覆盖 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+#### Smart Learning Environments and Innovative Educational Technologies: Pre-Post Changes in Pre-Service Teachers’ Science Learning Outcomes and Affective Responses
+
+- 期刊：Journal of Science Education and Technology。
+- 作者：David González-Gómez; Jin Su Jeong。
+- 日期：2026-10-22（online first；Springer官网与Crossref一致）。
+- DOI：10.1007/s10956-026-10370-0。
+- 数据来源：Crossref + 14 天官网补查；Crossref未提供abstract，已从Springer官网补齐，类型、作者和日期亦经官网核实。
+- 英文abstract要点：Second-year primary-education students completed science activities across Future Classroom Lab zones using AR/VR, 3D modeling, micro:bit and AI/Scratch coding. Linear mixed-effects analyses adjusting for demographic and prior-course variables found pre-post gains in science learning, perceived teaching competence and teaching self-efficacy. None of the affective outcomes changed significantly in the primary analyses. The combined intervention does not isolate the effects of individual technologies; the abstract does not report sample size.
+- 易读版中文摘要：【教师教育／AR与VR／科学技术与AI／科学学习／教学设计】小学教育本科二年级的职前教师，在“未来课堂实验室”的不同空间区域完成科学活动，联合使用AR/VR、3D建模、micro:bit及AI/Scratch编程。控制人口与学业背景等变量的线性混合模型显示，科学学习、感知教学能力及教学自我效能有显著前后改善；主要分析中，情感指标均未显著变化。它反映整套教学与空间配置中的前后变化，不能把效果单独归给VR或AI，也不等于证明优于其他教法；摘要未报告样本人数。
+- 文章链接：[Springer原文与DOI](https://doi.org/10.1007/s10956-026-10370-0)。
+
+### 2. Physical Review Physics Education Research
+
+无新增正式发表或online-first文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[APS recent](https://journals.aps.org/prper/recent)、[Accepted Papers](https://journals.aps.org/prper/accepted)及官方DOI跳转核实，4条候选仍为仅录用稿，暂缓推送，不写入已推送DOI集合。
+
+### 3. International Journal of Science Education
+
+#### Towards a new vision of PCK for science teaching for the twenty-first century: knowing that, knowing how and knowing why
+
+- 期刊：International Journal of Science Education。
+- 作者：Vanessa Kind; Jonathan Osborne。
+- 日期：2026-10-21（Published online；官网latest索引与Crossref一致）。
+- DOI：10.1080/09500693.2026.2738762。
+- 数据来源：Crossref + 14 天官网补查；[官网latest索引](https://www.tandfonline.com/action/showAxaArticles?journalCode=tsed20)标注今日抓取，核实标题、作者、日期；全文及摘要页请求受限。
+- 英文abstract要点：未获取到 abstract。The title, authors, DOI and online date are verified, but the accessible records do not establish the research question, methods, findings or conclusions. A research summary cannot responsibly be supplied from the title alone.
+- 易读版中文摘要：【教师教育／PCK】未获取到 abstract，无法形成可靠研究摘要。题名可译为“迈向二十一世纪科学教学PCK的新愿景：知道是什么、知道怎么做、知道为什么”。这只是题名翻译，不是对论文主张的复述；研究方法、证据和结论目前均未核实。
+- 文章链接：[Taylor & Francis原文与DOI](https://doi.org/10.1080/09500693.2026.2738762)。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)标注今日、[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)标注两天前抓取，近期研究已记录。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/10982736)及[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)标注今日抓取，近期研究已记录。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://bera-journals.onlinelibrary.wiley.com/journal/14678535)及[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)标注今日抓取。既有AI协作调节及情感支架研究不重复展开；1条Issue Information作为期次信息排除。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[SpringerOpen文章列表](https://stemeducationjournal.springeropen.com/articles)可访问，昨日大学STEM持续就读研究已记录。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/10763/articles)可访问。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页索引](https://www.tandfonline.com/journals/rsse20)与[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)均标注上周抓取，所列最新上线日期仍为2026-08-21。实时读取受限，不代表完整实时覆盖。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest articles](https://link.springer.com/journal/11251/articles)可访问。
+
+### 今日重点
+
+1. 【教师教育／AR与VR／AI】JSET值得优先关注：多种技术嵌入未来课堂实验室，但研究只支持整套活动的前后变化，不能隔离VR、AR或AI的独立效果。
+2. 【学习科学／教学设计】科学学习及自我效能改善与情感指标未显著变化应同时报告，避免概括为所有维度均受益。
+3. 【教师教育／PCK】Kind与Osborne的新文章已确认上线，但未获取摘要，暂不推测其框架、方法或结论。
+4. 【K-12／STEM／实验探究】职前教师课程不能直接等同于K-12课堂效果；本次未确认这些课堂情境的新直接效果证据，历史文章不重复推送。
