@@ -12260,7 +12260,7 @@
 - 重复及DOI缺失：无新增研究，故无新增文章的DOI缺失或摘要缺失情况；31条历史DOI均未重复推送。仅录用稿不加入已推送DOI集合；无DOI的新研究候选为0条。
 - 排除与发表状态核实：APS候选DOI仍跳转Accepted Paper页面，不以录用日期计新发表。BJET的Issue Information为期次信息。International Journal of STEM Education新增候选官网明确标为Editorial，虽为2026-10-22上线，也不作为研究文章推送；排除证据保存在本地结构化检索记录中。
 - 来源限制：本地Wiley与Taylor & Francis部分请求403。网页工具取得Science Education、JRST、BJET主页及三刊Early View，均标注今日抓取。IJSE常规latest与showAxaArticles实时读取受限，但搜索取得昨日抓取的showAxaArticles索引，最新PCK文章已记录。Studies主页/latest索引标注上周，另一主页路径索引标注四天前，开放获取列表标注昨日抓取。所有“无新增”仅限已取得来源，不代表受限官网完整实时覆盖。
-- GitHub同步：本地日志及阅读页已更新，等待提交与推送回执。
+- GitHub同步：推送成功；内容提交 hash：f05a27d20f9b3ddf48fcc570647eca893a94d0f8（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
