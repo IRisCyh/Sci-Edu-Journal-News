@@ -12326,3 +12326,101 @@
 1. 【新增与查重】今日11刊均未确认未记录的新研究，31条历史DOI不重复推送，不用旧文章填充日报。
 2. 【STEM／发表状态】4篇APS仅录用稿、1条期次信息及1篇社论均未冒充新发表研究；仅录用稿保留后续核实机会。
 3. 【K-12／教师教育／科学概念／实验探究／AI／学习科学／教学设计】今日未确认这些主题的新研究；受限官网的“无新增”仅限已取得来源，不作完整覆盖保证。
+
+## 2026-10-24 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-24（Europe/London）。
+- 主检索覆盖时间范围：2026-10-23至2026-10-24（截至本次运行）；与上次成功记录重叠，以实际发表/online日期判断新近性，并对完整历史日志进行DOI及标题+期刊查重。
+- 补充检索覆盖时间范围：2026-10-10至2026-10-24（最近14天）；Crossref发表及online日期补查、新建元数据候选发现，结合官网latest、Early View、文章列表及APS正式发表状态核实，不把索引日期当作发表日期。
+- Crossref合并检索记录34条：26条历史DOI排除；4条APS仅录用稿暂缓；1条BJET期次信息及1条International Journal of STEM Education社论排除。新增文章2篇，其中系统综述1篇、观点评论1篇；实际展开2篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：26条历史DOI不重复推送；新增2篇均有DOI和abstract，未发现新增的标题+期刊重复；无DOI的新候选0条。仅录用稿不写入已推送DOI集合。
+- 来源限制：本地Wiley及Taylor & Francis请求部分403；网页工具取得Science Education、JRST主页及三刊Early View，均标注今日抓取。BJET主页403，但Early View可读。IJSE实时latest、主页及RSS受限，补取两天前抓取的showAxaArticles索引；Studies主页索引标注上周，current issue索引标注两天前，RSS受限。“无新增”仅限已取得来源，非完整实时覆盖保证。
+- GitHub同步：本地保存后待提交并回填实际hash。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 1 | Crossref + 14 天官网补查；Springer latest及文章摘要核实 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS recent/accepted及DOI跳转，4条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；两天前showAxaArticles索引，实时读取受限 |
+| Science Education | 1 | Crossref + 14 天官网补查；今日主页、Early View及文章abstract；明确为Commentary |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；今日主页及Early View |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；今日Early View；期次信息1条排除 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；官方列表及详情；Editorial 1条排除 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；较早主页及current issue索引，实时读取受限 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+#### Deskilling the Laboratory: A Systematic Review of Artificial Intelligence as a Threat to Embodied and Tacit Knowledge in Hands-On Science Practical Work
+
+- 期刊：Journal of Science Education and Technology。
+- 作者：Rivan Gestiardi；Subanji。
+- 发表日期：2026-10-23（官网Published；Crossref online日期一致）。
+- DOI：10.1007/s10956-026-10368-8。
+- 数据来源：Crossref + 14 天官网补查；Springer文章摘要核实。
+- 类型及主题：系统综述；【科学技术与AI】【实验/探究学习】【具身学习】【学习科学】【K-12及大学科学教育】。
+- English abstract points: A PRISMA-guided review screened 3,897 records and synthesised 20 empirical studies using framework synthesis and MMAT appraisal. It identifies cognitive offloading and replacement of embodied activity. However, no included study experimentally measured practical competence, so cumulative deskilling remains an untested hypothesis.
+- 易读中文摘要：研究问AI会不会削弱实验操作、默会知识和程序性技能。作者筛选3,897条记录，综合20项实证研究，识别出把认知任务交给AI、用技术替代身体操作的机制。但没有研究用实验直接测量实际操作能力，不能据此断言AI已经导致长期技能退化。它的价值是提出可检验框架，提醒教学设计区分“完成实验报告”和“真正会做实验”。
+- 文章链接：[Springer原文与摘要](https://link.springer.com/article/10.1007/s10956-026-10368-8)；[DOI](https://doi.org/10.1007/s10956-026-10368-8)。
+
+### 2. Physical Review Physics Education Research
+
+无新增正式发表或online-first文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[APS recent](https://journals.aps.org/prper/recent)、[Accepted Papers](https://journals.aps.org/prper/accepted)及DOI跳转核实。4条候选仍为Accepted Paper，暂缓，不写入已推送DOI集合，不计每刊上限未展开数。
+
+### 3. International Journal of Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[showAxaArticles索引](https://www.tandfonline.com/action/showAxaArticles?journalCode=tsed20)标注两天前抓取，所列10月21日及14日、13日、12日文章已记录。实时latest、主页及RSS读取受限，不作完整实时覆盖保证。
+
+### 4. Science Education
+
+#### Elementary Science Education as a Site for Joy and Justice
+
+- 期刊：Science Education。
+- 作者：Martha M. Canipe；Amber Bismack；Elizabeth A. Davis；Kathryn Lanouette；Emily Adah Miller；Christina V. Schwarz；Meredith L. Schwendemann。
+- Online first日期：2026-10-23（官网First published及Early View Version of Record一致）。
+- DOI：10.1002/sce.70110。
+- 数据来源：Crossref + 14 天官网补查；Wiley主页、Early View及文章abstract核实。
+- 类型及主题：Commentary（观点评论，非新实证研究；不是Editorial）；【K-12小学科学教育】【教师教育】【实验/探究学习】【教学设计】。
+- English abstract points: This commentary proposes a research agenda around elementary education's strengths, sensemaking and play, emerging technologies, systemic conditions, and justice. It argues for valuing children's scientific thinking and teachers' expertise, connecting inquiry with democratic participation. It reports no new intervention or causal effect.
+- 易读中文摘要：这篇评论讨论小学科学教育应如何发展，围绕小学情境优势、意义建构与游戏、新兴技术、制度条件、公平正义五条主线提出方向。作者主张重视儿童科学思考能力和小学教师专业知识，让课堂既有探究与快乐，也能讨论科学带来的不公。它提供研究和实践议程，并未以新实验验证某种教学法效果。
+- 文章链接：[Wiley原文与摘要](https://onlinelibrary.wiley.com/doi/10.1002/sce.70110)；[DOI](https://doi.org/10.1002/sce.70110)。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/10982736)及[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)今日抓取；近期文章已在历史日志中。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)今日抓取，10月20日与18日AI文章已记录。主页读取403；1条Issue Information作为期次信息排除。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官网文章列表](https://stemeducationjournal.springeropen.com/articles)及详情可访问；1条Editorial排除，其余近期文章已记录。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)可访问；近期文章已记录。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页索引](https://www.tandfonline.com/journals/rsse20)标注上周，最新所列上线日期8月21日；[current issue索引](https://www.tandfonline.com/toc/rsse20/current)两天前抓取，所列研究online日期均早于本次窗口。实时latest及RSS受限，不作完整实时覆盖保证。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)可访问；近期文章已记录。
+
+### 今日重点
+
+1. 【AI／实验探究／具身学习】实验技能系统综述最值得关注：识别替代机制，但尚无实验测量证实累积技能退化，避免把风险假设当既定结论。
+2. 【K-12／教师教育】小学科学观点评论强调儿童思考能力、教师专业性和公平参与；是研究议程，不是教学干预效果证据。
+3. 【学习科学／教学设计】两篇共同提示关注学习过程而不只看产物；实际操作、意义建构和参与机会应被明确纳入设计与评价。此条为助手结合两篇摘要的综合解读。
+4. 【STEM／发表状态】其他9刊未确认未记录新文章；26条历史DOI不重推，4条APS仅录用稿继续等待正式发表。T&F覆盖受限，未将访问失败等同于确证无文章。
