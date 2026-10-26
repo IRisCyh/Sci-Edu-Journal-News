@@ -12512,7 +12512,7 @@
 - Crossref合并检索记录34条：26条历史DOI排除；4条APS仅录用稿暂缓；1条BJET期次信息及1条International Journal of STEM Education社论排除。新增文章2篇，实际展开2篇，因每刊最多3篇而未展开0篇。
 - 重复及DOI缺失：26条历史DOI不重复推送；新增2篇均有DOI并取得abstract，未发现新增标题+期刊重复；无DOI的新候选0条。仅录用稿不写入已推送DOI集合。
 - 来源限制：本地Wiley、T&F及APS部分请求403；网页工具取得三刊Early View及BJET新文章全文/摘要，均标注今日抓取。APS网页工具取得今日Recent及Accepted列表，4条候选仍列于Accepted，不能按Crossref日期直接计新发表。IJSE实时showAxaArticles受限，latest索引两周前、另一主页路径索引上周；Studies实时latest受限，主页索引上周。所有“无新增”仅限已取得来源，不保证完整实时覆盖。IJSME摘要由本地官网请求取得，网页工具直接读取该文章失败，不混同两种访问结果。
-- GitHub同步：本地保存后待提交并回填实际hash。
+- GitHub同步：推送成功；内容提交 hash：d28040b49ab05cb631d02a60a29962858e57fdb4（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
