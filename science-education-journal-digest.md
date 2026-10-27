@@ -12599,3 +12599,92 @@
 2. 【K-12／STEM／教育公平】IJSME六次课的早期代数干预在低SES学校呈现更明显进步，值得关注表示之间的渐进衔接。
 3. 【学习科学／教学设计】前者提供互动过程证据，后者是前后测准实验；不要把“协作模式不同”直接换算为成绩优势，也不要把局部干预效果无限推广。
 4. 【教师教育／发表状态】两篇可作为教师讨论支架与分组设计的材料，此为实践解读；今日其余9刊未确认新文章，26条历史DOI不重推，4条APS仅录用稿继续暂缓。
+
+## 2026-10-27 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-27（Europe/London）。
+- 主检索覆盖时间范围：2026-10-26至2026-10-27（截至本次运行）；与昨日成功记录重叠，以实际发表/online日期判定新近性，并按完整历史日志DOI及标题+期刊查重。
+- 补充检索覆盖时间范围：2026-10-13至2026-10-27（最近14天）；Crossref发表及online日期补查、新建元数据候选发现，结合官网latest、Early View、文章列表及APS正式发表状态核实。不把索引或录用日期当发表日期。
+- Crossref合并检索记录35条：28条历史DOI排除；4条APS仅录用稿暂缓；1条BJET期次信息及1条International Journal of STEM Education社论排除。新增文章1篇，实际展开1篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：28条历史DOI不重复推送；新增1篇有DOI，Crossref及官网均取得abstract，未发现新增标题+期刊重复；无DOI的新候选0条。仅录用稿不写入已推送DOI集合。
+- APS状态说明：今日官网Recent列出两篇10月26日正式发表文章，分别涉及量子职业路径及物理-数字齿轮学习环境；它们早先已作为accepted paper进入历史日志，本次按DOI排除，不重推。这里只追加正式发表状态说明，不将旧录用日期重新解释为发表日期，也不改写旧日志。其余4条候选仍在今日Accepted列表，暂缓。
+- 来源限制：本地Wiley、T&F及APS部分请求403；网页工具取得今日三刊Early View及APS Recent/Accepted。IJSE实时showAxaArticles受限，但搜索取得今日抓取的官方主页索引；所列最新为10月21日已记录文章。Studies实时latest受限，主页索引标注上周。IJSME新摘要由本地官网请求取得，网页工具直读失败，两种访问结果不混同。所有“无新增”仅限已取得来源，非完整实时覆盖保证。
+- GitHub同步：本地保存后待提交并回填实际hash。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；今日Recent/Accepted；2篇正式发表已在历史记录，4条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；今日官方主页索引，实时latest受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；今日Early View |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；今日Early View |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；今日Early View；期次信息排除 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；官方列表及详情；Editorial排除 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 1 | Crossref + 14 天官网补查；Springer latest及文章作者/摘要元数据核实 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；上周主页索引，实时latest受限 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles)可访问，近期文章已记录。
+
+### 2. Physical Review Physics Education Research
+
+无未记录的新文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；今日[Recent](https://journals.aps.org/prper/recent)确认两篇10月26日正式发表文章，但其DOI已在历史日志，不重复展开；不将早先记录的录用日期当正式发表日期。[Accepted Papers](https://journals.aps.org/prper/accepted)中的其余4条候选继续暂缓，不写入已推送DOI集合，不计每刊上限未展开数。
+
+### 3. International Journal of Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/journals/tsed20)标注今日抓取，所列最新10月21日PCK及10月14日、13日、12日文章已记录。实时latest仍受限。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)今日抓取，近期文章已记录。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)今日抓取，近期文章已记录。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)今日抓取，10月25日AI元认知提示研究及其他近期文章已记录；1条Issue Information排除。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官网文章列表](https://stemeducationjournal.springeropen.com/articles)及候选详情可访问；1条Editorial排除，其余近期研究已记录。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### Exploring Transfer Issues in Mathematical Modelling Across Diverse Real-World Contexts at the Primary Level
+
+- 期刊：International Journal of Science and Mathematics Education (IJSME)。
+- 作者：Robert von Hering；Lena Jacobsen；Henning Sievert。
+- Online first日期：2026-10-27（Crossref online日期；Springer文章元数据核实）。
+- DOI：10.1007/s10763-026-10740-5。
+- 数据来源：Crossref + 14 天官网补查；本地Springer文章请求取得作者及abstract元数据。
+- 类型及主题：混合方法研究；【K-12小学教育】【数学建模】【STEM教育】【学习迁移】【学习科学】【教学设计】。
+- English abstract points: In a mixed-methods study, 136 Grade 3-4 pupils solved modelling tasks with identical mathematical structures but different contexts; 10 completed stimulated-recall interviews. School-related tasks were solved more successfully than private or vocational ones, even when pupils recognised mathematical equivalence. Context diversity deserves explicit attention in modelling instruction.
+- 易读中文摘要：研究问小学生能否把建模能力迁移到换了背景、数学结构却相同的题目。136名三、四年级学生完成纸笔题，10人接受刺激回忆访谈。学校情境题比私人生活或职业情境题更容易解对；即使学生看出数学结构相同，表现仍有差异。研究提示教学应覆盖多样情境，不能把“认出相同结构”当成“已能顺利迁移”；本研究并未直接验证某种迁移训练的效果。
+- 文章链接：[Springer原文与摘要](https://link.springer.com/article/10.1007/s10763-026-10740-5)；[DOI](https://doi.org/10.1007/s10763-026-10740-5)。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页索引](https://www.tandfonline.com/journals/rsse20)上周抓取，最新所列上线日期8月21日；实时latest受限，不保证完整覆盖。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)可访问，近期研究已记录。
+
+### 今日重点
+
+1. 【K-12／STEM／学习科学】小学建模新研究显示，数学结构相同不保证跨情境表现一致；“识别等价”与“成功迁移”需要区分。
+2. 【教学设计／教师教育】可把学校、生活和职业情境并置讨论，检查学生的理解是否依赖背景；此为摘要支持的教学启示，不是已验证干预方案。
+3. 【实验探究／发表状态】APS物理-数字齿轮研究及量子职业研究已正式发表，但其DOI已记录，不再当新增推送；4条仅录用稿仍暂缓。
+4. 【科学概念／科学技术与AI】今日未确认这些主题的未记录新文章；28条历史DOI排除，不用旧文补足篇数，受限来源的覆盖边界已说明。
