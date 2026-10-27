@@ -12611,7 +12611,7 @@
 - 重复及DOI缺失：28条历史DOI不重复推送；新增1篇有DOI，Crossref及官网均取得abstract，未发现新增标题+期刊重复；无DOI的新候选0条。仅录用稿不写入已推送DOI集合。
 - APS状态说明：今日官网Recent列出两篇10月26日正式发表文章，分别涉及量子职业路径及物理-数字齿轮学习环境；它们早先已作为accepted paper进入历史日志，本次按DOI排除，不重推。这里只追加正式发表状态说明，不将旧录用日期重新解释为发表日期，也不改写旧日志。其余4条候选仍在今日Accepted列表，暂缓。
 - 来源限制：本地Wiley、T&F及APS部分请求403；网页工具取得今日三刊Early View及APS Recent/Accepted。IJSE实时showAxaArticles受限，但搜索取得今日抓取的官方主页索引；所列最新为10月21日已记录文章。Studies实时latest受限，主页索引标注上周。IJSME新摘要由本地官网请求取得，网页工具直读失败，两种访问结果不混同。所有“无新增”仅限已取得来源，非完整实时覆盖保证。
-- GitHub同步：本地保存后待提交并回填实际hash。
+- GitHub同步：推送成功；内容提交 hash：a76978b6dba9eae3d6a6b5aa089c30fb479afae1（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
