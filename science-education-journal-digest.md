@@ -12700,7 +12700,7 @@
 - 重复及DOI缺失：27条历史DOI不重复推送；新增文章有DOI，无新增标题+期刊重复；无DOI的新候选0条。新增文章未获取到abstract，明确标注，不编造方法或发现。仅录用稿不加入已推送DOI集合。
 - APS状态说明：今日官网Accepted仍列出此前4条候选，其中2条10月13日录用记录已落在本次14天窗口之外，本次统计暂缓数仅为窗口内2条；不将窗口外文章计为新增。Recent最新所列10月26日两篇DOI已在历史日志，均不重推。
 - 来源限制：本地Wiley、T&F及APS部分请求403。网页工具取得今日BJET Early View、Science Education主页及APS Recent/Accepted；Science Education Early View 403，JRST Early View 404、主页403，仅取得较早官网主页索引。IJSE常规latest实时读取403，但今日出版社Education学科文章列表确认新文章标题、作者和日期；其全文、摘要及epdf页面均不可用。IJSE主页索引昨日、Studies主页索引两周前。“无新增”仅限已取得来源，非完整实时覆盖保证。
-- GitHub同步：本地保存后待提交并回填实际hash。
+- GitHub同步：推送成功；内容提交 hash：f83e7e9cf656872f5c69ae11fd37925b7e0ffd2d（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
