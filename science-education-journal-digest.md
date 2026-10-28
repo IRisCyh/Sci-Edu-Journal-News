@@ -12688,3 +12688,91 @@
 2. 【教学设计／教师教育】可把学校、生活和职业情境并置讨论，检查学生的理解是否依赖背景；此为摘要支持的教学启示，不是已验证干预方案。
 3. 【实验探究／发表状态】APS物理-数字齿轮研究及量子职业研究已正式发表，但其DOI已记录，不再当新增推送；4条仅录用稿仍暂缓。
 4. 【科学概念／科学技术与AI】今日未确认这些主题的未记录新文章；28条历史DOI排除，不用旧文补足篇数，受限来源的覆盖边界已说明。
+
+## 2026-10-28 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-28（Europe/London）。
+- 主检索覆盖时间范围：2026-10-27至2026-10-28（截至本次运行）；与昨日成功运行重叠，以实际发表/online日期判定新近性，按完整历史日志DOI及标题+期刊查重。
+- 补充检索覆盖时间范围：2026-10-14至2026-10-28（最近14天）；Crossref发表及online日期补查、新建元数据候选发现，结合官网latest、Early View、主页/学科文章列表及APS正式发表状态核实。不把索引或录用日期当发表日期。
+- Crossref合并检索记录33条：27条历史DOI排除；窗口内2条APS仅录用稿暂缓；JRST及BJET各1条期次信息、International Journal of STEM Education社论1条排除。新增文章1篇，实际展开1篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：27条历史DOI不重复推送；新增文章有DOI，无新增标题+期刊重复；无DOI的新候选0条。新增文章未获取到abstract，明确标注，不编造方法或发现。仅录用稿不加入已推送DOI集合。
+- APS状态说明：今日官网Accepted仍列出此前4条候选，其中2条10月13日录用记录已落在本次14天窗口之外，本次统计暂缓数仅为窗口内2条；不将窗口外文章计为新增。Recent最新所列10月26日两篇DOI已在历史日志，均不重推。
+- 来源限制：本地Wiley、T&F及APS部分请求403。网页工具取得今日BJET Early View、Science Education主页及APS Recent/Accepted；Science Education Early View 403，JRST Early View 404、主页403，仅取得较早官网主页索引。IJSE常规latest实时读取403，但今日出版社Education学科文章列表确认新文章标题、作者和日期；其全文、摘要及epdf页面均不可用。IJSE主页索引昨日、Studies主页索引两周前。“无新增”仅限已取得来源，非完整实时覆盖保证。
+- GitHub同步：本地保存后待提交并回填实际hash。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；今日Recent/Accepted；窗口内2条仅录用稿暂缓 |
+| International Journal of Science Education | 1 | Crossref + 14 天官网补查；今日出版社学科文章列表确认元数据，abstract未取得 |
+| Science Education | 0 | Crossref + 14 天官网补查；今日主页；Early View受限 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；较早主页索引，实时受限；期次信息排除 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；今日Early View；期次信息排除 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；官方列表及详情；Editorial排除 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；较早主页索引，实时latest受限 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles)可访问，近期文章已记录。
+
+### 2. Physical Review Physics Education Research
+
+无未记录的新发表文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；今日[Recent](https://journals.aps.org/prper/recent)最新两篇DOI均已记录；[Accepted Papers](https://journals.aps.org/prper/accepted)确认窗口内2条候选仍为仅录用稿，暂缓，不计上限未展开数。窗口外其余2条录用记录不计本次候选。
+
+### 3. International Journal of Science Education
+
+#### High school students’ motivational profiles across three science domains and their associations with educational and career aspirations
+
+- 期刊：International Journal of Science Education。
+- 作者：Xiaoyang Gong；Bradley W. Bergey；Ying Jin。
+- Online first日期：2026-10-27（Crossref与今日出版社学科文章列表一致）。
+- DOI：10.1080/09500693.2026.2746791。
+- 数据来源：Crossref + 14 天官网补查；出版社Education学科文章列表核实标题、三位作者及上线日期。
+- 类型及主题：Research Article；【K-12高中科学教育】【STEM教育】【科学学习动机】【教育与职业志向】。
+- English abstract points: 未获取到 abstract。Crossref has no abstract, and publisher full-text/abstract pages were unavailable. The title concerns motivational profiles across three science domains and their links with aspirations; sample, methods, profile categories, findings, and implications could not be verified.
+- 易读中文摘要：尚未取得摘要，暂不能提供结果性摘要。根据已核实标题，文章关注高中生在三个科学领域中的动机画像，以及它们与升学、职业志向的关联；具体领域、样本规模、分析方法、画像类别和主要发现均未核实。不能仅凭标题认定采用潜在剖面分析，也不能推断哪些画像更利于选择STEM。检索出现一份相近题目的2025年会议摘要，但未确认与本刊文最终版本一致，未替代使用。
+- 文章链接：[出版社文章](https://www.tandfonline.com/doi/full/10.1080/09500693.2026.2746791)；[DOI](https://doi.org/10.1080/09500693.2026.2746791)；[今日出版社文章列表](https://www.tandfonline.com/subjects/education?ContentItemType=research-article&content=standard&pageSize=20&startPage=&target=default)。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)今日抓取，近期文章已记录；Early View读取403。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)网页工具返回404，[主页](https://onlinelibrary.wiley.com/journal/10982736)实时403，搜索取得较早官网索引；1条Issue Information排除。不将访问错误视为完整无新增证据。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)今日抓取，近期AI研究已记录；1条Issue Information排除。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官方列表](https://stemeducationjournal.springeropen.com/articles)及候选详情可访问；1条Editorial排除，其余近期研究已记录。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)可访问，昨日小学建模迁移研究已记录。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页索引](https://www.tandfonline.com/journals/rsse20)标注两周前，最新所列上线日期8月21日；实时latest受限，不保证完整覆盖。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)可访问，近期研究已记录。
+
+### 今日重点
+
+1. 【K-12／STEM】今日IJSE新文关注高中科学学习动机及升学、职业志向，但abstract缺失，当前仅作为已核实的新文线索，不提供未经证实的发现。
+2. 【教师教育／学习科学／教学设计】尚不能据该文提出具体分组、激励或选科干预建议；相近会议摘要未替代期刊摘要。
+3. 【科学概念／实验探究／AI】今日未确认这些主题的未记录新文章；27条历史DOI不重推，窗口内2条APS仅录用稿继续暂缓，2条期次信息及1条社论排除。
