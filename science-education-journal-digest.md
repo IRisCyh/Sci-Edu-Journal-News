@@ -12776,3 +12776,90 @@
 1. 【K-12／STEM】今日IJSE新文关注高中科学学习动机及升学、职业志向，但abstract缺失，当前仅作为已核实的新文线索，不提供未经证实的发现。
 2. 【教师教育／学习科学／教学设计】尚不能据该文提出具体分组、激励或选科干预建议；相近会议摘要未替代期刊摘要。
 3. 【科学概念／实验探究／AI】今日未确认这些主题的未记录新文章；27条历史DOI不重推，窗口内2条APS仅录用稿继续暂缓，2条期次信息及1条社论排除。
+
+## 2026-10-29 推送
+
+### 推送记录
+
+- 本次推送日期：2026-10-29（Europe/London）。
+- 主检索覆盖时间范围：2026-10-28至2026-10-29（截至本次运行）；与昨日成功运行重叠，以实际发表/online日期判断新近性，并按完整历史日志DOI及标题+期刊查重。
+- 补充检索覆盖时间范围：2026-10-15至2026-10-29（最近14天）；Crossref发表及online日期补查、新建元数据候选发现，结合官网latest、Early View、主页及APS正式发表状态核实，不把索引或录用日期当发表日期。
+- Crossref合并检索记录30条：25条历史DOI排除；窗口内1条APS仅录用稿暂缓；JRST和BJET各1条期次信息、International Journal of STEM Education社论1条排除。新增文章1篇，实际展开1篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：25条历史DOI不重复推送；新增文章有DOI和Crossref abstract，无新增标题+期刊重复；无DOI的新候选0条。官网新文章详情未取得，摘要复述以Crossref为依据。仅录用稿不写入已推送DOI集合。
+- 来源限制：本地Wiley及T&F部分请求403。网页工具取得今日Science Education与BJET Early View、Science Education主页及APS Recent/Accepted；Science Education主页确认新文章作者、日期和Research Article类型，但详情及abs页未取得，Early View快照尚未列出该文。JRST Early View返回404，另一主页路径为三周前快照。IJSE实时latest受限，主页索引两天前、showAxaArticles上周；Studies实时请求403，但搜索取得今日latest索引。所有“无新增”仅限已取得来源，不保证完整实时覆盖。
+- GitHub同步：本地保存后待提交并回填实际hash。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；APS列表及DOI状态核实，窗口内1条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；较早官方索引，实时latest受限 |
+| Science Education | 1 | Crossref + 14 天官网补查；今日主页确认作者、日期及类型；摘要来自Crossref |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；较早主页快照，Early View 404；期次信息排除 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；今日Early View；期次信息排除 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；官方列表及详情；Editorial排除 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；今日latest搜索索引，直接访问受限 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest可访问 |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles)可访问，近期文章已记录。
+
+### 2. Physical Review Physics Education Research
+
+无未记录的新发表文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Recent](https://journals.aps.org/prper/recent)及[Accepted Papers](https://journals.aps.org/prper/accepted)今日抓取；窗口内1条候选仍为仅录用稿，暂缓，不写入已推送DOI集合。其他较早录用记录在窗口之外，不计本次新增或上限未展开数。
+
+### 3. International Journal of Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/journals/tsed20)两天前抓取，[showAxaArticles索引](https://www.tandfonline.com/action/showAxaArticles?journalCode=tsed20)上周抓取；实时读取403。昨日动机画像论文DOI已记录，不重复推送。
+
+### 4. Science Education
+
+#### Learning About Justice-Oriented Participation in Scientific Communities of Practice Through Resistance Spotlight Assignments
+
+- 期刊：Science Education。
+- 作者：Sugat Dabholkar；Julia Svoboda；Kaitlyn Coburn；Lawrence Uricchio。
+- Online first日期：2026-10-29（Crossref与今日Wiley主页First Published一致）。
+- DOI：10.1002/sce.70102。
+- 数据来源：Crossref + 14 天官网补查；Wiley主页核实作者、日期及Research Article类型；摘要内容来自Crossref。
+- 类型及主题：概念论证与比较案例分析；【大学科学教育】【STEM教育】【科学实践共同体】【公平参与】【教学设计】【学习科学】；不是K-12课堂干预试验。
+- English abstract points: In an undergraduate computational biology course, the authors compared Spotlight assignments featuring scientists and their work. Assignments highlighting resistance to oppressive disciplinary norms supported discussion of justice-oriented participation and possible community change. The paper combines conceptual argument with comparative case analysis, rather than estimating a causal intervention effect.
+- 易读中文摘要：科学课程不只让学生学会现有规范，也可能让排斥性规范被延续。作者在本科计算生物学课中比较不同Spotlight作业，让学生了解当代科学家的身份与研究，其中一些案例突出科学家挑战压迫性规范和问题历史的行动。分析关注不同作业如何影响学生对学科参与价值的理解，提出学生可以想象改变科学共同体，而不只是适应它。摘要未报告样本规模；不能把案例分析说成随机实验或已证实的普遍效果。
+- 文章链接：[Wiley文章](https://onlinelibrary.wiley.com/doi/10.1002/sce.70102)；[DOI](https://doi.org/10.1002/sce.70102)；[官网Most Recent](https://onlinelibrary.wiley.com/journal/1098237x)。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)返回404，[另一主页路径](https://onlinelibrary.wiley.com/journal/10982736?af=R)为三周前快照；1条Issue Information排除，不把访问失败当完整无新增证据。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)今日抓取，近期AI文章已记录；1条Issue Information排除。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官方列表](https://stemeducationjournal.springeropen.com/articles)及候选详情可访问；1条Editorial排除。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)可访问，近期研究已记录。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；直接请求403，但搜索取得今日抓取的[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)，最新所列上线日期仍为8月21日；索引不等同完整实时覆盖。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)可访问，近期文章已记录。
+
+### 今日重点
+
+1. 【STEM／学习科学】Science Education新文把学科参与从“适应现有文化”拓展到“理解并想象改变不公规范”，关注科学共同体如何被改变。
+2. 【教学设计／教师教育】Resistance Spotlight作业可作为讨论科学家身份、研究与规范的设计线索；这是本科计算生物学案例，推广到教师教育或K-12需另行验证。
+3. 【科学概念／实验探究／AI】今日未确认这些主题的未记录新文章；25条历史DOI不重推，窗口内1条APS仅录用稿继续暂缓，2条期次信息和1条社论排除。
