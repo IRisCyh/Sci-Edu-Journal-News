@@ -12875,7 +12875,7 @@
 - 重复及DOI缺失：23条历史DOI不重复推送；新增3篇均有DOI和abstract，未发现标题+期刊重复；无DOI的新候选0条。仅录用稿不加入已推送DOI集合。
 - APS状态说明：今日Recent列出10月29日正式发表的Faculty orientations论文，其DOI早已记入历史日志，本次不重推，只记录正式发表状态；不把旧录用日期当正式发表日期。窗口内另一条候选仍为Accepted Paper，暂缓。
 - 来源限制：本地Wiley及T&F部分请求403。网页工具取得今日Science Education和BJET Early View、Science Education新文章详情、JRST主页、APS Recent/Accepted。JRST Early View返回404，主页可读；T&F直接latest仍403，但搜索取得今日IJSE latest及昨日Studies latest索引。JSET新摘要由本地官网请求取得，网页工具直读该文章失败；RSE新文章网页工具可读。所有“无新增”仅限已取得来源，不保证完整实时覆盖。
-- GitHub同步：本地保存后待提交并回填实际hash。
+- GitHub同步：推送成功；内容提交 hash：f8932bd025cfdd81666aa9bf84928ecae043b936（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
