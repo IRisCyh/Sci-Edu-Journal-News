@@ -13050,3 +13050,92 @@
 1. 【新增与查重】今日11刊未确认未记录的新文章，26条历史DOI不重推，不以旧文章填充日报。
 2. 【实验探究／STEM／发表状态】APS光伏本科科研体验与极限情形意义建构研究已正式发表，但DOI已有历史记录；窗口内1条仅录用稿继续暂缓。
 3. 【K-12／教师教育／科学概念／AI／学习科学／教学设计】今日未确认相关主题的未记录新文章；昨日三篇已保存，今日不重复。期次信息、社论与受限来源的覆盖边界已明确记录。
+
+## 2026-11-01 推送
+
+### 推送记录
+
+- 本次推送日期：2026-11-01（Europe/London）。
+- 主检索覆盖时间范围：2026-10-31至2026-11-01（截至本次运行）；与上次成功运行重叠，按实际发表/online日期判断，并以完整历史日志DOI及标题+期刊查重。
+- 补充检索覆盖时间范围：2026-10-18至2026-11-01（最近14天）；Crossref发表及online日期补查、新建元数据候选发现，结合官网latest、Early View、主页及APS发表状态核实，不以索引或录用日期代替发表日期。
+- Crossref合并检索记录30条：25条历史DOI排除；1条APS仅录用稿暂缓；JRST及BJET各1条期次信息、International Journal of STEM Education社论1条排除。新增1篇，实际展开1篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：历史DOI不重复推送；新增1篇，DOI和abstract均已取得；无DOI的新候选0条。APS仅录用稿不加入已推送DOI集合。
+- 来源限制：本地Wiley及T&F部分请求403；网页工具取得今日Science Education和BJET Early View、JRST主页、APS Recent/Accepted；JRST Early View返回404。T&F latest直接访问403，补查取得IJSE五天前主页及Studies三天前latest搜索索引，仅作有限补充。所有“无新增”仅限已取得来源，不保证完整实时覆盖。
+- GitHub同步：本地保存后同步，提交回执待补。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；Recent/Accepted；仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；实时受限，五天前主页索引 |
+| Science Education | 1 | Crossref + 14 天官网补查；Early View及文章摘要页 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；主页；Early View 404；期次信息排除 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；Early View；期次信息排除 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；官方列表及详情；社论排除 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；实时受限，三天前latest索引 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles)。
+
+### 2. Physical Review Physics Education Research
+
+无未记录的新发表文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Recent](https://journals.aps.org/prper/recent)近期正式发表文章已有历史记录；[Accepted Papers](https://journals.aps.org/prper/accepted)窗口内1条候选仍仅录用，暂缓，不计上限未展开数。
+
+### 3. International Journal of Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[latest](https://www.tandfonline.com/toc/tsed20/0/0)直接403；[主页](https://www.tandfonline.com/journals/tsed20)五天前搜索索引仅作补充，不代表今日完整覆盖。
+
+### 4. Science Education
+
+新增1篇。数据来源：Crossref + 14 天官网补查；[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)及文章摘要页核实。
+
+#### 1. Is It Political? Science Teachers' Perspectives on GSD-Inclusive Science Teaching
+
+- 期刊：Science Education。
+- 作者：Gary W. Wright；Victoria Barron。
+- Online first：2026-10-31（官网First published及Version of Record一致）。
+- DOI：10.1002/sce.70111。
+- 数据来源：Crossref + 14 天官网补查；官网优先核实日期、标题及摘要。
+- 英文 abstract 要点（复述）：Interviews with 16 secondary science teachers in one Midwestern US state were analyzed through ecological systems theory. Teachers often attributed the politics of diversity-inclusive teaching to outside actors. Neutrality offered protection but could obscure responsibility for classroom choices. Findings concern teachers' sensemaking, not measured student outcomes.
+- 易读版中文摘要：研究访谈美国中西部一州16位中学科学教师，借助生态系统理论分析他们如何理解性别与性多样性包容性科学教学的政治性。教师常将政治性归因于家长、媒体或政策；“保持中立”既可能保护教师，也可能掩盖课堂选择本身的影响。结果提示教师教育需同时关注责任意识和结构性限制；这不是学生学习效果或因果实验。
+- 文章链接：[Wiley摘要及文章](https://onlinelibrary.wiley.com/doi/abs/10.1002/sce.70111)；[DOI](https://doi.org/10.1002/sce.70111)。
+- 主题标记：K-12科学教育；教师教育；包容性科学教学。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页](https://onlinelibrary.wiley.com/journal/10982736)可取得；Early View 404；Issue Information排除。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)近期AI研究已记录；Issue Information排除。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官方列表](https://stemeducationjournal.springeropen.com/articles)及详情；Editorial排除。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[latest](https://www.tandfonline.com/toc/rsse20/0/0)实时403，三天前搜索索引仅作补充。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)。
+
+### 今日重点
+
+1. 【K-12／教师教育】今日新增聚焦16位中学科学教师的观点，不是学生学习效果测量。
+2. 【教学设计／包容性】新文章提示关注课堂选择及其结构性环境；这是研究启示，不能改写为经实验证实的教学策略。
+3. 【STEM／科学概念／实验探究／AI／学习科学】其余主题今日未确认未记录的新文章；历史研究不重复填充，APS仅录用候选继续暂缓。
