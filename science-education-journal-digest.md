@@ -13150,7 +13150,7 @@
 - Crossref合并检索记录28条：25条历史DOI排除；1条APS仅录用稿暂缓；JRST期次信息1条及International Journal of STEM Education社论1条排除。新增0篇，实际展开0篇，因每刊最多3篇而未展开0篇。
 - 重复及DOI缺失：发现25条历史DOI重复，均不重推；无新增文章，故无新增DOI或abstract缺失；无DOI的新候选0条。仅录用稿不加入已推送DOI集合。
 - 来源限制：本地Wiley及T&F部分请求403。网页工具取得今日BJET Early View、Science Education及JRST主页、APS Recent/Accepted；Science Education Early View本次403，JRST Early View 404。T&F latest直接403，补查仅取得IJSE六天前主页及Studies四天前latest搜索索引。所有“无新增”仅限已取得来源，不保证完整实时覆盖。
-- GitHub同步：本地保存后同步，提交回执待补。
+- GitHub同步：推送成功；内容提交 hash：45dd5d4d4f2bdc07792c1dea3de3b6bad20c8e0c（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
