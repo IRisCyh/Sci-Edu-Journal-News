@@ -13139,3 +13139,80 @@
 1. 【K-12／教师教育】今日新增聚焦16位中学科学教师的观点，不是学生学习效果测量。
 2. 【教学设计／包容性】新文章提示关注课堂选择及其结构性环境；这是研究启示，不能改写为经实验证实的教学策略。
 3. 【STEM／科学概念／实验探究／AI／学习科学】其余主题今日未确认未记录的新文章；历史研究不重复填充，APS仅录用候选继续暂缓。
+
+## 2026-11-02 推送
+
+### 推送记录
+
+- 本次推送日期：2026-11-02（Europe/London）。
+- 主检索覆盖时间范围：2026-11-01至2026-11-02（截至本次运行）；与昨日成功运行重叠，按实际发表/online日期判断，并与完整历史日志DOI及标题+期刊查重。
+- 补充检索覆盖时间范围：2026-10-19至2026-11-02（最近14天）；Crossref发表及online日期补查、新建元数据候选发现，结合官网latest、Early View、主页及APS发表状态核实；不把索引或录用日期当发表日期。
+- Crossref合并检索记录28条：25条历史DOI排除；1条APS仅录用稿暂缓；JRST期次信息1条及International Journal of STEM Education社论1条排除。新增0篇，实际展开0篇，因每刊最多3篇而未展开0篇。
+- 重复及DOI缺失：发现25条历史DOI重复，均不重推；无新增文章，故无新增DOI或abstract缺失；无DOI的新候选0条。仅录用稿不加入已推送DOI集合。
+- 来源限制：本地Wiley及T&F部分请求403。网页工具取得今日BJET Early View、Science Education及JRST主页、APS Recent/Accepted；Science Education Early View本次403，JRST Early View 404。T&F latest直接403，补查仅取得IJSE六天前主页及Studies四天前latest搜索索引。所有“无新增”仅限已取得来源，不保证完整实时覆盖。
+- GitHub同步：本地保存后同步，提交回执待补。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；Springer latest |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；Recent/Accepted；1条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；实时受限，六天前主页索引 |
+| Science Education | 0 | Crossref + 14 天官网补查；今日主页；Early View受限 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；今日主页；Early View 404；期次信息排除 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；今日Early View |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；官方列表及详情；社论排除 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；Springer latest |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；Springer latest |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；实时受限，四天前latest索引 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；Springer latest |
+
+### 1. Journal of Science Education and Technology
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles)可访问，近期文章已记录。
+
+### 2. Physical Review Physics Education Research
+
+无未记录的新发表文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Recent](https://journals.aps.org/prper/recent)正式发表文章已有历史记录；[Accepted Papers](https://journals.aps.org/prper/accepted)窗口内1条候选仍仅录用，暂缓，不计上限未展开数。
+
+### 3. International Journal of Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[latest](https://www.tandfonline.com/toc/tsed20/0/0)直接403；[主页](https://www.tandfonline.com/journals/tsed20)六天前索引仅作补充，不代表今日完整覆盖。
+
+### 4. Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页](https://onlinelibrary.wiley.com/journal/1098237x)今日可取得；[Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)本次403。昨日包容性科学教学研究已记录，不重复展开。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[主页](https://onlinelibrary.wiley.com/journal/10982736)今日可取得；Early View 404；1条Issue Information排除。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)今日取得，近期AI研究已记录。
+
+### 7. International Journal of STEM Education
+
+无新增研究文章（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[官方列表](https://stemeducationjournal.springeropen.com/articles)及候选详情可访问；1条Editorial排除。
+
+### 8. Research in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles)可访问。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)可访问。
+
+### 10. Studies in Science Education
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[latest](https://www.tandfonline.com/toc/rsse20/0/0)实时403，四天前索引所列最新上线日期8月21日，已在补查窗口之外；索引不代表完整实时覆盖。
+
+### 11. Instructional Science
+
+无新增（已取得来源范围内）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)可访问。
+
+### 今日重点
+
+1. 【新增与查重】今日11刊未确认未记录的新文章；25条历史DOI排除，不用历史文章填充日报。
+2. 【K-12／教师教育／教学设计】昨日包容性科学教学文章已保存，今日不重复推送；不将教师观点研究改写为学生学习效果证据。
+3. 【STEM／科学概念／实验探究／AI／学习科学】今日未确认这些主题的未记录新文章；APS仅录用候选继续暂缓，期次信息与社论排除，受限来源明确标注。
