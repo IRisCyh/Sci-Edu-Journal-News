@@ -13495,3 +13495,114 @@
 3. 【K-12科学教育／生态活动与探究】JRST 区分四类生态素养轨迹，提示关注持续参与机会，而不只看有没有安排活动。
 4. 【STEM／学习科学】IJSME 的纵向模型区分了合作、主动性、自我效能与成绩的关联。
 5. 【科学概念／学习科学／教学设计】Instructional Science 展示学生如何在病毒传播的多个模型之间整合推理。
+
+## 2026-11-06 推送
+
+### 推送记录
+
+- 推送日期：2026-11-06（Europe/London）；主检索：2026-11-05 至 2026-11-06；补查：2026-10-23 至 2026-11-06（回溯14天，日期粒度包含端点）。依据实际首次发表日期，按历史日志 DOI、必要时按标题+期刊去重。
+- 合并检索记录31条：排除25条历史 DOI 重复、1条 JRST 期次信息；新增5篇，展开5篇，因每刊上限未展开0篇；新增均有 DOI 和摘要。
+- APS 仅录用稿不计为发表；一篇此前仅录用的文章已由正式发表页确认，且 DOI 未曾推送。T&F 实时列表受限；无新增仅限已取得来源。
+- GitHub同步：本地保存后同步，提交回执待补。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 1 | Crossref + 14 天官网补查；Springer [latest](https://link.springer.com/journal/10956/articles)及摘要 |
+| Physical Review Physics Education Research | 1 | Crossref + 14 天官网补查；APS [Recent](https://journals.aps.org/prper/recent)及正式发表页；同批3篇已在历史日志，不重推 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；实时 latest 返回403；参考[官方列表索引](https://www.tandfonline.com/action/showAxaArticles?journalCode=tsed20)，不能视为实时覆盖 |
+| Science Education | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)，最新备课研究昨日已记录 |
+| Journal of Research in Science Teaching (JRST) | 1 | Crossref + 14 天官网补查；[Wiley 主页](https://onlinelibrary.wiley.com/journal/10982736)确认上线；摘要来自 Crossref，文章详情未取得；排除期次信息 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)，近期论文已记录 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官方文章列表](https://stemeducationjournal.springeropen.com/articles) |
+| Research in Science Education | 1 | Crossref + 14 天官网补查；Springer [latest](https://link.springer.com/journal/11165/articles)及摘要 |
+| International Journal of Science and Mathematics Education (IJSME) | 1 | Crossref + 14 天官网补查；Springer [latest](https://link.springer.com/journal/10763/articles)及摘要 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；实时 latest 返回403；参考[官方列表索引](https://www.tandfonline.com/action/showAxaArticles?journalCode=rsse20)，不能视为实时覆盖 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)，病毒传播建模研究昨日已记录 |
+
+### 1. Journal of Science Education and Technology
+
+#### 1. Internationalisation at Home: Evaluating Pedagogical Outcomes in a Cross-Continental COIL Experience
+
+- 作者：Renato M. Rodrigues；Jorge Cabral；Maria de Lourdes Pereira；Marco G. Alves；Ana Paula Girol；Erick J. R. Silva；Margarida Fardilha。
+- 首次在线发表：2026-11-06；DOI：10.1007/s10956-026-10372-y。
+- 数据来源：Crossref + 14 天官网补查；Springer [latest](https://link.springer.com/journal/10956/articles)及摘要。
+- 英文 abstract 要点（复述）：A four-cohort evaluation of a Portugal–Brazil online biomedical collaboration combined post-program questionnaires and alumni follow-up. Respondents valued intercultural collaboration, reported scheduling difficulties, and perceived benefits for postgraduate motivation and professional networking.
+- 易读版中文摘要：研究评估葡萄牙与巴西三所高校围绕人类生殖研究开展的跨国在线协作课程，覆盖四届222名参与者，结合85份课后问卷和校友追踪。受访者重视跨文化交流与协作，时间安排是常见困难；部分校友认为课程有助于读研动机和拓展国际人脉。这些是受访者报告，不是课程造成职业成效的因果证据。
+- 文章链接：[期刊文章](https://link.springer.com/article/10.1007/s10956-026-10372-y)；[DOI](https://doi.org/10.1007/s10956-026-10372-y)。
+
+### 2. Physical Review Physics Education Research
+
+#### 1. Inhibitory control and attentional allocation in overcoming position-velocity indiscrimination misconception in position-time graph representation
+
+- 作者：Qiawu Lin；Jiabei Lin；Wenting Hong；Jianwen Xiong；Kaiqing Luo；Lei Bao；Keke Yu；Yang Xiao。
+- 首次在线发表：2026-11-05；DOI：10.1103/p4ln-56qt。
+- 数据来源：Crossref + 14 天官网补查；APS [Recent](https://journals.aps.org/prper/recent)及正式发表页；同批3篇已在历史日志，不重推。
+- 英文 abstract 要点（复述）：Two negative-priming studies with 45 high-school students and 37 physics undergraduates found slower judgments after misleading graph trials. Eye tracking in the undergraduate study showed early attention to position cues and delayed access to slope cues.
+- 易读版中文摘要：判断位置—时间图上的速度时，人可能先被位置线索吸引，而不是看斜率。两项负启动实验分别涉及45名高中生和37名物理专业本科生；经历误导性图像后，参与者在后续题目上反应更慢。本科生眼动结果显示他们更早看向位置线索、较晚看向斜率。研究提示教学可显式对比两种线索，但未检验这一教学策略。
+- 文章链接：[期刊文章](https://journals.aps.org/prper/abstract/10.1103/p4ln-56qt)；[DOI](https://doi.org/10.1103/p4ln-56qt)。
+
+### 3. International Journal of Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；实时 latest 返回403；参考[官方列表索引](https://www.tandfonline.com/action/showAxaArticles?journalCode=tsed20)，不能视为实时覆盖。
+
+### 4. Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)，最新备课研究昨日已记录。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### 1. Tracing Students' Experimentation Strategies Through Simulation-Based Scientific Investigation
+
+- 作者：Yizhu Gao；Hee-Sun Lee；Fu Chen；Chang Lu；Tongxin Zhang；Lijing Wang；Zipei Zhu。
+- 首次在线发表：2026-11-05；DOI：10.1002/tea.70082。
+- 数据来源：Crossref + 14 天官网补查；[Wiley 主页](https://onlinelibrary.wiley.com/journal/10982736)确认上线；摘要来自 Crossref，文章详情未取得；排除期次信息。
+- 英文 abstract 要点（复述）：Logs from 681 US secondary students using a wildfire simulation revealed four experimentation profiles. In multilevel models, the standard one-variable-at-a-time profile was associated with better observations, evidence and explanations than the low-frequency strategy profile.
+- 易读版中文摘要：681名美国中学生在野火模拟中探究植被类型如何影响火势。研究者聚类并分析操作日志，识别出四类实验策略。与较少使用可编码策略的学生相比，通常一次只改变一个变量的学生在观察准确性、证据质量和解释水平上表现更好。结果有助于设计探究反馈，但不能证明采用该策略就会提高表现。
+- 文章链接：[期刊文章](https://onlinelibrary.wiley.com/doi/10.1002/tea.70082)；[DOI](https://doi.org/10.1002/tea.70082)。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)，近期论文已记录。
+
+### 7. International Journal of STEM Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[官方文章列表](https://stemeducationjournal.springeropen.com/articles)。
+
+### 8. Research in Science Education
+
+#### 1. Reconceptualized Family Resemblance Approach to the Nature of Science in Misleading and Error-Free TikTok Videos on Environmental Issues
+
+- 作者：Brenda Braga Pereira；Sangwoo Ha。
+- 首次在线发表：2026-11-06；DOI：10.1007/s11165-026-10389-8。
+- 数据来源：Crossref + 14 天官网补查；Springer [latest](https://link.springer.com/journal/11165/articles)及摘要。
+- 英文 abstract 要点（复述）：A qualitative analysis compared 29 misleading environmental TikToks with 1,185 videos in which no misleading claim was identified. The groups drew on different aspects of science, and even videos without identified errors often treated those aspects superficially.
+- 易读版中文摘要：研究筛选1,214条环境议题 TikTok 视频，用科学文献核查可疑说法，再分析字幕如何呈现科学本质。29条误导视频较常借科学目标、专业活动或经费等要素为不准确说法背书；未查出误导说法的视频较常呈现科学实践和协作，但不少也讲得较浅。可用这些差异训练学生辨别科学权威线索与可核查证据；样本比例不是平台整体误导率。
+- 文章链接：[期刊文章](https://link.springer.com/article/10.1007/s11165-026-10389-8)；[DOI](https://doi.org/10.1007/s11165-026-10389-8)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. From Whole Number Bias to Gap Thinking: University Students’ Strategy Choices in Fraction Comparison and Relations to Math and Cognitive Abilities
+
+- 作者：Ao Fan；Roberto A. Abreu-Mendoza；Jo Van Hoof；Wim Van Dooren；Miriam Rosenberg-Lee。
+- 首次在线发表：2026-11-06；DOI：10.1007/s10763-026-10734-3。
+- 数据来源：Crossref + 14 天官网补查；Springer [latest](https://link.springer.com/journal/10763/articles)及摘要。
+- 英文 abstract 要点（复述）：Designed fraction comparisons and cluster analysis of 90 undergraduates identified whole-number, partial-reverse and gap-tendency profiles. The gap-tendency group did better than the whole-number group on the accompanying measures but did not differ from the partial-reverse group.
+- 易读版中文摘要：90名大学生完成特意设计的分数比较题。聚类得到三类：偏用整数策略（14%）、在较难题上倾向反向策略（30%）、倾向看分子与分母差距（56%）。即使不再按整数大小判断，学生也可能在差距策略失灵时出错。诊断分数理解时，可以选用不同直觉策略会给出相反答案的题目。
+- 文章链接：[期刊文章](https://link.springer.com/article/10.1007/s10763-026-10734-3)；[DOI](https://doi.org/10.1007/s10763-026-10734-3)。
+
+### 10. Studies in Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；实时 latest 返回403；参考[官方列表索引](https://www.tandfonline.com/action/showAxaArticles?journalCode=rsse20)，不能视为实时覆盖。
+
+### 11. Instructional Science
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)，病毒传播建模研究昨日已记录。
+
+### 今日重点
+
+1. 【STEM／教学设计】跨国在线协作课程的亮点是学生看重跨文化合作；排课和时间管理是实际障碍。
+2. 【K-12 科学教育／科学概念／学习科学】位置—速度研究区分了图像上先吸引注意的位置与判断速度所需的斜率。
+3. 【实验／探究学习／教师教育】野火模拟研究追踪学生实际怎样设定试验，而非只看答题结果，可供教师讨论探究反馈。
+4. 【科学技术／媒介素养】TikTok 研究适合用来讨论如何区分科学权威线索和可验证的证据；今日没有确认未记录的 AI 专题论文。
+5. 【数学概念／教学设计】大学生可能避开整数偏误，却仍依赖分子分母差距；诊断任务要让不同策略产生可区分的答案。
