@@ -13606,3 +13606,91 @@
 3. 【实验／探究学习／教师教育】野火模拟研究追踪学生实际怎样设定试验，而非只看答题结果，可供教师讨论探究反馈。
 4. 【科学技术／媒介素养】TikTok 研究适合用来讨论如何区分科学权威线索和可验证的证据；今日没有确认未记录的 AI 专题论文。
 5. 【数学概念／教学设计】大学生可能避开整数偏误，却仍依赖分子分母差距；诊断任务要让不同策略产生可区分的答案。
+
+## 2026-11-07 推送
+
+### 推送记录
+
+- 推送日期：2026-11-07（Europe/London）；主检索：2026-11-06 至 2026-11-07；补查：2026-10-24 至 2026-11-07（回溯14天，日期粒度包含端点）。依据实际首次发表日期，按完整历史日志 DOI 及必要时标题+期刊去重。
+- 合并检索32条：排除29条历史 DOI 重复及1条 JRST 期次信息；新增2篇、展开2篇，上限未展开0篇；新增 DOI 和 abstract 均已取得。无 DOI 新候选0条。
+- 来源限制：Wiley部分本地请求403，但网页工具取得Early View及JRST主页；BJET新文详情未取得，摘要来自Crossref。Springer新文详情及摘要请求成功。T&F latest实时403，官方主页搜索索引仅作补充；所有无新增仅限已取得来源，不代表完整实时覆盖。
+- GitHub同步：本地保存后同步，提交回执待补。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)；受力图分析工具论文 DOI 早已记录，不因正式发表状态变化再次展开 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/journals/TSED)；直接 latest 403，索引有限补充 |
+| Science Education | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0) |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)；期次信息排除 |
+| British Journal of Educational Technology (BJET) | 1 | Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)及 Crossref 摘要；文章详情暂未取得 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官方列表](https://stemeducationjournal.springeropen.com/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 1 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)及文章摘要 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/rsse20)；直接 latest 403，索引有限补充 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles)。
+
+### 2. Physical Review Physics Education Research
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)；受力图分析工具论文 DOI 早已记录，不因正式发表状态变化再次展开。
+
+### 3. International Journal of Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/journals/TSED)；直接 latest 403，索引有限补充。
+
+### 4. Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)；期次信息排除。
+
+### 6. British Journal of Educational Technology (BJET)
+
+#### 1. The impact of an AI-driven multimodal teaching analytics dashboard on pre-service teachers' reflective learning in microteaching
+
+- 作者：Ming Liu；Zhongming Wu；Haimin Dai；Laiba Malik；Xiangqian Li；Golam Ali Azgar Hossain Maruf；Teng Li；Jian Liao；JingXian Wang；Qixing Xu；Shuo Guo；Min Yang；Yiling Ren；Li Liu；Junqiang Zhao。
+- 首次在线发表：2026-11-06；DOI：10.1111/bjet.70098。
+- 数据来源：Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)及 Crossref 摘要；文章详情暂未取得。
+- 英文 abstract 要点（复述）：A quasi-experiment with 53 preservice teachers compared iTeachBoard, combining multimodal timelines with LLM narrative feedback, against a conventional analytics dashboard. The iTeachBoard condition showed better data interpretation, meaning construction and reflective writing depth; participants also reported favorable perceptions of its feedback.
+- 易读版中文摘要：微格教学中，回看录像不一定帮助教师理解自己的课堂行为。研究让53位职前教师使用两种看板，比较普通可视化分析与结合多模态时间线、大模型叙事反馈的 iTeachBoard。后者在数据解释、意义建构和反思写作深度上表现更好，参与者也更认可反馈的可解释性和教学相关性。这支持进一步研究 AI 如何帮助反思，但不能直接推出它改善真实课堂教学或学生成绩。
+- 文章链接：[期刊文章](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70098)；[DOI](https://doi.org/10.1111/bjet.70098)。
+
+### 7. International Journal of STEM Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[官方列表](https://stemeducationjournal.springeropen.com/articles)。
+
+### 8. Research in Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Gender Differences in Mathematics Education: More Affective Than Cognitive?
+
+- 作者：Mehmet Ertürk Geçici；Damla Sönmez；Metin Kaya；Cahit Erdem。
+- 首次在线发表：2026-11-07；DOI：10.1007/s10763-026-10743-2。
+- 数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)及文章摘要。
+- 英文 abstract 要点（复述）：A second-order meta-analysis synthesized 12 meta-analyses and 23 independent effect sizes. The overall gender association was negligible and nonsignificant. Mathematics achievement differences were also negligible, while affective outcomes showed a small average difference favoring males, with substantial heterogeneity.
+- 易读版中文摘要：这项二阶元分析综合12篇元分析、23个独立效应量，合并样本超过一万人。总体性别关联接近零且不显著；数学成绩差异同样很小且不显著，情感类结果平均呈小幅男性优势。但研究间异质性较大，部分情感指标只由少量效应量支持。教学上应具体关注学生的情绪与动机，不能把平均差异当作个人能力判断或先天差异的证据。
+- 文章链接：[期刊文章](https://link.springer.com/article/10.1007/s10763-026-10743-2)；[DOI](https://doi.org/10.1007/s10763-026-10743-2)。
+
+### 10. Studies in Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/rsse20)；直接 latest 403，索引有限补充。
+
+### 11. Instructional Science
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)。
+
+### 今日重点
+
+1. 【科学技术与AI／教师教育／教学设计】BJET 研究把行为数据与教学意义连接起来，但评估的是职前教师反思，不是真实课堂教学效果。
+2. 【STEM／学习科学】IJSME 二阶元分析中数学成绩性别差异接近零，情感指标存在较小平均差异；不宜用总体均值推断个体。
+3. 【K-12科学教育／科学概念／实验探究】今日未确认这些主题的其他未记录新文章。APS 受力图分析工具论文 DOI 已在历史日志中，未重复推送。
