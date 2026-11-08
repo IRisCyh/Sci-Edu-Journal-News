@@ -13694,3 +13694,80 @@
 1. 【科学技术与AI／教师教育／教学设计】BJET 研究把行为数据与教学意义连接起来，但评估的是职前教师反思，不是真实课堂教学效果。
 2. 【STEM／学习科学】IJSME 二阶元分析中数学成绩性别差异接近零，情感指标存在较小平均差异；不宜用总体均值推断个体。
 3. 【K-12科学教育／科学概念／实验探究】今日未确认这些主题的其他未记录新文章。APS 受力图分析工具论文 DOI 已在历史日志中，未重复推送。
+
+## 2026-11-08 推送
+
+### 推送记录
+
+- 本次推送日期：2026-11-08（Europe/London）。
+- 主检索覆盖：2026-11-07 至 2026-11-08（截至本次运行）；与上次成功运行重叠，按实际发表或online日期判断，依据完整历史日志DOI及必要时标题+期刊去重。
+- 补充检索覆盖：2026-10-25 至 2026-11-08（回溯14天，日期粒度包含端点）；Crossref发表、online及新建元数据候选补查，并核对官网latest、Early View、官方文章列表。
+- 合并检索32条：31条历史DOI重复排除，JRST期次信息1条排除。新增0篇，实际展开0篇，因每刊上限未展开0篇。
+- 重复及DOI缺失：31条历史DOI均不重推；无新增文章，故无新增DOI或abstract缺失；无DOI的新候选0条。仅录用稿不视作正式发表，不加入已推送DOI集合。
+- 来源限制：本地Wiley及T&F部分请求403；网页工具取得今日三刊Wiley Early View和APS Recent。T&F实时latest仍403，官方主页昨日索引及旧latest索引仅作有限补充。所有无新增仅限已取得来源，不保证完整实时覆盖。
+- GitHub同步：本地保存后同步，提交回执待补。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)；最新受力图论文 DOI 已记录，不因正式发表状态变化再次推送 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/journals/TSED)昨日抓取；实时latest403；所列10月27日研究已记录 |
+| Science Education | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)今日取得，备课研究已记录 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)今日取得；生态素养及野火模拟研究已记录；期次信息排除 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)今日取得，AI微格教学反思研究昨日已记录 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官方文章列表](https://stemeducationjournal.springeropen.com/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)，性别差异元分析昨日已记录 |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/rsse20)昨日抓取及[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)上周抓取；实时latest403，最新所列上线日期8月21日，在补查窗口外 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles)。
+
+### 2. Physical Review Physics Education Research
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)；最新受力图论文 DOI 已记录，不因正式发表状态变化再次推送。
+
+### 3. International Journal of Science Education
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/journals/TSED)昨日抓取；实时latest403；所列10月27日研究已记录。
+
+### 4. Science Education
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)今日取得，备课研究已记录。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)今日取得；生态素养及野火模拟研究已记录；期次信息排除。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)今日取得，AI微格教学反思研究昨日已记录。
+
+### 7. International Journal of STEM Education
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[官方文章列表](https://stemeducationjournal.springeropen.com/articles)。
+
+### 8. Research in Science Education
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)，性别差异元分析昨日已记录。
+
+### 10. Studies in Science Education
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[官方主页索引](https://www.tandfonline.com/rsse20)昨日抓取及[latest索引](https://www.tandfonline.com/toc/rsse20/0/0)上周抓取；实时latest403，最新所列上线日期8月21日，在补查窗口外。
+
+### 11. Instructional Science
+
+无新增（限已取得来源）。数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)。
+
+### 今日重点
+
+1. 【新增与查重】今日11刊未确认未记录的新文章，31条历史DOI不重复推送，不以旧文填充日报。
+2. 【科学技术与AI／教师教育／教学设计】昨日BJET微格教学反思研究已保存，今日不重复；不将反思写作表现扩大为真实课堂教学效果。
+3. 【K-12科学教育／STEM／科学概念／实验探究／学习科学】今日未确认这些主题的未记录新文章；APS受力图工具、JRST野火模拟等已有历史记录，访问受限与期次信息排除均已说明。
