@@ -13868,7 +13868,7 @@
 - 推送日期：2026-11-10（Europe/London）；主检索：2026-11-09 至 2026-11-10；补查：2026-10-27 至 2026-11-10（回溯14天，日期粒度包含端点）。按实际首次发表日期判断，以完整历史日志 DOI、必要时标题+期刊去重。
 - 合并检索33条，排除29条历史 DOI 重复及1条 JRST 期次信息，1条 APS 仅录用稿暂缓。新增2篇，展开2篇，因每刊上限未展开0篇；新增均有 DOI 和摘要。
 - 来源限制：T&F 实时 latest 受限，官方索引仅作补充；Science Education 新文的官网 Early View 已确认日期，摘要用 Crossref。无新增仅限本次取得的来源。
-- GitHub同步：本地保存后同步，提交回执待补。
+- GitHub同步：推送成功；内容提交 hash：451b6c997565b4b21b01ff936d926d8b86922201（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
