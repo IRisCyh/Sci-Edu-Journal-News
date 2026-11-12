@@ -14038,3 +14038,92 @@
 2. 【科学概念／实验探究／STEM】综述把概念理解、实践表现和学习过程分开梳理，可作为选择评价指标的参考。
 3. 【教师教育／学习科学】小学科学创造力研究提示关注学生感受到的课堂支持；结果是调查关联，不是课堂干预效果。
 4. 【AI】今日没有确认尚未记录的正式发表 AI 专题文章；APS 仅录用候选继续暂缓。
+
+## 2026-11-12 推送
+
+### 推送记录
+
+- 推送日期：2026-11-12（Europe/London）；主检索：2026-11-11 至 2026-11-12；补查：2026-10-29 至 2026-11-12（回溯14天，日期粒度包含端点）。按实际首次发表日期判断，以完整历史日志 DOI、必要时标题+期刊去重。
+- 合并检索34条，排除31条历史 DOI 重复，暂缓1条 APS 仅录用稿。新增2篇，展开2篇，因每刊上限未展开0篇；新增均有 DOI 和摘要。
+- 来源限制：T&F 实时 latest 返回403，出版社索引仅作有限补充；Wiley 三刊 Early View 与 APS Recent 另经网页工具核查。两篇新文的摘要和上线日期由本地请求取得的出版社文章元数据核实。无新增仅限本次取得的来源。
+- GitHub同步：本地保存后同步，提交回执待补。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 1 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles)及文章摘要 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)及[Accepted Papers](https://journals.aps.org/prper/accepted)，1条仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref + 14 天官网补查；实时 latest 返回403，参考[官方主页索引](https://www.tandfonline.com/journals/TSED) |
+| Science Education | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0) |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0) |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0) |
+| International Journal of STEM Education | 1 | Crossref + 14 天官网补查；[官方文章列表](https://stemeducationjournal.springeropen.com/articles)及文章摘要 |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 0 | Crossref + 14 天官网补查；实时 latest 返回403，参考[官方列表索引](https://www.tandfonline.com/toc/rsse20/0/0) |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+#### 1. What Makes Learning with GenAI Effective? Text Support and Deeper Engagement are Associated with Higher Performance in an Ecology Context
+
+- 作者：Lars Dietrich；Laura Fink；Detlef Urhahne；Kerstin Kremer。
+- 首次在线发表：2026-11-12；DOI：10.1007/s10956-026-10374-w。
+- 数据来源：Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles)及文章摘要。
+- 英文 abstract 要点（复述）：In a randomized ecology study with 185 undergraduates, scores on a subsequent unaided test were highest in the text-only and text-plus-ChatGPT groups and lowest in the ChatGPT-only group. Chat frequency was unrelated to scores. Deeper questions were positively associated with scores, whereas accepting AI answers directly was negatively associated.
+- 易读版中文摘要：185名大学生被随机分到三组，分别用文字材料、仅用依据这些材料回答的 ChatGPT，或同时使用两者，学习湖泊富营养化与修复。随后的无资料测验中，两组能直接读材料的学生表现较好，仅用 ChatGPT 的一组最低。对话次数与成绩无关；追问得更深入与较高成绩相关，直接接受 AI 答案则与较低成绩相关。随机设计支持比较资源条件，但聊天行为与成绩的关联不证明追问本身造成进步。
+- 文章链接：[出版社文章及摘要](https://link.springer.com/article/10.1007/s10956-026-10374-w)；[DOI](https://doi.org/10.1007/s10956-026-10374-w)。
+
+### 2. Physical Review Physics Education Research
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)及[Accepted Papers](https://journals.aps.org/prper/accepted)，1条仅录用稿暂缓。本科物理学生使用生成式 AI 做计算建模的稿件尚未正式发表，不写入已推送 DOI 集合。
+
+### 3. International Journal of Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；实时 latest 返回403，参考[官方主页索引](https://www.tandfonline.com/journals/TSED)。
+
+### 4. Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)。
+
+### 7. International Journal of STEM Education
+
+#### 1. Understanding STEM students’ perspectives on undergraduate research at a Hispanic-Serving Institution
+
+- 作者：Natalie Schaal；Tissyana C. Camacho；Ricardo Medina；Crist Khachikian；Gabriela Chavira。
+- 首次在线发表：2026-11-12；DOI：10.1186/s40594-026-00655-6。
+- 数据来源：Crossref + 14 天官网补查；[官方文章列表](https://stemeducationjournal.springeropen.com/articles)及文章摘要。
+- 英文 abstract 要点（复述）：A survey of 2,190 STEM students at one large U.S. Hispanic-Serving Institution found that both students with and without prior research experience generally valued undergraduate research. Five of 15 perceived barriers differed significantly between groups, pointing to access and self-efficacy rather than lack of interest in the value of research.
+- 易读版中文摘要：研究调查美国一所大型西裔服务院校的2,190名 STEM 本科生，比较有、无科研经历学生的看法。两组普遍认可本科科研的价值，也不认同关于谁适合做科研的排斥性刻板印象，但在15项障碍中有5项的报告程度显著不同，指向机会获取与参与信心。对学校而言，除了介绍科研的好处，更值得检查学生能否接触机会、是否相信自己能参与。这是单校调查，未测试哪种支持措施最有效。
+- 文章链接：[出版社文章及摘要](https://link.springer.com/article/10.1186/s40594-026-00655-6)；[DOI](https://doi.org/10.1186/s40594-026-00655-6)。
+
+### 8. Research in Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles)。
+
+### 10. Studies in Science Education
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；实时 latest 返回403，参考[官方列表索引](https://www.tandfonline.com/toc/rsse20/0/0)。
+
+### 11. Instructional Science
+
+无新增（限已取得来源）。Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)。
+
+### 今日重点
+
+1. 【科学技术与AI／科学概念／教学设计】湖泊富营养化学习实验显示，应把“只用聊天工具”与“可直接阅读原材料”区分开；多聊并未对应更高成绩。
+2. 【学习科学／教师教育】追问深度可作为教师观察 AI 学习过程的线索，但不能据此断定某种提示策略会提高学习成绩。
+3. 【STEM／科研探究】本科生认可科研价值，并不意味着有机会或有信心参与；招募宣传与实际准入支持需要区分。
+4. 【K-12科学教育／实验探究】两篇均为高等教育研究，不宜直接推广到中小学；APS 仅录用稿暂不推送。
