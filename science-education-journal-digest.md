@@ -14262,3 +14262,107 @@
 3. 【STEM／学习科学】七年级学生的职业意向与各学科态度的关联不同；职业分类会影响部分结果。
 4. 【科学技术与AI】AI 对话记录一旦用于计分，可能改变学生愿意展示的行为；这是评论提出的效度问题。
 5. 【阅读线索】IJSE 的眼动、绘图培训和探究教学论文仅核实书目信息，待可取得摘要后再判断证据。
+
+## 2026-11-14 推送
+
+### 推送记录
+
+- 推送日期：2026-11-14（Europe/London）；Crossref 主检索：2026-11-13 至 2026-11-14；补查：2026-10-31 至 2026-11-14（回溯14天，日期粒度含端点）。
+- 合并候选40条；按历史 DOI 排除35条重复，1篇 APS 仅录用稿暂缓。新增4篇，展开4篇，因上限未展开0篇；新增 DOI 均已取得。1篇未获取到摘要。无新增仅指可核实来源；T&F 实时列表受限。
+- GitHub同步：待推送。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)及[Accepted Papers](https://journals.aps.org/prper/accepted) |
+| International Journal of Science Education | 1 | Crossref 主检索 + 14 天 Crossref 补查；T&F 列表及文章详情访问受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0) |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0) |
+| British Journal of Educational Technology (BJET) | 2 | Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0) |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官方文章列表](https://stemeducationjournal.springeropen.com/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；T&F 最新列表返回403 |
+| Instructional Science | 1 | Crossref + 14 天官网补查；[Springer latest](https://link.springer.com/journal/11251/articles)及文章摘要 |
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+无新增。关于大学生用生成式 AI 做计算建模的论文仍为仅录用稿，未计入。
+
+### 3. International Journal of Science Education
+
+#### 1. The views of the nature of science and science identity of middle school students: an urban–rural comparison
+
+- 作者：Mengmeng Li、Jianqiang Ye、Dimei Chen。
+- 首次在线发表：2026-11-13；DOI：10.1080/09500693.2026.2759981。
+- 数据来源：Crossref；T&F 文章详情访问受限。
+- 英文 abstract 要点：未获取到 abstract。
+- 易读版中文摘要（仅题名导读）：研究比较城乡初中生怎么看待科学知识及其形成过程，以及他们如何看待自己与科学的关系。未能核实样本、方法和城乡差异的方向。
+- 文章链接：[DOI](https://doi.org/10.1080/09500693.2026.2759981)。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+#### 1. Generative AI empowered contextual educational games as facilitators of elementary school students' computational thinking tendencies
+
+- 作者：Wen-Li Zhou、Qing-Ke Fu、Jian-Wen Fang、Gwo-Jen Hwang。
+- 首次在线发表：2026-11-13；DOI：10.1111/bjet.70101。
+- 数据来源：Crossref + 14 天官网补查；[Wiley 文章摘要](https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bjet.70101)。
+- 英文 abstract 要点（复述）：A three-week quasi-experiment with two fifth-grade classes found a small advantage on self-reported computing dispositions with AI-supported games, but no detectable improvement over the comparison group in algorithm knowledge.
+- 易读版中文摘要：研究在中国东部一所小学的两个五年级班开展了三周准实验。与普通游戏组相比，能向生成式 AI 游戏角色提问的学生，在控制前测后自报的计算思维倾向略高，但算法知识成绩没有显著组间差异。质性资料提示，这些角色有助于学生提问、弄清任务和保持投入；单校短期研究不能说明算法学习因此改善。
+- 文章链接：[DOI](https://doi.org/10.1111/bjet.70101)。
+
+#### 2. Human tutoring, generative AI tutoring and independent internet search: A randomised between-subjects experiment on students' responses to academic challenge
+
+- 作者：Megan Ennion、Ros McLellan。
+- 首次在线发表：2026-11-13；DOI：10.1111/bjet.70100。
+- 数据来源：Crossref 摘要；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)确认发表。
+- 英文 abstract 要点（复述）：In a randomized mathematics task with 16–18-year-olds, support type shaped experiences of difficulty. Human tutoring yielded the most attempts; students' later choice of challenge did not differ by condition.
+- 易读版中文摘要：英国一所 sixth-form college 的16至18岁学生被随机分到真人一对一辅导、生成式 AI 辅导或自行搜索三组，完成两段数学难题。到第二段，AI 组比真人组自报更费力、也觉得更难；真人组尝试题目最多，但组间差异的显著性随任务段而异。之后是否主动选难题并未因分组而改变。研究提示，评价 AI 辅导时应看学生怎样面对困难，不只看完成了多少题。
+- 文章链接：[DOI](https://doi.org/10.1111/bjet.70100)。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增。
+
+### 10. Studies in Science Education
+
+Crossref 未发现新增；官网访问受限，无法独立核实。
+
+### 11. Instructional Science
+
+#### 1. Navigating digital and physical scaffolds in action: a mixed-methods study of teacher facilitation in a game-based environment
+
+- 作者：Yuxin Chen、Cindy E. Hmelo-Silver、Jonathan Rowe、James Lester。
+- 首次在线发表：2026-11-14；DOI：10.1007/s11251-026-09827-x。
+- 数据来源：Crossref + 14 天官网补查；[Springer 文章与摘要](https://link.springer.com/article/10.1007/s11251-026-09827-x)。
+- 英文 abstract 要点（复述）：Video coding, sequence analysis and episode analysis traced how one teacher combined game and paper supports across three classrooms. The storyline oriented help, which shifted from managing tasks toward more demanding reasoning.
+- 易读版中文摘要：作者分析同一位 STEAM 教师在三个初中课堂指导学生两人一组做游戏探究的录像。教师借助游戏情节判断学生探究到了哪一步，再配合诊断工作单和纸本手册调整指导；教学活动推进后，指导从组织和定位任务逐渐转向引导学生深入思考。研究展示了教师如何协调不同工具，但没有检验哪一种支架单独提高了学习成绩。
+- 文章链接：[DOI](https://doi.org/10.1007/s11251-026-09827-x)。
+
+### 今日重点
+
+- **K-12 科学教育**：城乡初中生的科学本质观与科学身份是 IJSE 新文的主题；暂未取得摘要，不能判断城乡差异。
+- **STEM 教育／科学技术与 AI**：小学游戏中的 AI 角色有助于提问和投入，自报计算思维倾向略高，但未见算法知识优势。
+- **学习科学／教学设计**：真人和 AI 辅导改变了学生处理数学难题时的体验，但之后主动选择难题的行为未见组间差异。
+- **教师教育／探究学习**：初中 STEAM 案例展示了教师如何依据游戏情节判断探究进度，并结合纸质工具调整提示。
