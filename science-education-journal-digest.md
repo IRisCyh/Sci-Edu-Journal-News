@@ -14269,7 +14269,7 @@
 
 - 推送日期：2026-11-14（Europe/London）；Crossref 主检索：2026-11-13 至 2026-11-14；补查：2026-10-31 至 2026-11-14（回溯14天，日期粒度含端点）。
 - 合并候选40条；按历史 DOI 排除35条重复，1篇 APS 仅录用稿暂缓。新增4篇，展开4篇，因上限未展开0篇；新增 DOI 均已取得。1篇未获取到摘要。无新增仅指可核实来源；T&F 实时列表受限。
-- GitHub同步：待推送。
+- GitHub同步：推送成功；内容提交 hash：85f3fc5d961d5fc64842f8e0b0ffb252809b9eee（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
