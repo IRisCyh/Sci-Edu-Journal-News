@@ -14366,3 +14366,84 @@ Crossref 未发现新增；官网访问受限，无法独立核实。
 - **STEM 教育／科学技术与 AI**：小学游戏中的 AI 角色有助于提问和投入，自报计算思维倾向略高，但未见算法知识优势。
 - **学习科学／教学设计**：真人和 AI 辅导改变了学生处理数学难题时的体验，但之后主动选择难题的行为未见组间差异。
 - **教师教育／探究学习**：初中 STEAM 案例展示了教师如何依据游戏情节判断探究进度，并结合纸质工具调整提示。
+
+## 2026-11-15 推送
+
+### 推送记录
+
+- 推送日期：2026-11-15（Europe/London）；Crossref 主检索：2026-11-14 至 2026-11-15；补查：2026-11-01 至 2026-11-15（回溯 14 天，按日期含端点）。
+- 合并候选 40 条；按历史 DOI 排除 38 条，暂缓 1 篇 APS 仅录用稿。新增 1 篇，展开 1 篇，因上限未展开 0 篇；新增 DOI 无缺失。1 篇未获取到摘要。
+- “无新增”只针对已取到的来源。Taylor & Francis 两刊的实时官网列表访问受限。
+- GitHub同步：待推送。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)；1 篇[仅录用稿](https://journals.aps.org/prper/accepted/10.1103/vg1v-dkrh)暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[T&F 最新列表](https://www.tandfonline.com/toc/tsed20/0/0)返回 403，未能独立核实 |
+| Science Education | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0) |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0) |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0) |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官方文章列表](https://stemeducationjournal.springeropen.com/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 1 | Crossref 主检索 + 14 天 Crossref 补查；[T&F 最新列表](https://www.tandfonline.com/toc/rsse20/0/0)返回 403，文章详情也未能取得 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+无新增。一篇仅录用稿未计入。
+
+### 3. International Journal of Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增。
+
+### 10. Studies in Science Education
+
+#### 1. Reading of research literature by undergraduate science students. Practices and research
+
+- 期刊：Studies in Science Education；作者：Martin Goedhart。
+- 首次在线发表：2026-11-15（据 Crossref）；DOI：10.1080/03057267.2026.2761811。
+- 数据来源：[Crossref 元数据](https://api.crossref.org/works/10.1080/03057267.2026.2761811)；出版社页面访问受限。
+- 英文 abstract 要点：未获取到 abstract。
+- 易读版中文摘要（仅题名导读）：文章关注本科理科生如何阅读研究文献，涉及相关实践和研究。未能核实作者采用了什么方法、纳入哪些材料，或得出了什么结论。
+- 文章链接：[DOI](https://doi.org/10.1080/03057267.2026.2761811)。
+
+### 11. Instructional Science
+
+无新增。
+
+### 今日重点
+
+- **高等 STEM 教育**：本期唯一新增聚焦本科理科生阅读研究文献的实践。
+- **学习科学／教学设计**：后续阅读可关注作者是否讨论如何帮助学生读懂论文；这是阅读线索，尚非已核实的文章结论。
+- **证据边界**：本次只确认题名、作者、DOI 和 Crossref 在线发表日期，不据题名推断研究方法或发现。
