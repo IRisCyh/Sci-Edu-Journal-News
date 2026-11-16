@@ -14447,3 +14447,84 @@ Crossref 未发现新增；官网访问受限。
 - **高等 STEM 教育**：本期唯一新增聚焦本科理科生阅读研究文献的实践。
 - **学习科学／教学设计**：后续阅读可关注作者是否讨论如何帮助学生读懂论文；这是阅读线索，尚非已核实的文章结论。
 - **证据边界**：本次只确认题名、作者、DOI 和 Crossref 在线发表日期，不据题名推断研究方法或发现。
+
+## 2026-11-16 推送
+
+### 推送记录
+
+- 推送日期：2026-11-16（Europe/London）；Crossref 主检索：2026-11-15 至 2026-11-16；补查：2026-11-02 至 2026-11-16（回溯 14 天，按日期含端点）。
+- 合并候选 41 条；排除 39 条已推送的历史重复记录，另有 1 篇 APS 论文仍只显示为录用稿，暂缓。新增 1 篇，展开 1 篇，因上限未展开 0 篇；新增 DOI 与摘要均已取得。
+- “无新增”限于已核实的来源。Taylor & Francis 两刊的实时官网列表访问受限。
+- GitHub同步：待推送。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 1 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/10956/articles)及文章摘要 |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)；1 篇仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[T&F 最新列表](https://www.tandfonline.com/toc/tsed20/0/0)返回 403，无法独立核实 |
+| Science Education | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0) |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0) |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0) |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官方文章列表](https://stemeducationjournal.springeropen.com/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[T&F 最新列表](https://www.tandfonline.com/toc/rsse20/0/0)返回 403，无法独立核实 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+#### 1. When Clarity Masks Correctness: Rural Secondary Students’ Evaluation of AI-Generated Physics Explanations
+
+- 作者：Nailya Shertayeva、Ganiya Ormanova、Bibigul Shagraуеva、Gaukhar Abdushukurova（按出版社署名）。
+- 首次在线发表：2026-11-16；DOI：10.1007/s10956-026-10373-x。
+- 数据来源：Crossref + 14 天官网补查；出版社摘要。
+- 英文 abstract 要点（复述）：In a survey of 131 rural secondary students in Kazakhstan, participants rated AI-generated and sample answers to three conceptual physics questions. Perceived accuracy and language quality were closely related, but language ratings did not fully account for differences between response types.
+- 易读版中文摘要：研究让哈萨克斯坦农村学校的 131 名中学生评价三道物理概念题的 AI 答案和样例答案，分别给科学准确性与表达质量打分。分析考虑了同一学生反复评分的情况。学生给 AI 答案的两类评分平均都略高；三道题中，表达质量与他们感知的准确性高度相关（r = 0.81–0.83），但表达质量不能完全解释两类答案的准确性评分差异。这些评分来自同一批学生，不能据此认定流畅表达导致学生误判，也不能认定 AI 答案实际更准确。
+- 文章链接：[DOI](https://doi.org/10.1007/s10956-026-10373-x)；[Springer 文章页](https://link.springer.com/article/10.1007/s10956-026-10373-x)。
+
+### 2. Physical Review Physics Education Research
+
+无新增。一篇仅录用稿未计入。
+
+### 3. International Journal of Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增。
+
+### 10. Studies in Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 11. Instructional Science
+
+无新增。
+
+### 今日重点
+
+- **K-12 科学教育／科学技术与 AI**：研究直接考察农村中学生如何评价 AI 给出的物理解释，而非只测他们是否愿意用 AI。
+- **科学概念学习**：在三道物理概念题中，表达质量与感知准确性高度相关；这不是对答案实际正确率的测量。
+- **教学设计**：可把“解释是否清楚”和“物理依据是否正确”分开评价；这是教学启示，并非该研究已验证的干预效果。
