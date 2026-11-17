@@ -14528,3 +14528,84 @@ Crossref 未发现新增；官网访问受限。
 - **K-12 科学教育／科学技术与 AI**：研究直接考察农村中学生如何评价 AI 给出的物理解释，而非只测他们是否愿意用 AI。
 - **科学概念学习**：在三道物理概念题中，表达质量与感知准确性高度相关；这不是对答案实际正确率的测量。
 - **教学设计**：可把“解释是否清楚”和“物理依据是否正确”分开评价；这是教学启示，并非该研究已验证的干预效果。
+
+## 2026-11-17 推送
+
+### 推送记录
+
+- 推送日期：2026-11-17（Europe/London）；Crossref 主检索：2026-11-16 至 2026-11-17；补查：2026-11-03 至 2026-11-17（回溯 14 天，按日期含端点）。
+- 合并候选 42 条；按历史 DOI 排除 40 条重复，另有 1 篇 APS 论文仍只有录用稿，暂缓。新增 1 篇，展开 1 篇，因单刊上限未展开 0 篇；新增 DOI 和摘要均已取得。
+- “无新增”限于已取得的来源。Taylor & Francis 两刊的实时官网访问受限。
+- GitHub同步：待推送。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)；1 篇[仅录用稿](https://journals.aps.org/prper/accepted/10.1103/vg1v-dkrh)暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[T&F 最新列表](https://www.tandfonline.com/toc/tsed20/0/0)返回 403，无法独立核实 |
+| Science Education | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0) |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0) |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0) |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官方文章列表](https://link.springer.com/journal/40594/articles) |
+| Research in Science Education | 1 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/11165/articles)及[文章原始摘要](https://link.springer.com/article/10.1007/s11165-026-10388-9) |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[T&F 最新列表](https://www.tandfonline.com/toc/rsse20/0/0)返回 403，无法独立核实 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[Springer 文章列表](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+无新增。一篇仅录用稿未计入。
+
+### 3. International Journal of Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+#### 1. Representation as Epistemic Practice: Reframing Multimodal Representational Competence in Science Education
+
+- 作者：Daiki Nakamura。
+- 首次在线发表：2026-11-17；DOI：10.1007/s11165-026-10388-9。
+- 数据来源：Crossref 主检索；[Springer 文章页与摘要](https://link.springer.com/article/10.1007/s11165-026-10388-9)核实。
+- 英文 abstract 要点（复述）：Drawing on scholarship about scientific inscriptions, this conceptual paper integrates accounts of how representations help researchers turn phenomena into workable records, combine evidence, make inferences and justify claims. It proposes teaching representational competence as participation in these practices, with attention to whether representations can be combined and traced to their sources.
+- 易读版中文摘要：学生会读图、画图，就算掌握了科学表征吗？作者借鉴科学史、科学哲学和科学社会学文献，提出还要看学生能否用图表、模型等把现象记录下来，判断该保留哪些细节，把不同结果放在一起比较，并说明结论如何从证据得出。评价一张图时，除了问它画得准不准，还可以问它能否与其他结果对照、能否追溯到原始证据，以及它如何支持某个主张。这是一个理论框架，并非课堂干预或学习成效的实证检验。
+- 文章链接：[DOI](https://doi.org/10.1007/s11165-026-10388-9)。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增。
+
+### 10. Studies in Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 11. Instructional Science
+
+无新增。
+
+### 今日重点
+
+- **科学概念学习**：关注学习者如何在现象、图表和模型之间转换，并说明转换中保留或省略了什么。
+- **学习科学／科学论证**：表征的价值不只在于展示结果，还在于帮助人们产生推论，并让别人查验推论的依据。
+- **教学设计／教师教育**：可把“能否与其他证据对照、能否追溯来源、能否支持结论”用作讨论或评价问题；这些是理论启示，尚非经验证的评分工具。
