@@ -14609,3 +14609,91 @@ Crossref 未发现新增；官网访问受限。
 - **科学概念学习**：关注学习者如何在现象、图表和模型之间转换，并说明转换中保留或省略了什么。
 - **学习科学／科学论证**：表征的价值不只在于展示结果，还在于帮助人们产生推论，并让别人查验推论的依据。
 - **教学设计／教师教育**：可把“能否与其他证据对照、能否追溯来源、能否支持结论”用作讨论或评价问题；这些是理论启示，尚非经验证的评分工具。
+
+## 2026-11-18 推送
+
+### 推送记录
+
+- 推送日期：2026-11-18（Europe/London）；Crossref 主检索：2026-11-17 至 2026-11-18；补查：2026-11-04 至 2026-11-18（回溯 14 天，按日期含端点）。
+- 合并候选 50 条；排除 41 条历史 DOI 重复，7 篇 APS 仅录用稿暂缓。新增 2 篇，展开 2 篇，因单刊上限未展开 0 篇；两篇的 DOI 和摘要均已取得。
+- Wiley 和 Taylor & Francis 实时列表访问受限，相关结果以 Crossref 可核实的记录为准。
+- GitHub同步：待推送。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[Springer](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[APS Recent](https://journals.aps.org/prper/recent)与 DOI 跳转；7 篇仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[T&F 最新列表](https://www.tandfonline.com/toc/tsed20/0/0)返回 403 |
+| Science Education | 1 | Crossref 主检索 + 14 天 Crossref 补查；Crossref 摘要可用；[Wiley Early View](https://onlinelibrary.wiley.com/toc/1098237x/0/0)访问受限 |
+| Journal of Research in Science Teaching (JRST) | 1 | Crossref 主检索 + 14 天 Crossref 补查；Crossref 摘要可用；[Wiley Early View](https://onlinelibrary.wiley.com/toc/10982736/0/0)访问受限 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref 主检索 + 14 天 Crossref 补查；[Wiley Early View](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)访问受限 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官方文章列表](https://link.springer.com/journal/40594/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[Springer](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；[Springer](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[T&F 最新列表](https://www.tandfonline.com/toc/rsse20/0/0)返回 403 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[Springer](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+无新增。七篇仅录用稿未计入。
+
+### 3. International Journal of Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 4. Science Education
+
+#### 1. “I Try to Do It in a Way That Feels Very Real to Me:” Meaningfulness as Enacted: A Black Woman's Expansion of Scientific Modeling
+
+- 作者：Natalie Rae。
+- 在线发表：2026-11-17（Crossref）；DOI：10.1002/sce.70104。
+- 数据来源：Crossref 主检索及其所载摘要；Wiley 详情未能独立访问。
+- 英文 abstract 要点（复述）：A qualitative case study analyzed interviews and coursework from a Black undergraduate science major who modeled plant growth through music and movement. The author connects meaningfulness to persistence through uncertainty, agency in choosing representations, and links to the student's identity and aspirations.
+- 易读版中文摘要：一名黑人女性理科本科生用音乐、身体动作等方式建立植物生长模型。作者以黑人女性主义思想为分析视角，对访谈和课程作品做主题分析。研究指出，对这位学生而言，建模的意义并不只来自成品；它也来自遇到不确定性仍继续探索、能自己选择表达方式，以及能把任务和自己的身份、价值观与未来愿景联系起来。这是一个个案，提供了理解学生建模体验的视角，并未检验这种做法能否普遍改善学习。
+- 文章链接：[DOI](https://doi.org/10.1002/sce.70104)。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+#### 1. Understanding of Size and Scale and Order-Of-Magnitude Reasoning in Secondary Science: A Teaching Experiment With Worked Examples as Educational Scaffold
+
+- 作者：C. Loretan、M. Delaval、A. Müller、S. Roch、L. Weiss。
+- 在线发表：2026-11-18（Crossref）；DOI：10.1002/tea.70081。
+- 数据来源：Crossref 主检索及其所载摘要；Wiley 详情未能独立访问。
+- 英文 abstract 要点（复述）：A repeated-measures quasi-experiment in high-school science compared worked examples with conventional tasks while holding the teacher, content and lesson plan constant. The study reports gains in procedural and conceptual understanding of size, scale and order of magnitude, including near and far transfer.
+- 易读版中文摘要：高中生理解物体大小、尺度和数量级时，需要协调多步推理。研究在常规课堂做准实验，两组由同一位教师按相同内容和教案授课，一组看展示完整解题过程的例题，另一组做常规任务。摘要报告，例题组在相关概念和解题程序上有显著且具实际意义的优势，也能把所学迁移到较相似和较不同的任务中。这为在高中科学课堂设计成套例题提供了实证依据。
+- 文章链接：[DOI](https://doi.org/10.1002/tea.70081)。
+
+### 6. British Journal of Educational Technology (BJET)
+
+Crossref 未发现新增；官网访问受限。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增。
+
+### 10. Studies in Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 11. Instructional Science
+
+无新增。
+
+### 今日重点
+
+- **K-12 科学教育／科学概念学习**：高中数量级研究同时考察概念理解、解题步骤和迁移，例题组在这几方面均获益。
+- **STEM 教育／科学建模**：植物生长建模个案关注学生为何觉得任务有意义，以及自己选择表达方式在其中起什么作用。
+- **教学设计**：两篇证据用途不同：例题准实验可参考其课堂设计；建模个案适合用来反思课程是否给学生留出选择表达方式的空间，不宜当作普遍效果证据。
