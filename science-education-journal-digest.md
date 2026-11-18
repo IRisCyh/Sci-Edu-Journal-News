@@ -14617,7 +14617,7 @@ Crossref 未发现新增；官网访问受限。
 - 推送日期：2026-11-18（Europe/London）；Crossref 主检索：2026-11-17 至 2026-11-18；补查：2026-11-04 至 2026-11-18（回溯 14 天，按日期含端点）。
 - 合并候选 50 条；排除 41 条历史 DOI 重复，7 篇 APS 仅录用稿暂缓。新增 2 篇，展开 2 篇，因单刊上限未展开 0 篇；两篇的 DOI 和摘要均已取得。
 - Wiley 和 Taylor & Francis 实时列表访问受限，相关结果以 Crossref 可核实的记录为准。
-- GitHub同步：待推送。
+- GitHub同步：推送成功；内容提交 hash：ac06751254da92b39623251eb937105af3495925（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
