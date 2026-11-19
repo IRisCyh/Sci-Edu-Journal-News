@@ -14697,3 +14697,93 @@ Crossref 未发现新增；官网访问受限。
 - **K-12 科学教育／科学概念学习**：高中数量级研究同时考察概念理解、解题步骤和迁移，例题组在这几方面均获益。
 - **STEM 教育／科学建模**：植物生长建模个案关注学生为何觉得任务有意义，以及自己选择表达方式在其中起什么作用。
 - **教学设计**：两篇证据用途不同：例题准实验可参考其课堂设计；建模个案适合用来反思课程是否给学生留出选择表达方式的空间，不宜当作普遍效果证据。
+
+## 2026-11-19 推送
+
+### 推送记录
+
+- 推送日期：2026-11-19（Europe/London）；Crossref 主检索：2026-11-18 至 2026-11-19；补查：2026-11-05 至 2026-11-19（回溯 14 天，按日期含端点）。
+- 合并候选 53 条；排除 42 条历史 DOI 重复，9 篇 APS 仅录用稿暂缓。新增 2 篇，展开 2 篇，因单刊上限未展开 0 篇；两篇 DOI 和摘要均已取得。
+- Wiley 与 Taylor & Francis 实时列表访问受限，“无新增”限于已核实来源。
+- GitHub同步：待推送。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[官网列表](https://journals.aps.org/prper/recent)；9 篇仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://www.tandfonline.com/toc/tsed20/0/0)访问受限 |
+| Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://onlinelibrary.wiley.com/toc/1098237x/0/0)访问受限 |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://onlinelibrary.wiley.com/toc/10982736/0/0)访问受限 |
+| British Journal of Educational Technology (BJET) | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0)访问受限 |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/40594/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 2 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://www.tandfonline.com/toc/rsse20/0/0)访问受限 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+无新增。九篇仅录用稿未计入。
+
+### 3. International Journal of Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 4. Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+Crossref 未发现新增；官网访问受限。
+
+### 6. British Journal of Educational Technology (BJET)
+
+Crossref 未发现新增；官网访问受限。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Generative AI-Enhanced STEM-Education: Investigating Teachers’ Experiences from Implementation in Primary School Settings
+
+- 作者：Susanne Walan、Mirela Vinerean-Bernhoff。
+- 在线发表：2026-11-18；DOI：10.1007/s10763-026-10747-y。
+- 数据来源：Crossref + 14 天官网补查；[Springer 原始摘要](https://link.springer.com/article/10.1007/s10763-026-10747-y)。
+- 英文 abstract 要点（复述）：Eleven Swedish primary teachers joined six months of professional development. Workshop discussions and a follow-up questionnaire indicated that AI was used mainly to generate teaching ideas, with potential time savings but problems involving mathematical accuracy, timing and classroom fit.
+- 易读版中文摘要：11 名瑞典小学教师参加了为期半年的培训、协作讨论与课堂实践。研究主要分析工作坊录音，辅以培训后问卷。教师多把生成式 AI 当作备课和跨学科活动的点子来源，认为它有助于节省时间、分层教学和拓展创意，但也会遇到数学错误、不现实的课时估计，以及需要重新调整活动才能适合本班学生的问题。这是一项教师经验的试点研究，不能据此判断学生成绩是否提高。
+- 文章链接：[DOI](https://doi.org/10.1007/s10763-026-10747-y)。
+
+#### 2. Math Teachers as Cultural Agents: Motivational Pathways and Gender Differences in STEM Major Choice
+
+- 作者：Jinhua Zhao、JoHyun Kim。
+- 在线发表：2026-11-18；DOI：10.1007/s10763-026-10742-3。
+- 数据来源：Crossref + 14 天官网补查；[Springer 原始摘要](https://link.springer.com/article/10.1007/s10763-026-10742-3)。
+- 英文 abstract 要点（复述）：An analysis of 11,749 HSLS:09 participants linked supportive mathematics classrooms to motivational beliefs. Mathematics identity and perceived usefulness, but not interest or self-efficacy, were associated with later STEM major choice after accounting for mathematics performance.
+- 易读版中文摘要：作者分析美国 HSLS:09 追踪调查的 11,749 名学生，采用因素分析和结构方程模型，并控制九年级数学成绩。支持性的数学课堂与学生的数学身份认同、实用价值感、自我效能和兴趣均有正向关联；但在后续 STEM 专业选择上，只有身份认同与实用价值感呈显著关联，其中身份认同最强。这两条关联路径没有显著性别差异，另一些教师相关路径则有。研究使用观察数据，不能说明改变课堂环境就必然改变专业选择。
+- 文章链接：[DOI](https://doi.org/10.1007/s10763-026-10742-3)。
+
+### 10. Studies in Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 11. Instructional Science
+
+无新增。
+
+### 今日重点
+
+- **K-12 科学教育／教师教育／科学技术与 AI**：小学教师把 AI 主要用于生成备课点子，数学准确性和课堂适配仍需教师检查。
+- **STEM 教育**：数学身份认同与价值感同后续 STEM 专业选择相关；不能把兴趣、自我效能和身份认同当成可互换的指标。
+- **教学设计**：AI 试点提供教师实施经验，追踪调查提供长期关联；两者都不应被描述为改善学生学习或选择的因果证据。
