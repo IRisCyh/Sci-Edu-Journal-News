@@ -14787,3 +14787,94 @@ Crossref 未发现新增；官网访问受限。
 - **K-12 科学教育／教师教育／科学技术与 AI**：小学教师把 AI 主要用于生成备课点子，数学准确性和课堂适配仍需教师检查。
 - **STEM 教育**：数学身份认同与价值感同后续 STEM 专业选择相关；不能把兴趣、自我效能和身份认同当成可互换的指标。
 - **教学设计**：AI 试点提供教师实施经验，追踪调查提供长期关联；两者都不应被描述为改善学生学习或选择的因果证据。
+
+## 2026-11-20 推送
+
+### 推送记录
+
+- 推送日期：2026-11-20（Europe/London）；Crossref 主检索：2026-11-19 至 2026-11-20；补查：2026-11-06 至 2026-11-20（回溯 14 天，日期含端点）。
+- 合并候选 48 条；排除 36 条历史 DOI 重复，9 篇 APS 仅录用稿暂缓，1 条更正通知另列。新增研究 2 篇，展开 2 篇，因单刊上限未展开 0 篇；两篇 DOI 和摘要均已取得。
+- APS 官网新列的公式组块研究经历史 DOI 查重，已在旧日志出现，不再推送。批量 Crossref pub-date 复核遇到 429，逐刊检索完成且无错误；不将失败请求的旧变量输出当成新证据。
+- Taylor & Francis 实时官网访问受限；Wiley 官网已通过补查工具核对。
+- GitHub同步：待推送。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 2 | Crossref + 14 天官网补查；[官网列表](https://journals.aps.org/prper/recent)；9 篇仅录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://www.tandfonline.com/toc/tsed20/0/0)访问受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；[官网列表](https://onlinelibrary.wiley.com/toc/1098237x/0/0) |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[官网列表](https://onlinelibrary.wiley.com/toc/10982736/0/0) |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；[官网列表](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0) |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/40594/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://www.tandfonline.com/toc/rsse20/0/0)访问受限 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+#### 1. Challenges in using online assessments to measure student understanding in the era of generative AI
+
+- 作者：David P. Smith、Paula R. L. Heron、Peter S. Shaffer。
+- 正式发表：2026-11-19；DOI：10.1103/xrw4-t58t。
+- 数据来源：Crossref + 14 天官网补查；[APS 摘要](https://journals.aps.org/prper/abstract/10.1103/xrw4-t58t)。
+- 英文 abstract 要点（复述）：Across 39 questions in two introductory physics courses, pretest responses changed in ways consistent with AI use. Some answers became more accurate, while performance declined on questions that AI tends to miss. The authors question whether online scores still reflect unaided understanding.
+- 易读版中文摘要：华盛顿大学过去把物理前测从纸笔改成在线，结果基本稳定；近期却出现了与使用 AI 相符的变化。作者分析两门入门物理课的 39 道题，比较答对比例、解释长度等指标：部分题答对率上升，另一些 AI 常答错的题反而下降。即使前测只按是否认真作答计分，也不能假定学生没有借助 AI。研究提示，在线前后测可能不再测到同一种能力；这些变化与 AI 使用相符，但不是对每位学生使用 AI 的直接证实。
+- 文章链接：[DOI](https://doi.org/10.1103/xrw4-t58t)。
+
+#### 2. Learning vector field concepts with multiple representations in introductory physics: Robustness of effects across instructional contexts
+
+- 作者：Larissa Hahn、Alexander Voigt、Pascal Klein。
+- 正式发表：2026-11-19；DOI：10.1103/hsd4-qy8s。
+- 数据来源：Crossref + 14 天官网补查；[APS 摘要](https://journals.aps.org/prper/abstract/10.1103/hsd4-qy8s)。
+- 英文 abstract 要点（复述）：A study involving 131 students compared drawing-and-simulation tasks used in class or as homework with conventional calculation tasks. Both intervention groups improved in accuracy and confidence on vector-field concepts; the control group did not show significant improvement.
+- 易读版中文摘要：研究针对学生看矢量场图时难以理解散度、旋度的问题，将画图与交互模拟结合。作者在亚琛工业大学课堂独立实施，并用同一测量工具重新分析哥廷根大学原有的课后实施数据，连同传统计算任务对照组共 131 人。两个干预组的作答准确性和信心均显著提高，对照组未见显著提高；两种实施情境的学习增益相近。结果支持这套任务跨课堂与课后情境使用的可行性，但探索分析未发现做题数量与增益的明确关系。
+- 文章链接：[DOI](https://doi.org/10.1103/hsd4-qy8s)。
+
+### 3. International Journal of Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增。
+
+### 10. Studies in Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 11. Instructional Science
+
+无新增。另发现更正通知：[Correction: Pluralistic reasoning with different models: A case study of middle schoolers learning about viral spread](https://doi.org/10.1007/s11251-026-09829-9)，不作为新研究文章计数，未据此推断更正内容。
+
+### 今日重点
+
+- **科学技术与 AI／教学评价**：在线前测成绩上升不一定意味着学生先备理解更好；题目对 AI 的易错性也可能改变结果。
+- **科学概念学习／教学设计**：画图与模拟结合的矢量场任务，在课堂和课后两种情境中均观察到学习增益。
+- **学习科学**：应区分作答准确性、信心和实际学习；跨情境研究提供了比单次课堂实施更丰富的适用性证据。
