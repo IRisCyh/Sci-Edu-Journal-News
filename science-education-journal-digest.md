@@ -14887,7 +14887,7 @@ Crossref 未发现新增；官网访问受限。
 - 合并候选 44 条；排除 34 条历史 DOI 重复，9 篇 APS 仅录用稿暂缓。新增 1 篇评论，展开 1 篇，因单刊上限未展开 0 篇；新增 DOI 和摘要均已取得。
 - APS 详情访问受限，但已用今日 Accepted Papers 官网逐条核对九篇题名，未把 Crossref 日期误作正式发表日期。Crossref 批量 14 天复核遇到 429，逐刊检索完整结束且无错误。
 - Taylor & Francis 官网访问受限；Science Education 新文以 Crossref 元数据为准，Wiley 详情未能独立取得。
-- GitHub同步：待推送。
+- GitHub同步：推送成功；内容提交 hash：ca1ea740efcafe110c009109cb9edfe8ba3aeb19（同步回执另行提交）。
 - GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
 
 | 期刊（优先级） | 新增 | 数据来源及核实情况 |
