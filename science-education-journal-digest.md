@@ -15036,3 +15036,78 @@ Crossref 未发现新增；官网访问受限。
 - **K-12 科学教育／教师教育**：今天未发现未记录的新文章，不重复推荐历史文章。
 - **科学技术与 AI／学习科学**：APS 相关候选仍在录用稿列表，暂不当作正式发表文章推送。
 - **检索覆盖**：本期无新增不等于所有出版社均无更新；Taylor & Francis 的访问限制仍在，已保留于来源说明。
+
+## 2026-11-23 推送
+
+### 推送记录
+
+- 推送日期：2026-11-23（Europe/London）；Crossref 主检索：2026-11-22 至 2026-11-23；补查：2026-11-09 至 2026-11-23（回溯 14 天，日期含端点）。
+- 合并候选 43 条；排除 34 条历史 DOI 重复，9 篇 APS 仅录用稿暂缓。新增 0 篇，展开 0 篇，因单刊上限未展开 0 篇；无新增 DOI 缺失情形，未发现需人工裁决的疑似重复。
+- 今日 DOI 核查及 APS Accepted Papers 页面确认九篇候选仍为录用稿。Crossref 批量 online-pub-date 主窗口及 14 天复核均完成，与逐刊结果一致。
+- Taylor & Francis 官网访问受限，相关“无新增”仅指 Crossref 可取得记录；Wiley Early View 已补查。
+- GitHub同步：待推送。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[官网列表](https://journals.aps.org/prper/accepted)；9 篇录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://www.tandfonline.com/toc/tsed20/0/0)访问受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；[官网列表](https://onlinelibrary.wiley.com/toc/1098237x/0/0) |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[官网列表](https://onlinelibrary.wiley.com/toc/10982736/0/0) |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；[官网列表](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0) |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/40594/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://www.tandfonline.com/toc/rsse20/0/0)访问受限 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+无新增。九篇仅录用稿未计入。
+
+### 3. International Journal of Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+无新增。
+
+### 10. Studies in Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 11. Instructional Science
+
+无新增。
+
+### 今日重点
+
+- **K-12 科学教育／教师教育**：今天未发现未记录的新文章，不重复推荐历史文章。
+- **科学技术与 AI／学习科学**：APS 相关候选仍在录用稿列表，暂不当作正式发表文章推送。
+- **检索覆盖**：本期无新增不等于所有出版社均无更新；Taylor & Francis 的访问限制仍在，已保留于来源说明。
