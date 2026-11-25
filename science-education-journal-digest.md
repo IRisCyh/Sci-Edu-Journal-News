@@ -15186,3 +15186,93 @@ Crossref 未发现新增；官网访问受限。
 - **K-12 科学教育／教师教育**：今天未发现未记录的新文章，不重复推荐历史文章。
 - **科学技术与 AI／学习科学**：APS 相关候选仍在录用稿列表，暂不当作正式发表文章推送。
 - **检索覆盖**：本期无新增不等于所有出版社均无更新；Taylor & Francis 的访问限制仍在，已保留于来源说明。
+
+## 2026-11-25 推送
+
+### 推送记录
+
+- 推送日期：2026-11-25（Europe/London）；Crossref 主检索：2026-11-24 至 2026-11-25；补查：2026-11-11 至 2026-11-25（回溯 14 天，日期含端点）。
+- 合并候选 44 条；排除 30 条历史 DOI 重复，12 篇 APS 仅录用稿暂缓。新增 2 篇，展开 2 篇，因单刊上限未展开 0 篇；新增 DOI 和摘要均已取得，未发现需人工裁决的疑似重复。
+- Crossref 批量主窗口及 14 天 online-pub-date 复核与逐刊结果一致。Taylor & Francis 官网访问受限，其“无新增”仅指 Crossref 可取得记录；Wiley Early View 已补查。
+- GitHub同步：待推送。
+- GitHub Pages：[Education Journal News](https://iriscyh.github.io/Sci-Edu-Journal-News/)。
+
+| 期刊（优先级） | 新增 | 数据来源及核实情况 |
+|---|---:|---|
+| Journal of Science Education and Technology | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/10956/articles) |
+| Physical Review Physics Education Research | 0 | Crossref + 14 天官网补查；[官网列表](https://journals.aps.org/prper/accepted)；12 篇录用稿暂缓 |
+| International Journal of Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://www.tandfonline.com/toc/tsed20/0/0)访问受限 |
+| Science Education | 0 | Crossref + 14 天官网补查；[官网列表](https://onlinelibrary.wiley.com/toc/1098237x/0/0) |
+| Journal of Research in Science Teaching (JRST) | 0 | Crossref + 14 天官网补查；[官网列表](https://onlinelibrary.wiley.com/toc/10982736/0/0) |
+| British Journal of Educational Technology (BJET) | 0 | Crossref + 14 天官网补查；[官网列表](https://bera-journals.onlinelibrary.wiley.com/toc/14678535/0/0) |
+| International Journal of STEM Education | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/40594/articles) |
+| Research in Science Education | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/11165/articles) |
+| International Journal of Science and Mathematics Education (IJSME) | 2 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/10763/articles) |
+| Studies in Science Education | 0 | Crossref 主检索 + 14 天 Crossref 补查；[官网列表](https://www.tandfonline.com/toc/rsse20/0/0)访问受限 |
+| Instructional Science | 0 | Crossref + 14 天官网补查；[官网列表](https://link.springer.com/journal/11251/articles) |
+
+### 1. Journal of Science Education and Technology
+
+无新增。
+
+### 2. Physical Review Physics Education Research
+
+无新增。本轮窗口内十二篇仅录用稿未计入。
+
+### 3. International Journal of Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 4. Science Education
+
+无新增。
+
+### 5. Journal of Research in Science Teaching (JRST)
+
+无新增。
+
+### 6. British Journal of Educational Technology (BJET)
+
+无新增。
+
+### 7. International Journal of STEM Education
+
+无新增。
+
+### 8. Research in Science Education
+
+无新增。
+
+### 9. International Journal of Science and Mathematics Education (IJSME)
+
+#### 1. Mathematical Wellbeing across the School Years in Türkiye’s High-Stakes Examination System: Value Fulfilment Profiles from Grades 3 to 12
+
+- 作者：Veysel Akcakin、Julia L. Hill。
+- 首次在线发表：2026-11-25（Crossref；出版社期次为 2026 年 12 月）；DOI：10.1007/s10763-026-10745-0。
+- 数据来源：Crossref + 14 天官网补查；[Springer 文章摘要](https://link.springer.com/article/10.1007/s10763-026-10745-0)。
+- 英文 abstract 要点（复述）：A questionnaire study of 3,720 Turkish students in Grades 3–12 compared seven dimensions of mathematical wellbeing. Relationships were most fulfilled and positive emotions least fulfilled. High-school students reported markedly lower wellbeing, but the study does not establish that examinations caused the difference.
+- 易读版中文摘要：研究调查土耳其三至十二年级的 3,720 名学生，从成就、认知、投入、意义、坚持、积极情绪和关系七方面比较数学幸福感。问卷通过跨学段测量等值性检验。总体上，关系方面满足程度最高，积极情绪最低；高中生的数学幸福感明显低于较低学段，积极情绪和坚持方面差异最大。作者联系当地高风险升学考试制度讨论这些现象，但这不是同一批学生逐年变化的追踪证据，也不能证明考试造成下降。
+- 文章链接：[DOI](https://doi.org/10.1007/s10763-026-10745-0)。
+
+#### 2. The Association of Generic and Subject-Specific Mindsets with Mathematics Performance: Evidence from PISA 2022 Taiwan
+
+- 作者：Su-Wei Lin、Pei-Ming Chiang。
+- 首次在线发表：2026-11-25（Crossref；出版社期次为 2026 年 12 月）；DOI：10.1007/s10763-026-10748-x。
+- 数据来源：Crossref + 14 天官网补查；[Springer 文章摘要](https://link.springer.com/article/10.1007/s10763-026-10748-x)。
+- 英文 abstract 要点（复述）：Using Taiwan's PISA 2022 data, researchers identified four response profiles from general and subject-specific mindset items. All three profiles other than consistently fixed beliefs had higher mathematics scores after adjusting for gender and socioeconomic status, although mindset explained less variation than socioeconomic status.
+- 易读版中文摘要：作者用台湾 PISA 2022 数据，把学生对智力、创造力、数学与中文能力是否能改变的四个题项组合成四类粗略特征，采用潜在类别分析和多层模型，并考虑复杂抽样。控制性别及学生、学校社会经济地位后，相较于一致固定型，学科特定固定型、学科特定成长型和一致成长型的数学成绩分别高约 14.69、19.27、23.40 分。不过，思维模式的解释力较社会经济地位小。结果呈现的是关联，不说明单靠培养成长型思维就能提高同等分数。
+- 文章链接：[DOI](https://doi.org/10.1007/s10763-026-10748-x)。
+
+### 10. Studies in Science Education
+
+Crossref 未发现新增；官网访问受限。
+
+### 11. Instructional Science
+
+无新增。
+
+### 今日重点
+
+- **K-12 STEM 教育**：土耳其三至十二年级研究区分数学幸福感的七个维度，高中生与较低学段学生的差异尤其值得关注。
+- **学习科学／科学概念学习相关阅读**：PISA 研究区分一般能力观念与学科特定观念；它直接研究数学成绩，不是科学概念转变证据。
+- **教学设计／教师教育**：两篇都可用于反思学习环境与动机，但不能据此声称特定教学干预能提升幸福感或成绩。
